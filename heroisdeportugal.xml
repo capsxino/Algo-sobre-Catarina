@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Heróis de Portugal</titulo>
+	<descricao>Emissão especial da RTP que homenageou os bombeiros portugueses.</descricao>
+	<data><ano>2013</ano><mes>9</mes><dia>15</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-LgYh7EjAxVc/UlZqkJItALI/AAAAAAAAQ_8/WZIG_4iCuVM/s0/CatarinaFurtado_HeroisPortugal_01.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Depois dum verão, em que incêndios florestais colheram a vida de 9 bombeiros, em que ficou mais presente para todos os portugueses o sacrifício dos voluntários que defendem o bem e a vida da gente; a RTP, no dia 15 de Setembro de 2013, dedicou a sua programação à homenagem desses heróis.</p>
+
+<imagem legenda="'Reunião de trabalho da RTP para que, amanhã, a emissão de homenagem e apoio aos nossos bombeiros e bombeiras corra muito bem e se traduza num grande contributo para as suas vidas. Nós estamos a contar convosco e quem quiser e puder pode fazer-nos uma visita a partir das 14h30 e até às 24h no antigo Pavilhão Atlântico, agora Meo Arena. Entrada livre!'" href="https://picasaweb.google.com/lh/photo/4ZJnQZaCB12Wknkdcdt-Soash-4XubL2Rv2NNUBkd3o?feat=embedwebsite">https://lh5.googleusercontent.com/-15bvV_4UDc8/UlZqkGL2naI/AAAAAAAARAI/WREClqO0n6M/s400/CatarinaFurtado_HeroisPortugal_20130914_e531c3c61d8411e3b9da22000a1faf53_7.jpg</imagem>
+
+<p>Ao longo do dia passaram pelo pavilhão Meo Arena vários artistas e caras da estação pública de televisão; que, para além da sua presença no palco, passaram pelo <i>call center</i> para atender as chamadas telefónicas das pessoas que quiseram contribuir para o Fundo de Protecção Social do Bombeiro. No final da emissão o valor arrecado chegava perto dos 500 mil Euros.</p>
+
+<imagem legenda="'Partilho convosco o ambiente da gravação da promo do especial Heróis de Portugal que estamos a preparar aqui, na RTP, já para dia 15!' - Mensagem deixada no facebook no dia 6/9/2013" href="https://picasaweb.google.com/lh/photo/snVmax_L4f3o6sHLTee-ooash-4XubL2Rv2NNUBkd3o?feat=embedwebsite">https://lh3.googleusercontent.com/-l3WffUdGgeQ/UlZqkDWsxDI/AAAAAAAARAE/qcOU4dYrovA/s400/CatarinaFurtado_HeroisPortugal_1235541_217555291737469_123799841_n.jpg</imagem>
+
+<p>A condução da última parte da emissão, pouco após as 21 horas, coube à Catarina Furtado. Ela, recordou o avô paterno, António, o seu herói, que foi bombeiro profissional, e os acenos da filha Beatriz a essas "pessoas boas". O espectáculo terminou com uma encenação musical, conduzida pelo maestro Rui Massena.</p>
+
+<elo href="https://www.facebook.com/photo.php?fbid=215032401989758">A Catarina recorda o avô</elo>
+
+<grande><elo href="https://www.youtube.com/watch?v=lh9CGKnMdm0">Momentos do <cite>Heróis de Portugal</cite> o video de promoção da emissão.</elo></grande>
+<elo href="http://caras.sapo.pt/famosos/2013/09/24/bombeiros-sao-homenageados-pela-rtp">Artigo da revista Caras</elo>
+
+</corpo>
+
+</pagina>

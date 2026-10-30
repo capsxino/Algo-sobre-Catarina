@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Extra!</titulo>
+	<descricao>Curta entrevista sobre <cite>Os Filhos do Rock</cite> para o sitio da RTP.</descricao>
+	<data><dia>23</dia><mes>5</mes><ano>2014</ano></data>
+	<fundo>https://lh5.googleusercontent.com/-A4Kouo5Gxak/U1zZQG_UerI/AAAAAAAAlG0/kxN81ZD13Gc/s0/CatarinaFurtado_FilhosRock_Ep19_160000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p style="font-weight:lighter;">Ao sábado à noite a antena da RTP1 é pontuada por uma série de época, de culto ao rock português: <a href="http://www.rtp.pt/osfilhosdorock">Os Filhos do Rock</a>. Catarina Furtado, uma das apresentadoras do canal, faz uma participação especial como atriz e assume um papel a que não estamos habituados.</p>
+<p style="font-weight:lighter;">Na série, Catarina Furtado dá corpo a Isabel, uma médica ativista pelos direitos das mulheres no Portugal dos anos 80 e que é homossexual. A maior parte das suas cenas são na companhia de Isabel Abreu, que interpreta Simone, e por quem a médica tem um carinho especial.</p>
+
+<p><b>Extra! - Já a temos visto fazer alguns papéis inesperados, mas talvez este seja o mais arrojado. A Isabel é activista dos direitos das mulheres mas também é lésbica e isso não é tratado com pudor nenhum na série. Alguma vez isso a fez pensar não aceitar o papel?</b></p>
+
+<p><b>Catarina Furtado (CF):</b> Nunca recusaria um papel pelo facto de uma das características da personagem ser a sua orientação sexual que diverge da minha . Ainda por cima sou uma cidadã que tenta combater todos os tipos de discriminação e por isso mesmo, se uma personagem puder ajudar a passar essa mensagem, melhor ainda!</p>
+
+<p><b>Extra! -  A Catarina, enquanto figura pública e Embaixadora da Boa Vontade do UNFPA e Presidente da Associação Corações com Coroa, luta também pelos direitos das mulheres. Este papel é uma forma de lutar contra o preconceito em geral?</b></p>
+
+<p><b>CF -</b> Claro que sim mas aquilo que eu <mark>acho que é mais importante retirar da personagem da Isabel é o seu combate à violência com base no género. É nesse aspecto da sua vida que nos devemos fixar mas claro que compreendo que o facto da Isabel se envolver com a Simone (personagem principal) causa um "ruído" irresistível mas só estamos a retratar a realidade dos nossos dias. E foi um privilégio representar este papel com a fantástica atriz e minha amiga, Isabel Abreu</mark> (ainda que tenha sido muito curtinho em termos de participação porque estava a gravar ao mesmo tempo o programa Chefs Academy).</p>
+
+<p><b>Extra! - Ainda existem atentados contra as mulheres em Portugal ou já superámos aquilo por que lutava a Isabel nos 80’s?</b></p>
+
+<p><b>CF -</b> Infelizmente a discriminação, a violência com base no género, a diferença de oportunidades para as mulheres, a discrepância salarial, a imensa dificuldade em ter acesso a cargos de chefia, administração e participação política, o não acesso a serviços educação, de saúde sexual e reprodutiva, os casamentos precoces e forçados, a mutilação genital feminina… E poderia continuar. Há muito a fazer e o Fundo das Nações Unidas para o qual trabalho voluntariamente há 14 anos faz um trabalho essencial no terreno que convido a perceberem. A Associação Corações com Coroa que criei há dois anos nasceu exactamente com os propósitos de atuar nestas áreas.</p>
+
+<p><b>Extra! - O que mais gostou na produção d’Os Filhos do Rock?</b></p>
+
+<p><b>CF -</b> O empenho e dedicação, o talento da equipa artística e técnica, o bom gosto e o resultado final. </p>
+
+<creditos>
+	<nome titulo="Texto">Joana Martins</nome>
+	<nome titulo="Plataforma"><a href="http://www.rtp.pt/extra/index.php?article=440&amp;visual=4">Extra!</a> da RTP</nome>
+</creditos>
+
+</corpo>
+
+</pagina>

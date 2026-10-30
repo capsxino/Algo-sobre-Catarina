@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Floresta Unida</titulo>
+	<descricao>Campanha de reflorestação da Serra do Caramulo</descricao>
+	<data><ano>2013</ano><mes>10</mes><dia>18</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-E6u-2KC3_I8/VDjyBZ26xmI/AAAAAAAApgw/3YGEGXA43Dw/s0/CatarinaFurtado_FlorestaUnida_030000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+<!-- FLORESTA UNIDA -->
+
+<p>Em 2013, um violento incêndio destruiu floresta nas encostas da Serra do Caramulo e ceifou a vida a 4 bombeiros. Em 2014, a <a href="http://www.florestaunida.com/">Floresta Unida</a> (uma organização sem fins lucrativos dedicada a apoiar o desenvolvimento sustentável do património florestal) procurou juntar voluntários para replantar uma das zonas afectadas: o perímetro florestal da Penoita, em Vouzela. A RTP foi um dos parceiros a juntar-se à iniciativa, e a Catarina Furtado foi o rosto da promoção institucional que passou pela antena da estação publica.</p>
+<p>No dia 18 de Outubro, num sábado, a Catarina partiu de Lisboa e juntou-se aos cerca de 600 voluntários que plantaram quase 20 mil árvores, nomeadamente carvalhos, sobreiros e castanheiros, na Penoita. Foi com emoção que, esta neta dum bombeiro voluntário de Penamacor, soube que o presidente da Câmara Municipal de Vouzela decidira dar o seu nome ao bosque onde tinha acabado de plantar um carvalho - "Batizámos este bosque com o nome da Catarina Furtado em reconhecimento, não só pela sua presença como também pelo seu contributo a esta causa", justificou Rui Ladeira.</p>
+
+<citacao href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/378058072353856/?type=1" fonte="Facebook" ano="2014">
+	<p>Foi ontem! Peguei nos meus tesouros, os meus filhos e na minha mãe e fomos directos a Vouzela, mais propriamente a Figueiredo das Donas onde ficamos maravilhosamente instalados no Turismo de Habitação Paço da Torre. Bem cedo, no carro da RTP, com a minha amiga Silvia Alves, já estávamos ao lado do Grande amigo da Natureza, David Lopes da Floresta Unida e preparadas para plantar. Não éramos as únicas! O apelo foi bem ouvido! Uma enchente de voluntários plantou o dia inteiro! Eu deixei o meu carvalho roble no perímetro florestal da Penoita e fui (com emoção, confesso) surpreendida pelo Presidente da Câmara de Vouzela, eng. Rui Ladeiras, ao anunciar publicamente que este Bosque foi baptizado com o meu nome!!! Que responsabilidade! Obrigada! Mas sobretudo obrigada aos portugueses por se unirem pela floresta unida! Um abraço a todos os bombeiros e bombeiras. O meu avô Antonio ia ficar tão orgulhoso...</p>
+</citacao>
+
+<elo href="https://www.youtube.com/watch?v=otsD2CJNdA4">'Spot' para televisão</elo>
+<elo href="https://www.youtube.com/watch?v=UFWsU6XH8Uo">"Só Visto!" na gravação do 'spot'</elo>
+<elo href="https://www.facebook.com/media/set/?set=a.692672430809405.1073741873.101890999887554&amp;type=3">Galeria de fotografias do evento</elo>
+<elo href="http://www.centrotv.pt/index.php/centro/item/5006-famosos-ajudaram-a-plantar-20-mil-arvores-em-vouzela">Artigo Centro TV</elo>
+
+</corpo>
+
+</pagina>

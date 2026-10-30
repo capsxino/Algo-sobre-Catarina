@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Gala Record</titulo>
+	<descricao></descricao>
+	<data><ano>1999</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh6.googleusercontent.com/-3PlZa-cTiBg/VObpDkmdYXI/AAAAAAAArFU/6awmYflPIE8/s0/GalaRecord1999.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://www.record.xl.pt/Arquivo/interior.aspx?content_id=19786">Artigo do jornal Record</elo>					
+<elo href="https://vimeo.com/50207982">Momentos do programa (video)</elo>									
+
+</corpo>
+
+</pagina>

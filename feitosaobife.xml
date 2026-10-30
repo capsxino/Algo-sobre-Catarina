@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Feitos ao Bife</titulo>
+	<descricao>Apresenta este programa em que 6 actores tem que superar desafios na área da representação, da música, da dança e até do circo.</descricao>
+	<data><ano>2013</ano><mes>2</mes><dia>16</dia></data>
+	<data><ano>2013</ano><mes>5</mes><dia>11</dia></data>
+	<fundo>http://1.fotos.web.sapo.io/i/G0b14ac50/14864885_10wKZ.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Feitos ao Bife">
+	<p>No dia 16 de Fevereiro, a RTP emitia o primeiro <cite>Feitos ao Bife</cite>. Podendo-se considerar um formato original da produtora Fremantle e da estação pública de televisão, o programa reuniu 6 conhecidos actores num concurso que os punha a prova na recriação de momentos clássicos do cinema ou cenas de teatro, na interpretação de poemas ou de canções populares, dançado coreografias ou tentando o equilíbrio em números de circo. Valia quase tudo o que um artista pudesse fazer num palco, fosse trágico ou cómico.</p>
+	<p>Mas, mesmo o momento mais dramático podia ser interrompido por uma armadilha que forçava o actor para outro rumo, a improvisar uma saída da cena, diferente do ensaiado. Quão bem ele se saía era julgado pelo júri que premiava o melhor da noite com a escolha da área artística que queria experimentar na semana seguinte.</p>
+	<p>Apesar de gravado o programa corria como um directo, sem cortes. Com pouco tempo para ensaiar, os actores punham à prova a sua capacidade de se adaptarem rapidamente a cada novo desafio. De semana para semana, a cumplicidade entre os concorrentes crescia e cada vez mais as provas foram momentos de diversão partilhada, não só entre eles, mas também com a equipa e com os espectadores em casa.</p>
+	<citacao href="jornal_jn_20130420.xml" fonte="Jornal de Notícias" ano="2013">
+		<p>É um programa que não existia, tem essa curiosidade, está a ser adaptado à medida que vamos andando. Estamos a crescer com ele, é um formato abrangente para todos os tipos de público. Relembramos, recriamos, é pegar em coisas que já existem e dar-lhes uma roupagem diferente com atores. Para além disso divulgamos coisas que às vezes estão esquecidas, muito do nosso património.</p>
+	</citacao>
+</bloco>
+
+	<bloco titulo="A Apresentadora">
+		<imagem legenda="A Catarina num dos ensaios do 'Feitos ao Bife'" href="https://picasaweb.google.com/lh/photo/BAn9zfbNL5T1wB2X9wxetlEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh3.googleusercontent.com/-AwC4qJYMCoM/UgTNmfMtVhI/AAAAAAAAQco/4oEGdbasSh4/s400/CatarinaFurtado_FeitosBife_9BCD789DB9188C8E26DBC1A2143FC.jpg</imagem>
+		<bloco titulo="A Catarina Furtado dança (e canta) no 'Feitos ao Bife'">
+			<p>Ao som de <i>I don't care</i> <cite>I Love it</cite> das Icona Pop, a Catarina Furtado entrou a dançar na estreia do <cite>Feitos ao Bife</cite>.</p>
+			<p>A Catarina, a apresentadora com escola de bailarina e paixão pelo jogo da actriz, quis que a desafiassem e, em alguns momentos iniciais do programa, partilhou daquela diversão (e também muito empenho) com que os concorrentes se transformavam em personagens, se transportavam para outro tempo e saiam fora da sua zona de conforto.</p>
+			<p>A maioria dos momentos foi de dança, coreografada pelo Marco de Camillis, ao lado do corpo de baile. O meu favorito foi o <i>charleston</i>: a Catarina como estrela do ecrã prateado, a dançar com a alegria dos loucos anos 20; apenas durou pouco: dois minutos que queria ver prolongados para um espectáculo musical inteiro, na Broadway, um "Chicago"!</p>
+			<p>Mas, para ser uma estrela dum musical, falta-lhe saber cantar. A Catarina confessa que para ficar 'feita ao bife' basta pedirem-lhe para cantar. Traumatizada pela cara azeda da equipa do "Chuva de Estrelas" quando a ouviam acompanhar a música tema do programa. Mas, dentro do espírito do <cite>Feitos ao Bife</cite>, aceitou cantar na recriação do momento clássico do cinema em que Rita Hayworth canta "Put the Blame on Mame" no filme "Gilda". Dançou; deixaria todos pelo beicinho no tempo do cinema mudo mas a voz seria fatal no tempo do 'sonoro'.</p>
+			<p>Faltava o desafio da representação, que cumpriu no último programa...</p>
+			<grande><elo href="https://www.youtube.com/watch?v=sGlfO07O8HA">A Catarina entra a dançar (e cantar)</elo></grande>
+			<imagem href="https://picasaweb.google.com/lh/photo/TCNmFTvupSl5f_ndqGYO4kEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh3.googleusercontent.com/-s8u3HcWn-Dc/UTH_Pa4SefI/AAAAAAAAOVg/doA8od9-8Tw/s400-Ic42/CatarinaFurtado_FeitosBife_Ep01_010000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="Os Sapatos e os Vestidos">
+			<p>"No novo programa vou dar passos seguros!" escreveu a Catarina no facebook sobre os sapatos que ia usar no <cite>Feitos ao Bife</cite>.</p>
+			<p>Pela primeira vez, num programa de televisão, foi calçada pela <cite>Samelli</cite> uma colecção da empresa <a href="http://calcadosameiro.com">Calçado Sameiro</a> sediada em Barcelos.</p>
+			<p>Os vestidos são, como sempre ao longo dos anteriores 10 anos, originais e únicos, concebidos pelo estilista <a href="http://www.nunobaltazar.com/">Nuno Baltazar</a>.</p>
+		</bloco>
+	</bloco>
+	<bloco titulo="O Júri">
+		<p>Rita, Lídia e Vasco – o trio de jurados a quem coube todas as semana escolher o vencedor.</p>
+		<p>A <b>Lídia Franco</b>, com comentários sóbrios suportados por uma carreira de 50 anos como actriz, foi homenageada no nono programa pelo elenco do <cite>Feitos ao Bife</cite> com a recriação da rábula do Menino Nélito.</p>
+		<p>O <b>Vasco Palmeirim</b>, uma aposta nova. Vindo das manhãs da Rádio Comercial onde acorda a gente ao lado do Nuno Markl, entre outros. Trouxe um ângulo bem humorado aos veredictos. Conhecido por fazer caricaturas usando cantigas, não falhou na televisão com a composição do hino do 'Feitos ao Bife'. Por lá havia um refrão: "Há viagens ao passado e o corpinho abençoado da Catarina Furtado".</p>
+		<p>A <b>Rita Blanco</b> – o meu elemento favorito. Amiga sólida da Catarina Furtado, com muitas características opostas (a Catarina arruma; a Rita desarruma.) Presença comum nos programas com a Catarina. Entre as duas surgiam atritos fingidos, picardias e brincadeiras. Maus tratos que escondiam um carinho imenso entre as duas. Ela saía da cadeira de jurada quando não devia e rasgava um sorriso à Catarina que puxava um sorriso a mim. Por detrás do julgamento sobre o  monólogo <cite>A Castro</cite>, representado pela Victoria Guerra, veio a confissão das duas - "Eu gosto de ouvir falar de amor." - "Eu também."</p>
+	</bloco>
+	<bloco titulo="Os Atores">
+		<p>Eram para ser 8. Foram 6. Porque foram, esta meia dúzia, escolhidos?... Quase todos estavam envolvidos em outros trabalhos ao mesmo tempo que gravavam o programa. Tinham que responder em dois ensaios, em dois pares de horas, aos desafios que lhes eram colocados todas as semanas (às vezes mais.) Tinham que dar o seu melhor, naqueles minutos gravados em palco, em que a única coisa que não valia era parar e repetir. Podiam ter que dançar um tango ou hip-hop, representar um texto clássico ou pop, cantar, improvisar e estarem preparados para qualquer armadilha com que a produção tentasse sabotar um momento afincadamente preparado. Algumas armadilhas resultaram num franzir pesado do sobrolho do ator – sacanas – outras na frustração da produção (como o Coiote a ver o Bip Bip passar a toda a velocidade por debaixo do cofre da ACME.) Principalmente foram cúmplices. A cada programa os braços iam se entrelaçando com mais força. Foram a melhor claque de apoio uns dos outros e partilharam os melhores momentos juntos no palco.</p>
+		<p>O <b>Miguel Damião</b>, um ator dos Açores. Facilmente atrai simpatia. A minha atraiu logo quando partilhou o 'live chat' com a Catarina durante a estreia do programa. Ator cumprido. Desde o primeiro momento foi o mais rebelde aos parâmetros. Com genica no corpo, queria era dançar, e fugir das cantigas. Algemou-se ao tornozelo da Catarina logo que saiu do 'Jailhouse Blues'. Simpatizo!</p>
+		<p>A <b>Marina Albuquerque</b>, atriz. No seu estado natural parece ter um carácter eléctrico, nervoso, pronta a dar um choque cómico se provocada. Foi inesquecível, dobrada e fatalmente ridícula, de ter pena, na pele da corcunda do poema de Fernando Pessoa, retrato aumentado da nossa corcunda. E estalou o chicote! A embarcar para o inferno com o teatro de Gil Vicente! Ah, Brísida Vaz! É de hoje, num português com cinco séculos. Acicatado por bem dada chicotada, apeteceu-me correr para a estante à procura de mais texto.</p>
+		<p>O <b>Jorge Mourato</b>, o tipo que não se leva a sério. Confortável no registo cómico. De banana no bolso  pronta a disparar. De olhos rasos de lágrimas quando evocou a tragédia provocada pelas armas verdadeiras. O cinturão negro de Karaté que fez uma dança marcial para alegria do João (o que queria um foguetão!) </p>
+		<p>O <b>Pedro Alves</b>, ficou conhecido do público como humorista ao lado do João Paulo Rodrigues. Ter aceitado participar no programa também foi uma maneira de mostrar o seu valor singular. Ás no improviso e na comédia. Terror dos adereços armadilhados: desde candeeiros; telefones ou helicópteros de brincar; tudo levou um pontapé! Horrível dançarino travestido de Madonna. Conseguiu ser ator sem ter que fazer rir.</p>
+		<citacao autor="Pedro Alves" fonte="Notícias Tv">
+			<p>A Catarina é uma profissional exemplar a todos os níveis, pede opiniões, preocupa-se. Aquilo acaba por ser tudo uma equipa em que trabalhamos todos juntos. A apresentadora não está num pedestal.</p>	
+		</citacao>
+		<p>A <b>Catarina Guerreiro</b> também foi concorrente ao papel principal do musical Cabaret, através do programa de televisão <cite>À Procura de Sally</cite> apresentado pela Catarina Furtado. Portanto ela não é estranha às três vertentes do <cite>Feitos ao Bife</cite>. Foi provavelmente esse equilíbrio que lhe valeu a vitória atribuída pelo júri e o prémio final, de 5 mil euros, que a Catarina doou à Associação Luchapa.</p>
+		<p>A <b>Victoria Guerra</b>, a mais nova. Com 24 anos completados. A mais leve das meninas. A mais insegura delas. Entregou-se de coração às personagens. Ganhou a admiração de todos, em primeiro lugar da Catarina Furtado que, entre chamar-lhe bebé e bombom, findas as gravações, teceu-lhe elogios na <cite>Praça da Alegria</cite>. Querem apostar?.. elas vão voltar a trabalhar juntas, como atrizes.</p>
+	</bloco>
+	<bloco titulo="A Equipa">
+		<citacao href="http://videos.sapo.pt/IjkphZZzY1udtz8tdDzg" fonte="Praça da Alegria">
+			<p>É sempre com nostalgia que eu acabo um projecto. Eu adoro trabalhar em equipa! Adoro trabalhar com todas as pessoas que fazem um enorme esforço para que o produto final seja bom e eu acho que o 'Feitos ao Bife' é um bom produto.</p>
+		</citacao>
+		<p>"Eu adoro trabalhar em equipa!" - disse a Catarina na véspera da transmissão do último episódio do <cite>Feitos ao Bife</cite>. Nostálgica com o fim do projecto, elogiou todos os que criaram este formato original. Deixando no ar a possibilidade de acontecer uma segunda série (que houve mas apresentada pelo Vasco Palmeirim.)</p>
+		<p>Vendo a ficha técnica do programa não conheço todos os nomes. Mas reconheço alguns que há muito tempo trabalham ao lado da Catarina. Esse trabalhar em equipa também é um regressar a um ambiente de trabalho em que se sente segura e valorizada. Ela que muito para lá de só apresentar o programa se envolve na construção do mesmo.</p>
+		<citacao autor="Catarina" fonte="Mensagem deixada no facebook no dia 11/4/2013" href="https://picasaweb.google.com/lh/photo/UIrEdu_g9Qd5eCxrlrwvkFEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">
+			<p>Como todas as semanas, cá estou eu na edição do Feitos ao Bife a acompanhar o trabalho da equipa da Fremantle para que chegue a vocês nas melhores condições!</p>
+		</citacao>
+		<p>Salto por cima da equipa de produção para o realizador <b>André Ferreira</b>. A Catarina encontrou-o, talvez não pela primeira vez, quando chegou à RTP para apresentar a 'Operação Triunfo', em 2003. Em 2013, realizava simultâneamente dois programas para a RTP: este e o '5 Para a Meia-noite'. O André deve ter trazido um pouco da irreverência do '5' mas também trouxe os apresentadores do '5' para participarem no programa: o 'Boinas'; o Nilton; o 'Pacheco'; o Raminhos. E talvez tenha sido ele que convenceu a Catarina a participar num 'Harlem Shake'.</p>
+		<elo href="http://www.youtube.com/watch?v=ykCcGAUucvg"><i>Harlem Shake</i> com a Catarina</elo>
+		<p>Das três vertentes do programa - dançar, cantar, representar - a <b>Lígia Roque</b> cuidou dos desafios na representação. Actriz com presença regular no palco do Teatro Nacional de São João. Também encenadora. Foi em 2009 que a Lígia trabalhou pela primeira vez ao lado da Catarina, na peça de teatro 'Transacções' encenada pelo João Reis. No 'Feitos ao Bife' escolheu textos clássicos do teatro, momentos inesquecíveis do cinema e as palavras dos nossos poetas. Quando foi necessário mais um actor para contracenar ela subiu ao palco. Essa necessidade parece ter sido descoberta a meio do programa e para isso foi também chamado o actor <b>Daniel Pinto</b> que se tornou uma presença regular ao lado dos outros actores.</p>
+		<p>A dança ficou a cargo do habitual e imprescindível coreografo <b>Marco de Camillis</b>. Aos bailarinos veteranos, o Marco juntou jovens vindos do seu projecto de inclusão social 'Da Rua para o Palco' que já tínhamos visto ao lado da Catarina na abertura do Circo de Natal da RTP.</p>
+		<p>O <b>Fernando Martins</b> cuidou da música. Já responsável pela escolha musical em outros programas apresentados pela Catarina como 'Chuva de Estrelas' e o 'Dança Comigo'.</p>
+		<creditos titulo="A Equipa">
+			<nome titulo="Produção">FremantleMedia</nome>		
+			<nome titulo="Produtor">Vasco Barão</nome>			
+			<nome titulo="Director Geral">Frederico Ferreira de Almeida</nome>			
+			<nome titulo="Directora Criativa de Projecto">Cecília Ornelas de Mendonça</nome>		
+			<nome titulo="Produtor executivo">Tiago Martins</nome>
+			<nome titulo="Realizador">André Soares Ferreira</nome>
+			<nome titulo="Diretor Geral de Conteúdos">Luís Marinho</nome>
+			<nome titulo="Diretor de Programas">Hugo Andrade</nome>
+		</creditos>
+	</bloco>
+	<bloco titulo="Os Programas">
+		<grande><elo href="https://www.youtube.com/watch?v=Nah2ywKifDk">A Catarina está Feita ao Bife! - Uma selecção de momentos engraçados</elo></grande>
+		<p>Foram 13 programas, emitidos entre o dia 16 de Fevereiro e o dia 11 de Maio. Todos gravados excepto um que foi transmitido em directo como comemoração do aniversário da RTP. Mas os tempos entre a gravação e a emissão dos programas foram curtos, chegando a casa praticamente como era representados no estúdio da Herdade da Barroca d'Alva, sem grandes cortes.</p>
+		<citacao fonte="Notícias TV">
+			<p>As pessoas que nos vêem nunca nos abandonaram. Pelo contrário, até cresceram.</p>
+		</citacao>
+		<bloco titulo="O Programa de Estreia">
+			<p>O <a href="http://www.rtp.pt/programa/tv/p29948/e1">primeiro</a> programa foi gravado no dia 9 de Fevereiro de 2013 no estúdios da Cinemate na Herdade da Barroca D' Alva, em Alcochete. E transmitido no fim-de-semana seguinte, no dia 16.</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/k6-CuYhxtxPNyy1DhrbeJkEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh4.googleusercontent.com/-QU40NpPQi3Q/UTH_Pvoc77I/AAAAAAAAOVs/nyaOa3KHBvI/s400/CatarinaFurtado_FeitosBife_Ep01_100000.jpeg</imagem>
+			<p>Enquanto, na televisão, víamos a Catarina a exemplificar as provas pelas quais os concorrentes teriam que passar, deste o teatro, passando pela dança, ou cantar. Ao vivo, pela <i>internet</i>, a Catarina juntava-se ao concorrente Miguel Damião para uma conversa com os espectadores do programa. Descontraída, brincalhona, brincava com o cabelo, repartia o olhar pela televisão, pelo <i>tablet</i>, sorria, cúmplice, para os elementos da equipa que a rodeavam, e de vez em quando olhava directamente para a câmara web, transformando-se na apresentadora de televisão.</p>
+			<p>Foi muito engraçado de ver, a Catarina desprendida da responsabilidade de conduzir um programa. A comentar com a equipa o que podia ser melhorado no programa. A equipa que parece ter tentado armadilhar-lhe o <i>tablet</i>. A amuar por a prima não lhe enviar um SMS. Até a cantar. E a imitar o sotaque Açoriano do Damião: “Ele 'tá no <i>chat</i>!”. Muito bom!</p>
+			<elo href="http://www.youtube.com/watch?v=06_UZ4NZW_c"><i>Web chat</i> com o Miguel Damião e a Catarina</elo>
+		</bloco>
+		<bloco titulo="2º Programa">
+			<p>A Catarina conhece bem uma das juradas do 'Feitos ao Bife'. A Rita Blanco é amiga de longa data. As brincadeiras surgem e às vezes as duas <i>picam-se</i>.</p>
+			<p>Quando a Catarina Guerreiro terminou um número de circo com uma espargata, a Catarina Furtado desafiou a amiga a fazer o mesmo, ali e agora. A Rita levantou-se e:</p>
+			<p>- Vamos combinar uma coisa. Eu faço se tu fizeres.</p>
+			<p>- Eu sou rapariga para aceitar um desafio desses. Só preciso duns calções!</p>
+			<p>O desafio foi lançado. Será que a Catarina vai fazer a espargata no 'Feitos ao Bife' ?</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/PF-OS7nBwNDFFz6H-oxC-kEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh6.googleusercontent.com/-458JttEzw2M/UTXuz9OJMyI/AAAAAAAAOX4/3JxTUW4HuPQ/s400/CatarinaFurtado_FeitosBife_Ep02_010000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="3º Programa">
+			<p>A Catarina a preto &amp; branco. Projectada do ecrã prateado para a televisão, a passos de <i>charleston</i>. Fantástica! Não sei se me vou corrigir mas digo já: este foi o meu momento favorito com a Catarina em todos os programas.</p>
+			<imagem>http://38.media.tumblr.com/8170cb234523ed95206900b3f4ff10d2/tumblr_nuzhr0UrAN1uelda1o1_400.gif</imagem>
+		<citacao href="https://picasaweb.google.com/lh/photo/XK_9vD1L8UobjR9nk5H0VxOXbgRy0ABb-_jzPRB_IaE?feat=directlink" fonte="TV Mais">
+			<p>Acho muito injusto estar a apresentar este programa, que tem tudo o que gosto, dançar, representar... e não participar! Então aproveito e faço uma brincadeiras...</p>		
+		</citacao>
+		</bloco>
+		<bloco titulo="4º Programa">
+			<p>No dia 9 de Março de 2013, o 'Feitos ao Bife' foi excepcionalmente emitido em direto e os espectadores puderam votar no seu concorrente favorito. Tinham passados dois dias sobre o 56º aniversário da RTP e o programa foi construindo em jeito de homenagem à estação. Logo na entrada os concorrentes, jurados, bailarinos e a Catarina vestiram as roupas dos anos 60, 80, e de hoje, numa recriação do hino da RTP.</p>
+			<elo href="http://www.youtube.com/watch?v=bl3j1lpBZ-g">Nos anos 60, 80, e em 2013 !</elo>
+			<p>Em direto o inesperado acontece, como o Miguel Damião se algemar ao tornozelo da apresentadora, ou a Rita Blanco juntar-se à Catarina atrás dum ecrã para um jogo de sombras.</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/UjcvlQPVD63ejKBLHmO2dkEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh6.googleusercontent.com/-j4u9raHeeiU/UU9oc5yrpyI/AAAAAAAAOhU/UIb8x4IfQD8/s400/CatarinaFurtado_FeitosBife_Ep04_310157.jpeg</imagem>
+		</bloco>
+		<bloco titulo="5º Programa">
+			<p>"O meu João Maria vai amar este numero." -   disse a Catarina ao Jorge Mourato que tinha acabado de dançar ou andar à luta com um dragão Chinês ao som da música 'Kung-fu Fighting'. Porquê?  - "Porque eu amei e nós temos o mesmo gosto!" - Rematou com um sorriso.</p>
+			<p>No final a Catarina juntou-se à prova de improviso da Marina Albuquerque na qual tentou vender curiosos e estranhos artigos <i>vintage</i>.</p>
+			<imagem legenda="'És uma brasa!'" href="https://picasaweb.google.com/lh/photo/jz4uQmvN3D3Jolf1DvW-nEEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh6.googleusercontent.com/-3gbY182JaqI/UU9qBlwU4SI/AAAAAAAAOik/y38-QUwuSfM/s400/CatarinaFurtado_FeitosBife_Ep5_910000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="6º Programa">
+			<p>Outra vez, o programa começou com tons de preto e prata. Pedro e Victoria foram Fred e Ginger no filme "Top Hat" de 1935, até as coisas começarem a correr mal e a rodopiar para um número de comédia. A Catarina intrometeu-se, meteu o ponto final na dança e trouxe a cor de volta ao ecrã.</p>
+			<p>A Victoria Guerra faria, depois, a valer, um número que é familiar à Catarina. Um numero acrobático com fitas como a Catarina tinha feito em 2010, magnificamente e bem mais alto, no Circo de Natal da RTP. As queixas das mazelas deixadas foram comuns às duas. Mas a Catarina voltava a fazer.</p>
+			<p>A Marina Albuquerque trouxe gestos familiares à Catarina. Movimentos repetidos muitas vezes nas aulas do Conservatório de Dança. O <i>pliê</i>. O <i>arabesque</i>. Os movimentos graciosos que a Catarina fez questão de demonstrar quando introduziu morte do cisne dançada pela Marina. Pernas torneadas por anos de dança.</p>
+			<p>A Catarina adora dançar. Gosta mesmo de dançar aquela música... aquela:  <i>“Here's my number. So call me, maybe?”</i>. Um pop juvenil que deve rimar algures com <i>“baby”</i>. Que eles põe e ela dança enquanto transita entre pontos do palco. Muito menina. Ri-se, ri-se da Rita Blanco. E muito menina enrola os dedos numa meada de cabelo. A sério, eu estava convencidíssimo que ela não brincava com o cabelo em televisão!</p>
+			<imagem legenda="Arabesque" href="https://picasaweb.google.com/lh/photo/TacspuKj8tbc68ySYLSbt0EkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh4.googleusercontent.com/-BW21Fe5Uma0/UVVlmLzehQI/AAAAAAAAOko/Gx37_-KBe9c/s400/CatarinaFurtado_FeitosAoBife_Ep06_700063.jpeg</imagem>
+		</bloco>
+		<bloco titulo="7º Programa">
+			<p>Eu julgava que a Catarina não brincava com o cabelo... mas aqui brinca. Como brinca quando está desarmada sem uma câmara apontada. A cada programa nota-se que se divertem mais.</p>
+			<p>O júri elegeu a Victoria Guerra que representou um excerto de "A Castro". Foi Inês de Castro num monólogo sobre o amor. Da comovida Rita Blanco soltou-se o primeiro comentário: "Eu gosto tanto de ouvir falar de amor." E a Catarina como a Rita: "Eu também [...] Eu sou como a Rita. Acredito no amor."</p>
+			<imagem legenda="Choveram laranjas de ping-pong" href="https://picasaweb.google.com/lh/photo/MQr5d1Me1oe2B9VvaqosJ0EkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh3.googleusercontent.com/-YOwDpOtL-No/UWAXKl446uI/AAAAAAAAOps/mF10HdMQrBY/s400/CatarinaFurtado_FeitosBife_Ep07_730000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="8º Programa">
+			<p>Ai! A Catarina quanto mais se esforça por cantar pior canta... Mas vamos esquecer que ela cantou.</p>
+			<p>Este programa foi dedicado ao cinema. A abrir, a Catarina recriou uma cena do filme "Gilda", de 1946, em que Rita Hayworth dança e canta a música "Put the blame on Mame". Arquétipo da mulher fatal. A Catarina foi mais fatal que ela. No original a Rita foi provocadora, sensual e brincalhona. A Catarina foi mais febril, séria e muito sensual!</p>
+			<elo href="http://www.youtube.com/watch?v=hsqnN6rWpE0">Recriação da cena do filme <cite>Gilda</cite></elo>
+			<p>Enquadrando isto no calendário: Este, o oitavo programa duma série de treze, foi emitido no dia 6 de Abril; Na véspera ficou gravado o último programa; No dia 26 de Março, a RTP celebrou o seu aniversário com o espectáculo <a href="portugalsempreligado.xml">"Portugal Sempre Ligado"</a>, transmitido em directo, onde podemos ver um número para o qual a Catarina pediu emprestado o vestido e a postura de mulher fatal que usou para recriar a Gilda... e também um pouco da voz.</p>
+			<p>Para a minha recolha de factos triviais sobre a Catarina, fica este: o seu filme favorito do Charlie Chaplin é o"Limelight", "Luzes da Ribalta".</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/Q9tkA28Ena0UoQs6FfkZUEEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh4.googleusercontent.com/-R24gO2BJKzo/UWU7JFGqEsI/AAAAAAAAOuE/ajqD2oqit10/s400/CatarinaFurtado_FeitosBife_Ep08_190000.jpeg</imagem>
+			<citacao href="jornal_jn_20130420.xml" fonte="Jornal de Notícias">
+				<p><small>E já deu consigo a pensar que estava feita ao bife?</small></p>
+				<p>Já. No programa em que tive de cantar e interpretar Gilda, personagem da mítica atriz Rita Hayworth do filme do mesmo nome. Tive é urna maneira de dizer, foi um acordo entre mim e a produtora. Tive o apoio de todos e criei ali uma personagem. Não foi bem cantar, foi mais adaptar a minha voz a uma personagem, mas senti-me um bocadinho feita ao bife.</p>
+			</citacao>
+		</bloco>
+		<bloco titulo="9º Programa">
+			<p>Fico decepcionado quando a Catarina não faz uma entrada à grande. Quando entra a dançar, adoro! Desta vez, não.</p>
+			<p><i>Sandwish... Sandwish?.. Sandwish!</i></p>
+			<imagem legenda="Guerreiro e Furtado" href="https://picasaweb.google.com/lh/photo/FF8McJUstozTjXiw2DdGfEEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh5.googleusercontent.com/-Vxw_YuQir6U/UW9jKlVXOvI/AAAAAAAAOzY/0ka6ON116NI/s400/CatarinaFurtado_FeitoAoBife_Ep09_470000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="10º Programa">
+			<p>Desta vez a entrada coube à Rita Blanco. Calçou os sapatos da apresentadora. Brincou com a perene jovialidade da Catarina Furtado. Com os bons palmos a mais de altura (na realidade a Catarina só tem 1.68 metros). Até a Catarina interromper a amiga. Mas a brincadeira continuou. Tirou os sapatos. Prometeu fazer um programa assim, descalça, com a Rita.</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/4MyUEPzamy7RCcIF7NgNgEEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh5.googleusercontent.com/-FcYJyE5umLs/UXUhN1hg8kI/AAAAAAAAO1I/Sj4JAw8hYLY/s400/CatarinaFurtado_FeitoAoBife_Ep10_190070.jpeg</imagem>
+			<p>"Oh, André, tira lá o planinho", diz a Catarina para o realizador, entre o embaraço por ver os seus pés em grande plano e a diversão por estar descalça, com a liberdade para poder escoicear à vontade - mas pés viciados em porem-se sobre os bicos - e dançar!</p>
+			<p>O André Cerqueira é também o realizador do <a href="5meianoite_20130222.xml">"5 Para a Meia-noite"</a> onde, há dias, a Catarina tinha dito em conversa não se permitir fazer tudo em televisão. Mas eu acho que nunca como aqui no <cite>Feitos ao Bife</cite> ela desligou essa preocupação e deixou-se ir. Deixou-se ir com os outros. Porque a cada programa se nota mais que todos se divertem.</p>
+			<p>Nesta emissão evocou-se o 25 de Abril. A Catarina comoveu-se com o poema "As Portas que Abril Abriu". Foi metendo a colher na prova de improviso do Miguel Damião, que encarnou um chefe de cozinha. Ela com algum desconforto por ver tanta comida ir parar ao chão.</p>
+		</bloco>		
+		<bloco titulo="11º Programa">
+			<p>A Rita Blanco não gosta que lhe chamem fofinha. A Catarina <q>...fofinha, gosto!</q></p>
+			<imagem href="https://picasaweb.google.com/lh/photo/fzK0pP_5rfxXymxTKlVmj0EkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh5.googleusercontent.com/-X4k4WpK3anM/UYN3wOXJ4CI/AAAAAAAAPIM/vWnczOb0Nio/s400/CatarinaFurtado_FeitosBife_Ep11_510000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="12º Programa">
+			<p>Colocou uma gola de tufos e uma pala no olho; a Catarina, qual Luís Vaz de Camões com calças de padrão zebra, disse: <q>Descalça vai para a fonte Lianor pela verdura...</q> até a equipa lhe interromper a récita, armadilhando o momento, colorindo-lhe o cabelo com <i>confetes</i>. Prontamente ela vingou-se na amiga Rita, divertida com o momento, correndo para ela com uma mão cheia de papelinhos, arremessando-os e batendo em retirada com passos de birra.</p>
+			<p><q>És tão ingénua!</q> - diz-lhe o Jorge Mourato.</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/81Y4Frny7w0WL_lzpmcjiEEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh3.googleusercontent.com/-OQ5U2RWiV8I/UY40mrwTwzI/AAAAAAAAPQY/HAbc0ADW-0o/s400-Ic42/CatarinaFurtado_FeitosAoBife_Ep12_140000.jpeg</imagem>
+		</bloco>
+		<bloco titulo="13º e Último Programa">
+			<p>Pelos 13 programas a Catarina experimentou um pouco das provas em que se metiam os concorrentes. Muitas vezes entrou a dançar no programa e até arriscou cantar. Alinhou nas brincadeiras sem medo de desmanchar o boneco de apresentadora. Mas faltava o desafio da representação, que cumpriu no último programa. Sentou-se à mesa, como a menina Tatão, frente ao figurino do "Pai Tirano", rodeada do elenco de actores que lhe preparava uma armadilha. Subverteram o texto e ouviram o estalo com que a Catarina se safou da cena.</p>
+			<imagem href="https://picasaweb.google.com/lh/photo/nTmrr8xNaRRv4BWcjQWRKEEkMvlZvKP5BB60s7h16DI?feat=embedwebsite">https://lh3.googleusercontent.com/-uZyd0eTNWtQ/UZYHKNosWmI/AAAAAAAAPSg/hJU_95Fr7rg/s400/CatarinaFurtado_FeitosAoBife_Ep13_1250000.jpeg</imagem>
+			<p>O último programa foi gravado no dia 5 de Abril e emitido no dia 11 de Maio. Terminou com o elenco junto em palco, mais unido e abraçado.</p>
+		</bloco>			
+	</bloco>
+	<bloco titulo="'Don't Stop Me Now'">
+		<p>Seria o nome original do programa 'Feitos ao Bife'. Assim foi promovido na apresentação da nova grelha da RTP, no dia 7 de Janeiro: "'Don't Stop Me Now' vai revelar o talento escondido de 8 celebridades na área da música, da dança, do humor, da representação, e até um ou outro talento fora do comum!" Baseado no programa transmitido pela estação Britânica <a href="http://sky1.sky.com/sky1hd-shows/dont-stop-me-now">Sky 1</a> a versão da Radio Televisão Portuguesa acabou por ter poucas semelhanças com o formato original.</p>
+		<p>A necessidade de adaptação às linhas do serviço público de televisão levou ao atraso de algumas semanas da estreia do programa, que ocorreu a meio do mês de Fevereiro com 6 concorrentes em vez de 8.</p>
+		<p>Um entretenimento a sério, feito para toda a família, como diz a Catarina na promoção da nova grelha da RTP.</p>
+		<elo href="http://www.youtube.com/watch?v=OrURY4jDzQc">Promoção da nova grelha 2013 da RTP1</elo>
+	</bloco>
+	<bloco titulo="A Segunda Série do 'Feitos ao Bife'">
+		<p>Logo após o final da primeira série do 'Feitos ao Bife' a direcção de programas da RTP decidiu seguir com uma segunda, desta vez transmitida em directo, ao longo dos meses de verão. A apresentação coube, não à Catarina como se esperava, mas ao Vasco Palmeirim que saltou da cadeira de jurado para a sua estreia como apresentador de televisão num canal generalista.</p>
+		<p>O programa tomou um rumo mais ligeiro e a escolha das provas foi feita entre os clássicos da comédia, desempenhadas por actores fluentes no género, deixado de fora os textos mais dramáticos. Resultou; um sucesso construído sobre trabalho feito na série anterior, onde a equipa inventou um programa 'em andamento', experimentando semanalmente ideias novas.</p>
+		<p>O que levou a Catarina a não apresentar a segunda série não foi claro. Foram divergências com a direcção criativa do programa? Como se chegou a noticiar. Não me parece verosímil. A escolha da Catarina provavelmente deveu-se à oportunidade de ir a Moçambique, gravar um documentário sobre o Parque Nacional da Gorongosa, durante o mês de Junho. De facto, essa viagem fascinou-a e nas semanas seguintes partilhou esse contentamento através das redes sociais e em entrevistas. Portanto, escolheu o projecto onde se sentia mais realizada.</p>
+		<p>No dia 15 de Junho 2013, estreou a edição de Verão do 'Feitos ao Bife' e a Catarina, à beira da Serra da Gorongosa, em Africa, não deixou de desejar boa sorte ao novo apresentador, através do facebook, retribuindo com um poema a música que o Vasco Palmeirim lhe dedicou numa das emissões do programa.</p>
+		<letra>
+			Vou-me embora vou partir p’ra Moçambique,<br />
+			reportar a Gorongosa já me espera<br />
+			mas és tu, Vasco - que ficas “Feito ao Bife” -<br />
+			que eu desejo ver no palco como fera…<br />
+			<br />
+			Que desejo ver no palco, Palmeirim<br />
+			em demonstração do teu real talento<br />
+			ou não fosses uma proposta de mim…<br />
+			em mui rara inspiração a mil por cento…<br />
+			<br />
+			Da Serra da Gorongosa recebe um beijinho meu! :)<br />
+		</letra>		
+	</bloco>
+	<bloco titulo="Links">
+		<elo href="http://www.youtube.com/watch?v=cQVGxgptGOU">Spot de promoção da estreia</elo>
+		<elo href="http://www.youtube.com/watch?v=ykCcGAUucvg">Catarina faz o «Harlem Shake"</elo>
+		<elo href="http://www.youtube.com/watch?v=whQf41AYr9g">A Catarina na «Praça da Alegria» no dia 1/3/2013.</elo>
+		<grande><elo href="https://picasaweb.google.com/116136255703077903546/FeitosAoBife02?authuser=0&amp;authkey=Gv1sRgCMrj47zBlrn1rQE&amp;feat=directlink">Fotogramas</elo></grande>
+		<elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2013?authuser=0&amp;authkey=Gv1sRgCIG3lc3jwvCAaQ&amp;feat=directlink">Imprensa 2013</elo>
+		<elo href="https://picasaweb.google.com/116136255703077903546/FeitosAoBife?authuser=0&amp;authkey=Gv1sRgCJ31r6eQ3sLUgwE&amp;feat=directlink">Galeria de imagens</elo>
+		<elo href="https://www.youtube.com/watch?v=sGlfO07O8HA">A Catarina entra a dançar (e cantar)</elo>
+		<elo href="https://www.youtube.com/watch?v=Nah2ywKifDk">A Catarina está Feita ao Bife! - Uma selecção de momentos engraçados</elo>
+		<elo href="https://picasaweb.google.com/lh/photo/VwvaaRKBxTFG4K8wQpdZuBOXbgRy0ABb-_jzPRB_IaE?feat=directlink">Artigo da Notícias TV [Página 1]</elo>
+		<elo href="https://picasaweb.google.com/lh/photo/gJUQYtY2eHTRg-Xc1TiYmxOXbgRy0ABb-_jzPRB_IaE?feat=directlink">Artigo da Notícias TV [Página 2]</elo>
+	</bloco>
+</corpo>
+
+</pagina>

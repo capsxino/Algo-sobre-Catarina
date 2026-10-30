@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Corpos Danone</titulo>
+	<descricao><i>Spot</i> publicitário para televisão da marca de iogurtes Danone.</descricao>
+	<data><ano>2003</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-pSNQqZxAvPY/Us01IIc9HQI/AAAAAAAAUCQ/t_a7sH0672E/s0/CatarinaFurtado_CorposDanone_010042_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+</corpo>
+
+</pagina>

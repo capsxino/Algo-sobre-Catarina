@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Espelho</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Espelho</nome>
+	<nome titulo="Interpretação">Rui Drumond</nome>
+	<nome titulo="Compositor da Música">Ernesto Leite</nome>
+	<nome titulo="Álbum">Parte de Mim</nome>
+	<nome titulo="Ano">2014</nome>
+</creditos>
+
+<p>No final do mês de Julho de 2014, o Rui Drumond foi declarado vencedor do "The Voice Portugal". Pouco tempo depois, no dia 11 de Agosto, saía o CD "Parte de Mim", com gravações em estúdio das canções interpretadas pelo Rui no concurso de talento da RTP. Acrescentados à colecção de <i>covers</i>, foram incluímos dois inéditos: um deles, da autoria do Pedro Abrunhosa, deu o nome ao álbum; o outro, o "Espelho", é um tema original com letra da Catarina Furtado.</p>
+<p>A estória já é antiga; o tema não foi composto em 2014. Há mais de uma década a trás, o Rui participou no programa da RTP "Operação Triunfo", outro concurso para cantores, apresentado pela Catarina; foi em 2003, numa gala OT realizada em Elvas, que a Catarina prometeu que ia escrever uma letra de canção para ele. Depois, o Rui continuou dedicado à música; emprestou a sua voz a outros programas apresentados pela Catarina, como o "Dança Comigo" ou a "Minha Geração". Entre estes anos, a letra "Espelho" foi escrita, em colaboração com o João Reis, e à letra juntou-se a música de Ernesto Leite.</p>
+
+<letra titulo="Espelho">
+	Toco no espelho onde te vi<br />
+	Tento agarrar o que não tive<br />
+	Como uma sombra de ti<br />
+	Dor que sobrevive<br />
+	<br />
+	Naquele fim de tarde<br />
+	Mordeste-me e não sentiste<br />
+	Agora o meu coração arde<br />
+	Tu finges que ele não existe<br />
+	<br />
+	Se eu partir o espelho de vez<br />
+	Acabo com o vicio de te querer<br />
+	Apago a imagem que vês<br />
+	Um homem que ama sem perder<br />
+	<br />
+	Pára tudo por um segundo<br />
+	Respiro o ar que me leva<br />
+	Destruo o espelho que me observa<br />
+	<br />
+	Estou livre de ti e de mim<br />
+	Mais pobre e mais vazio<br />
+	Afinal é bom doer assim<br />
+	Quem não sente está por um fio<br />
+	<br />
+	Guardo o que de ti ficou<br />
+	Os olhos, a boca, o perigo<br />
+	Amarro-me ao que voltou<br />
+	Vontade de me ver erguido<br />
+	<br />
+	Se eu partir o espelho de vez<br />
+	Acabo com o vicio de te querer<br />
+	Apago a imagem que vês<br />
+	Um homem que ama sem perder<br />
+	<br />
+	Se eu partir o espelho de vez<br />
+	Acabo com o vicio de te querer<br />
+	Apago a imagem que vês<br />
+	Um homem que ama sem perder<br />
+	<br />
+	Pára tudo por um segundo<br />
+	Respiro o ar que me leva<br />
+	Destruo o espelho que me observa<br />
+	Destruo o espelho que me observa<br />
+</letra>
+
+<elo href="http://videos.sapo.pt/cwTmEQEevvBcYSHgD4aS">O Rui Drumond apresenta o primeiro single no "Praça da Alegria"</elo>			
+<elo href="https://www.youtube.com/watch?v=Pe9H_MGQOyI">O Rui Drumond fala da canção no "5 Para a Meia-noite"</elo>			
+<elo href="https://www.youtube.com/watch?v=pTb1CxzZY60">Rui Drumond canta «Espelho» no "Há Tarde" (2014)</elo>			
+<elo href="http://videos.sapo.pt/tzPQ3zacit3MTsuoG0Zf">Rui Drumond canta «Espelho» no "Agora Nós" (2015)</elo>			
+<elo href="http://videos.sapo.pt/w0ftppwMb4ZmLTvjVDbj">Rui Drumond canta «Espelho» no "Natal dos Hospitais" (2015)</elo>
+<elo href="https://www.instagram.com/p/_Zold9TBOB/">Video filmado pela Catarina no Natal dos Hospitais em 2015</elo>				
+<elo href="http://videos.sapo.pt/b0M9AZGKsgGbMGKzQMM3">Rui Drumond canta «Espelho» no "Agora Nós" (2016)</elo>
+
+</corpo>
+
+</pagina>

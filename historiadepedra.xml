@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>História de Pedra</titulo>
+	<descricao>Letra para música da <cite>Ala dos Namorados</cite></descricao>
+	<data><ano>2000</ano><mes></mes><dia></dia></data>
+	<fundo legenda="Cruzei-me com Yemanjá (Rainha do Mar) e lembrei-me de uma letra que escrevi há alguns anos, para a Ala dos Namorados, estava eu a trabalhar no Brasil. Chama-se História de Pedra. Sabiam?!">https://lh3.googleusercontent.com/-2PZod19Jc3k/U6yJcc6Z2gI/AAAAAAAAmvw/-wM3AqdhNnc/s0/CatarinaFurtado_10441405_315250928634571_4760713618291830867_n.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">História de Pedra</nome>
+	<nome titulo="Interpretação">Ala dos Namorados</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Álbum">Cristal</nome>
+	<nome titulo="Ano">2000</nome>
+</creditos>
+
+<citacao href="revistas_luxwoman_junho2002.xml" fonte="Lux Woman" ano="2002">
+	<p>Já fiz letras por encomenda, mas há uma de que gosto muito e que quase ninguém conhece: 'Iemanjá', inspirada numa viagem ao Brasil, na altura das festas a essa santa. As músicas do 'SOS Crianças', escrevi-as para o Ruy de Carvalho, que fazia de avô, e inspirei-me no meu, e para as crianças que estavam no hospital e para a Ana Padrão, que tinha um amor não correspondido. E já todos tivemos amores não correspondidos. Na minha infância, lembro-me de um rapaz que adorava e que me tratava por trinca-espinhas. Nunca olhou para mim como uma rapariga, mas como um companheiro, porque era muito maria-rapaz. Ficava muito triste (risos).</p>
+</citacao>	
+
+<letra titulo="História de Pedra">
+	<br />
+	Faz tempo que o tempo não sente<br />
+	Faz tempo que o tempo não pára<br />
+	Faz tempo que o tempo não conta<br />
+	<br />
+	Deram nomes e trocaram<br />
+	Caras velas e sinais<br />
+	Reza a história de pedra<br />
+	<br />
+	Conquistada, partilhada<br />
+	Afilhada, assediada<br />
+	Faz tempo que o tempo não conta<br />
+	<br />
+	Iemanjá<br />
+	Iemanjá<br />
+	Iemanjá<br />
+	<br />
+	Faz tempo que o tempo se perde<br />
+	Faz tempo que o tempo se molda<br />
+	Faz tempo que o tempo se gasta<br />
+	<br />
+	No sotaque do olhar<br />
+	No embalo do calor<br />
+	Reza a história de pedra<br />
+	<br />
+	Ele beijou-a e dançaram <br />
+	Muito muito até hoje<br />
+	Faz tempo que o tempo não conta<br />
+	<br />
+	Iemanjá<br />
+	Iemanjá<br />
+	Iemanjá<br />
+	<br />
+	Chegaram ontem<br />
+	Chegaram ontem<br />
+	Chegaram ontem<br />
+	Chegaram ontem<br />
+	<br />
+	Iemanjá<br />
+	Iemanjá<br />
+	Iemanjá<br />
+	<br />
+	Lutas de amor e de dor<br />
+	Terras mar e de pudor<br />
+	Faz tempo que o tempo as levou<br />
+</letra>
+
+<elo href="https://www.youtube.com/watch?v=9b32tQXryRw">«História de Pedra»</elo>		
+
+</corpo>
+
+</pagina>

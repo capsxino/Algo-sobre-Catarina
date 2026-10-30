@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="entrevistas.xml" estado="completa" titulo="Entrevistas em Meios Escritos">
+
+<corpo>
+
+<arvore poda="imprensa.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>
+
+<!--
+https://www.cp.pt/passageiros/pt/como-viajar/destinos
+-->

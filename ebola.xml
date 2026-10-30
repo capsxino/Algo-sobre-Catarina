@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Ébola</titulo>
+	<descricao>Uma simulação da DGS</descricao>
+	<data><ano>2014</ano><mes>10</mes><dia></dia></data>
+	<fundo>https://lh6.googleusercontent.com/-ui0zHMB8uhY/VFt2wuFsvWI/AAAAAAAAp4c/G4FXRy7vrzY/s0/CatarinaFurtado_Ebola_20141101_5454faba0cf201333a7c08c2.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No final do mês de Outubro de 2014, vivia-se o auge dum surto epidemiológico de ébola na África Ocidental (cerca de 5 mil mortos entre 13 mil casos registados na Libéria, Serra Leoa e Guiné-Conacri.) Alguns casos detectados na Europa, entre missionários e pessoal médico regressados da região africana, lançaram um ligeiro alarme em Portugal. Foi neste ambiente que a Direção-Geral da Saúde (DGS) decidiu organizar um simulacro de triagem de casos suspeitos de contaminação pelo vírus do ébola, convidando a comunicação social a estar presente, e transmitir à população como proceder se apresentar sintomas de infecção.</p>
+<p>Talvez para a operação ter mais impacto, convidaram a Catarina a participar. Declarando ser a sua função "enquanto figura pública", aceitou. Na manhã do primeiro dia de Novembro, um sábado, num video distribuído pela agência Lusa, vemos a apresentadora a ligar para a Linha Saúde 24 e a descrever sintomas comuns a uma infecção pelo vírus; acabada de regressar a Lisboa, vinda dos Estados Unido da América, depois de ter estado 10 dias na Serra Leoa (tudo a fingir mas, de facto, ela regressou na véspera de Nova Iorque onde esteve na sede da ONU.) Foi depois transportada, de ambulância, para o Hospital Curry Cabral, onde foi feito um despiste ao vírus, que afinal, se revelou um caso de dengue. A noticia teve amplo destaque na impressa escrita e televisão, e imensas referências nas redes sociais.</p>
+<p>Uma semana depois do simulacro (estando a Catarina em Moçambique) não foi o ébola, mas um surto bem real da bactéria legionella a causar alarme em todo o país.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/kKrMo7OhNEym8CcCukURSFEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh3.googleusercontent.com/-p9qhLOY5S_Y/Vi3-yJkkf7I/AAAAAAAAthQ/GSV6ye69COU/w400-Ic42/CatarinaFurtado_Ebola_55100de50cf2694eef808134.jpg</imagem>
+
+<elo href="http://www.jn.pt/PaginaInicial/Sociedade/Saude/Interior.aspx?content_id=4214325">Artigo do Jornal de Notícias</elo>
+<elo href="http://www.jn.pt/PaginaInicial/Sociedade/Saude/Interior.aspx?content_id=4214276">Artigo do Jornal de Notícias</elo>
+<elo href="http://www.dn.pt/inicio/portugal/interior.aspx?content_id=4214293">Artigo do Diário de Notícias</elo>
+<elo href="http://www.dn.pt/inicio/portugal/interior.aspx?content_id=4214868">Artigo do Diário de Notícias</elo>
+<elo href="http://www.cmjornal.xl.pt/cm_ao_minuto/detalhe/ebola_catarina_furtado_simula_caso_suspeito_e_alerta_para_importancia_de_nao_ir_aos_servicos.html">Artigo do Correio da Manhã</elo>
+<elo href="http://observador.pt/2014/11/01/ebola-catarina-furtado-em-simulacro-para-alertar-populacao/">Artigo d'O Observador</elo>
+<elo href="http://videos.sapo.pt/aiy2yLiPezRWqw4b4FIJ">Video da Rádio Renascença</elo>
+<elo href="http://videos.sapo.pt/nH4c6SyNlOzfO3P7AK70">Reportagem da RTP</elo>
+<elo href="http://www.tvi24.iol.pt/sociedade/simulacro/catarina-furtado-simula-caso-suspeito-de-ebola">Reportagem da TVI</elo>
+<elo href="http://videos.sapo.pt/Zu7bQk3SjyAnAgZjvpbK">Reportagem da CMTV</elo>
+<elo href="http://www.ebola.dgs.pt/materiais/video-sobre-prevencao-ebola.aspx"></elo>
+<elo href="https://www.facebook.com/photo.php?fbid=885884198100869"></elo>
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/433633866796276/?type=1">Mensagem no facebook sobre a gravação do spot de alerta para o Ébola</elo>
+<elo href="http://www.lux.iol.pt/nacional/saude/catarina-furtado-participa-no-anuncio-de-prevencao-do-virus-ebola">Gravação do spot de alerta para o Ébola, com o Dr. Francisco George, Director Geral de Saúde</elo>
+
+
+</corpo>
+
+</pagina>

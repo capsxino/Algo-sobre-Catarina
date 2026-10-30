@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Gala RTP 50 Anos</titulo>
+	<descricao></descricao>
+	<data><ano>2004</ano><mes>2</mes><dia>7</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-75NP8OVL8U4/U--_gXtDlsI/AAAAAAAAog8/E6zx7FRpwNI/s0/CatarinaFurtado_Gala50AnosRtp_20070207_010014.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao autor="RTP" fonte="Sinopse">
+	<p>A RTP veste-se de gala para comemorar o seu 50.º aniversário, do Coliseu dos Recreios, num grandioso espectáculo apresentado por Catarina Furtado e José Carlos Malato.
+Um espectáculo grandioso para recordar as glórias, as músicas, as figuras, os acontecimentos, as notícias e as imagens da nossa história.</p>				
+</citacao>
+
+<elo href="http://www.dn.pt/inicio/interior.aspx?content_id=653499&amp;page=-1">Artigo do Diário de Notícias</elo>					
+
+</corpo>
+
+</pagina>

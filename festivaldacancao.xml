@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Festival da Canção</titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>3</mes><dia>7</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao fonte="Noticias Tv" ano="2015">
+	<p>[Lembro-me de ser] pequena e fazer teatros com a prima, Mafalda Vilhena, ao som de J'Aime la Vie, de Sandra Kim.</p>					
+</citacao>
+
+<elo href="http://media.rtp.pt/festivaldacancao/videos/conferencia-de-imprensa/">Conferência de apresentação em directo para o "Há Tarde" (19/2/2015)</elo>					
+<elo href="https://www.youtube.com/watch?v=aM6ZjKtuN3I">Conferência de imprensa (19/2/2015)</elo>					
+<elo href="http://www.rtp.pt/noticias/index.php?article=806154&amp;tm=4&amp;layout=122&amp;visual=61">Conferência de apresentação no Telejornal (19/2/2015)</elo>					
+<elo href="http://www.flashvidas.pt/lifestyle/detalhe/festival_da_cancao.html">Artigo Flash! Vidas</elo>					
+<elo href="http://www.escportugal.pt/2015/02/catarina-furtado-gostaria-de-concorrer.html">Entrevista do site ESC Portugal</elo>
+<elo href="">Está presente no "Há Tarde" para falar do Festival da Canção RTP (6/3/2015)</elo>
+<elo href="http://www.escportugal.pt/2015/02/catarina-furtado-gostaria-de-concorrer.html?m=1"></elo>
+<elo href="https://www.youtube.com/watch?v=ystovuHSux0"></elo>
+<elo href="https://festivaiscancao.wordpress.com/2015/03/17/o-olhar-de-luis-pereira-ao-festival-rtp-da-cancao-2015/catarina-furtado-e-julio-isidro/"></elo>			
+
+</corpo>
+</pagina>
+<!--
+A final, a 7 de Março, coincide com o aniversário da RTP
+
+"É importante nós todos ainda que tenhamos gostos diferentes revermo-nos na imagem do que passa lá para fora e acho que nestas 12 canções seguramente está portugal." - Há Tarde
+
+50 anos do Festival da Canção
+
+Só Visto / apresentação imprensa : http://bit.ly/1BPuXwH
+-->

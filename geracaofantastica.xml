@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pontuais.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Geração Fantástica</titulo>
+	<descricao>Programa da Sic que destacou 6 jovens portugueses excepcionais.</descricao>
+	<data><ano>1998</ano><mes>6</mes><dia>7</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>Em 1998, a SIC e o jornal "A Capital" juntaram-se na procura de jovens portugueses que se destacassem em áreas tão diferentes como a cultura, a solidariedade, o desporto ou a intervenção social.</cite> No dia 7 de Junho a Catarina apresentava o programa que revelava os 6 jovens excepcionais distinguidos pelo júri (entre ele o Daniel Oliveira!)</p>
+
+<elo href="http://videos.sapo.pt/gPY5fz0hB5ZLn2QBraoz">A SIC falou com os jovens do antigo programa de TV</elo>
+
+</corpo>
+
+</pagina>
+<!-- Colocar foto com Daniel Oliveira na altura do Alta Definição -->

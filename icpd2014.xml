@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="icpd.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Diálogo sobre População e Desenvolvimento</titulo>
+	<descricao>Conferência Internacional sobre a População e o Desenvolvimento (ICPD)</descricao>
+	<data><ano>2014</ano><mes>6</mes><dia>11</dia></data>
+	<fundo legenda="A Beatriz desenhou a mãe no avião">https://lh6.googleusercontent.com/-soLIDPHUAgE/VJX2PPNMetI/AAAAAAAAqRg/ZQgltEQHH_E/s0/desenhobeatriz.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 11 de Junho de 2014, a Catarina esteve em Praga, a convite do UNFPA, para moderar o painel "Mudar o mundo: Investir nas Mulheres e nas Jovens" na conferência "Diálogo sobre População e Desenvolvimento: Construir Capital Humano com vista à Prosperidade na Europa de Leste e Ásia Central".</p>
+
+<citacao>					
+	<p href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/312590722233925/?type=1" fonte="Facebook" autor="Catarina" ano="2014">Cheguei a Lisboa vinda de Praga de mais uma missão muito interessante com o Fundo das Nações Unidas para a População (UNFPA). Aprendi muito. Não fazia ideia do quanto há ainda a trabalhar na Europa de Leste e Ásia Central no que diz respeito aos Direitos Humanos, aos direitos das mulheres e jovens, casamentos precoces, aborto com base no género feminino e discriminações várias com diferentes formas de violência.A boa notícia é que desta Conferência saíram muitas ideias e vontades porque foram muitos os governantes dos diferentes países desta região a estarem presentes e a assumirem compromissos em prol de famílias mais saudáveis. A minha filha Beatriz fez este desenho para o meu regresso! Eu sou a terceira a contar do fim! Em terra, os meus tesouros, esperam-me! Sou uma sortuda</p>				
+</citacao>
+
+<elo href="http://eeca.unfpa.org/events/prague-dialogue-building-human-capital-prosperity">Página, no site do UNFPA, sobre o evento</elo>
+<elo href="http://www.elle.pt/stars/catarina-furtado-no-unfpa">Artigo no site da revista Elle</elo>
+
+</corpo>
+
+</pagina>

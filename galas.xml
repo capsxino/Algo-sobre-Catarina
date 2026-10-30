@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina titulo="Galas" cor="Beije" mae="apresentadora.xml" estado="completa">
+
+<corpo>
+
+<arvore poda="galas.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Globos de Ouro</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo legenda="Abertura de 3ª gala em 1998">https://lh3.googleusercontent.com/-b3AA_fFF9nI/Vi0uHj6VM3I/AAAAAAAAteo/6xfdvJJFYqQ/s0-Ic42/GlobosOuro_Caras_Set2007_07.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem legenda="Na plateia, antes do programa Operação Triufo receber o Globo de Ouro, em 2004." href="https://picasaweb.google.com/lh/photo/4ETzOdsuT3rWiH2jtm46SfLwqBqNn7kcCcuwhfVU82M?feat=embedwebsite">https://lh3.googleusercontent.com/--rGTY41DlPg/Us2TGZF0ccI/AAAAAAAAUDc/nFgWtVcAmhI/s400/CatarinaFurtado_GlobosOuro_20040524_010001.jpg</imagem>
+
+<imagem legenda="O actor Joaquim de Almeida recebe o Globo de Ouro, na sua primeira edição, em 1996." href="https://picasaweb.google.com/lh/photo/jr-q1I9v6yXmH3-it7MGkVEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh3.googleusercontent.com/-ed7NQcGUrYc/Vi0uHvv_hNI/AAAAAAAAtes/rtZKL4mUVIo/w400-Ic42/GlobosOuro_01.jpg></imagem>
+
+<elo href="https://picasaweb.google.com/lh/photo/S1gfnOuFbkhChAEh26wh31nXVeju3V3lLwC9qbT5IR0?feat=directlink">A revista Caras recorda as galas com a Catarina [pag.1]</elo>
+<elo href="https://picasaweb.google.com/lh/photo/TWQ-SzHq3JEui1qoIz36mFnXVeju3V3lLwC9qbT5IR0?feat=directlink">A revista Caras recorda as galas com a Catarina [pag.2]</elo>
+
+</corpo>
+
+</pagina>

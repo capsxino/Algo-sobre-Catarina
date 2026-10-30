@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Catarina Furtado esteve em Itália</titulo>
+	<descricao>O <cite>Fama Show</cite> acompanhou a viagem da apresentadora</descricao>
+	<data><ano>2015</ano><mes>9</mes><dia>26</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-BXJpWue4bUk/VgedjOBmonI/AAAAAAAAsc8/IDDQ23CRl1g/s0-Ic42/CatarinaFurtado_FamaShow_20150926_010000.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<video legenda="O Fama Show acompanhou a viagem da apresentadora" imagem="https://lh3.googleusercontent.com/-BYktVIS2vJo/VgedjK_IyAI/AAAAAAAAsdA/c-o43Zlg_vo/s400-Ic42/CatarinaFurtado_FamaShow_20150926_260000.jpg">http://rd3.videos.sapo.pt/pRAYESTKEmnaydTGpOnK/mov/1</video>
+
+<p>O <cite>Fama Show</cite>, do canal de televisão SIC, acompanhou a viagem da Catarina a Itália, onde esteve, a convite da Martini, na Expo Milão para conhecer a Terrazza Martini.</p>
+
+<p>As reportagens, feitas pela Rita Andrade, foram transmitidas no dia 26 de Setembro de 2015, e na seguinte semana, no dia 3 de Outubro de 2015.</p>
+
+<elo href="http://videos.sapo.pt/pRAYESTKEmnaydTGpOnK">Catarina Furtado esteve em Itália - Parte 1</elo>
+<elo href="http://videos.sapo.pt/YFhDBBzkBJPAwq0qgYI1">Catarina Furtado esteve em Itália - Parte 2</elo>
+<elo href="http://videos.sapo.pt/zFq3ImfOWvVJljsVZH22">Catarina Furtado esteve em Itália - Parte 3</elo><!-- 3/10/2015 -->
+<elo href="https://picasaweb.google.com/116136255703077903546/FamaShowViagemAItaliaEmSetembroDe2015?authuser=0&amp;authkey=Gv1sRgCOHNxtTt7faqlAE&amp;feat=directlink">Galeria de fotogramas</elo>
+<elo href="revista_lux_20151005.xml">Entrevista para a revista Lux</elo>
+
+<imagem href="https://twitter.com/Martini_Tweets/status/644522088875839488" legenda="«Catarina Furtado, la bellissima star della tv portoghese, ospite speciale in #TerrazzaMartini #Expo2015» - num tweet da Martini.">https://lh3.googleusercontent.com/-dNJKYDiKKTQ/Vhy7BeovC1I/AAAAAAAAs0o/hw7l6qXIrk0/s400-Ic42/CPHNXIHWoAEthwW.jpg</imagem>
+
+</corpo>
+
+</pagina>

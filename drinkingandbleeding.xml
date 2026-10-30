@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="curtasmetragens.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Drinking &amp; Bleeding</titulo>
+	<descricao>Curta-metragem da temporada Londrina da Catarina.</descricao>
+	<data><ano>1997</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://blog.productionparadise.com/2014/01/20/film-award-winner-caspar-arnhold-director-photographer-and-producer/" autor="Caspar Arnhold">
+	<p>Anyway, after my graduation I was pretty broke. But creative. In order to have something on my showreel for agents and casting directors to see, I wrote a script for a short film called ‘Drinking &amp; Bleeding’ and produced it. Basically ‘producing it’ meant asking favours and saving money. For example Len Whybrow the director and my flat mate at the time and I waited with the graded material in a pub in Soho until the editor was finished with his regular paying client. Then I spend him a couple of pints and we went up editing all night and leaving the Post House through the back door in the morning with a final cut. Beside Catarina Furtado with whom I had studied and I played the main part in this film. Len had found the cross-eyed, but brilliant swiss cameraman Martin Guggisberg to film it in a small Café in Brixton on 16mm. Apart from the fact that we sold the film to Portugal television for $ 800.- due to the fact that Catarina was already well known over there – it got me an agent in Germany.</p>	
+</citacao>
+		
+<creditos>
+	<nome titulo="Personagem da Catarina">Anna</nome>	
+	<nome titulo="Outros atores">Maria de Lima, Caspar Arnhold</nome>
+	<nome titulo="Argumentistas">Caspar Arnhold, Leonard Whybrow</nome>
+	<nome titulo="Realizador">Leonard Whybrow</nome>
+	<nome titulo="Produção">Caspar Arnhold / Choogy Production</nome>
+	<nome titulo="Data">1997</nome>
+</creditos>
+
+<elo href="http://www.youtube.com/watch?v=Tkgc-3ZcAwg">Trailer no Youtube.</elo>		
+<elo  href="http://www.caspar-arnhold.de/">Página de Caspar Arnhold.</elo>		
+<elo  href="http://www.imdb.com/title/tt0395996/">Página no IMDB.</elo>		
+
+</corpo>
+
+</pagina>
+<!---
+Caspar Arnhold,alemão, diplomou-se de London International School of Acting em 96
+./gifs/drinkingbleeding.gif
+-->

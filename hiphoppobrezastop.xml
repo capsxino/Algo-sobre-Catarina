@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Hip Hop Pobreza Stop!</titulo>
+	<descricao>Um concurso à volta do Hip Hop para lutar contra a pobreza.</descricao>
+	<data><ano>2009</ano><mes>1</mes><dia>3</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-7L9hm1t3xxs/UpjtCT3c14I/AAAAAAAARRc/PLnwdozSAaI/s0/CatarinaFurtado_HipHopPobrezaStop_02.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://www.rtp.pt/wportal/sites/tv/hiphop/" autor="RTP" fonte="Sitio oficial do programa">
+	<p>HIP HOP POBREZA STOP  não é só um concurso, é uma forma de expressão!<br/><br/>Porque há mais de 800 milhões de pobres em todo o mundo - 300 milhões são  crianças!<br/>Em Portugal, cerca de 2 milhões de pessoas adormecem, todas as noites, com  fome.<br/>E é por isso que a RTP, o Correio da Manhã, a Antena 3 e a Fundação FILOS, se  juntaram para ajudar a acabar com esta epidemia.<br/>Lançou-se o repto! O público votou através da internet e seleccionou 24  finalistas nas áreas do RAP e do Graffiti a partir de mais de 100 concorrentes,  de todo o país!<br/><a href="http://www.rtp.pt/wportal/sites/tv/hiphop/concorrentes_graffiti.php"><u>Nuno Palhas</u></a> venceu na categoria de Graffiti e os <a href="http://www.rtp.pt/wportal/sites/tv/hiphop/concorrentes_rap.php"><u>Caixa Toráxica</u></a> na categoria de  RAP. <br/>Venceram aqueles que, na opinião do júri, melhor retrataram a pobreza e a  exclusão social.<br/>SSUm júri constituído por: Sónia Araújo pela RTP; Álvaro Costa pela Antena 3;  Luís Amorim pelo Correio da Manhã; e, aquele que lançou a primeira pedra desta  iniciativa: Padre Maia, presidente da Fundação FILOS.<br/><br/>Escolhemos o Hip Hop porque queremos intervir, mudar e revelar. E é assim que  vamos lutar!</p>
+</citacao>
+
+<imagem href="https://picasaweb.google.com/lh/photo/R21lf70h2rf6IE9adnQTmlEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh5.googleusercontent.com/-snvZW-5subk/UpkDEQp-h9I/AAAAAAAARUA/MpvD5mIbgo8/s400/HipHopPobrezaStop_2008_01.jpg</imagem>
+
+<creditos>
+	<nome titulo="Género">concurso</nome>					
+	<nome titulo="Duração">97 minutos</nome>					
+	<nome titulo="Apresentação">Catarina Furtado</nome>					
+	<nome titulo="Data de Emissão">3 de Janeiro de 2009</nome>					
+	<nome titulo="Data da Gravação">18 de Outubro de 2008</nome>					
+	<nome titulo="Local da Gravação">Pavilhão Multiusos de Gondomar</nome>					
+</creditos>
+
+<elo href="http://www.rtp.pt/wportal/sites/tv/hiphop/">Sitio oficial do programa</elo>					
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/catarina-apresenta-festival-hip-hop">Artigo do Correio da Manhã</elo>					
+<elo href="http://www.youtube.com/watch?v=6dY8R3byZh0">Programa completo no youtube</elo>					
+
+</corpo>
+
+</pagina>

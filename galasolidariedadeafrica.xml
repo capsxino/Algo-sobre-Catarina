@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Gala Solidariedade África</titulo>
+	<descricao></descricao>
+	<data><ano>2005</ano><mes>12</mes><dia>28</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-tHVLkmHpOrE/UpjtFDphOUI/AAAAAAAARSU/oYPWUWrxE4w/s0/CatarinaFurtado_GalaSolidariedadeAfrica_04.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/missao-ajudar"></elo>
+
+</corpo>
+
+</pagina>

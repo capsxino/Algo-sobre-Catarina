@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Grande Entrevista</titulo>
+	<descricao>Catarina Furtado em Grande Entrevista, com Vitor Goncalves, na RTP Informação.</descricao>
+	<data><ano>2015</ano><mes>7</mes><dia>24</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos titulo="">
+	<nome titulo=""></nome>
+</creditos>
+
+<grande><elo href="http://www.rtp.pt/play/p1718/e202710/grande-entrevista">A entrevista em RTP Play</elo></grande>
+
+</corpo>
+
+</pagina>

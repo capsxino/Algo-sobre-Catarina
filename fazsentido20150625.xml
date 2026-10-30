@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Faz Sentido</titulo>
+	<descricao>Conversa com a Ana Rita Clara na SIC Mulher</descricao>
+	<data><ano>2015</ano><mes>6</mes><dia>25</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+</corpo>
+
+</pagina>

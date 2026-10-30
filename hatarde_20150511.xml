@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Há Tarde</titulo>
+	<descricao>A poucos dias da estreia do "Cook Off - Duelo de Sabores", a Catarina esteve no "Há Tarde" para falar do novo programa de culinária da RTP.</descricao>
+	<data><ano>2015</ano><mes>5</mes><dia>11</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-pySaiIcBSDk/VVRUml_JTlI/AAAAAAAArV0/CSAtxbz0k5c/s720/CatarinaFurtado_HaTarde_20150511_110000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A poucos dias da estreia do <cite>Cook Off - Duelo de Sabores</cite>, a Catarina esteve no <cite>Há Tarde</cite> para falar do novo programa de culinária da RTP; bem acompanhada pelo Chefe Kiko e Chefe Cordeiro, que cozinharam um saboroso arroz de enchidos portugueses - a receita pode ser vista na <cite>RTP Play</cite> do dia 11 de Maio de 2015.</p>
+
+<p>Para a apresentadora, o <cite>Cook Off</cite> <q>tem sido muito interessante do ponto de vista afectivo; as pessoas recebem-nos muito bem. A televisão faz muitos programas a falar de nada, mas aqui nós voltamos a respirar Portugal: vamos a sítios onde já há pouca gente jovem, mostramos as maravilhas que cá existem. Há produtores a fazerem coisas extraordinárias que não há lá fora! E através da gastronomia mostramos as outras coisas. Portugal tem coisas magnificas, mas temos péssimo poder de comunicação, e o programa é também isso.</q></p>
+
+<grande>
+	<elo href="http://videos.sapo.pt/manage/video/ZAkZge2NOB99HzS6YsmM">Video (editado) do "Há Tarde" do dia 11/5/2015</elo>
+</grande>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="series.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Ganância</titulo>
+	<descricao>A primeir telenovela a SIC.</descricao>
+	<data><ano>2001</ano><mes>3</mes><dia>19</dia></data>
+	<data><ano>2001</ano><mes>11</mes><dia>30</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_novagente_janeiro2001_01.xml" fonte="Nova Gente" ano="2001">
+	<p>É a primeira novela da SIC, o que me seduz bastante, começo a filmar este mês e a novela vai para o ar em Março.</p>
+</citacao>
+<citacao href="jornal_cm_20030928.xml" fonte="Correio da Manhã" ano="2003">
+	<p>A crítica reagiu de uma forma primária. Lá vem esta outra vez. Já não lhe chega ser apresentadora, escrever letras de canções, fazer cursos disto e daquilo e agora também quer fazer novelas..., pensaram. Mas acho que a minha evolução foi notória. A certa altura, sentia-me tão acossada que cheguei a levar os episódios para casa e ver cena a cena, de forma a tentar perceber o que é que estava a fazer tão mal que justificasse tanta… O lado bom foi o apoio dos meus colegas. E tive o privilégio de contracenar com aquela que eu considero ser a melhor actriz da sua geração – a Maria João Luís, que me ensinou muito e que me ajudou a acreditar em mim.</p>
+</citacao>
+<citacao href="revista_seleccoes_2001.xml" fonte="Selecções Reader's Digest" ano="2001">
+	<p>A telenovela nunca me entusiasmou como espectadora e em minha casa não se viam telenovelas. Mas é, nitidamente, cada vez menos uma arte menor. Porque hoje já se fazem telenovelas com textos bastante apurados e com grandes actores. Vemos isso no Brasil. Grandes actores do teatro e do cinema fazem telenovelas. Eu tinha sido convidada várias vezes antes da Ganância para fazer telenovelas, e nunca fiz porque sempre achei que devia tentar ir pelo outro caminho, o do teatro, do cinema. Continuo mais ou menos com a mesma opinião. No entanto, acho hoje que, como actriz, se pode aprender muito com a telenovela. Aprende-se técnica, sobretudo. E a técnica pode depois ser aplicada no teatro ou no cinema. E, se se apostar na qualidade, cada vez mais a telenovela pode ser um produto superior. E isso é que é o grande desafio.</p>
+</citacao>
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p><small>Mas foi um falhanço em audiências...</small></p>
+	<p>Sim, mas deu-me uma escola enorme. Tiro o meu chapéu a todos os actores que fazem novelas. São escravos, trabalham horas intermináveis, sem condições e têm de decorar as cenas na véspera. É um trabalho inqualificável.</p>		
+</citacao>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+
+| 19 de Março de 2001 a 30 de Novembro de 2001  > Leonardo Vieira e Catarina Furtado > 150 Episódios |
+
+SINOPSE | Filho de uma família tradicional, Fernando Miguel de Bello Menezes foi enviado para o estrangeiro para estudar e, ao mesmo tempo, fugir à guerra. Aí conheceu Maria Amélia, uma portuguesa do norte do país, mulher tão bonita quanto simples, filha de agricultores. Precisamente no dia em que celebram, nas ruas de Itália, a Revolução do 25 de Abril, os dois vêem a famosa estátua da loba a dar de mamar a dois meninos. Para além das eternas juras de amor, os amantes, impressionados com a história da origem de Roma, prometem chamar Rómulo e Remo aos filhos, se algum dia tiverem gémeos. De volta a Portugal, com a companheira grávida, Fernando é impedido pela família de ficar noivo de Amélia. O herdeiro dos Bello Menezes não resiste às pressões e abandona a paixão da sua vida. Amélia vê-se obrigada a fugir de casa e, no meio de uma forte discussão com Fernando Miguel, entra em trabalho de parto… e nasce o primeiro filho. O pai da criança pega no bebé e vai à procura de auxílio. Instantes depois, recomeçam as dores… Maria Amélia é recolhida por Anacleto, empregado da Quinta Bello Menezes, que a ajuda a dar à luz um segundo filho. Quando regressa, Fernando Miguel já não encontra Amélia. Esta pede a Anacleto que guarde segredo do que viu e foge para o Brasil, deixando para trás uma fotografia tirada em Itália. Vinte e cinco anos mais tarde, o destino dos dois irmãos, Rómulo e Rodrigo, vai cruzar-se. No meio, existe uma bela mulher, Isabel Melo Gomes, por quem ambos se apaixonam.
+-->

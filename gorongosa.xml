@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="documentarios.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>A Aventura da Catarina na Gorongosa</titulo>
+	<descricao>A Catarina guia-nos pelo Parque Nacional da Gorongosa, um projecto de recuperação da vida selvagem, evolvendo as comunidades, em Moçambique.</descricao>
+	<data><ano>2014</ano><mes>2</mes><dia>23</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-CdH7udnZCSo/U4C6_67Dt3I/AAAAAAAAl3E/vlj0B2zhC18/s0/CatarinaFurtado_Gorongosa_060.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://ngm.nationalgeographic.com/2013/06/gorongosa-park/wilson-text" autor="Edward O. Wilson" fonte="National Geographic" ano="2013">
+	<p>In the summer monsoon season of late November to mid-March, the rain clouds ride the trade winds of the Indian Ocean west into Mozambique. Crossing the coast, they refresh the miombo woodlands of the Cheringoma Plateau, then the savanna and floodplain grasslands of the Great Rift Valley. Finally they run aground on the slopes of Mount Gorongosa, where they release great torrents of rain, like a benediction.</p>
+	<p>[...]</p>
+	<p>Gorongosa certainly suffered a precipitous fall from grace. Three years after Mozambique won its independence from Portugal in 1975, a civil war broke out and raged for 17 years. The park, which had been established by the colonial government in 1960, became a battleground. Its headquarters and tourist facilities were destroyed. Roving soldiers, hungry for food as well as for ivory they could trade for weapons in South Africa, killed many of the large animals. After peace accords were signed, but before order could be restored at Gorongosa, commercial poachers killed an even larger number of animals, peddling the meat at nearby markets. In the end, nearly all the big game species were gone or nearly gone. Only the crocodiles, quick to slide down muddy banks into the safety of the rivers, escaped with little harm.</p>
+	<p>[...]</p>
+	<p>Now that the mountain is part of it, the park has the authority to secure the forest perimeter. The forest won’t be truly secure, though, until those who are destroying it are given alternatives. Tourism is part of Carr’s answer, but he has also hired teams to create numerous nurseries to grow seedlings of the rain forest trees and begin the decades-long, perhaps centuries-long process of returning the forest to its original area. The park is creating schools and health clinics for local people at the base of the mountain, below the rain forest. Finally, a center for scientific research and education is planned for the Chitengo Camp. The emphasis will be on the environment inside the park and on the preservation of its biodiversity.</p>
+</citacao>
+
+<citacao fonte="Regressada de Moçambique, em Julho de 2013, a Catarina escreveu um texto sobre o Parque da Gorongosa para a revista Caras" href="http://caras.sapo.pt/famosos/2013/08/03/a-aventura-de-catarina-furtado-no-parque-da-gorongosa">
+	<p>Foram dias únicos na minha vida. De mui­to trabalho e de muita aprendizagem. O convite para fazer um documentário de 50 minutos sobre o Projecto de Restauração da Gorongosa, com a equipa responsável pelos melhores e mais premiados documentários do mundo sobre vida selvagem, entre eles o grande realizador <strong>Bob Poole</strong> (National Geographic, Discovery, BBC, etc.) deixou-me muito feliz e ao mesmo tempo com um nervoso miudinho! Quem me fez o desafio foi o próprio <strong>Greg Carr</strong>, filantropo norte-americano (que fez fortuna por ter inventado o <em>voicemail</em>) que decidiu que grande parte do seu dinheiro seria aplicada na defesa e na promoção dos Direitos Humanos e dos animais. Numa das suas viagens apaixonou-se pelo Parque Nacional da Gorongosa, em Moçambique, que noutros tempos era o local ideal para as férias das estrelas de Hollywood, que podiam fazer maravilhosos safaris e testemunhar aquele que é considerado, do ponto de vista ecológico, o parque mais diversificado do mundo. Os 16 anos de conflito armado fizeram desaparecer 95 por cento da fauna bravia e milhares de animais foram mortos por diferentes razões. Greg Carr tem um sonho e está a torná-lo realidade: devolver ao parque a beleza dos tempos dourados, melhorando as condições de vida das populações que vivem em seu redor.<br/><br/>Em 2006, no início do projeto, fui fazer uma reportagem para o programa <em>Príncipes do Nada</em> sobre o sonho do Greg. Passados sete anos, pude comprovar que o sonho e a promessa de Greg e da sua equipa está mesmo a concretizar-se! E a sensação é maravilhosa. Há pessoas no mundo que podem realmente fazer a diferença, pequenas ou grandes diferenças, são sempre diferenças para melhor! Através deste documentário, irei mostrar às pessoas o verdadeiro papel de um turista que visita o parque. Como se pode divertir e aprender e ao mesmo tempo contribuir para a conservação e a criação de emprego. O rendimento do turismo é a chave para fazer da Gorongosa, no futuro, um parque autossustentável. O Projecto de Restauração do parque visa desenvolver as atividades na área do ecoturismo, recuperar o ecossistema, estudar a complexa teia de vida da Gorongosa e ajudar as comunidades mais próximas a sair da pobreza, prestando assistência aos camponeses, implantando programas educacionais e de cuidados de saúde. <br/><br/>Um orgulho e uma verdadeira oportunidade de ver fazer o bem! Espero que gostem quando for exibido, entre outras estações, na RTP!</p>
+</citacao>
+
+<citacao autor="Joana Côrte-Real" fonte="Lux" ano="2013">
+	<p><del>Após 11 dias separada de João Reis e dos filhos, Beatriz, de 7 anos, e João Maria, de 5, Catarina Furtado foi surpreendida pelo marido à chegada ao aeroporto de Lisboa. O ator não prescindiu de ir buscar a mulher, que esteve em Moçambique a gravar um documentário sobre o Parque Nacional da Gorongosa, para a RTP1, que será emitido em vários países de língua oficial portuguesa. <q>Sofro muito com a distância, mas já tenho estratégias bem definidas. Nas minhas viagens, levo sempre comigo coisas dos meus filhos que têm o cheiro deles e um livro de fotografias que o meu marido me deu. Anda sempre comigo, mesmo nas viagens de três dias, e tem como título 'Para quando estiveres longe'. São fotografias dele ao longo destes oito anos de 'Príncipes do Nada'</q>, revela Catarina Furtado, em exclusivo à Lux. Durante as suas várias aventuras em África, nem sempre tem forma de contactar a família. Os meios de comunicação são escassos ou mesmo inexistentes, e é nessas alturas que o coração aperta. <q>Consegui superar as saudades, até porque os dias foram muito preenchidos. Dormimos pouco e gravámos muito</q>, relata Catarina Furtado. Nesta aventura, a apresentadora enfrentou situações inéditas que, de certa forma, a transformaram como profissional e mulher. No Parque Nacional da Gorongosa, acompanhada pelo premiado operador de câmara e realizador da National Geographic Bob Poole, Catarina Furtado atravessou um rio com crocodilos, viu passar manadas de elefantes, cruzou-se com cobras venenosas e esteve lado a lado com leões, aqueles que são os temi-dos reis da selva. </del><q>Ao contrário do Kruger Park, onde tudo já está acomodado para o turista, ali é <i>wild</i> [selvagem] à séria. Confesso que tive um bocadinho de medo, mas eu gosto dessa adrenalina. A estratégia? Acreditei que estava ali com pessoas que fazem aquilo a vida toda</q><del>, conta a estrela da RTP. Na bagagem, traz memórias difíceis de apagar e peripécias arriscadas que pretende revelar em família: <q>Agora espero pelos serões, para contar tudo o que vivi. Trago imensas fotografias e muitas histórias para contar aos meus filhos. O que quero transmitir-lhes é que não devemos forçar nada na Natureza e como é comovente ver todos estes animais no seu habitat. Para todos os efeitos, eu estava em trabalho, mas passei o tempo todo a lembrar-me dos meus filhos, porque eles iam amar ver tudo aquilo que eu vi.</q></del></p> 
+</citacao>
+
+<elo href="https://picasaweb.google.com/lh/photo/qPO-L5N8DwcbHOmWWIo-DBOXbgRy0ABb-_jzPRB_IaE?feat=directlink">Artigo da revista Lux (página 1)</elo>
+<elo href="https://picasaweb.google.com/lh/photo/PhqXsqEpPnnIvpgVzd3eFROXbgRy0ABb-_jzPRB_IaE?feat=directlink">Artigo da revista Lux (página 1)</elo>			
+
+<citacao> href="gq2013.xml" fonte="GQ" ano="2013">
+	<p>Assisti a momentos comoventes, como quando um caçador furtivo, que matava para sobreviver e alimentar a sua família, entregou a sua arma. Em troca recebeu outra, mas para ser guarda do parque. E isto é possível aos sessenta anos. Esta cadeia do bem ainda é aquilo em que eu continuo a acreditar.</p>				
+</citacao>
+<citacao href="revista_tvguia_20131201.xml" fonte="GTV Guia" ano="2013">
+	<p>Foi uma das maiores experiências profissionais da minha vida.</p>
+</citacao>
+<citacao href="revista_tabu_20140117.xml" fonte="GTabu" ano="2014">
+	<p>Mas é um documentário com o objectivo de mostrar que a Gorongosa é um destino de turismo. A RTP decidiu guardar o documentário porque não vamos dizer que está tudo uma maravilha quando existe um conflito que pode tornar uma viagem mais complicada.</p>
+</citacao>
+<citacao href="revista_tvguia_20140223.xml" fonte="GTv Guia" ano="2014">
+	<p>O objectivo do documentário é mostrar ao público que pode estar no meu lugar e ser turista no Parque Nacional da Gorongosa. Pus a mochila às costas e fui à descoberta. Embora eles tenham guias absolutamente extraordinários e haja muita segurança, os elefantes da Gorongosa têm a memória da guerra e há sempre algum receio, claro.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/PW1obpe1YMXWJs_ByB304RJfOAsVO4BDy642eMYnaWw?feat=directlink" fonte="Diário de Notícias" ano="2014">
+	<p>Vou fazer outro documentário com a National Geographic. O Greg Carr fez- me o convite no dia da antestreia deste primeiro [a apresentadora avança que, neste segundo documentário, irá mostrar como é a vida das crianças
+que habitam o parque.] Foi uma ideia que dei e que o Greg aceitou. Esta parte humana é a mais importante para mim. Estou muito feliz por ter esta oportunidade. Fazer documentário é o que mais me move em televisão</p>
+</citacao>
+
+<elo href="http://www.flickr.com/photos/rtppt/sets/72157641071750193">Galeria de fotografias no Flickr da RTP</elo>				
+<elo href="http://www.cbsnews.com/video/watch/?id=5119851n">Reportagem do programa '60 Minutes' da CBS sobre o Parque, centrado na pessoa de Greg Carr.</elo>				
+<elo href="https://vimeo.com/11903518">Africa's Lost Eden Trailer</elo>
+<elo href="http://www.youtube.com/watch?v=Wc2S3USg6tY">No "Verão Total" a falar sobre o documentário no dia 31 de Julho de 2013</elo>
+<elo href="http://www.youtube.com/watch?v=nUpqhP3IYo4">A locução do documentário, numa reportagem do "Só Visto!" [Parte 1]</elo>
+<elo href="http://www.youtube.com/watch?v=Skw-oI97u4I">A locução do documentário, numa reportagem do "Só Visto!" [Parte 2]</elo>
+<elo href="http://www.youtube.com/watch?v=FBrjR41hL-k">A locução do documentário, numa reportagem do "Só Visto!" [Parte 3]</elo>
+<elo href="http://www.rtp.pt/play/p1472/e144943/aventura-catarina-furtado-gorongosa">O documentário completo na RTP Play</elo>
+<elo href="http://www.youtube.com/watch?v=Z8cdaaBg3aE">O documentário completo no Youtube</elo>
+<elo href="https://vimeo.com/87521773">O documentário completo no Vimeo</elo>
+<elo href="revista_tvguia_20140223.xml">Artigo da revista TV Guia</elo>
+<elo class="icon fotografia" href="https://picasaweb.google.com/116136255703077903546/Gorongosa?authuser=0&amp;authkey=Gv1sRgCKz81Mii7M_ELA&amp;feat=directlink">Imagens</elo>
+<elo class="icon fotografia" href="https://picasaweb.google.com/116136255703077903546/AAventuraDaCatarinaNaGorongosa?authuser=0&amp;authkey=Gv1sRgCMLopYzxgtTykQE&amp;feat=directlink">Fotogramas</elo>
+
+</corpo>
+
+</pagina>
+<!--
+<citacao>
+<p>The overall effect of the rinderpest plague, compounded by initial depopulation and the subsequent migration of people away from the bite of the tsetse fly, was to shift the ecological balance of the trypanosome sleeping sickness cycle heavily in favor of wild-animal populations. In East Africa in particular, areas which had once supported large and relatively prosperous populations of herders and farmers were transformed into tsetse-infested bush and woodland inhabited only by wild animals. Influential colonists during the colonial period assumed that these regions were precious examples of African environments which had existed since time began. Believing that the plains and woodlands packed with animals were a manifestation of “natural” perfection, untouched by humanity, they declared that they should be preserved from human depredation forevermore. Most are now tsetse-infected game parks: Serengeti, the Masai Mara, Tsavo, Selous, Ruaha, Luangwa, Kafue, Wankie, Okavango, and Kruger...</p>
+<cite>Africa - A Biography of the Continent by John Reader</cite>				
+</citacao>
+<citacao>
+<p>Estando nós n’esta ilha foi nos affirmado que tinham ido á Capitanea certos Mouros honrados que aqui habitavam, a cumprimen­tar o Capitão; aos quaes elle perguntou muitas cousas a respeito da mina de Çofala; e perante muita gente que alli se achava, responderam que com toda a certeza havia então uma grande guerra no logar donde vinha o ouro, e por este motivo não podia chegar n'aquella occasião, porém que havendo paz podem-se extrahir da mina dois milhões de mitigaes, valendo cada mitigal um ducado, e um terço; e que os annos passados, estando o paiz pacifico, as naus de Meca de Judá e de muitos outros legares tiravam da mina os ditos dois milhões; e que a Rainha Saba, que levara a este rei um tam grande presente era natural das partes da índia.</p>
+<cite></cite>				
+</citacao>
+-->
+<!--
+*****
+o convite partiu de Greg Carr
+sera editado nos USA pela equipa da Nationa Geographic
+
+
+***
+Aterrou em maputo no quinta feira dia 6
+***
+A apresentadora da RTP1 parte dia 5 de junho para África, onde fará um documentário sobre o Parque Natural da Gorongosa.
+
+Catarina Furtado tem um novo projeto em mãos. A apresentadora deixa a condução da segunda temporada de Feitos ao Bife, com estreia em junho, a cargo de Vasco Palmeirim, e vai partir para Moçambique dia 5, onde ficará até dia 19. "É um projeto muito aliciante, parecido com Príncipes do Nada. Vou fazer um documentário em Moçambique, parto dentro de oito dias", disse a apresentadora à Notícias TV, visivelmente feliz.
+
+O documentário de 50 minutos será sobre o Parque Natural da Gorongosa e do projeto fará parte um dos mais premiados realizadores e diretores de fotografia do mundo: Bob Poole, autor dos mais conhecidos filmes sobre a vida selvagem, aventura e ciência que se fizeram até hoje, tendo recebido vários Emmys. O realizador trabalha para a National Geographic, Discovery, BBC, CBS, entre outros canais.
+
+Foi o filantropo norte-americano Greg Carr quem convidou Catarina Furtado a ir descobrir na primeira pessoa todos os recantos do Parque Natural, vivendo a experiência. O documentário será exibido na estação pública, como explica o agente de Catarina. "Como contrapartida ao convite que lhe fizeram, a equipa do Parque Natural da Gorongosa irá oferecer à RTP a transmissão do documentário", revela Rui Calapez.
+
+Não será a primeira vez que a apresentadora visita o parque natural, pois já o fizera duas vezes para o seu Príncipes do Nada para a RTP, documentando o desenvolvimento ao nível das populações com a restauração do parque, mas noutro contexto mostrou o que foi feito relativamente sobre educação, saúde e ambiente. Agora, Catarina regressa, mas com o olhar do turista que tem a função de mostrar o que o parque tem para quem o visita. Uma aventura que será filmada durante o dia e durante a noite. A ideia, segundo o agente da apresentadora, será "mostrar que a chave do futuro da Gorongosa é exatamente o turismo, criando postos de trabalho para os moçambicanos, que, com esta nova realidade, percebem a importância de preservar a natureza e de a manter intacta para os seus filhos."
+
+http://www.dn.pt/revistas/ntv/interior.aspx?content_id=3236349 
+*****
+Hugo Filipe Marques Gonçalves Boa viagem!!! E bom trabalhinho!!Será que vais conseguir sem nós!!?!?eheheh
+Gosto · Responder · Quinta-feira às 12:38
+
+    Catarina Furtado Vou Huguinho mas não é a mesma coisa!! Saudades!
+    Gosto · Sexta-feira às 22:22
+    Hugo Filipe Marques Gonçalves Lol!!Queres dar um saltinho a Angola ?estamos pertinho!! Manda cuprimentos a todos aí na Gorongosa..bj grande e cuida-te!!
+    Gosto · Sexta-feira às 22:24
+    Catarina Furtado Já enviei os teus cumprimentos ao Gregg, Vasco , Bob e Mateus. Amanhã será o Safari à procura dos leões porque eles agora sabem onde estão por causa dos " colares Gps"! Beijos grandes! Tu é que podias vir de Angola até aqui!!:)
+    Gosto · há 14 horas
+    
+ (8 de junho)
+*****
+Mas domingo parto para Chimoio, sigo para Maputo e duas horas depois embarco para Lisboa. Prometo que se voltar cá brevemente ( e tudo indica que sim) irei contactar-vos! 
+(13/6/2013)
+*****
+o ouro e o marfim do interior de sofala
+http://abemdanacao.blogs.sapo.pt/838269.html
+*****
+expedição a Monomotapa  JVS III 145
+o sonho de Monomotapa JVS IV 196
+africa oriental JVS V 290
+africa oriental JVS VI 154
+africa oriental JVS VI 375
+africa oriental JVS VII 205
+africa oriental JVS VII 460
+africa oriental JVS VIII 154
+*********
+http://events.nationalgeographic.com/events/speakers-bureau/speaker/bob-poole/
+************
+Paulo Jorge Matos
+Hoje a pista do chitengo esteve muito agitada.não pelos melhores motivos..devido ao conflito Renamo/Frelimo, nesta zona, evacuamos todos os nossos hóspedes, por motivos de segurança..é um dia triste para a Gorongosa National Park.
+(20/6/2013)
+*************
+http://www.publico.pt/mundo/noticia/renamo-ameaca-bloquear-circulacao-no-centro-de-mocambique-1597780
+***************
+saiu da gorongosa dia 16 (chegou dia 19 a pt?)
+******************
+Foi um convite que surgiu de um filantropo norte-americano, o Greg Carr
+
+gq.html
+
+http://fama.sapo.pt/noticia/catarina-furtado-festeja-o-dia-dos-namorados
+http://youtu.be/bpKEEBgAihs
+
+******
+
+O parque da gorongosa é o parque mais diversificado em termos de ecosistema do mundo inteiro
+Filantropo Greg Carr dedica parte da sua fortuna a recuperação do parque
+Projecto de restauração do parque nacional da gorongosa - a catarina conheceu quando foi fazer uma reportagem para o principes nessa altura so projectava o sonho - passados 4 anos confirma a construção - novos animais - aulas de educaçao para o desenvolvimento - emprego - tem alternaticas para a sua sobrevivencia - 
+
+"Eu tive uma experiencia extraordinaria que foi ir com aqueles meninos que nascem ali e nunca na vida viram animais de perto, nunca viram um animal selvagem, e fui fazer o primeiro safari da vida daqueles miudos, que estavam entre a exitação e o medo terrivel."
+
+"o greg carr fez me o convite pq é importante preceber que o parque só vai sobreviver se for autosustentavel. e como é que ele pode ser autosustentavel ? com o turismo. e o que eu fui provar: fui vestir a minha capa de turista e fiz tudo aquilo que um turista possa fazer. portanto todas a peripecias, todos os safaris nocturnos, diurnos."
+
+"tive 10 dias na gorongosa a filmar todos os dias"
+
+acompanhou-se deste o aeroporto até estar olhos nos olhos com o leão.
+
+"não é como o kruguer que tem estradas alcatrodadas ali é selva pura. ali sente-se que se esta mesmo no meio da selva"
+
+"o documentário foi feito com a melhor equipa que eu podia ter."
+
+a catarina camacho acompanhou a assinatura do protocolo entre o parque e a universidade de coimbram
+
+fui com a minha máquina e uma produtora da rtp : paula velez (tive que tomar conta dela pq cada vez que via um leão dava um grito)
+há regras - não se pode gritar 
+uma manada de elefantes a passar a nossa frente é uma coisa para tu ficares assim... nem respiras
+o parque tem as condições todas para que não corramos risco de vida
+
+foi aquilo que me levou, a mim e á equipa do PN a ir lá, pq foi ainda antes da ideia do animais foi este projecto de recuperação do parque iria melhorar a vida das pessoas que vivem em extrema pobreza, isso para mim era a grande coisa, são as pessoas sempre que me movem mais que os animais lindos de morrer - e o que eu fui constatar com os principes do nada foi que as pessoas estão a viver melhor. estão ater mais acesso a cuidados de saude e educação. é isso que eu acho que faz sentido.
+
+bob poole - um dos realizadores mais premiados no mundo no que diz respeito à vida selvagem - é uma pessoa absolutamente simples, com quem eu aprendi imenso.
+
+"depois hei-de lá voltar pq já tive outro convite"
+
+**************************
+
+Desde a partida do aeroporto até estar cara a cara com um leão - é este o percurso da Catarina Furtado que vamos poder acompanhar no documentário que a RTP transmite no próximo domingo, dia 23 de Fevereiro de 2014. Ela, esteve no "Portugal no Coração" para partilhar um pouco do fascino com que voltou de Moçambique depois de gravar com o premiado realizador Bob Poole no local com maior biodiversidade do mundo: o Parque Nacional da Gorongosa, que tem sido recuperado com o investimento do filantropo Greg Carr, dinamizador dum projecto que envolve toda a comunidade num equilíbrio sustentável entre o homem e a vida selvagem. Também está incluída uma reportagem acerca da assinatura do protocolo com a Universidade de Coimbra. 
+https://www.youtube.com/watch?v=sxpwHS1SRi8
+******************
+ A apresentadora da RTP confessa que o que mais gosta de fazer são documentários como "A Aventura de Catarina na Gorongosa", que se estreia às 21.15 de domingo, dia 23, na RTP1.
+
+"Sempre gostei de documentários. É das coisas que mais gosto. É o que me move", começou por dizer Catarina Furtado ao nosso jornal. A apresentadora da RTP1, que se prepara para conduzir The Voice a partir do final da março, é a protagonista de A Aventura de Catarina na Gorongosa, que pode ser visto a partir das 21.15 este domingo.
+
+O convite para fazer este documentário nasceu depois de Catarina Furtado ter conhecido o filantropo norte-americano Greg Carr. "O sonho dele era investir o seu dinheiro na vida selvagem e andou pelo mundo inteiro até ter descoberto Moçambique. Decidiu que queria recuperar o Parque Nacional da Gorongosa, fez um protocolo por 20 anos e aplicou parte da sua fortuna ali", explica a apresentadora. "Quando eu me cruzei com ele em Moçambique, estava a fazer Os Príncipes do Nada e filmei aquilo que seria o projeto de Carr. Passados quatro anos, novamente com Os Príncipes, e confirmei que na Gorongosa as coisas estavam de facto a mudar. Havia mais animais, as pessoas estavam a viver melhor, havia centros de saúde, as crianças e os adultos estavam a ter aulas de consciencialização e de educação relativamente à importância da conservação e do ecossistema do parque", prosseguiu Catarina Furtado.
+
+O convite surgiu "passado algum tempo". "O Greg Carr convidou-me para fazer o documentário, não enquanto repórter ou contadora de histórias, mas sim enquanto protagonista e visitante. Fiquei completamente entusiasmada com a ideia. Além disso, acrescentou um factor extraordinário, que é a equipa de filmagens ser da National Geographic e o realizador ser Bob Poole, um dos mais premiados de sempre em termos de vida selvagem e de fauna bravia", concluiu a apresentadora, para quem as gravações constituíram "uma experiência única" de dez dias em que, garante, se fartou de "gritar de entusiasmo".
+http://www.dn.pt/inicio/tv/interior.aspx?content_id=3697481
+****
+			Artigo DN (22)
+			Artigo TV Guia (22)
+****
+http://www.dn.pt/inicio/tv/interior.aspx?content_id=4792935
+-->

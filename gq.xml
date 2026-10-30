@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>GQ</titulo>
+	<descricao>Revista Gentlemen's Quarterly Portugal</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-R10EIrg7Di0/UcCJg4DAMmI/AAAAAAAAPhs/qOl1486sZvQ/s0-Ic42/CatarinaFurtado_GQ_Maio2003_02.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco>
+
+<incorporar>gq2003.xml</incorporar>
+
+<bloco titulo="Mulher Nacional do Ano (2013)">
+	<p>No dia 18 de Maio de 2013, aconteceu na Cidadela de Cascais, a primeira cerimónia de entrega dos <i>GQ Men of the Year Awards</i>. A Catarina recebeu o galardão de Mulher Nacional do Ano. No texto que acompanha a fotografia publicada na edição de Junho da revista lê-se: <q>De estrela em ascensão na década de 90 a um dos nomes mais respeitados da televisão nacional, Catarina Furtado construiu uma carreira que se impõe pela seriedade e pelo apego às causas sociais.</q></p>
+
+	<imagem href="https://picasaweb.google.com/lh/photo/GvXA_Sr6eqnOpakfsNuVpY9XNLTS7lcxv3Mz6ahV9w4?feat=embedwebsite">https://lh3.googleusercontent.com/-5CfC9V2-BVw/UasC0SkaDnI/AAAAAAAAPVA/qQYtSCVij3Q/s400/CatarinaFurtado_GQ_Junho2013_01r.jpg</imagem>
+
+	<elo href="http://www.maxima.xl.pt/v%C3%ADdeos.html?vid=17548">Reportagem video da Máxima.</elo>						
+	<elo href="http://www.vogue.xl.pt/multim%C3%A9dia/v%C3%ADdeos/7789-gq-men-of-the-year-awards-o-video.html">Reportagem video da Vogue.</elo>						
+	<elo href="http://www.youtube.com/watch?v=Etl9-NUkzIA">A Catarina aceita o prémio (video).</elo>
+
+</bloco>						
+
+<incorporar>gq2013.xml</incorporar>
+
+</bloco>
+
+</corpo>
+
+</pagina>

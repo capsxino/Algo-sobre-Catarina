@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/*
+#debug{
+	background-color: yellow;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+*/
+body {
+	font-family: 'Merriweather Sans', sans-serif;
+	background-color:FloralWhite;
+	margin: 0;
+}
+#tituloTopo {
+	font-size: 3em;
+	text-align: center;
+	text-shadow: 0 0 30px white;
+	font-family: 'Londrina Solid', cursive;
+	color: navy;
+}
+a {
+	text-decoration: none;
+}
+a[href]:hover{
+	text-decoration: underline;
+}
+.no{
+	background-color: white;
+	/*border-collapse: collapse;*/
+}
+.no.fechado, .no.aberto {
+	border-radius: 1em;
+	border: 5px solid Pink;
+	margin: 5px;
+}
+.no td:nth-child(2){width: 100%;}
+.caixaBotoes{
+	display: flex;
+	justify-content: space-between;
+}
+.botaoAbreTudo,.botaoFechaTudo{
+	display: inline-block;
+	border-radius: 1em;
+	background-color: navy;
+	font-weight: bold;
+	color: white;
+	padding: .5em;
+	margin: 5px;
+}
+.botaoAbreTudo,.botaoFechaTudo:hover{
+	cursor: pointer;
+}
+.botaoAbreTudo:before {content: 'Expande'}
+.botaoFechaTudo:before {content: 'Colapsa'}
+.mostra {
+	/*color: rgba(255,255,255,.3);*/
+	color: navy;
+	font-size: 2em;
+	width: 1em;
+	text-align: center;
+}
+.mostra.mais:before {
+	font-family: 'capsxino';
+	content: "\e800";
+	height: 1em;
+	line-height: 1em;
+}
+.mostra.menos:before {
+	font-family: 'capsxino';
+	content: "\e801";
+	height: 1em;
+	line-height: 1em;
+}
+.mostra:hover {
+	cursor: pointer;
+}

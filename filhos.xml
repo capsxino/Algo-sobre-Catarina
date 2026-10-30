@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>A Maria Beatriz e o João Maria</titulo>
+	<descricao>O filhos da Catarina</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_maxima_dezembro2006.xml" fonte="Máxima" ano="2006">
+	<p>A maternidade também me deu uma visão diferente daquilo que eu achava que era. [A minha filha] é um vício grande, é uma dependência saudável. Confronta-me permanentemente com o ter paciência, com os limites. O amor incondicional: existe uma expressão para o designar, mas na prática é um sentimento. É uma coisa que vem do umbigo. E onde me senti mais livre até hoje foi em São Tomé e Príncipe, num sítio onde achei que estava no umbigo do mundo. Aquilo não nos deixa tombar, põe-nos na vertical, é o centro, é o mais indispensável. A minha filha é isso também.</p>
+</citacao>
+<citacao href="revista_maxima_dezembro2006.xml" fonte="Máxima" ano="2006">
+	<p>Antes de se chamar assim, e porque nasceu no Dia da Espiga, a criança era chamada pelo pai e pela mãe de Papoila.</p>
+</citacao>
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p>Quando deixei de ser maria-rapaz tornei-me logo muito feminina. Sou um bocadinho vaidosa [risos]. O que me preocupa um pouco porque talvez esteja a passar isso para a minha filha [risos]. Ela tem dois anos e noutro dia ficou doente. Quando telefonei perguntei-lhe se ela queria que lhe levasse alguma coisa. Ela disse: «Sim, mamã. Um <i>bâtom</i>.</p>
+</citacao>
+<citacao href="revista_tv7dias_dezembro2009_01.xml" fonte="TV7Dias" ano="2009">
+	<p>Se calhar um dia eles irão comigo. Se a educação que eu e o meu marido lhes estamos a dar ficar mesmo incutida nos corações deles — porque podemos repetir aquilo que ouvimos, mas se não descer da cabeça para o coração não transformamos em acção —, acredito e espero que eles transformem tudo aquilo que ouviram e viram em acções, e que sejam também eles cidadãos pró-activos, que possam ajudar a melhorar este Mundo.</p>
+</citacao>
+<citacao href="revista_tabu_20140117.xml" fonte="Tabu" ano="2014">
+	<p><i>O que mudou com a maternidade?</i></p>
+	<p>Quase tudo. A valorização do trabalho da minha mãe no seu exercício de mãe. E da pessoa que é e sempre foi. E um inesperado novo coração, que tanto tem de corajoso e quase imbatível, como de mais permeável à dor em relação aos meus tesouros - a Maria Beatriz e o João Maria - e à dor dos outros.</p>
+</citacao>
+<citacao href="publico_20150607.xml" autor="Catarina" fonte="Público" ano="2015">
+	<p>Acho que são os meus filhos — sem perceberem que são eles. Quando estou em momentos mais frágeis, ou de maior instabilidade, são eles. Não há nada mais arrebatador do que o amor que sinto pelos meus filhos. Ali está tudo certo.</p>
+</citacao>
+
+</corpo>
+
+</pagina>
+
+<!--
+Às 20h20 do dia 25 de Maio de 2006 nascia, no Hospital da Cruz Vermelha, a pequena Maria Beatriz
+
+JOAO MARIA
+27 Outubro 2007
+http://www.cmjornal.xl.pt/detalhe/bau/vidas/catarina-furtado-ja-e-mama
+
+Em 2012 : plano a vida que partilha há sete anos com o ator João Reis, de quem tem dois filhos, Maria Beatriz, de seis anos, e João Maria, de cinco, e dois enteados ou “filhos do coração” como prefere referir-se a Maria, de 15 anos, e a Francisco, de 11.
+
+"Há oito anos, neste dia da espiga, descobri o que era o Amor capaz de me tornar indestrutível e ao mesmo tempo tão cheia de medos nunca antes sentidos. E é para a vida porque eles, os meus filhos, são a minha vida. E assim deverá ser com quase todas as mães. Foram 7 horas de parto (o número 7 não me larga) com uma equipa muito cuidadosa e o meu obstetra do coração, o dr. Francisco Godinho. Que saudades desse dia! Gostava tanto que todas as futuras mães do mundo pudessem ter acesso aos serviços de saúde materna... Hoje a nossa princesa faz anos e a família e os amigos juntaram-se para ajudar a soprar o momento. Parabéns minha Maria Beatriz, minha papoila!"
+https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/305329579626706/?type=1
+-->	

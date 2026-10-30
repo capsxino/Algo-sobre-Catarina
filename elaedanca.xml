@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Ela é Dança</titulo>
+	<descricao>Letra para música interpretada pela Anabela</descricao>
+	<data><ano>2005</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Ela é Dança</nome>
+	<nome titulo="Interpretação">Anabela</nome>
+	<nome titulo="Compositor da Música">Pancho Alvarez</nome>
+	<nome titulo="Álbum">Aether</nome>
+	<nome titulo="Ano">2005</nome>
+</creditos>
+
+<p>Décima faixa do álbum "Aether" (2005) da Anabela. A letra da Catarina acompanha a música de Pancho Alvarez.</p>
+<p>Será um retrato da Catarina em criança? Uma bailarina do Bairro Alto...</p>
+
+<citacao autor="Catarina" href="revistas_luxwoman_junho2002.xml" fonte="Lux Woman" ano="2002">
+	<p>Fiz agora uma letra para a Anabela, que me pediu um fado e eu inspirei-me na escola de dança.</p>
+</citacao>
+
+<citacao autor="Catarina" fonte="Maria Capaz" href="http://mariacapaz.pt/banda-sonora/banda-sonora-catarina-furtado/" ano="2015">
+	<p>Foram muito bons e duros os meus tempos na escola de dança do conservatório nacional. Este tema é uma espécie de viagem no tempo.</p>
+</citacao>
+
+<letra titulo="Ela é Dança">
+	Ali vai ela, esguia e bela
+	<br/>
+	Pelas ruas deste bairro profundo
+	<br/>
+	Um Bairro Alto só dela
+	<br/>
+	Pequena e já bailarina do mundo
+	<br/>
+	<br/>
+	Ali vai ela, vaidosa ao seu jeito
+	<br/>
+	Fica mais alta, não toca no chão
+	<br/>
+	O carrapito perfeito
+	<br/>
+	O toque da mãe que a leva na mão
+	<br/>
+	<br/>
+	A dança é dela
+	<br/>
+	A dança é dela
+	<br/>
+	A dança é dela
+	<br/>
+	<br/>
+	E ela é dança
+	<br/>
+	E ela é dança
+	<br/>
+	E ela é dança
+	<br/>
+	<br/>
+	É suspiro do corpo que fala
+	<br/>
+	É a palavra que o gesto não cala
+	<br/>
+	<br/>
+	Ali vai ela, bonita sem igual
+	<br/>
+	Ao som do piano encostado à janela
+	<br/>
+	O dia não corre mal
+	<br/>
+	E já verá se o palco é só dela
+	<br/>
+	<br/>
+	Ali vai ela, botão de rosa
+	<br/>
+	Olhando sempre de sorriso aberto
+	<br/>
+	Vai segura e vai formosa
+	<br/>
+	Anda bonita que o sol está mais perto
+	<br/>
+	<br/>
+	A dança é dela
+	<br/>
+	A dança é dela
+	<br/>
+	A dança é dela
+	<br/>
+	<br/>
+	E ela é dança
+	<br/>
+	E ela é dança
+	<br/>
+	E ela é dança
+	<br/>
+	<br/>
+	É suspiro do corpo que fala
+	<br/>
+	É a palavra que o gesto não cala
+	<br/>
+	<br/>
+	Ali vai ela, pela rua estreita
+	<br/>
+	E num abraço uma pirueta
+	<br/>
+	Fez prova de fogo e força
+	<br/>
+	Discreta de maiô violeta
+	<br/>
+	<br/>
+	A dança é dela
+	<br/>
+	A dança é dela
+	<br/>
+	A dança é dela
+	<br/>
+	<br/> 
+	E ela é dança
+	<br/>
+	E ela é dança
+	<br/>
+	E ela é dança
+	<br/>
+	<br/>
+	É suspiro do corpo que fala
+	<br/>
+	É a palavra que o gesto não cala
+</letra>
+
+<grande><elo href="https://www.youtube.com/watch?v=fcNSi_TjRyA">A Anabela interpretou a canção ao vivo no programa "Dá-me Música" da RTP em 2009.</elo></grande>
+
+</corpo>
+
+</pagina>

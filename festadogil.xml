@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Festa do Gil</titulo>
+	<descricao>Espetáculo de solidariedade de Circo e Variedades, a favor das crianças desfavorecidas, apresentado por Catarina Furtado.</descricao>
+	<data><ano>2003</ano><mes>12</mes><dia>10</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-FJKgodaO3Wc/Us2TFjPUQuI/AAAAAAAAUC4/krAA1Av3nNI/s0/CatarinaFurtado_FestaGil_20031210_010032_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>A Festa do Gil, transmitida no dia 10 de Dezembro de 2003 do Circo Cardinali, é um espetáculo de solidariedade de Circo e Variedades, a favor das crianças desfavorecidas, apresentado por Catarina Furtado. Mais de 500 instituições infantis, espalhadas por todo o pais, recebem os presentes da Fundação Gil.</cite></p>
+
+<elo href="http://www.rtp.pt/programa/tv/p16375">Página RTP</elo>
+
+</corpo>
+
+</pagina>

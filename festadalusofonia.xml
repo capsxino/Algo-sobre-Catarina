@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Festa da Lusofonia</titulo>
+	<descricao>A RTP associou-se à comemoração do Dia da Lusofonia com uma festa apresentada pela Catarina.</descricao>
+	<data><ano>2003</ano><mes>7</mes><dia>17</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-ercstzYcM3A/Us2TGRmUL2I/AAAAAAAAUDM/JnmdgeUnbRY/s0/CatarinaFurtado_FestaLusofonia_20030717_050028_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>A 17 de Julho a RTP associou-se à comemoração do Dia da Lusofonia com uma festa que representa um encontro das culturas lusófonas espalhadas pelo mundo.</cite></p>
+
+<elo href="http://www.rtp.pt/programa/tv/p15821">Página RTP</elo>
+				
+<p>A Catarina apresentou o espectáculo, em directo da Fábrica da Pólvora, em Oeiras.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/-Tm-HeJPotODVnXxI2IGTvLwqBqNn7kcCcuwhfVU82M?feat=embedwebsite">https://lh3.googleusercontent.com/-Rk8i2HZCPpE/Us2TFgse_mI/AAAAAAAAUC0/axJEGw5RCS4/s400-Ic42/CatarinaFurtado_FestaLusofonia_20030717_030009_filtered.JPG</imagem>
+
+</corpo>
+
+</pagina>

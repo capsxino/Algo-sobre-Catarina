@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Dador Primeira Vez</titulo>
+	<descricao>Campanha Instituto Português do Sangue e da Transplantação</descricao>
+	<data><ano>2014</ano><mes>12</mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+
+<p>No final do ano de 2014, Catarina emprestou a voz à campanha Instituto Português do Sangue e da Transplantação (IPST) que procura cativar quem nunca deu sangue; e conta com a presença e música da Luísa Sobral.</p>
+
+<elo href="http://www.vip.pt/55612a8/mod_artigos_link.aspx?objecto=43863">Artigo da Vip</elo>
+<elo href="http://www.publico.pt/sociedade/noticia/instituto-do-sangue-focase-nos-novos-dadores-para-travar-quebra-de-6-nas-colheitas-1679225">Artigo do Publico</elo>
+<elo href="https://www.youtube.com/watch?v=6FowcUS_hbQ">Spot com a Luísa Sobral</elo>
+<elo href="https://www.youtube.com/watch?v=Fsct3B9mGtk">Spot com o Nuno Markl</elo>
+
+</corpo>
+
+</pagina>

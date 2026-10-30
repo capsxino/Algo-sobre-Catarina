@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Diogo Infante</titulo>
+	<descricao>Trata a Catarina por mana e ela chama-lhe mano</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="publico_20150607.xml" autor="Catarina" fonte="Público" ano="2015">
+	<p>Não tenho muito jeito para que tomem conta de mim, tenho mais jeito para tomar conta. Pessoas de quem gosto e que tomem conta, mesmo que eu não precise e que faça a pessoa acreditar que está a tomar conta? O Diogo Infante. Era um sonho que tinha desde sempre, ter um irmão mais velho. Adoptei-o.</p>
+</citacao>
+
+</corpo>
+
+</pagina>
+
+<!--
+Andaram juntos no conservatório
+http://www.youtube.com/watch?feature=player_detailpage&v=-Wfn51jNN88#t=393s
+
+conheceram se no filme amor e alquimia
+-->

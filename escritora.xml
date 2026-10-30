@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="autora.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Escritora</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<arvore poda="escritora.xml" ordem="data"/>					
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="embaixadora.xml" estado="completa">
+
+<cabecalho>
+	<titulo>ICPD</titulo>
+	<descricao>Conferência Internacional sobre a População e o Desenvolvimento (ICPD)</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco>
+
+<p>Na <a href="http://icpdbeyond2014.org/whats-new/view/id/52/making-it-personal">Conferência Internacional sobre a População e o Desenvolvimento</a> (ICPD), organizada pelas Nações Unidas em 194, 179 governos adoptaram um programa de 20 anos para tornar o mundo um lugar mais igualitário e sustentável.</p>
+<p>Conhecida como a Conferência do Cairo, estabeleceu um elo claro entre as politicas de desenvolvimento económico, as dinâmicas da população e os direitos humanos. Em particular reconheceu a importância das politicas de  promoção da mulher e da criança, que estavam, e continuam a estar, à margem do desenvolvimento.</p>
+<p>A conferência constituiu uma carta de orientação para <a href="http://www.unfpa.org/ambassadors/catarina.htm">Fundo das Nações Unidas para a População</a> (UNFPA) até 2014.  É neste contexto, e com a revisão dos resultados dos <a href="http://www.un.org/millenniumgoals/">Objectivos de Desenvolvimento do Milénio</a> estabelecidos para 2015, que a Catarina Furtado, enquanto Embaixadora de Boa Vontade do UNFPA, foi convidada para moderar um painel na conferência regional da <a href="http://www.unece.org/pau/icpd_beyond_2014.html">Comissão Económica das Nações Unidas para a Europa</a> (UNECE) em 2013.</p>
+					
+<incorporar>icpd2013.xml</incorporar>					
+<incorporar>icpd2014.xml</incorporar>
+
+</bloco>			
+
+</corpo>
+
+</pagina>

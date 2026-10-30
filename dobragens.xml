@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="atriz.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Dobragens</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<arvore poda="dobragens.xml" ordem="data"/>					
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Dança Comigo</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem legenda="Documentário 'Dança Para Mim' de 2006" href="https://picasaweb.google.com/lh/photo/l4ph0r7KmIzMCdMOtRhu4fLwqBqNn7kcCcuwhfVU82M?feat=embedwebsite">https://lh5.googleusercontent.com/-3Bn7as-nLNI/U_jtvRFDPaI/AAAAAAAAo2g/I1Ls5GhsL5U/s400/CatarinaFurtado_SilviaAlberto_DancaParaMim_010011.jpg</imagem>
+
+<citacao href="revista_tvguia_fevereiro2008_01.xml" fonte="TV Guia" ano="2008">
+	<p>Confesso que tive receio e, na altura, falei com o Nuno sobre a possibilidade de uma quarta edição poder vir a esgotar-se, não quanto ao interesse do público, mas quanto aos convidados. A verdade é que, na elaboração das listas, onde trabalhei muito com a Endemol e a RTP, chegámos à conclusão de que, afinal, ainda há muita gente disponível. Já temos candidatos para as próximas semanas. São pessoas surpreendentes e que até nos pediram para vir. Estou optimista.</p>
+</citacao>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/DancaComigo20052008?authuser=0&amp;authkey=Gv1sRgCL68246S1e-ZkwE&amp;feat=directlink">Galeria de imagens do 'Dança Comigo'</elo></grande>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+A 4ª edição começou no dia 9 de Março com a Rita Blanco no lugar do João Baião por escolha da Catarina.
+Foram 5 ou 4 séries ... quantas apresentou a catarina ?
+A primeira série estreou dia 4 de fevereiro de 2006
+-*-
+(sábado foi dia 18 de Março de 2006)
+Catarina Furtado entregou anteontem o testemunho a Sílvia Alberto, que a partir de sábado conduz as emissões de ‘Dança Comigo’ da RTP. O motivo do abandono estava há muito definido, mas só anteontem foi consumado: Catarina Furtado vai abraçar, a tempo inteiro, o papel de mãe.
+“Saio com saudade e com a sensação de dever cumprido. É altura certa para sair. Tenho outras prioridades. Afinal já são seis meses e meio de gravidez”, explicou Catarina Furtado, realçando o papel da equipa técnica: “Tudo isto mexe com os sentimentos. Já trabalho com muitos deles há uns 15 anos. O realizador foi operador de câmara no programa ‘Caça ao Tesouro’. Ver aquelas imagens, numa altura em que estou muito sensível, é complicado resistir. Faço um ‘flash back’ muito intenso”.
+http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv-
+-media/catarina-emocionada-na-passagem-de-testemunho
+-*-
+-->

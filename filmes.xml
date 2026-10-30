@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="atriz.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Filmes</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_publica_20070909.xml" fonte="Pública" ano="2007"					>
+	<p>Tenho imensa pena de nunca ter feito um filme bom, de nunca ter feito uma ficção boa na televisão, excepto a Ferreirinha, que é o que está mais próxima de uma coisa de que me orgulho. No cinema, tenho de ser sincera, e peço desculpa às pessoas com quem trabalhei, mas os produtos finais...</p>
+</citacao>
+
+<elo href="https://vimeo.com/10368981#t=2945">A Catarina diz que retirou sempre coisas boas de cada filme que fez. No "5 Para a Meia-noite" em 2010.</elo>
+
+<arvore poda="filmes.xml" ordem="data"/>					
+
+</corpo>
+
+</pagina>

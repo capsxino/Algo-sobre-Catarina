@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Falar Português</titulo>
+	<descricao>Apresenta o espetáculo de encerramento do 2º Congresso da Língua Portuguesa da CPLP.</descricao>
+	<data><ano>2013</ano><mes>11</mes><dia>3</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-LsCEFromKXg/UnjySBq3u1I/AAAAAAAARHc/-1idL8-ec3c/s0/CatarinaFurtado_FalarPortugues_030000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>Falar Português é o espetáculo de encerramento do 2º Congresso da Língua Portuguesa da CPLP. Realizado no Convento do Beato a 30 de outubro, pretende através da música, da dança e da moda dos 8 países lusófonos, mostrar de que forma nos une a língua Portuguesa. A apresentação fica a cargo de Catarina Furtado e conta com alguns artistas convidados: Finka Pé, Ala dos Namorados e Nancy Vieira, Waldemar Bastos e Celina da Piedade, Paulo de Carvalho e Otis, Pierre Aderne e Susana Félix, Aline Frazão e Pedro Moutinho, Pupilos do Kuduro, Olavo Bilac e Cati Freitas, Dom La Nena e Danças Ocultas, Pierre Aderne e Sara Tavares, Tchecka e Mário Laginha, Kátia Guerreiro e Manecas Costa, Carlos do Carmo e Paulo Flores.</cite> A gala foi transmitida pela RTP1 no dia 3 de Novembro de 2013.</p>
+
+</corpo>
+
+</pagina>

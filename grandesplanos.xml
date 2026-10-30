@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Grandes Planos</titulo>
+	<descricao>Magazine semanal de actualidades culturais.</descricao>
+	<data><ano>1993</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><p>Magazine semanal de 25 minutos (8 episódios) cujo objectivo é apresentar o universo do espectáculo, pela mão da CNN. Cinema, vídeo, música em grande plano e as maiores estrelas mundiais a brilhar em entrevistas exclusivas, últimos lançamentos musicais e informações sobre concertos em Portugal. Dos <i>Top's</i> musicais da revista <i>Billboard</i> aos lançamentos e estreias nacionais e estrangeiras, das reportagens exclusivas aos temas de fundo. Com apresentação de: Catarina Furtado, Henrique Balsemão e José Figueiras.</p></grande>
+
+<elo href="http://videos.sapo.pt/FSPTYIr6l5isSHrpZL8Z">Excertos do programa</elo>
+
+</corpo>
+
+</pagina>
