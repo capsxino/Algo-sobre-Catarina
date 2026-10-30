@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="7maravilhas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>7 Maravilhas da Gastronomia (Declaração Oficial das...)</titulo>
+	<descricao></descricao>
+	<data><ano>2011</ano><mes>9</mes><dia>10</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem href="https://picasaweb.google.com/lh/photo/vyygBrudpk6SKbSTQjS4fnttrUx1xllJvCDuFtvUY-Y?feat=embedwebsite">https://lh3.googleusercontent.com/-vSFodvf_CdY/Vi3m_Tqza5I/AAAAAAAAtgc/P4v_cFWCvA0/w400-Ic42/7Maravilhas_Maravilhas_6150725317_59bdf4a37f_b.jpg</imagem>
+
+<citacao href="https://picasaweb.google.com/lh/photo/sHABLFwZmpFEpBDmSatF8PlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="TVMais" ano="2011">
+	<p>Não sei cozinhar. Quando estudei fora, aventurava-me a fazer algumas coisas mas não me saia bem. Não sou boa nos temperos.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/9CWvYAsFWJwt87Dudv13zflJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Jornal de Notícias" ano="2011">
+	<p>Não sou dada a muitos dotes culinários. Não ser fazer nada. Zero mesmo. [...] Faço aquelas coisas tipo papas. (risos)</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/9CWvYAsFWJwt87Dudv13zflJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Jornal de Notícias" ano="2011">
+	<p>De norte a sul, só não entrei no Algarve. E aproveitei para experimentar quase todos os pratos que estavam nomeados para a edição deste ano das 7 Maravilhas.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/jMXuPF3o3s6L8kAnLpsmcPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Caras" ano="2011">
+	<p>Gostei de todas, mas entre as vencedoras talvez me identifique mais com o Pastel de Belém e o Queijo da Serra.</p>
+</citacao>
+
+<elo href="http://www.rtp.pt/play/p746/maravilhas-gastronomia">Toda a gala na RTP Play</elo>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+gala realizada dia ? no convento de s francisco em santarem
+-->

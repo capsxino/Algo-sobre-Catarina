@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>5 Para a Meia-noite</titulo>
+	<descricao>Na véspera da estreia do "Chefs' Academy" na RTP, a Catarina o Chefe Cordeiro estiveram à conversa sobre o programa no "5 Para a Meia-noite".</descricao>
+	<data><dia>22</dia><mes>11</mes><ano>2013</ano></data>
+	<fundo>https://lh6.googleusercontent.com/-suKsLfJbwco/UpRtqoqfwrI/AAAAAAAARL8/7209OJqUO6w/s0/CatarinaFurtado_5PMN_20131122_100000.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Com a sexta presença no "5 para a Meia-noite", a Catarina é a convidada mais regular no <i>talk-show</i> nocturno da RTP. No dia 22 de Novembro, véspera da estreia do "<a href="chefsacademy.xml">Chefs' Academy</a>", e acompanhada pelo Chefe Cordeiro que desempenha o papel de director da escola, esteve à conversa com o Nilton sobre o seu novo programa.</p>
+<p>O papel da Catarina no programa não é cozinhar, coisa que não sabe, mas é estar ao lado dos concorrentes; ouvi-los e dar-lhe mimos. Afinal é isso que mais gosta de fazer. Para a cozinha não tem curiosidade e acha que já é tarde para competir com quem cozinha bem lá em casa.</p>
+<p>Como é costume à sexta-feira, o músico residente faz uma pergunta cantada. O Martim quis saber como é um dia na vida de Catarina? Ao que respondeu (depois de exigir que a partir dali todas as perguntas lhe fossem feitas assim) que os seus dias eram sempre diferentes. Amanhã, por exemplo, levantar-se ia às 6 da manhã para acompanhar a Chef Marlene e os concorrentes numa visita de estudo a um produtor de pêra Rocha. À noite ia "fazer" o jantar de aniversário da enteada Maria que faz 17 anos. Ninguém reparou na pequena mentira do "fazer", reclamou.</p>
+<p>A ligação com os produtos nacionais faz parte do "Chefs' Academy"; assim como o principio de não desperdiçar comida. Essa imposição começou com a própria Catarina na gravação da promoção. Todos os ovos partidos, nas tentativas de estrelar um ovo, foram aproveitados pelos chefs para fazer uns ovos mexidos.</p>
+
+<elo href="http://www.youtube.com/watch?v=VW9Dk9brgf4">Chefes fazem ovos mexidos</elo>
+
+<p>A gastronomia portuguesa e o pratos acessíveis a qualquer cozinheiro caseiro são a regra do "Chefs' Academy". Mas à pergunta se comeria cobra, a Catarina respondeu: sim.</p>
+<p>A fechar o programa, a Catarina ocupa a cadeira do apresentador, e apresenta a dupla musical "Maria Amélia".</p>
+
+<elo href="http://rtp.pt/play/p1312/e135525/5-meia-noite">Programa completo pode ser visto na RTP Play</elo>			
+
+<grande><elo href="https://vimeo.com/80302811">Edição apenas com os momentos da Catarina</elo></grande>
+
+</corpo>
+
+</pagina>

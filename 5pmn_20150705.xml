@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>5 Para a Meia-noite</titulo>
+	<descricao></descricao>
+	<dia>5</dia><mes>7</mes><ano>2015</ano>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+</corpo>
+
+</pagina>

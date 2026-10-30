@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="7maravilhas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>7 Maravilhas Naturais de Portugal</titulo>
+	<descricao></descricao>
+	<data><ano>2010</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-8tLAo_yYNa0/U_J21vs2FaI/AAAAAAAAoqc/r1pA_WrU8Co/s0/CatarinaFurtado_7Maravilhas_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem href="https://picasaweb.google.com/lh/photo/RJ7VW97z4PV07Y51zr4QbL60FGWvArhc5ozfHXO0Ja8?feat=embedwebsite">https://lh4.googleusercontent.com/-3iqgJhI9cq0/U_J21tpz2RI/AAAAAAAAoqk/FYoiEDZM2uM/s400/CatarinaFurtado_7Maravilhas_04.jpg</imagem>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/7MaravilhasNaturaisDePortugal2010?authuser=0&amp;authkey=Gv1sRgCIOhyaatk7HKkgE&amp;feat=directlink">Fotogramas do programa</elo>
+
+</corpo>
+
+</pagina>

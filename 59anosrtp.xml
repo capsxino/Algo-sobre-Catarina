@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>59 Anos de Televisão</titulo>
+	<descricao>A Catarina apareceu, ao inicio da tarde, numa emissão comemorativa e solidária, para dar os parabéns à RTP.</descricao>
+	<data><ano>2016</ano><mes>3</mes><dia>7</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-wgs2mt6M84o/Vt3wSyFec7I/AAAAAAAAv6Y/ece0D6G9ce4/s0-Ic42/CatarinaFurtado_20160307_10256358_812911912147757_1573657003030717389_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<video>http://rd3.videos.sapo.pt/DPau0zgs8G5UWOShzzmj/mov/1</video>
+
+<p>No dia 7 de Março de 2016, a RTP celebrou os 59 anos "no ar". A Catarina apareceu, ao inicio da tarde, numa emissão comemorativa e solidária, para dar os parabéns à estação que transmitiu, entre muitos programas protagonizados pela apresentadora, as 3 séries do "Príncipes do Nada". Os Direitos Humanos, e a importância dos meios de comunicação para a sua defesa e promoção, foram o tema central da conversa.</p>
+
+<elo href="http://videos.sapo.pt/DPau0zgs8G5UWOShzzmj">Video da conversa</elo>
+
+</corpo>
+
+</pagina>

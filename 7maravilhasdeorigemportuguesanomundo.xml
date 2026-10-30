@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="7maravilhas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>7 Maravilhas de Origem Portuguesa no Mundo</titulo>
+	<descricao></descricao>
+	<data><ano>2009</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem legenda="Visita à fortaleza de Mazagão em Marrocos" href="https://www.youtube.com/watch?v=RzZ7RKPRaKs">https://lh5.googleusercontent.com/-RhMG7NZE0FM/U-9FQ0yu-4I/AAAAAAAAn2g/4KjDgd_Y0DQ/s400/CatarinaFurtado_7Maravilhas_020008.jpg</imagem>
+
+<citacao href="http://www.dn.pt/inicio/pessoas/interior.aspx?content_id=1268222" fonte="Diário de Notícias" ano="2009">
+	<p>Nós queríamos que ganhasse a ilha de Moçambique. Porque é realmente lindíssima... As outras maravilhas também são, mas esta é fantástica.</p>
+</citacao>
+
+</corpo>
+
+</pagina>

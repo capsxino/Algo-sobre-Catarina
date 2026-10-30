@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>5 Para a Meia-noite</titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>11</mes><dia>18</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-GmO0iTFO-z4/Vk3E0dL_DkI/AAAAAAAAt7o/cq3hup_ErX8/s0-Ic42/CatarinaFurtado_5pmn_20151118_12248077_10153626030451014_4301728723236332400_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://www.rtp.pt/play/p2076/e214211/5-para-a-meia-noite">O episódio na RTP Play</elo>
+<elo href="http://media.rtp.pt/5meianoite/videos/filomena-cautela/quizz-com-catarina-furtado/">Quizz com a Catarina</elo>
+<elo href="https://www.facebook.com/media/set/?set=a.10153626025036014.1073742176.114541581013&amp;type=3">Galeria de imagens</elo>
+<elo href="https://www.flickr.com/photos/rtppt/albums/72157661415055801">Galeria de imagens</elo>
+<elo href="https://www.instagram.com/p/_WdCaYzBBM/">Foto instagram</elo>
+
+</corpo>
+
+</pagina>
