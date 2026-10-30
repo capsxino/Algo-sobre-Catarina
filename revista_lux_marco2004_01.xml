@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>A Paixão de Catarina Furtado</titulo>
+	<descricao>Há quase um ano abriu a sapataria Shoette. Uma forma de dar continuidade à sua paixão por sapatos. Mais do que colecciona-los, Catarina Furtado diz que os acumula. Lá em casa há sapatos com 10, 12 e 15 anos e ela sabe de cor todos os que tem.</descricao>
+	<data><ano>2004</ano><mes>3</mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-sKqQXogex0o/Uf7W_Zk_0mI/AAAAAAAAQKM/RdPlJQzNE7w/s0/CatarinaFurtado_Lux_Mar2004_02.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Há quase um ano abriu a sapataria Shoette. Uma forma de dar continuidade à sua paixão por sapatos. Mais do que colecciona-los, Catarina Furtado diz que os acumula. Lá em casa há sapatos com 10, 12 e 15 anos e ela sabe de cor todos os que tem.</p>
+<p><b>Lux —Tem noção de quando começou a coleccionar sapatos?</b></p>
+<p>Catarina Furtado — Nunca tive consciência de que coleccionava sapatos. Quem vai a minha casa e vê, acha isso. Mas não. <mark>Gosto muito de sapatos e o que me liga a eles são as histórias que cada um tem. Onde comprei, quem me ofereceu, o que é que fiz com aquele par...</mark> À medida que o tempo foi passando, dei-me conta de que, realmente, não os deitava fora. Portanto, mais do que coleccionar, acumulo sapatos.</p>
+<p><b>Lux — Assume "pancada" por sapatos. Como explica isso?</b></p>
+<p>C.F. — Pois, não sei... Acho importante sabermos por onde andamos, que passos damos, para onde vamos... Os sapatos dizem muito da pessoa. A roupa também, mas os sapatos podem fazer a diferença. Sempre gostei do objecto sapato: botas, ténis, chinelos... <mark>Tinha algum problema em usar sapatos abertos, preferia esconder os pés. Como fui bailarina, tenho algumas mazelas nos pés e não gostava muito deles.</mark></p>
+<p><b>Lux - Tem 326 pares. É um número quase obsceno!</b></p>
+<p>C.F. - Não... Nem todos são caros, alguns são até bem baratinhos. Além disso, neste número estão incluídos ténis, chinelos de praia, botas, botins, sandálias, sapatos rasos, de salto alto, sapatos de cerimónia...</p>
+<p><b>Lux -Já lhe passou pela cabeça fazer um museu do sapato?</b></p>
+<p>C.F. - Há algum tempo, escreveu-me um senhor a dizer que queria fazer um museu de sapatos de figuras públicas. Acho a ideia interessante e engraçada. Agora, o meu próprio museu seria muito pretensioso. Mas estou a pensar fazer algo com sapatos que reverta a favor de uma das minhas acções enquanto embaixadora da Boa Vontade das Nações Unidas.</p>
+<p><b>Lux - Comprar sapatos é inevitável, é um vício?</b></p>
+<p>C.F. - É mesmo irresistível... Por exemplo, sempre que vou ao estrangeiro, tenho de comprar nem que sejam uns meros chinelos. Compro por impulso... Acho que eu e os sapatos temos o destino marcado e temos sempre um encontro. Eles aparecem-me à frente...</p>
+<p><b>Lux - Em pequena, alguma vez calçou os sapatos da sua mãe?</b></p>
+<p>C.F. - Era muito maria-rapaz e não me lembro de ter essas brincadeiras. <mark>A primeira vez que calcei sapatos mais altos, tinha 7 anos e foi no casamento da minha tia-madrinha. Eram uns sapatos que o meu pai trouxe de Macau. Tenho pena de não os ter... Tinham um bocadinho de salto, eram verdes e brancos e tinham uns cordões que atavam à perna. Nesse dia, senti-me mais senhora.</mark></p>
+<p><b>Lux - Os familiares, os amigos, arriscam oferecer-lhe sapatos?</b></p>
+<p>C.F. - O João ainda me oferece sapatos... Quer dizer, oferecia. Tenho a impressão de que nunca mais me deu nenhuns desde que abri a loja. Acho que mais ninguém na vida alguma vez voltará a oferecer-me sapatos. Não acredito que alguém corra esse risco.</p>
+<p><b>Lux - Na sua "colecção", quais são os sapatos mais antigos?</b></p>
+<p>C.F. - São uns que não são meus. Uma vez, no meio do Alentejo, entrei numa espécie de antiquário e vi um baú daqueles antigos cheio de sapatos do século XIX. Comprei três pares, tenho-os lá e nunca os usei, porque não me servem. Meus mesmo, provavelmente, são uns ténis já velhinhos e que já não calço. </p>
+
+<creditos>
+	<nome titulo="Texto">José Guinot</nome>
+	<nome titulo="Fotografias">Rui Moreno</nome>
+	<nome titulo="Produção">Helena Carmona</nome>
+	<nome titulo="Cabelos">Marina Cruz</nome>
+	<nome titulo="Maquilhagem">Cristina Gomes</nome>
+	<nome titulo="Guarda-roupa">Cravo/Baltazar</nome>
+	<nome titulo="Agradecimentos">Shoette - Picoas Plaza</nome>
+	<nome titulo="Publicação">Revista Lux</nome>
+	<nome titulo="Data">Março de 2004</nome>
+</creditos>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2004?authuser=0&amp;authkey=Gv1sRgCPD3_LTkrdSMZA&amp;feat=directlink">Scans da imprensa de 2004</elo>
+
+</corpo>
+
+</pagina>

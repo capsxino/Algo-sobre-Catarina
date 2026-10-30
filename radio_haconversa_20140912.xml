@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Há Conversa</titulo>
+	<descricao>Carlos Bastos conversa com Catarina Furtado e José Sasseti, na rádio Renascença.</descricao>
+	<data><ano>2014</ano><mes>9</mes><dia>12</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="http://rr.sapo.pt/programas_detalhe.aspx?fid=1448&amp;did=164299">A emissão em <i>podcast</i> da Renascença</elo></grande>
+
+</corpo>
+
+</pagina>

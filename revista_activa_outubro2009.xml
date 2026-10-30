@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>A última vez que...</titulo>
+	<descricao>Catarina responde à revista Activa</descricao>
+	<data><ano>2009</ano><mes>10</mes><dia></dia></data>
+	<fundo>https://lh5.googleusercontent.com/-z514evyNREk/T7ORT4yWOhI/AAAAAAAAL_w/ZPHEMlyr0vE/s0/CatarinaFurtado_Activa_Oct2009_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2009?authuser=0&amp;authkey=Gv1sRgCO_os6_66cof&amp;feat=directlink">Scans da imprensa de 2009</elo></grande>
+
+<grande><elo href="http://activa.sapo.pt/moda/tendencias/2009/09/23/video-catarina-furtado-em-producao-para-a-activa2">O video do making of</elo></grande>
+
+</corpo>
+
+</pagina>

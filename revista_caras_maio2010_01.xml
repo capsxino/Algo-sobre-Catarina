@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Nomeada pelo seu papel na 'Cidade Despida'</titulo>
+	<descricao>Nomeada para o prémio de melhor atriz no Festival de Televisão de Montecarlo pelo seu papel na 'Cidade Despida' a Catarina fala para a revista Caras sobre esse trabalho.</descricao>
+	<data><ano>2010</ano><mes>5</mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-X04MTDnAh3Y/UAsEb7_oTAI/AAAAAAAAMxk/YAyPCVLtdjs/s0/CatarinaFurtado_Caras_Maio2010_entrevista_02.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p style="font-weight:lighter;">A nomeação vem recompensar dois meses intensos de gravações, que lhe exigiram um enorme esforço para não descurar a vida familiar.</p>			
+<p style="font-weight:lighter;">Habituada a desafios exigentes, sobretudo depois dos documentários que gravou em África e na Ásia, Catarina Furtado voltou a testar a sua resistência com as gravações da nova série da RTP, <i>Cidade Despida</i>. Foram dois meses intensos, durante os quais a actriz e apresentadora teve que fazer um esforço extra para conseguir dar o melhor de si própria e, ao mesmo tempo, não descurar a atenção aos filhos, Beatriz, de três anos e meio, e João Maria, de dois. Um esforço que valeu a pena, pois acaba de ser nomeada, com Cristina Carvalhal, com quem contracena, para uma Ninfa de Ouro de Melhor Actriz no 50.º Festival de Televisão de Monte Carlo. A série recebeu, aliás, mais três nomeações para este certame televisivo que se realiza de 6 a 10 de Junho no Grimaldi Forum, na capital monegasca: Melhor Produtor Europeu (Jorge Marecos), Melhor Actor (Pedro Laginha e Albano Jerónimo).</p>
+
+<p><b>- Como foi rodar esta série?</b></p>
+<p><b>Catarina -</b> Gravar cerca de 12 horas por dia, cenas de exigência física, mas também de muito desgaste emocional, e ainda ter que ser mãe de família, organizada como sou, não foi fácil. Mas agora, com estes dias de distância e com o <i>feedback</i> de toda a equipa e, sobretudo, da parte da realizadora, <b>Patrícia Sequeira</b> (da SP), e da RTP, posso concluir com segurança que é uma batalha completamente ganha!</p>
+<p><b>- Tinha um papel complicado e bastante emocional. Como foi lidar com isso?</b></p>
+<p>- Foi a parte mais complicada, mas a mais interessante. <mark>Gosto de coisas difíceis e de me pôr à prova. Ganho sempre uma adrenalina extra quando me proponho fazer algo que impõe respeito e algum medo de falhar.</mark> A personagem Ana Belmonte exigiu uma entrega total, porque aparentemente parece uma heroína, mas não é. Por detrás do lado misterioso e algo triste, pragmático e muito profissional, ela vai deixar vir ao de cima, por força das circunstâncias, uma fragilidade que a leva ao limite. Só aceitei vestir esta Ana porque decidi despir-me de quaisquer defesas, não vi nenhuma imagem ao longo dos dois meses e confiei inteiramente na fantástica direcção da <b>Ana Nave</b> e na realização e no muito bom-gosto da Patrícia Sequeira.</p>
+<p><b>- Transportava essas emoções para a vida real?</b></p>
+<p>- Durante estes dois meses, a Ana Belmonte invadiu completamente a minha vida. Ela de facto existiu e é tão diferente de mim que tive mesmo de deixar que ela tivesse o seu espaço. Para mim, restou-me um bocadinho da noite em que apenas deitava os meus filhos, lhes contava a história dos sonhos cor-de-rosa e azuis, preparava a roupa deles para o dia seguinte e deixava a lista dos afazeres domésticos. Logo a seguir <mark>mergulhava nos textos da série e adormecia já "vestida" de Ana Belmonte.</mark></p>
+<p><b>- No final das gravações emocionou-se. Foi um trabalho que a marcou...</b></p>
+<p>- Marcou-me mesmo muito, porque foi um trabalho de equipa e com um toque muito feminino, sem ser feminista. Tem a acção e a dureza dos crimes (muito bem exemplificados até do ponto de vista da caracterização) e um lado mais sensível, que se revela em pequenos pormenores sem ser lamechas. Acho (claro que sou suspeita...) que se trata de um passo em frente na ficção nacional. O mérito é da realizadora e da SP, mas também da RTP, que apostou neste desafio. Tem um ritmo e um bom-gosto que não é muito comum em Portugal. Para mim foi um verdadeiro trabalho de actriz, que me permitiu trabalhar com um elenco maravilhoso e inspirador.</p>
+<p><b>- O que se segue...</b></p>
+<p>- Mais uma série do programa <i>Dá-me Música</i> e também dos <i>Príncipes do Nada</i>, que continuo a editar e que estará pronto a ir para o ar em breve. Fazer estes documentários é absolutamente vital para mim.</p>
+
+<creditos>
+	<nome titulo="Entrevista por">Andreia Guerreiro</nome>
+	<nome titulo="Publicação"><a href="http://caras.sapo.pt/famosos/2010/05/18/catarina-furtado-esta-nomeada-para-melhor-actriz-no-festival-de-monte-carlo-com-o-papel-de-cidade-despida">Revista Caras</a></nome>
+	<nome titulo="Data">Maio de 2010</nome>
+</creditos>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2010?authuser=0&amp;authkey=Gv1sRgCOv4itOvleXWvwE&amp;feat=directlink">Scans da imprensa de 2010</elo></grande>
+
+</corpo>
+
+</pagina>

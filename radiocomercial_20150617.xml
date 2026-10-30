@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Rádio Comercial</titulo>
+	<descricao>Está nas manhãs da Rádio Comercial.</descricao>
+	<data><dia>17</dia><mes>6</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://www.youtube.com/watch?v=UTVKtv9v2Ww"></elo>
+<elo href="https://instagram.com/p/4Be_-wQT_t/"></elo>
+
+</corpo>
+
+</pagina>

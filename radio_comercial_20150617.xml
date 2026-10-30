@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo></titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>6</mes><dia>17</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem href="https://picasaweb.google.com/lh/photo/pGUFofBbbAFCDbJNWILvXVEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh3.googleusercontent.com/-KdX2gR9XmvY/VieOVgA7PZI/AAAAAAAAtTk/vrPY1f3-B7E/s400-Ic42/CatarinaFurtado_RadioComercial_20150617_11420869_481008585392191_298788142_n.jpg</imagem>
+
+<elo href="https://www.youtube.com/watch?v=UTVKtv9v2Ww"></elo>
+<elo href="https://instagram.com/p/4Be_-wQT_t/"></elo>
+
+</corpo>
+
+</pagina>

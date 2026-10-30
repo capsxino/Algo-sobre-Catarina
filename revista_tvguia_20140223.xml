@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>No Meio da Selva</titulo>
+	<descricao>A aventura no Parque Nacional da Gorongosa vai ser apresentada num documentário, este domingo à noite, 23, na RTP1. E a apresentadora revela à TV Guia que já recebeu um novo convite para repetir a experiência.</descricao>
+	<data><dia>23</dia><mes>2</mes><ano>2014</ano></data>
+	<fundo>https://lh3.googleusercontent.com/-Xv932rYhaTg/U2jnKKFVt_I/AAAAAAAAlN4/Bs1L5Oeoy6E/s2048/CatarinaFurtado_TVGuia_20140223_001r.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Texto">Filipa Rosa</nome>
+	<nome titulo="Publicação">TV Guia</nome>
+</creditos>
+
+<p><span style="font-weight:lighter;">Catarina Furtado foi desafiada pelo filantropo norte-americano Greg Carr para conhecer o Parque Nacional da Gorongosa, em Moçambique, e não hesitou! A apresentadora da RTP1, que vai regressar ao ecrã, em Março, com a segunda edição do programa The Voice, partiu à aventura e mostra-lhe tudo esta noite, domingo, dia 23.</span></p>
+<p>"O objectivo do documentário é mostrar ao público que pode estar no meu lugar e ser turista no Parque Nacional da Gorongosa. Pus a mochila às costas e fui à descoberta. Embora eles tenham guias absolutamente extraordinários e haja muita segurança, os elefantes da Gorongosa têm a memória da guerra e há sempre algum receio, claro. Ficamos em sentido, há que ter respeitinho... Uma pessoa não conseguir controlar o guincho da agitação de um animal como o leão é incrível!"<span style="font-weight:lighter;">, explica à TV Guia a também embaixadora da Boa Vontade do Fundo das Nações Unidas para a População, que não esconde o orgulho por ter sido convidada para integrar este projecto </span>"A experiência foi maravilhosa, porque foi um convite inesperado... Estive em Moçambique há oito anos com os Príncipes do Nada e foi quando conheci o Greg Carr. Ele partilhou comigo o projecto que tinha como objectivo a restauração do Parque Nacional da Gorongosa, explicou-me o que queria fazer, mas, na altura, não havia ainda nada. Há oito anos, eu filmei o sonho do Greg Carr!"</p>
+<p><span style="font-weight:lighter;">Passados quatro anos, a aventureira voltou ao local com os Príncipes do Nada e comprovou que a Gorongosa estava a renascer. </span>"Havia muitos mais animais trazidos por ele de outros países, nomeadamente da África do Sul, havia uma melhoria das condições de vida da população, até mesmo do ponto de vista da educação, da consciencialização da natureza, centros de saúde, escola... E a questão da auto-sustentabilidade do parque também é importante. Quem for lá como turista, esse dinheiro é investido no parque, bem como na investigação."<span style="font-weight:lighter;"> Do projecto faz parte um dos mais premiados realizadores e directores de fotografia do Mundo, Bob Poole, que trabalha para a National Geographic, BBC, Discovery, entre outros. </span>"Foi um enorme prazer! É uma pessoa espectacular, de enorme humildade e simplicidade... Ficámos amigos para a vida! Neste momento, posso adiantar que recebi outro convite por parte do Greg Carr para fazer mais um documentário"<span style="font-weight:lighter;">, finalizou.</span></p>
+
+<grande><elo class="icon fotografia" href="https://picasaweb.google.com/116136255703077903546/Imprensa2014?authuser=0&amp;authkey=Gv1sRgCIbe7-CLy8XiWw&amp;feat=directlink">Scans da imprensa de 2014</elo>				</grande>
+
+</corpo>
+
+</pagina>

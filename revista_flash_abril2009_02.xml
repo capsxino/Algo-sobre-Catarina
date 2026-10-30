@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>É um presente para os meus príncipes</titulo>
+	<descricao>Ela Não pára e tem tempo para tudo. Televisão, teatro e agora cinema. Catarina Furtado dá voz à nova heroína da Dreamworks.</descricao>
+	<data><ano>2009</ano><mes>4</mes><dia></dia></data>
+	<fundo>https://lh4.googleusercontent.com/-RVVix2jJy9c/T7ORbA1wspI/AAAAAAAAMBM/zxCBg2aKvFU/s0/CatarinaFurtado_FlashEntrevista_Abr09_05.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p style="font-weight:lighter;font-size:1.1em;">Ela Não pára e tem tempo para tudo. Televisão, teatro e agora cinema. Catarina Furtado dá voz à nova heroína da Dreamworks.</p>
+
+<p>Uma supermãe, uma superactriz e agora Catarina Furtado assume o papel de supermulher... não só na vida real como na ficção. Ela dá voz a Susan, em 'Monstros vs Aliens', da DreamWorks. Um filme de animação em 3D, que vai ser um sucesso entre a pequenada, não fossem os criadores os mesmos de 'Shrek' e 'O Panda do Kung fu'.</p>
+<p>Numa altura em que a actriz desdobra-se para cumprir todos os compromissos da sua recheada agenda, entre a RTP (com um programa no segredo dos deuses) e a peça 'Transacções', Catarina ainda usa os seus <i>superpoderes</i> para as dobragens do novo filme a estrear dia 2 de Abril. <q>Este trabalho exigiu muita ginástica e saía daqui exausta</q>, garantiu. <q>Foram muitas emoções, porque tinha que rir, saltar e gritar</q>,revelou ainda.</p>
+<p>Em estúdio e já com o trabalho finalizado, comprovámos as semelhanças entre Catarina e Susan. A actriz de carne e osso é <q>uma resistente e ao mesmo tempo uma privilegiada</q> que nas gravações sentiu-se como a personagem, <q>grandiosa com os seus 16 metros</q>. A nova heroína combate na linha da frente uma invasão de extraterrestres, mas o seu pior defeito é <q>ter escolhido mal o namorado</q>, o que <q>não é o meu caso</q>, confessa sorridente.</p>
+<p>Fazer dobragens não é novidade para a actriz mas continua a ser <q>um trabalho rigoroso e tão profissional como em representação com o corpo e a cara</q>, garante a actriz depois de confidenciar que se o dia tivesse 48 horas os compromissos seriam com certeza a dobrar.</p>
+<p>Televisão, teatro e cinema. Qual é o segredo para este sucesso? Perguntámos. E a resposta surgiu de imediato: <q>Consegui criar à minha volta um núcleo de apoios fundamentais e passei a ser pontual, coisa que não era porque era optimista e acreditava que chegava sempre a tempo.</q> A actriz diz que este será <q>um presente especial</q> para os seus <i>príncipes</i> Maria Beatriz (3 anos) e José Maria (1), para um dia recordar.</p>
+
+<creditos>
+	<nome titulo="Texto">Joana Corte-Real</nome>
+	<nome titulo="Fotografias">Jorge Jacinto</nome>
+	<nome titulo="Publicação">Revista Flash!</nome>
+	<nome titulo="Data">Abril de 2009</nome>
+</creditos>
+
+<elo href="https://picasaweb.google.com/capsxino/Imprensa2009?authuser=0&amp;authkey=Gv1sRgCO_os6_66cof&amp;feat=embedwebsite">Scans da Imprensa de 2009</elo>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Ídolos e memórias: Quem são as vozes de Catarina?</titulo>
+	<descricao>Ídolos e memórias: Quem são as vozes de Catarina? Um artigo da revista Noticias Tv.</descricao>
+	<dia>20</dia><mes>1</mes><ano>2012</ano>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Adora as vozes dos mentores do seu programa, já viajou até Madrid para ver Prince ao vivo e só ouve música para dançar ou guiar. O tema da sua vida é o que a lembra do marido: <i>Valsa quase Antidepressiva</i>, do Quinteto Tati.</p>
+<p>Com vários programas de televisão musicais no currículo de apresentadora, do pioneiro <i>Chuva de Estrelas</i> (SIC) ao atual <i>A Voz de Portugal</i> (RTP1), Catarina Furtado mantém uma relação intima com as cantigas, que já vem dos tempos de criança. "As primeiras memórias vêm de assistir às gravações do <i>Fungagá da Bicharada</i>, quando ia com o meu pai para a RTP. Depois, quando entrei para o Conservatório, onde estiva até aos 18 anos, tinha um envolvimento mais direto com a música clássica e contemporânea. Por isso associo sempre a música à dança. Não consigo trabalhar com músico. A música é sempre para dançar, para mim. Ou ouvir no carro", explicou a apresentadora à NTV.</p>
+<p>Apesar de confessar ser uma tarefa difícil, Catarina Furtado elege algumas das suas vozes preferidas. "Sem dúvida a dos meus mentores Anjos, Paulo Gonzo, Mia Rose e Rui Reininho", diz a cara de <i>A Voz de Portugal</i>.</p>
+<p>Já o concerto que mais marcou a sua vida foi o de Prince, na adolescência, em Madrid. As memórias são muitas. "Lembro-e que fui de carro até lá, foi uma noite especial", contou Catarina. "Mas também me marcaram concertos memoráveis do Rão Kyao, GNR ou dos Xutos", acrescentou.</p>
+<p>Na hora de eleger a música da sua vida não hesita. "<i><a href="http://www.youtube.com/watch?v=0s0GJCCayMM">Valsa Quase Antidepressida</a></i>, do Quinteto Tati, liderado por J.P.Simões. É a música do meu casamento [com João Reis], da minha relação, do meu amor...", confessou a apresentadora da RTP.</p>
+<p>Aos 39 anos, já escreveu 12 letras de músicas para vários artistas da praça pública, como Ala dos Namorados (<i><a href="soltaseobeijo.xml">Solta-se o Beijo</a></i>), Lúcia Moniz (<i><a href="principedonada.xml">Príncipe do Nada</a></i>), Filarmónica Gil (<i><a href="seeusoubesse.xml">Ada</a></i>) ou Avô Cantigas (<i><a href="chichicama.xml">Chichi Cama</a></i>). O desafio, esse, não encara como uma obrigação mas como um desafio. "Todas as letras que escrevi foram para pessoas que me conhecem bem e foram-me sempre pedidas. Escrever canções dá alguma dor de cabeça. Devem ser eficazes e não levianas. Tenho que transmitir uma certa mensagem. Não é chegar ali e fazer uma canção orelhuda ou só rimar por rimar. Admiro letristas como o João Monge, Carlos T ou João Gil", dessa a apresentadora e atriz.</p>
+
+<creditos>
+	<nome titulo="Texto">Nuno Cardoso</nome>
+	<nome titulo="Publicação">Noticias Tv (revista do Diário de Notícias)</nome>
+</creditos>
+
+</corpo>
+
+</pagina>

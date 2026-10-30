@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Hotel Babilónia</titulo>
+	<descricao>Hoje, como não podia deixar de ser, falámos de televisão, de dança, de representação, de voluntariado, de escrita, até de jornalismo. Mas o mote foi um livro magnífico, que mostra uma Catarina Furtado fora das luzes da ribalta, de coração aberto e alma exposta, tanto mais fascinante quanto o são as experiências que tem tido nos últimos 15 anos, enquanto Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População. Ouçam e encantem-se, Babilónicos.</descricao>
+	<data><ano>2015</ano><mes>7</mes><dia>4</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="http://www.rtp.pt/play/p456/e200510/hotel-babilonia">A emissão em RTP Play</elo></grande>
+
+</corpo>
+
+</pagina>

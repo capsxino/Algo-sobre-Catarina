@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Prova Oral</titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>7</mes><dia>8</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="http://www.rtp.pt/play/p260/e201025/prova-oral">A emissão em RTP Play</elo></grande>
+
+</corpo>
+
+</pagina>
+
+<!--
+A nossa convidada de hoje dá pelo nome de Catarina Furtado. Não é preciso muitas apresentações, pois não?
+
+Acaba de lançar um livro intitulado “O que Vejo e Não Esqueço”.
+
+A obra fala sobre a missão da apresentadora enquanto voluntária e embaixadora de Boa Vontade do Fundo das Nações Unidas para a População.
+
+A partir 19h, telefonem de uma forma voluntária para o nº 21 382 01 14. Ou, para todos os que nos estão a ouvir lá fora - o chamado estrangeiro -, podem e devem fazer-nos chegar o seu contacto através do mail da prova oral: provaoral@rtp.pt. Ligamos logo de seguida. Prometemos.
+-->

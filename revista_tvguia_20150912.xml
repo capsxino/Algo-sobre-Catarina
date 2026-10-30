@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>"Eu vi mortos!"</titulo>
+	<descricao>A apresentadora não esquece as imagens de sofrimento que testemunhou e, por isso, não condena a publicação de fotos chocantes. "Temos de arregaçar as mangas!", apela.</descricao>
+	<data><ano>2015</ano><mes>9</mes><dia>12</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-JQ2PUIo6A-4/VibMp2bsP7I/AAAAAAAAtK4/EKkVJx_nshE/s0-Ic42/CatarinaFurtado_TVGuia_20150912_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Texto">Filipa Rosa</nome>
+	<nome titulo="Fotografias">Ricardo Ruella</nome>
+	<nome titulo="Publicação">TV Guia</nome>
+	<nome titulo="Data">12 de Setembro de 2015</nome>
+</creditos>
+
+<p><q>Temos de arregaçar as mangas!</q> O apelo é feito por Catarina Furtado, que está de rastos com a crise humanitária dos refugiados. <q>Estou preocupadíssima... Temos de arranjar uma solução muito rapidamente. Acho que as pessoas ainda não têm bem noção do que está prestes a acontecer, é possível que a avalanche venha a ser muito maior... Vai ser dramático lidar com isto tudo. Quem tem o poder tem de fazer algo!</q>, diz, à TVGuia, a embaixadora da Boa Vontade da ONU, há 16 anos.</p>
+<p>A apresentadora da RTP, de 43 anos,que vai voltar a conduzir o <cite>The Voice Portugal</cite>, a partir do próximo mês, já percorreu o Mundo com <cite>Príncipes do Nada</cite> e não ficou, por isso, indiferente à polémica da imagem do corpo de uma criança de três anos que deu à costa na Turquia, cuja publicação na Imprensa foi criticada por muitos. <q><mark>Quando estou a editar os <cite>Príncipes do Nada</cite>, coloco essa questão: onde é que começa e onde é que acaba a linha que retira a dignidade daqueles que estão a sofrer?</mark></q>, questiona. <q>Eu vi mortos, vi pessoas a morrer lentamente, é uma coisa que eu não desejo a ninguém! Vi mães, crianças, jovens… Vi à minha frente!</q>, garante a embaixadora, que não esquece as imagens de enorme sofrimento que já testemunhou: <q>O que eu faço normalmente é uma gestão pessoal e intuitiva, que é perceber até que ponto é que aquilo é importante mostrar. Se não, o espectador não chega aperceber o drama…</q></p>
+<p>No seu Facebook, Catarina Furtado optou por partilhar uma foto do tal menino como irmão num momento de alegria. No entanto, salvaguardou que compreende o simbolismo criado à volta daquela imagem, que foi das mais divulgadas nas redes sociais, na semana passada. <q>Neste caso, repensei muito e acho que, de facto, por mais que custe, não condeno, de todo, pela primeira vez. Porque eu já não sei muito bem com que armas é que devemos actuar. Se não fizermos algo que nos abane ou nos agite, não sei mais…</q>, conta-nos. <q>Estamos perante uma realidade que pode ser evitável, se as peças que ditam os Direitos Humanos se encaixarem</q>, escreveu na sua página.</p>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2015?authuser=0&amp;authkey=Gv1sRgCN3Zl5ql15L0GQ&amp;feat=directlink">Scans da imprensa de 2015</elo></grande>
+
+</corpo>
+
+</pagina>

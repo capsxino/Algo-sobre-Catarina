@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Catarina Furtado partilha em livro as histórias que mais a marcaram</titulo>
+	<descricao>A apresentadora conta que sempre foi uma criança muito atenta ao próximo e sempre se sentiu desconfortável dom a discriminação. Características que vê também nos seus dois filhos.</descricao>
+	<data><ano>2015</ano><mes>6</mes><dia>6</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-f9w7KT6WKv8/Vii-2aNL15I/AAAAAAAAtUQ/6UNSQ60ei0A/s0-Ic42/CatarinaFurtado_OQueVejoNaoEsqueco_DiogoCaramujo_11062058_939559222733721_5642724589334596708_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Texto">Inês Neves</nome>
+	<nome titulo="Fotografias">Catarina Larcher</nome>
+	<nome titulo="Publicação">Caras</nome>
+	<nome titulo="Data">6 de Junho de 2015</nome>
+</creditos>
+
+<p style="font-weight:lighter">Numa espécie de balanço, <b>Catarina Furtado</b> parti­lha em livro 15 anos de histórias enquanto Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População (UNFPA) e oito anos do programa <i>Príncipes do Nada</i>. A CARAS assistiu ao <i>making of </i>da sessão fotográfica para a capa do livro e conversou com a apresentadora.<br /></p>
+<p><b>– De onde vem essa vontade de ajudar o outro?</b><br /> <b>Catarina Furtado –</b> Esta minha partilha vem desde sempre e para este livro fiz uma espécie de autoanálise para ver de onde vem esta vontade tão grande que tenho de lutar contra as discriminações e contra as desigualdades... Portanto, fiz um <i>flashback</i> e vi que começa na minha educação. E no livro partilho também um bocadinho da minha educação, para se saber quem sou.<br /> <b>– O facto de a sua mãe ter sido educadora de ensino especial influenciou-a?</b><br /> – Também, mas acho que vem muito de mim, desde pequenina. Fiz um trabalho de pesquisa, perguntei aos meus pais como é que eu era em pequenina, e foi muito engraçado. Descobri coisas de que não tinha noção, coisas que eles me contaram.<br /> <b>– Como por exemplo?</b><br /> – Disseram que eu era muito atenta, por exemplo, aos mais velhinhos, às pessoas que eram diferentes e que ficava muito incomodada quando se gozava com elas... Mas isso não faz de mim uma pessoa diferente, só sublinha o porquê deste seguimen­to da minha carreira.<br /> <b>– Reconhece essas caracterís­ticas nos seus filhos?</b><br /> – Acho que sim, acho que eles são dois meninos muito generosos, atentos e sensíveis e isso tranquiliza-me muito, vamos ver o que dá... mas tem de estar neles. E acho também que tem de haver educação para isso, se os pais não educarem as crianças a estarem atentas aos outros, mais facilmente elas ficarão centradas em si. Eu sou muito mais de tentar agilizar, de fazer sinergias, se as pessoas estiverem mais atentas às outras, é muito mais fácil, até porque no fim vamos todos para o mesmo sítio, seja quais forem as crenças que cada um de nós tem... E há muita gente que se esquece disso.<br /> <b>– Qual é o objetivo deste livro?</b><br /> – O objetivo essencial é completamente despretensioso do ponto de vista literário, eu não sou escritora, é, sim, uma vontade muito grande de partilhar. Aliás, a função do embaixador de boa vontade é partilhar as mensagens, é ver e transmitir à sociedade civil, aos políticos, inclusivamente, de modo a fazermos pressão sobre determinadas coisas que queremos melhorar. Depois, do ponto de vista dos “Príncipes”, o objetivo é também alertar consciências e passar mensagens que possam tocar no coração das pessoas para que tenham uma oportunidade de fazer qualquer coisa, agitar um bocadinho as consciência... Portanto, passou a fazer sentido para mim partilhar mais detalhadamente algumas dessas questões e histórias.<br /> <b>– Foi um livro difícil de fazer?</b><br /> – Foi muito difícil arranjar tempo para o fazer. Tive de mergulhar nas dezenas de blocos de apontamentos que tenho, das viagens todas que fiz... Tudo isto exigiu um enorme esforço de memória. E tive outro problema, há detalhes que acabaram por desaparecer da minha memória, pois a mim ficam-me sobretudo as pessoas.</p>
+
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2015?authuser=0&amp;authkey=Gv1sRgCN3Zl5ql15L0GQ&amp;feat=directlink">Scans da imprensa de 2015</elo></grande>
+<elo href="http://caras.sapo.pt/famosos/2015-06-20-Catarina-Furtado-partilha-em-livro-as-historias-que-mais-a-marcaram">Entrevista no sitio da Caras</elo>
+<elo href="http://caras.sapo.pt/carastv/2015-06-11-Nos-bastidores-de-uma-producao-com-Catarina-Furtado">Nos bastidores da produção fotográfica</elo>
+
+</corpo>
+
+</pagina>

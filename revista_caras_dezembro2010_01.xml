@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Mensagem de Esperança</titulo>
+	<descricao>A Mensagem de Esperança de Catarina Furtado. Um texto sobre a sua visão do mundo, enquanto Embaixadora de Boa Vontade, e mensagem de esperança para o novo ano de 2011.</descricao>
+	<data><ano>2010</ano><mes>12</mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p style="font-weight:lighter;">A popular apresentadora de televisão é, desde 1999, embaixadora de Boa Vontade do Fundo das Nações Unidas para a População.</p>
+<p>Não se sabe bem porquê, mas é nesta época que o ser humano tem mais predisposição para pensar nos outros. Por isso, não posso perder a oportunidade de partilhar um bocadinho a espuma que tem feito os meus dias desde que abracei a missão de ser Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População (UNFPA). Quando, há dez anos, em Nova Iorque, me entregaram esta responsabilidade, também me confidenciaram que o trabalho que me esperava iria ser desafiante e difícil. Nas viagens que tenho feito pelo terreno real, com gente que apenas tenta sobreviver cada dia, sempre como se de uma batalha de suspiros se tratasse, vi, e registei, e não esqueci, que é nas mulheres que assenta a responsabilidade de alimentar a família, através da agricultura, da produção de alimentos, de garantir o abastecimento de água, de tratar dos animais, recolher lenha para cozinhar... enfim, uma casa às costas, que inclui, tantas vezes, a dura e persistente realidade das tradições culturais que obrigam as mulheres a calar, consentir e sofrer. Eu vi, e é esse sofrimento silencioso que me deixa indignada. Numa altura em que o mundo está a viver permanentes alterações climáticas, sabemos que, mesmo em situações de desastres naturais e de migração forçada, as mulheres continuam a engravidar, e são muitos os bebés que nascem.</p>
+<p>Há dias apresentei o <i>Relatório sobre a Situação da População Mundial da ONU -</i> <i>Enfrentando um mundo em transição: mulheres, população e clima</i>. Este relatório é uma referência incontornável para compreendermos o Mundo tal como ele é, como está e como poderá ser. E nele podemos ler essas mesmas conclusões, ou seja, que não podemos apenas falar da pressão demográfica e das emissões de CO², da subida do nível do mar, dos gelos a derreter, do aquecimento global, das espécies em vias de extinção, das chuvas ácidas; temos de fazer com que os discursos que tenham como objectivo ajudar a salvar vidas, erradicar a pobreza e promover o desenvolvimento sejam, efectivamente, levados à prática, pensando em recursos específicos para a área da saúde materno-infantil. É urgente proteger as mulheres e as crianças, que, por força das circunstâncias, estão mais vulneráveis a todas as situações e, por isso, são sempre as maiores vítimas.</p>
+<p>São mais de mil milhões as pessoas em situação de fome extrema no mundo. E, como sabemos, é nos países onde há mais bebés a nascer que as taxas de mortalidade materna, neonatal e de crianças até aos cinco anos são mais elevadas. Dar à luz em segurança é um privilégio das mulheres ricas.</p>
+<p><i>"Tenho muitos filhos, mas poucos sobreviveram"</i>; <i>"Tenho muitos filhos, porque poucos sobrevivem"</i>. Estas são frases cruelmente comuns que me habituei a ouvir nas minhas viagens ao terreno. Mas nunca ficamos habituados, nem nunca são suficientes as vezes em que dizemos em voz alta: <i>"Morre uma mulher por minuto, por ausência de cuidados de saúde antes, durante e após o parto."</i></p>
+<p>São mais de 500.000 mortes por ano que seriam EVITÁVEIS! Esta é a minha mensagem de Ano Novo, uma mensagem de alerta que nos pode unir a todos por uma mesma causa. Feliz 2010!</p>
+
+<elo href="http://caras.sapo.pt/famosos/2009/12/31/a-mensagem-de-esperanca-de-catarina-furtado">O texto pode ser lido no site da Caras</elo>
+
+</corpo>
+
+</pagina>
