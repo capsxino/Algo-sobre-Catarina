@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="thevoiceportugal.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>The Voice Portugal</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes>3</mes><dia>30</dia></data>
+	<data><ano>2014</ano><mes>8</mes><dia>3</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-tI057BFtz7c/VkzHCfQ_pXI/AAAAAAAAt7E/Tg4BebwSNMY/w800-Ic42/CatarinaFurtado_TheVoice_GalaSolidaria_14648611710_9a7399c503_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="The Voice Portugal - Primeira Edição">
+
+	<citacao href="http://www.dn.pt/revistas/ntv/interior.aspx?content_id=3782596" fonte="Notícias TV" ano="2014">
+		<p>É um formato muito justo, é uma grande mais-valia. Agora temos o twist de se poder repescar concorrentes eliminados, dar uma segunda oportunidade. Outra razão: as galas são um autêntico concerto. Já na outra edição sentimos isso. Era impressionante as pessoas que queriam vir assistir, de norte a sul, como se fosse para verem um concerto no Meo Arena. As nossas galas são, de facto, um megaespetáculo, tem um som espetacular. Depois, os mentores aqui não deitam abaixo. Para baixo, só carregar nos botões! [risos] O formato é muito inteligente por isso vem contrariar uma realidade atual, em que as pessoas só ligam à imagem. Aqui não se passa por ter pernas longas, ser loiro, ter olhos azuis ou por ter uma grande pinta. É a melhor voz, não há volta a dar. Este pressuposto é riquíssimo e contraria a atualidade, que é muito fútil do ponto de vista geral. Esse talvez seja o grande segredo.</p>
+	</citacao>
+	<citacao href="sovisto_20140524.xml" fonte="Só Visto!" ano="2014">
+		<p>O meu Vasquinho (Vasco Palmeirim) foi uma revelação. Dá-me um prazer imenso trabalhar com ele. Trouxe-me uma frescura gira, e é mais um adoptado na minha vida. É um irmão mais novo.</p>				
+	</citacao>
+	<citacao href="revista_tvguia_abril2014_01.xml" fonte="TV Guia" ano="2014">
+		<p>Pois é... gozo imenso com o Vasquinho [Vasco Palmeirim], porque ele entrou no programa a dizer que era o rapaz que ia dizer uma piadas e umas graçolas e que não se ia emocionar, que esse papel ficava para mim. Mas isso era antes... ainda não o vi chorar, mas já o vi perdido de emoção. O programa toca-nos!</p>
+	</citacao>
+	<citacao href="https://picasaweb.google.com/lh/photo/6wlTXyDAu2rmMk5HNJl8CxJfOAsVO4BDy642eMYnaWw?feat=directlink" fonte="Vip" ano="2014">
+		<p>Basicamente, estive tanto tempo sentada, com a perna cruzada, que fiquei com o pé dormente. Quando me levantei para ir discursar, e comecei a andar, dei dois passos e senti logo qualquer coisa a rasgar. Tenho dores, claro, mas há coisas piores. Estou a fazer fisioterapia, devia estar de muletas, mas não consigo. Não têm previsão para melhoras. Era mais rápido se tivesse tempo para estar em casa, mas não tenho. Tenho muita coisa para fazer e não consigo estar parada.</p>
+	</citacao>
+	<citacao href="https://picasaweb.google.com/lh/photo/v0JWsVZGy8HtzGbgmiDOsxJfOAsVO4BDy642eMYnaWw?feat=directlink" fonte="TV Mais" ano="2014">
+		<p>Dizem-me muitas vezes que se sente, no ecrã, que gostamos um do outro. As duplas são uma tendência mundial e eu fico contente com o coapresentador que me calhou na rifa!</p>
+	</citacao>
+	<citacao href="https://picasaweb.google.com/lh/photo/72xohThgd4VKt0XOpwnfghJfOAsVO4BDy642eMYnaWw?feat=directlink" fonte="TV Guia" ano="2014">
+		<p>O domingo é um dia difícil, com muita concorrência. A RTP está a fazer o seu caminho, na recuperação do seu público e na captação  de um público mais jovem, e ter um programa que faz abanar as audiências é muito significativo!</p>
+	</citacao>
+			
+	<elo href="http://youtu.be/E4jQK79DYVc">O Nuno Baltazar e a Catarina falam sobre a sua cumplicidade e do visual para o "The Voice Portugal"</elo>
+	<elo href="https://www.youtube.com/watch?v=tUAJGJnTm-E">Comentários da Catarina e do Vasco após a final</elo>
+	<elo href="https://picasaweb.google.com/lh/photo/i34LXqWEVocvGcFPZYtWkBJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da Notícias TV sobre os ensaios do programa - pag.1</elo>
+	<elo href="https://picasaweb.google.com/lh/photo/53uxa52OM8_JULsH5PLr2BJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da Notícias TV sobre os ensaios do programa - pag.2</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157643203566944/">Fotografias das Provas Cegas 1</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157643634426194/">Fotografias das Provas Cegas 2</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157643922308675/">Fotografias das Provas Cegas 3</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157644189753285/">Fotografias das Provas Cegas 4</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157644364896881/">Fotografias das Provas Cegas 5</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157644104740497/">Fotografias das Provas Cegas 6</elo>
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157644671929863/">Fotografias das Batalhas 1</elo> 
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157644321252637/">Fotografias das Batalhas 2</elo> 
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157644551262978/">Fotografias das Batalhas 3</elo> 
+	<elo href="https://www.flickr.com/photos/rtppt/sets/72157645088944144/">Fotografias das Batalhas 4</elo>
+	<elo href="https://www.youtube.com/watch?v=bvFGw6LsZEw">Ensaios no dia 29/6/2014</elo>			
+	<elo href="https://www.youtube.com/watch?v=9Rx9Fi-i5WU">Ensaios no dia 13/7/2014</elo>			
+	<elo href="http://www.dn.pt/inicio/tv/interior.aspx?content_id=3672011"></elo>
+	<elo href="http://pt-starsonline.com/index.php/eventos/fevereiro-2014/rtp-divulgou-apresentadores-do-novo-programa-the-voice"></elo>
+	<elo href="http://fotos.sapo.pt/novidades_tv/albuns/?aid=125"></elo>
+	<elo href="http://tv.sapo.pt/noticias/catarina-furtado-e-vasco-palmeirim-apresentam-the-voice-portugal"></elo>
+	<elo href="http://www.youtube.com/watch?v=Nnjut1Ho3F0"></elo>
+	<elo href="http://tv.sapo.pt/pessoas/mentores-de-the-voice-portugal-surpreendem-fas-ao-vivo"></elo>
+	<elo href="http://tvmais.sapo.pt/tv/celebridades/2014/03/07/catarina-furtado-entusiasmada-com-o-regresso-de-the-voice-portugal"></elo>
+	<elo href="http://www.atelevisao.com/rubricas/a-entrevista/entrevista-catarina-furtado/"></elo>
+	<elo href="http://www.dn.pt/inicio/tv/interior.aspx?content_id=3787642"></elo>
+	<elo href="http://tvmais.sapo.pt/tv/programas/2014/03/31/a-estreia-de-the-voice-portugal"></elo>
+	<elo href="http://www.impala.pt/detail.aspx?id=121353&amp;idCat=2064"></elo>
+	<elo href="http://www.atelevisao.com/rtp/catarina-furtado-fala-em-inteligencia-para-diferenciar-voice-portugal-da-concorrencia/"></elo>
+	<elo href="http://www.dn.pt/revistas/ntv/interior.aspx?content_id=3866312"></elo>
+	<elo href="http://caras.sapo.pt/famosos/2014/06/30/jovens-talentos-conquistam-o-palco"></elo>
+	<elo href="http://tvmais.sapo.pt/tv/programas/2014/06/30/a-primeira-gala-de-the-voice-portugal"></elo>
+	<elo href="https://www.youtube.com/watch?v=tUAJGJnTm-E"></elo>
+	<elo href="https://picasaweb.google.com/lh/photo/HyCeGSdjtgheiv1sBCy5ExJfOAsVO4BDy642eMYnaWw?feat=directlink"></elo>
+	
+</bloco>
+
+<bloco titulo="The Voice - Especial Fim de Ano (2014/2015)">
+
+	<imagem href="https://www.youtube.com/watch?v=Ypn5pIWyibY">https://lh6.googleusercontent.com/-77sLXMSOXrU/VLJrW9yUopI/AAAAAAAAqoc/yQjxhfrCWYQ/s800/CatarinaFurtado_TheVoiceFimAno_07x.gif</imagem>					
+	
+	<p>Na passagem do ano de 2014 para o de 2015, a RTP transmitiu um especial do programa "The Voice Portugal", com miúdos e graúdos que se juntaram convidados especialíssimos em duetos inesperados, e com a apresentação partilhada da Catarina Furtado, Vasco Palmeirim e Mariana Monteiro. Foram muitos os momentos em que a Catarina se pegou, na brincadeira, com o "mano" adoptado, o "Vasquinho".</p>
+	<elo href="http://youtu.be/Ypn5pIWyibY">Momentos do "The Voice" especial passagem de ano 2014/2015</elo>
+							
+</bloco>
+</corpo>
+
+</pagina>
+
+
+<!--
+
+O concurso conduzido por Catarina Furtado e Vasco Palmeirim colocou a RTP1 a conquistar audiências médias que não registava há anos. Com o grande entretenimento arredado das noites de domingo desde há uma década, com Operação Triunfo, o talent show, estreado a 30 de março, conseguiu uma média de 914 mil pessoas, ao longo de quatro meses de emissão. Bateu a SIC, mas foi insuficiente para destronar a liderança da TVI. (DN 26/8/2014)
+
+No dia 18/6/2014 Grava-se para o "Chefs' Academy"
+No dia 29/6/2014 A primeira gala, em directo, do "The Voice Portugal".
+No dia 27/7/2014 Final do "The Voice Portugal"
+No dia 3/8/2014 O "The Voice Portugal" despede-se com uma emissão especial solidária que angariou 23 150 euros para a Campanha do Pirilampo Mágico.
+
+-->

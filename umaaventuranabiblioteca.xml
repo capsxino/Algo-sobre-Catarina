@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="series.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Uma Aventura na Biblioteca</titulo>
+	<descricao>A Catarina faz o papel de Matilde, uma jovem e bonita bibliotecária, que se vê envolvida numa perigosa rede de criminosos. A série é uma adaptação da SIC da popular colecção de livros para jovens.</descricao>
+	<data><ano>2000</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-V7dQs3pjY9A/UcnoJRMqj8I/AAAAAAAAP-g/J2w6FcEiPfk/s2048/CatarinaFurtado_1Aventura_110008.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>A biblioteca funciona num antigo palacete recheado de mistérios. A bibliotecária é ruiva e linda de morrer. Tem um irmão igualmente ruivo e tão giro como ela. No jardim do palacete vive uma velhota que garante haver maldições pairando sobre aquele lugar. Mas o que paira mesmo são mensagens, bilhetes com códigos secretos que alguém enfia entre páginas de livros escolhidos. Para clarificar tanta confusão, o grupo cai nas mãos de uma perigosíssima bandida que tem a alcunha de Rapa Tachos e dos seus filhos Açorda e Esparguete.</cite> - Este é o texto que apresenta o livro <a href="http://www.uma-aventura.pt/index.php?s=livros&amp;id=42"><cite>Uma Aventura na Biblioteca</cite></a> escrito por Ana Maria Magalhães e Isabel Alçada. No ano 2000, a SIC adaptou a colecção de livros juvenis <cite>Uma Aventura</cite> para televisão, e logo o segundo episódio da primeira série contou com a participação da Catarina no papel da Matilde, a jovem e bonita bibliotecária.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/5ZijDBxJgLU7uuBoX_IDD5wYAT72MkeUqX_ocKvU2SM?feat=embedwebsite">https://lh4.googleusercontent.com/-GiHoSy1OPaM/UcnoKGZmdUI/AAAAAAAAP-k/Mt1pqWNModI/s400/CatarinaFurtado_uma-aventura.jpg</imagem>
+
+<elo href="http://www.imdb.com/title/tt0735965/">Página IMDB</elo>	
+<elo href="https://www.youtube.com/watch?v=UpQEuib6vrY">Episódio completo</elo>	
+<grande>				
+<elo href="https://picasaweb.google.com/116136255703077903546/UmaAventuraNaBiblioteca?authuser=0&amp;authkey=Gv1sRgCKmD1bKqxNXBZw&amp;feat=directlink">Fotogramas</elo>
+</grande>
+
+</corpo>
+</pagina>

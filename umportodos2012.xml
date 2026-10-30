@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="umportodos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Um Por Todos</titulo>
+	<descricao>Um programa especial que trouxe a Lisboa alguns dos protagonistas das histórias relatadas na 3ª série do <cite>Príncipes do Nada</cite>.</descricao>
+	<data><ano>2012</ano><mes>12</mes><dia>21</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-9la15FFB4vU/UNbfMiNFMNI/AAAAAAAAN0c/mKVIYr6eGRg/s2048/CatarinaFurtado_UmPorTodos_20121221_060000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 21 de Dezembro de 2012, reuniram-se no Pátio da Galé em Lisboa, para uma emissão especial da RTP, algumas das pessoas que fizeram a terceira série do <a href="http://www.principesdonada.com/"><cite>Príncipes do Nada</cite></a>. Recordando os protagonistas. Homenageando os voluntários. Reafirmando o compromisso de apoio a essa gente, causas e organizações não governamentais.</p>
+
+<grande>
+<citacao autor="Sobre a presença da família" href="http://caras.sapo.pt/famosos/2013/01/11/catarina-furtado-em-noite-solidaria" fonte="Caras">
+	<p>Eles têm a consciência de que este programa é muito mais do que o meu trabalho. É a minha vida e empenho.</p>
+</citacao>
+</grande>
+	
+<p>Juntaram-se músicos, como a <a href="http://www.carminho.net/">Carminho</a> que cantou <a href="http://www.youtube.com/watch?v=7IhSJ4VLf9M"><cite>Bom Dia, Amor</cite></a>. Subiram ao palco figuras públicas convidadas a apadrinhar... e inesperadamente também a Carminho quis assumir o compromisso de fazer um espectáculo a favor da <a href="http://www.confidentchildren.org/">Confident Children Out of Conflict</a>, uma ONG do Sudão do Sul. Depois de, nos bastidores, através do telemóvel, ter visto pela primeira vez o <a href="http://www.youtube.com/watch?v=KMMrdO-W6pc">episódio de estreia do <cite>Príncipes do Nada</cite></a>.</p>
+
+<p>A Catarina apresentou, com o coração, o espectáculo. Mas no inicio pareceu-me cansada. Não segurava bem as palavras - e ela prepara-se muito, eu sei. Mas depois do abraço da Drª Antonieta espevitou logo, sorriu, comoveu-se. Acertou o ritmo.</p>
+
+<elo href="http://www.youtube.com/watch?v=udVuPlt6GTQ">Drª Antonieta Martins no <cite>Um Por Todos</cite></elo>
+
+<p>A Drª Antonieta Martins é conselheira do <a href="http://countryoffice.unfpa.org/guinea-bissau/">UNFPA</a> na Guiné-Bissau. Acompanhou a Catarina durante a gravação dos 3 documentários <a href="darvidasemmorrer.xml"><cite>Dar Vida Sem Morrer</cite></a> sobre a aplicação dos fundos doados pelos espectadores da RTP e pelo IPAD que, geridos pelo UNFPA, permitiram a construção de 2 blocos operatórios, um em Gabú, outro em Bafatá, a compra de 3 ambulâncias e a formação profissionais de saúde que salvaram mães e crianças ao longo de 5 anos.</p>
+
+<p>Em Maio de 2012 a Catarina contou-me a sua vontade de voltar à Guiné-Bissau durante o verão para gravar o quarto documentário da série 'Dar Vida Sem Morrer' mas o golpe de estado ocorrido em Bissau em Abril e as complicações diplomáticas com o Governo Português que se seguiram não permitiram a viagem. As ligações dos militares no poder com o narcotráfico são cada vez mais estreitas e evidentes. Tornado o país perigoso para quem confronta as autoridades. Nesta conversa tida com a Drª Antonieta notei a forte vontade da Catarina em lá voltar.</p>
+
+<p>A <a href="http://www.delta-cafes.pt/pt/sustentabilidade/responsabilidade-social/projectos-de-responsabilidade-social">Coração Delta</a>, associação de solidariedade social do Grupo Nabeiro, assumiu o compromisso de fornecer 5 incubadoras para cuidados neonatais na Guiné-Bissau.</p>
+
+<citacao autor="Sinopse" fonte="RTP">
+	<del><p>Uma oportunidade para a sociedade civil conhecer melhor alguns dos verdadeiros “príncipes do nada”...</p></del>
+	<p>“Um por todos” é uma emissão especial apresentada por Catarina Furtado para homenagear o trabalho de voluntários e Organizações Não Governamentais, na sequência do final da terceira série do programa “Príncipes do Nada”.</p>
+	<del><p>Numa transmissão da RTP em direto do Pátio da Galé, em Lisboa, no dia 21 de Dezembro de 2012, “Um por todos” tem cerca de duas horas. A emissão é uma oportunidade para a sociedade civil conhecer melhor alguns dos verdadeiros “príncipes do nada”, cuja missão a equipa de reportagem de Catarina Furtado acompanhou na sua viagem pela Índia, Sudão do Sul, Haiti e Moçambique.</p>
+	<p>“Um por todos” inclui entrevistas com os “príncipes do nada”, momentos surpreendentes, música e entrega de donativos. Neste programa especial dedicado à cidadania, justiça social e participação a favor dos direitos humanos e do desenvolvimento, pretende-se alertar consciências através de exemplos que devem ser contagiantes. Quer-se ainda promover compromissos que ajudem aqueles que mais sentem diariamente as desigualdades sociais.</p>
+	<p>Esta é também a segunda vez que a RTP e a produtora Até ao Fim do Mundo se juntam para organizar este programa especial, que em Março de 2011 teve a sua primeira edição.</p></del>
+</citacao>
+
+<elo href="http://www.rtp.pt/programa/tv/p27329/c103369">Programa completo no site da RTP</elo>
+<grande>	
+	<elo href="https://picasaweb.google.com/capsxino/EspecialPrincipesDoNadaUmPorTodos?authuser=0&amp;feat=embedwebsite">Fotogramas do programa</elo>		
+</grande>			
+
+</corpo>
+
+</pagina>

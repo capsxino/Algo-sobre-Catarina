@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Sacoor Brothers</titulo>
+	<descricao>Catálogo de roupa da marca Sacoor Brothers</descricao>
+	<data><ano>2001</ano><mes></mes><dia></dia></data>
+	<data><ano>2005</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem legenda="Há uns anos, eu e o actor brasileiro Fábio Assunção fotografámos em Veneza [...] e falámos muito sobre o sentido da vida." href="https://picasaweb.google.com/lh/photo/vXLCi9eAUpGGOvT1t9o3ucreqy-LGWH-qc_F1gF_xOk?feat=embedwebsite">https://lh6.googleusercontent.com/-7VUh3__Wo1E/VOHnTGRw3NI/AAAAAAAArFA/fALRUU03SzA/s400/caty6.jpg"</imagem>
+
+<p>Entre 2001 e 2005, a Catarina foi fotografada para os catálogos da marca de roupa <a href="http://www.sacoor.com/">Sacoor Brothers</a>, ao lado de actores como: Joaquim de Almeida, Fábio Assunção e Reynaldo Gianecchini.</p>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="swop.xml" estado="completa">
+
+<cabecalho>
+	<titulo>SWoP 2011</titulo>
+	<descricao>Na qualidade de Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População, é a oradora convidada para a apresentação do relatório anual do UNFPA sobre o Estado da População Mundial (SWoP); neste ano dedicado ao tema: "Pessoas e oportunidades num mundo de 7 mil milhões".</descricao>
+	<data><ano>2011</ano><mes>10</mes><dia>26</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 26 de Outubro de 2011 a Catarina apresentou na Assembleia da República o relatório sobre a Situação da População Mundial em 2011 do Fundo das Nações Unidas para a População (UNFPA), neste ano subordinado ao tema "Pessoas e oportunidades num mundo de 7 mil milhões".</p>
+
+<elo href="http://www.ipad.mne.gov.pt/CentroRecursos/Noticias/ArquivoNoticias/Paginas/Relat%C3%B3rio-sobre-a-Situa%C3%A7%C3%A3o-da-Popula%C3%A7%C3%A3o-Mundial-2011.aspx">Relatório sobre a Situação da População Mundial 2011</elo>
+</corpo>
+
+</pagina>

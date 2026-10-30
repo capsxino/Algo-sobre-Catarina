@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="swop.xml" estado="completa">
+
+<cabecalho>
+	<titulo>SWoP 2013</titulo>
+	<descricao>Na qualidade de Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População, é a oradora convidada para a apresentação do relatório anual do UNFPA sobre o Estado da População Mundial (SWoP); neste ano dedicado ao tema: "Maternidade na Infância - Respondendo aos Desafios da Gravidez na Adolescência".</descricao>
+	<data><ano>2013</ano><mes>10</mes><dia>30</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+	<p>Em 2013, foi oradora convidada na apresentação pública em Portugal do Relatório do UNFPA sobre a Situação da População Mundial 2013, nesse ano subordinado ao tema "Maternidade na Infância - Respondendo aos Desafios da Gravidez na Adolescência". O evento teve lugar no dia 30 de Outubro de 2013 no Auditório da Assembleia da República.</p>
+
+<citacao href="https://www.facebook.com/photo.php?fbid=234225063403825&amp;set=a.111610348998631.19794.107792466047086&amp;type=1" fonte="Facebook" ano="2013">
+	<p>De acordo com o Relatório sobre População - "Maternidade na Infância - Respondendo aos Desafios da Gravidez na Adolescência"-, apresentado hoje na Assembleia da República, diariamente, nos países em desenvolvimento, 20 mil meninas com idade abaixo dos 18 anos são mães, o que se traduz em 7,3 milhões de mães adolescentes ou mães crianças a cada ano que passa, nos mesmos territórios.</p>
+	<p>Ser mãe, quando ainda se é criança, não só funciona como um entrave no desenvolvimento das jovens mulheres, impedindo que as mesmas atinjam o seu potencial máximo (para elas e para o desenvolvimento do seu país), como acaba por ser um risco para a sua vida: estima-se que 70 mil adolescentes, nos países em desenvolvimento, MORRAM por complicações durante a gravidez e parto, avança o relatório da UNFPA.</p>
+	<p>Para prevenir estas situações há que quebrar barreiras sociais, económicas e geográficas levando toda a informação e serviços para estas sociedades, de forma a conseguir capacitar cada menina e jovem mulher de algo muito importante: o acesso a uma educação que lhes permita ter poder de escolha e a uma educação sexual e contraceptiva necessária que impeça a gravidez infantil. Prevenção é a solução!</p>
+</citacao>
+
+<elo href="http://www.dn.pt/inicio/portugal/interior.aspx?content_id=3505969">Artigo do Diário de Notícias</elo>
+
+</corpo>
+
+</pagina>

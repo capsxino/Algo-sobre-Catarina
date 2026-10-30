@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Uma Noite de Sonho</titulo>
+	<descricao></descricao>
+	<data><ano>1995</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+<elo href="https://www.youtube.com/watch?v=3AjfbC5M29Q">Momento do programa com o Rui Unas</elo>					
+</corpo>
+
+</pagina>

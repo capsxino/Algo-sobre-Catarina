@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="swop.xml" estado="completa">
+
+<cabecalho>
+	<titulo>SWoP 2010</titulo>
+	<descricao>Na qualidade de Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População, é a oradora convidada para a apresentação do relatório anual do UNFPA sobre o Estado da População Mundial (SWoP); neste ano dedicado ao tema: "Do conflito e da crise à renovação: as gerações da mudança".</descricao>
+	<data><ano>2010</ano><mes>10</mes><dia>20</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 20 de Outubro de 2010 a Catarina apresentou no Salão Nobre do Ministério dos Negócios Estrangeiros o relatório sobre a Situação da População Mundial em 2010 do Fundo das Nações Unidas para a População (UNFPA), neste ano subordinado ao tema "Do conflito e da crise à renovação: as gerações da mudança".</p>
+
+<elo href="http://www.apf.pt/cms/files/conteudos/file/Direitos_ficheiros/SWOP_2010/Furtado_SWOP.pdf">Intervenção da Catarina (PDF)</elo>
+<elo href="http://www.ipad.mne.gov.pt/CooperacaoEuropeiaMultilateral/Multilateral/NacoesUnidas/FNUAP/Paginas/default.aspx">Relatórios sobre a Situação da População Mundial de 2008 a 2010</elo>
+
+</corpo>
+
+</pagina>

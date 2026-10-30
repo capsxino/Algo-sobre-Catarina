@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo><cite>Summer Moments</cite> de Rita Fernandes</titulo>
+	<descricao>Média-metragem da autoria de Rita Fernandes.</descricao>
+	<data><ano>1996</ano><mes></mes><dia></dia></data>
+	<fundo legenda="Esta fotografia foi tirada pelo Eduardo Durão, realizador com quem fiz há uns tempos uma curta metragem. Agora vive nos EUA, mas no tempo ( lá muito atrás! :)) para onde nos remete esta fotografia, estávamos todos a estudar e a praticar em Londres! Aqui eu com a minha eterna amiga, realizadora e pintora, Rita Fernandes! Bons velhos e saborosos tempos!">https://lh3.googleusercontent.com/-8RciryqX77A/VBwP9NfGawI/AAAAAAAApTs/FfxqBHQkXW4/s640/CatarinaFurtado_Londres_RitaFernandes_EduardoDurao_1606953_364487537044243_6723245626261944102_n.png</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Um rapaz e uma rapariga, irmãos, italianos, passam férias em Portugal. Com a passagem do Verão apaixonam-se por uma rapariga portuguesa e um rapaz português. A Catarina desempenha o papel dessa rapariga na média-metragem, da autoria da Rita Fernandes, que retrata o momento da despedida dos quatro.</p>
+
+<elo href="http://www.imdb.com/title/tt2608744/">Página no IMDB</elo>
+
+<bloco titulo="A Catarina e a Rita Fernandes">
+
+<imagem legenda="Às vezes na vida temos de parar para nos ouvirmos. Foi o que fiz, há muitos anos, quando senti necessidade de ir para fora aprender. Vivi em Londres, onde estudei Teatro e Cinema, e morei com a minha querida amiga Rita Fernandes" href="https://picasaweb.google.com/lh/photo/H7DpTwZKXKqm6uTvzVT4MVEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh3.googleusercontent.com/-C-S5SWj7t50/UZD7vJhGFeI/AAAAAAAAPRw/z4EVivy3GjA/s400/CatarinaFurtado_RitaFernandes_923327_174450142714651_786029960_n.jpg</imagem>
+
+<p>A Catarina e a Rita conheceram-se em Londres, em 1995, onde partilharam casa. Nesse ano a Catarina colocou em pausa a sua carreira em Portugal para ir estudar representação na <i>London International School of Acting</i>. Em Londres encontrou a Rita, que estudava Realização, e entre as duas cresceu a amizade que ajudou a superar os desafios da vida académica. Então, foi natural o convite feito à Catarina  para participar no filme que a Rita faria para a sua avaliação final no curso de cinema. A média-metragem <cite>Summer Moments</cite>.</p>
+
+<elo href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=-Wfn51jNN88#t=1171s">A Catarina fala dela e da Rita em Londres</elo>
+
+<citacao autor="Rita Fernandes">
+	<p>É uma mulher incrível. De uma generosidade avassaladora; muito inteligente; cheia de sentido de humor; super trabalhadora; excelente mãe; excelente filha e irmã; uma amiga única.</p>
+</citacao>
+
+<elo href="www.ritafernandes27.com/">Site da artista Rita Fernandes</elo>		
+		
+</bloco>
+
+</corpo>
+
+</pagina>

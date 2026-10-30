@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Teorema de Pitagoras</titulo>
+	<descricao>Uma pequena participação num tele-fime da Sic.</descricao>
+	<data><ano>2001</ano><mes>5</mes><dia>27</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-E3nGR2St29A/USel_h8gDMI/AAAAAAAAOLY/EYg-0BZc5yw/s2048/TeoremaPitagoras.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A história dum triângulo amoroso... a personagem interpretada pela Catarina, a Rute, não é relevante para a história. É uma mulher embriagada e atiradiça que mete conversa com João, o protagonista. A cena dura apenas dois minutos e parece ter sido filmada no bar Speakeasy, nas docas de Lisboa.</p>
+<p>O <cite>Teorema de Pitágoras</cite> faz parte dum conjunto de tele-filmes produzidos, na altura, para a Sic. Com argumento e realização de Gonçalo Galvão Teles. Estreou na televisão no dia 27 de Maio de 2001. No ano anterior o Gonçalo tinha co-realizado com o seu pai, Luís Galvão Teles, o tele-filme <cite>A Noiva</cite> protagonizado pela Catarina.</p>
+
+<elo href="http://www.imdb.com/title/tt0304552/">Página no IMDB.</elo>	
+<elo href="http://videos.sapo.pt/uBOvknrsiPcOkZsnHjWR">Trailer.</elo>	
+
+</corpo>
+
+</pagina>

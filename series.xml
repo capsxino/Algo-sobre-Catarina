@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="atriz.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Séries para Televisão</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<arvore poda="series.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>

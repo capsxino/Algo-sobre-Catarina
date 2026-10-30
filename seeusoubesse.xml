@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Se Eu Soubesse (o Que Sei Hoje)</titulo>
+	<descricao>Letra para música do álbum <cite>Filarmónica Gil</cite></descricao>
+	<data><ano>2005</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Se Eu Soubesse (o Que Sei Hoje)</nome>
+	<nome titulo="Interpretação">Sara Tavares/Filarmónica Gil</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Álbum">Filarmónica Gil</nome>
+	<nome titulo="Ano">2005</nome>
+</creditos>
+
+<p>O poema é referido pelo titulo <cite>Ida</cite> no currículo oficial da Catarina</p>
+
+<citacao href="http://mariacapaz.pt/banda-sonora/banda-sonora-catarina-furtado/" fonte="Maria Capaz" ano="2015">
+	<p>O medo da morte é até agora o único que ainda não resolvi . A morte dos que amo e a minha. Este é um tema que traz paz.</p>
+</citacao>
+
+
+<letra titulo="Se Eu Soubesse (o Que Sei Hoje)">
+	Cheguei... Pousei...<br/>
+	As minhas coisas já não pesam<br/>
+	Sento-me neste pedaço de tudo<br/>
+	Olho agora...sem dor<br/>
+	Esta paisagem única sem limites<br/>
+	<br/>
+	Se eu soubesse o que sei hoje<br/>
+	Se eu soubesse o que sei hoje<br/>
+	<br/>
+	Sorriu... Não há tempo nem pressa<br/>
+	Mato saudades de quem aqui chegou... ontem<br/>
+	Ouço serena os vossos suspiros<br/>
+	Não vale pena afinal... tá-se bem no além<br/>
+	<br/>
+	Se eu soubesse o que sei hoje<br/>
+	Se eu soubesse o que sei hoje<br/>
+	<br/>
+	Mando daqui um abraço do tamanho da viagem<br/>
+	Não chorem mais...aí em baixo<br/>
+	Espero que recebam esta mensagem<br/>
+	Serei agora um anjo a olhar por vós!<br/>
+	<br/>
+	Se eu soubesse o que sei hoje<br/>
+	Se eu soubesse o que sei hoje<br/>
+	Se eu soubesse o que sei hoje<br/>
+	Se eu soubesse o que sei hoje<br/>
+</letra>
+
+<elo href="https://www.youtube.com/watch?v=idPkrTidwuA">Se Eu Soubesse (o Que Sei Hoje)</elo>
+
+</corpo>
+
+</pagina>

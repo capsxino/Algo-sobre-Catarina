@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="principesdonada.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Um Por Todos</titulo>
+	<descricao>Um programa especial que trouxe a Lisboa alguns dos protagonistas das histórias relatadas no <cite>Príncipes do Nada</cite>.</descricao>
+	<fundo>https://lh3.googleusercontent.com/-mWnaggwZtVE/UAaoNxQTblI/AAAAAAAAMko/iAsKmOne9j0/s2048/20110308144149_QWCPV5X38I79U91S4M0U.jpg</fundo>
+</cabecalho>
+
+<corpo>
+<bloco>
+<incorporar>umportodos2011.xml</incorporar>
+<incorporar>umportodos2012.xml</incorporar>
+</bloco>
+</corpo>
+
+</pagina>

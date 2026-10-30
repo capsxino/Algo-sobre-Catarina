@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="atriz.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Teatro</titulo>
+	<descricao>Atriz no palco</descricao>
+	<fundo>https://lh3.googleusercontent.com/-xAlpH3_89Co/UQpQDcWO9zI/AAAAAAAAOGs/PrpTBEuFc7w/s640/CatarinaFurtado_ng1135259.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_noticiastv_outubro2011_01.xml" fonte="Notícias Tv" ano="2011"				>
+	<p>A minha preocupação passa por criar uma espécie de casulo de maneira a que no processo de procura de uma personagem esteja de facto hibernada. O que não é tão fácil, tendo uma profissão que exige que eu esteja sempre a trabalhar. Nunca deixei de fazer as duas coisas ao mesmo tempo, embora haja um período de recolhimento em que apenas procuro a personagem. Isso para mim é essencial.</p>
+</citacao>
+<citacao href="jornal_dn_20090324.xml" fonte="Diário de Notícias" ano="2009"	>
+	<p>Mas a representação é uma necessidade e o teatro é uma terapia. É como uma entrada num mosteiro, um retiro a todos os níveis - quer de exposição quer de descoberta. É onde me conheço melhor, ponho-me em causa, permito-me errar. Descubro limitações e qualidades. A disponibilidade tem de ser total, tenho de ficar uma espécie de barro a ser moldado nas mãos do encenador. É um exercício extraordinário de humildade e de partilha.</p>
+</citacao>
+<citacao href="revista_noticiastv_outubro2011_01.xml" fonte="Noticias Tv" ano="2011">
+	<p>É difícil conjugar o papel de apresentadora com o de actriz?</p><p>A minha preocupação passa por criar uma espécie de casulo de maneira a que no processo de procura de uma personagem esteja de facto hibernada. O que não é tão fácil, tendo uma profissão que exige que eu esteja sempre a trabalhar. Nunca deixei de fazer as duas coisas ao mesmo tempo, embora haja um período de recolhimento em que apenas procuro a personagem. Isso para mim é essencial.</p>
+</citacao>
+<citacao href="revista_novagente_janeiro2001_01.xml" fonte="Nova Gente" ano="2001">
+	<p><small>O que sente quando está em palco? Consegue pensar em quem está sentado a vê-la?</small></p>
+	<p>Quando sei que está lá alguém que é importante para mim, dedico-lhe o trabalho: quando não, é uma cara grande que ali está, a quem quero muito agradar.</p>
+</citacao>
+<citacao href="revista_WomensHealth_Janeiro2016.xml" autor="Catarina" fonte="Women's Health" ano="2016">
+	<p>No teatro há o representar de uma personagem, mas também ‘um despir’ que me faz muito bem. Ao construir-se uma personagem, vamos descobrindo mais sobre nós. Quando não se tem medos, é maravilhoso.</p>
+</citacao>
+
+<elo href="https://vimeo.com/10368981#t=2340">A Catarina fala das peças em que entrou. No "5 Para a Meia-noite" em 2010.</elo>					
+
+<arvore poda="teatro.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>

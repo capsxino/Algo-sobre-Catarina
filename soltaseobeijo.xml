@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Solta-se o Beijo</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Solta-se o Beijo</nome>
+	<nome titulo="Interpretação">Ala dos Namorados com as vozes de Nuno Guerreiro e Sara Tavares</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Álbum">Solta-se o Beijo</nome>
+	<nome titulo="Ano">1998</nome>
+</creditos>
+
+<p>A primeira e mais popular das canções escritas pela Catarina começou por ser um poema num postal que o João Gil transformou numa canção para a <cite>Ala dos Namorados</cite>. Por sugestão dela, a Sara Tavares juntou-se ao Nuno Guerreiro para interpretarem ao vivo a canção que ficou registada no álbum homónimo de platina de 1998.</p>
+
+<citacao href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=xWiGuUY66vU#t=478s" fonte="Canções da Nossa Vida" ano="1998">
+	<p>Nem era para ser uma letra. Eu escrevi um postal a uma pessoa que me é importante e em vez de escrever coisas sobre o país onde estava a passar férias apeteceu-me escrever um poema. De repente esse poema, porque o ofereci já não era meu, foi foi transformado numa canção.</p>
+</citacao>
+<citacao href="revistas_luxwoman_junho2002.xml" fonte="Lux Woman" ano="2002">
+	<p>Escrevo há muitos anos, foi só o ter a coragem de mostrar a uma pessoa a quem dou todo o crédito. Mas a primeira letra, 'Solta-se um Beijo', não era para uma canção, era um postal que escrevi ao João [Gil, da Ala dos Namora-dos). Estava na Grécia, de férias, e, em vez de escrever o habitual "está muito sol, os gregos são lindos de morrer..." - também, na altura, não devo ter reparado em nenhum (risos) -, escrevi aqueles versos e, quando cheguei cá, o João tinha composto uma música. De repente, ganhei confiança para abrir a gaveta...</p>
+</citacao>
+
+<letra titulo="Solta-se o Beijo">
+	Espreito por uma porta encostada
+	<br/>
+	<br/>
+	sigo as pegadas de luz
+	<br/>
+	peço ao gato xiu para não
+	<br/>
+	me denunciar
+	<br/>
+	<br/>
+	toca o relógio sem cu-cu
+	<br/>
+	dá horas à cusquice das vizinhas e eu
+	<br/>
+	confesso às paredes de quem gosto
+	<br/>
+	elas conhecem-te bem
+	<br/>
+	<br/>
+	oh,oh,oh,oh!!! ah, ah, ah, ah!!!
+	<br/>
+	<br/>
+	Aconchego-me nesta cumplicidade
+	<br/>
+	deixo-me ir nos trilhos traçados
+	<br/>
+	pela saudade
+	<br/>
+	de te encontrar
+	<br/>
+	ainda onde te deixei...
+	<br/>
+	<br/>
+	trago-te o beijo, prometido
+	<br/>
+	sei o teu cheiro
+	<br/>
+	mergulho no teu tocar
+	<br/>
+	abraças a guitarra
+	<br/>
+	e voas para além da lua...
+	<br/>
+	<br/>
+	Amarro o beijo que se quer soltar
+	<br/>
+	espero que o sintas, para
+	<br/>
+	me entregar
+	<br/>
+	a cadeira, as costas, o cabelo e a cigarrilha
+	<br/>
+	a dança do teu ombro e,
+	<br/>
+	nesse instante em,
+	<br/>
+	que o silencio é,
+	<br/>
+	o bater do coração,
+	<br/>
+	fecha-se a porta
+	<br/>
+	pára o relógio
+	<br/>
+	as vizinhas recolhem
+	<br/>
+	<br/>
+	tu olhas-me!!!
+	<br/>
+	tu olhas-me!!!
+	<br/>
+	<br/>
+	ah ah ah, ah ah ah, ah ah ah!!!
+	<br/>
+	ah ah ah, ah ah ah, ah ah ah!!!
+	<br/>
+	oh oh ye!!!
+	<br/>
+	<br/>
+	trago-te o beijo, prometido
+	<br/>
+	sei o teu cheiro
+	<br/>
+	mergulho no teu tocar
+	<br/>
+	abraças a guitarra
+	<br/>
+	e voas para além da lua...
+	<br/>
+	<br/>
+	Amarro o beijo que se quer soltar
+	<br/>
+	espero que o sintas, para
+	<br/>
+	me entregar
+	<br/>
+	a cadeira, as costas, o cabelo e a cigarrilha
+	<br/>
+	a dança do teu ombro e,
+	<br/>
+	nesse instante em,
+	<br/>
+	que o silencio é,
+	<br/>
+	o bater do coração,
+	<br/>
+	fecha-se a porta
+	<br/>
+	pára o relógio
+	<br/>
+	as vizinhas recolhem-se
+	<br/>
+	<br/>
+	(Solta-se o beijo, o gato mia
+	<br/>
+	solta-se o beijo. Gato mia)
+	<br/>
+	(Solta-se o beijo, o gato mia
+	<br/>
+	solta-se o beijo. Gato mia)
+	<br/>
+	<br/>
+	tu olhas-me!!!
+	<br/>
+	tu olhas-me!!!
+	<br/>
+	<br/>
+	Espreito por uma porta encostada
+	<br/>
+	sigo as pegadas de luz
+	<br/>
+	peço ao gato xiu para nao
+	<br/>
+	me denunciar...
+	<br/>
+	<br/>
+	tu olhas-me!!!
+	<br/>
+	tu olhas-me!!!
+</letra>
+
+<grande><elo href="https://www.youtube.com/watch?v=DOcuBN3CdbI">Ala dos Namorados no «Canções da Nossa Vida» (1998)</elo></grande>
+
+</corpo>
+
+</pagina>

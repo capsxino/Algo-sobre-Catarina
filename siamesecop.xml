@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Siamese Cop</titulo>
+	<descricao>Comédia ao género B-movies. Uma longa-metragem nunca comercializada.</descricao>
+	<data><ano>1997</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-7I01cpY8ES0/URzJMyU3VrI/AAAAAAAAOKE/2vFJMQ8gkx0/s2048/CatarinaFurtado_siamese-rosa-gun.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Dois irmãos siameses unidos pela cintura decidem tornar-se policias para vingar a morte dos seus pais durante uma assalto à padaria da família. Esta era a ideia para um filme que seria uma  brincadeira à volta do género <i>B-movie</i>. Ao lugar comum da parelha: policia bom; policia mau; juntava-se: dois policias; um mesmo casaco.</p>
+<p>O enredo não está na internet mas o apelido dos gémeos, Dan e Jack Pinto, parece indicar serem luso-descendentes. Como a personagem da Catarina, Rosa, casada com um padeiro, que parece trabalhar no <cite>No No Go Go Bar</cite> e que parece provocar a discórdia entre os dois gémeos. Parece.</p>
+<p>O filme foi rodado no inicio de 1997 em Londres. Inicialmente era para ser realizado pelo argumentista do filme, <a href="http://alexchandon.com/">Alex Chandon</a>, mas o produtor David Barron, que viria a ganhar fama com os filmes <cite>Harry Potter</cite>, sugeriu que a realização fosse entregue a <a href="http://paulmorriseu.wordpress.com/2011/04/21/cinema-siamese-cop/">Paul Morris</a>. Paul adaptou o argumento para o seu gosto e a contra-gosto de Alex. Depois da sua apresentação em Cannes o filme acabou por não ser comercializado.</p>
+<elo href="http://alexchandon.com/news/news-COPS-REVIEW.jpg">Critica ao filme</elo>
+<p>Entre 1995 e 1997, a Catarina estudou representação em Londres. Na segunda metade de 1997 estava em Portugal para filmar o <cite>Pesadelo Cor-de-rosa</cite>.  Numa entrevista dada nessa altura disse que no final do ano regressaria a Londres para filmar uma longa-metragem de que pouco saiba mas que ia outra vez fazer de estrangeira. Se o <cite>Siamese Cop</cite> foi filmado no inicio do ano então este terá sido outro filme que talvez nunca se tenha realizado.</p>
+<elo href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=uJ56_2hPlVE#t=156s">Catarina na rodagem do <cite>Pesadelo Cor-de-rosa</cite></elo>
+	 	
+<imagem legenda="Rosa: numa fotografia de cena, por Alex Chadon" href="https://picasaweb.google.com/lh/photo/UhfOfrsMjv0Op2hz-cnRj76wXb_Lw0SEpJCbJ2Bfsgg?feat=embedwebsite">https://lh3.googleusercontent.com/-27HXVJvYZNg/URzJMzcbbrI/AAAAAAAAOKA/kXMu0JkMXLw/s400/CatarinaFurtado_siamese-rosa-jukebox.jpg</imagem>	
+
+<citacao href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/editor-da-sic-vira-actor" fonte="Correio da Manhã" ano="2008">
+	<p>A estreia de Miguel Monteiro no cinema deu-se ao lado de Catarina Furtado no filme ‘Siamese Cop’, rodado em Inglaterra, onde a actriz e apresentadora estudava representação. 'Fui lá fazer um trabalho para o ‘Mundo VIP’ (SIC) e depois da entrevista, o actor que ia fazer o papel de marido dela, um padeiro, falhou e o produtor, David Barron – hoje conhecido por estar ligado à saga de ‘Harry Potter’ –, achou graça à minha figura e perguntou-me se podia fazer o papel', recorda. Depois de lhe colocarem uma barriga postiça e de lhe terem dado um ‘banho’ de farinha estava composto o personagem.' Foi muito engraçado, adorei a experiência', concluiu.</p>	
+</citacao>
+		
+<citacao href="http://alexchandon.com/" autor="Alex Chandon" fonte="Site do argumentista">
+	<p>SIAMESE COP was a brilliant idea by my good friend Adam Schofield which I expanded into a script after a successful drunken pitch at RAINDANCE FILM FESTIVAL in 1996. I was originally going to direct the film until I received an offer that was impossible to refuse: David Barron (now the producer of the HARRY POTTER films) wanted to produce the film with Paul Morris co-writing and directing. I was happy at the time as Paul was a nice chap and appeared experienced and competent and it meant the film would get a decent budget and a brilliant producer. I should have got nervous when Paul's rewrite of my script removed all the action scenes and risque dialogue. He had a different vision which involved lots of film-noir homages and intelligently witty (to him) quips, but no action. During filming it became apparent to me that the he didn't really have a clue about making a B-movie. Which was a real shame. My time on set, helping the art department and taking photographs, was brilliant and I still had hope that the edit might salvage the film. Unfortunately it didn't. It remains as an off-line master.  In desperation I re-cut the film in a comedic fashion with a funky soundtrack and OTT sound effects and almost liked this version, but of course Paul didn't. I think the only place that SIAMESE COP screened was in a hotel room at Cannes to a few film students. I have a version of the film on VHS and I plan to edit a trailer together one day, adding explosions and car crashes and make it look like the B-movie it should have been.</p>
+</citacao>
+		
+<citacao autor="Alex Chandon" fonte="...numa troca de mensagens comigo">
+	<p>Coincidentaly, a year after Siamese Cop I was doing an art department job in portugal. I contacted Catarina and we agreed to meet up for an afternoon... I was staying at a decent hotel but returned every day covered in paint... they must have thought me a lowly worker. Then Catarina Furtado phones for me and boy did their attitude change... now I was a hero. When Catarina turned up driving an open top sports car I introduced her to the hotel manager, who was practically fainting!! Good days. She is such a lovely kind person.</p>
+</citacao>
+
+<creditos>
+	<nome titulo="Personagem da Catarina">Rosa</nome>		
+	<nome titulo="Data de rodagem">Inicio de 1997(?)</nome>	
+	<nome titulo="Local de rodagem">Londres</nome>	
+	<nome titulo="Argumentistas">Alex Chandon, Nico Rilla e Paul Morris</nome>
+	<nome titulo="Realizador">Paul Morris</nome>		
+	<nome titulo="Produtor">David Barron</nome>
+</creditos>						
+
+<elo href="http://alexchandon.com/">Sitio do argumentista Alex Chandon</elo>		
+<elo href="http://www.imdb.com/title/tt0120825/">Página no IMDB</elo>		
+<grande><elo href="https://picasaweb.google.com/capsxino/SiameseCop?authuser=0&amp;feat=embedwebsite">Fotografias de cena, por Alex Chadon</elo></grande>
+
+</corpo>
+
+</pagina>

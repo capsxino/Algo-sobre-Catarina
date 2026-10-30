@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="umportodos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Um Por Todos</titulo>
+	<descricao>Um programa especial que trouxe a Lisboa alguns dos protagonistas das histórias relatadas no <cite>Príncipes do Nada</cite>.</descricao>
+	<data><ano>2011</ano><mes>3</mes><dia>7</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-mWnaggwZtVE/UAaoNxQTblI/AAAAAAAAMko/iAsKmOne9j0/s2048/20110308144149_QWCPV5X38I79U91S4M0U.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Dia 7 de Março, no dia de aniversário da RTP, o serão foi preenchido com um programa de homenagem aos <i>Príncipes do Nada</i>. Transmitido em direto do Convento do Beato, em Lisboa. O <cite>Um Por Todos - Especial Príncipes do Nada</cite> contou com alguns dos protagonistas das histórias contadas na segunda série, muitos deles pela primeira vez em Portugal.</p>
+<p>Aos <i>Príncipes</i> e juntaram-se padrinhos, convidados pela Catarina. Figuras públicas e empresas que assumiram o compromisso de ajudar essas pessoas, organizações ou causas.</p>
+<p>Um dos momentos musicais do programa foi especial. A Lúcia Moniz interpretou ao vivo o tema <a href="principedonada.xml"><cite>Príncipe do Nada</cite></a> com letra da Catarina.</p>
+<p>Nesta data já estava garantida uma 3ª série do programa e a Catarina já manifestava a vontade de ir até ao Haiti, pais devastado por um terramoto no ano anterior. Em Julho desse ano, o Haiti foi o primeiro destino na gravação da próxima série do programa.</p>
+
+<citacao autor="Sinopse" fonte="RTP">
+	<p>Depois de transmitidos os treze episódios da segunda série do programa <cite>Príncipes do Nada</cite> e do impacto que o programa teve junto do público dá-se a oportunidade à sociedade civil de se encontrar com alguns destes verdadeiros príncipes do nada.  Será uma hora e meia de conversa, de momentos surpreendentes, música e entrega de donativos. Uma emissão dedicada à cidadania, aos valores de solidariedade, justiça social, cooperação, corresponsabilidade, equidade e participação a favor dos direitos humanos e do desenvolvimento. Dentro e fora do nosso país o “Especial – Príncipes do Nada” pretende alertar consciências através de exemplos que devem ser contagiantes e promover compromissos que ajudem aqueles que mais sentem diariamente as desigualdades sociais.</p><p>Na sequência deste trabalho, realiza-se o espetáculo UM POR TODOS, apresentado por Catarina Furtado, em direto a partir do Convento do Beato, em Lisboa no dia 07 de março.</p>
+</citacao>
+
+<elo href="http://www.youtube.com/watch?v=f5kpZcAMk9Y">Reportagem do programa <cite>Só Visto!</cite></elo>
+<elo href="http://www.youtube.com/watch?v=MriE0R-fhEk">Reportagem do programa <cite>Só Visto!</cite> da apresentação à imprensa</elo>
+<elo href="http://www.youtube.com/watch?v=9uoCeqzVlI8">Lúcia Moniz interpreta a canção <cite>Príncipe do Nada</cite></elo>
+<elo href="http://fama.sapo.pt/noticia/catarina-furtado-solidaria-com-os-pobres-de-africa-3">Reportagem Sapo Fama com foto-galeria</elo>
+<elo href="http://hardmusica.pt/noticia_detalhe.php?cd_noticia=7938">Reportagem do sitio <cite>Hard Música</cite></elo>
+<elo href="http://www.dn.pt/inicio/pessoas/interior.aspx?content_id=1801192">Reportagem do Diário de Notícias : Catarina Furtado surpreendida pela família</elo>
+<elo href="http://www.lux.iol.pt/nacionais/convento-do-beato-apresenta-programacao-catarina-furtado-principes-do-nada-rtp/1235592-4996.html">Apresentação à imprensa: foto-galeria da Lux</elo>
+<elo href="http://www.youtube.com/watch?v=TJ5ERMMGQUgl">Parte do programa: conversa com alguns espectadores mobilizados pelo <cite>Príncipes do Nada</cite></elo>
+<elo href="https://picasaweb.google.com/capsxino/Imprensa2011?authuser=0&amp;authkey=Gv1sRgCNHZ2om44YOIIQ&amp;feat=embedwebsite">Recortes de Imprensa (2011)</elo>
+
+</corpo>
+
+</pagina>

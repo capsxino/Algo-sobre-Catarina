@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Telebaladas</titulo>
+	<descricao>O último Telebaladas do ano, o programa de baladas por encomenda do Canal Q, teve como convidada "a maior estrela da televisão portuguesa" - nas palavras introdutórias do Nuno Markl - "Ela apresenta programas e ao mesmo tempo não descansa enquanto não salvar o mundo."</descricao>
+	<data><ano>2012</ano><mes>12</mes><dia>27</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-oyUHmQbuRV8/UOxR0kDA0GI/AAAAAAAAN9o/4DDnByCLKCc/s2048/14595_130695160423483_1761395062_n.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>O último <cite>Telebaladas</cite> do ano, o programa de baladas por encomenda do Canal Q, teve como convidada <q>a maior estrela da televisão portuguesa</q> - nas palavras introdutórias do Nuno Markl - <q>Ela apresenta programas e ao mesmo tempo não descansa enquanto não salvar o mundo.</q></p>
+<p>O teledisco <cite>Purple Rain</cite> do Prince - artista favorito da Catarina - podia ter sido o escolhido para o comentário dos 3 mas por ser muito longo e pouco azeiteiro a escolha recaiu sobre o <cite>Nikita</cite> do Elton John.</p>
+<p><q>Eu tenho um...</q> pedaço do muro de Berlim, contou logo a Catarina para inicio da conversa que terá o tempo do <i>video clip</i> ..também tem uma coisa daquelas que os russos usam na cabeça - segue - e para o fim, antes de se oferecer para escrever uma letra para uma musica do João Só, confessa compreender as mulheres que trocam os homens pelas mulheres. Os homens, diz, ao fim dum tempo tornam-se previsíveis.</p>
+<p>Mas não fique a meio de ver o programa. Depois da balada da Catarina. Depois da balada do João Só com o David Fonseca, vem uma surpresa...</p>
+<grande>
+	<elo href="http://videos.sapo.pt/YIw2EOda3HQzVH3zfc97">Video do programa</elo>
+</grande>
+</corpo>
+
+</pagina>

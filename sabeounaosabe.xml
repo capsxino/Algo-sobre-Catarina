@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="convidada.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Sabe ou não Sabe</titulo>
+	<descricao>Convidada numa emissão especial para solidariedade do concurso da RTP.</descricao>
+	<data><ano>2014</ano><mes>2</mes><dia>21</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-WMON3kHq_NA/VGcs4VJSQFI/AAAAAAAAp8E/sffWYpQU_ng/s0/CatarinaFurtado_SabeOuNaoSabe_040000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Numa emissão especial do "Sabe ou Não Sabe", com os prémios entregues a instituições de solidariedade, o apresentador Vasco Palmeirim visitou os estúdios onde são gravados os programas da RTP e convidou os seus apresentadores a participar no concurso. Foram eles: a Tânia Ribas de Oliveira e o João Baião, do "Praça da Alegria"; o Nilton, do "5 Para a Meia-noite"; e, a terminar o programa, a Catarina Furtado, enquanto apresentadora do "<a href="chefsacademy.xml">Chefs' Academy</a>".</p>
+<p>A Catarina arrancou com imenso entusiasmo (à frente do Vasco) pelo estúdio da Barroca d'Alva, escolhendo entre os alunos da escola aqueles que saberiam, ou não, responder às perguntas colocadas. Depois da Chef Marlene não ter sabido responder que canção cantou a Sara Tavares no Festival da Canção, e de a Catarina não ter conseguido telefonar à Sara, com outra ajuda conseguiram superar essa etapa e arriscar a pergunta para 500 euros.</p>
+<p>Foi essa verba, de meio milhar de euros, que a Catarina escolheu entregar à PPACDM (Associação portuguesa de pais e amigos do cidadão deficiente mental de Moura). O programa encerrou a 2ª temporada do "Sabe ou Não Sabe" (9º episódio; transmitido no dia 22 de Fevereiro de 2014) mas foi gravado alguns meses antes. Os jovens da associação de Moura visitaram a Catarina durante a gravação do <a href="circodenataldartp.xml">Circo de Natal da RTP</a> que aconteceu em Dezembro de 2013.</p>
+
+<grande><elo href="https://www.youtube.com/watch?v=Xd-s3o5Y-3A">Participação da Catarina no <cite>Sabe ou não sabe</cite></elo></grande>
+
+<imagem href="https://picasaweb.google.com/lh/photo/IcpfPViTeZi2ePGE3THRfTBOKXhIQhNzwipHZtVo4AQ?feat=embedwebsite">https://lh6.googleusercontent.com/-v0tCQe9WxnM/VGcs4S4d-oI/AAAAAAAAp8I/ItfYn7-7AoU/s400/CatarinaFurtado_SabeOuNaoSabe_100000.jpeg</imagem>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Shoette</titulo>
+	<descricao>A sapataria.</descricao>
+	<data><ano>2003</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_caras_setembro2003_01.xml" fonte="Caras" ano="2003">
+	<p>Tenho o culto dos sapatos, mas nunca tinha pensado nisso a nível comercial. Foi algo que surgiu em conjunto com dois sócios, a minha amiga Helena Carmona e o José Pereira da Silva, que já trabalhava no ramo. Durante uma viagem para o Porto, estava a falar com a Helena sobre sapatos, e foi o João (Gil) quem nos sugeriu a abertura de um negócio. ntrei a sério neste mundo. Gosto de fazer parte do nascimento das coisas, e só assim é que consigo trabalhar, seja no que for.</p>			
+</citacao>
+
+<citacao href="revista_lux_marco2004_01.xml" fonte="Lux" ano="2003">
+	<p>A primeira vez que calcei sapatos mais altos, tinha 7 anos e foi no casamento da minha tia-madrinha. Eram uns sapatos que o meu pai trouxe de Macau. Tenho pena de não os ter... Tinham um bocadinho de salto, eram verdes e brancos e tinham uns cordões que atavam à perna. Nesse dia, senti-me mais senhora.</p>				
+</citacao>
+
+<elo href="revista_vip_novembro2003_01.xml">Entrevista para a revista Vip em 2003</elo>
+<elo href="revista_lux_marco2004_01.xml">Entrevista para a revista Lux em 2004</elo>
+
+</corpo>
+
+</pagina>

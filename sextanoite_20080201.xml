@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Sexta à Noite</titulo>
+	<descricao></descricao>
+	<data><ano>2008</ano><mes>2</mes><dia>1</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-zHYLYAVInxU/U-8y6HlCQXI/AAAAAAAAnzc/0Hl66AR3_Yo/s2048/CatarinaFurtado_6aNoite_20080201_080002.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="https://www.youtube.com/watch?v=mTSQwFS9m1s">Video da entrevista</elo></grande>
+
+</corpo>
+
+</pagina>

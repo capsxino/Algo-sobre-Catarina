@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Rocha no Ar</titulo>
+	<descricao>Entrevista para o programa 'Rocha no Ar' da RFM.</descricao>
+	<data><dia>16</dia><mes>6</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/484499911709671/?type=1"></elo>
+
+</corpo>
+
+</pagina>

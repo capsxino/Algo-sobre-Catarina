@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>SOS Terra</titulo>
+	<descricao>Apresenta parte das 24 horas de emissão global de concertos de música por todo o mundo com o objectivo alertar para o aquecimento global do planeta.</descricao>
+	<data><ano>2007</ano><mes>7</mes><dia>7</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-kRa5oskqO-Y/UpjtH93AaqI/AAAAAAAARTA/RvlaaK93hUU/s0/CatarinaFurtado_SOSTerra_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao autor="Sinopse" fonte="RTP">
+	<p>O Live Earth é uma ideia de Al Gore e tem como objectivo alertar para o aquecimento global do planeta, através das actuações de alguns dos artistas mais conceituados e populares do mundo. Os lucros de bilheteira reverterão para três grupos de defesa do ambiente. É esperada uma audiência mundial de dois biliões de pessoas.</p>
+	<p>No próximo dia 7 de Julho que a RTP irá levar até aos espectadores portugueses o maior acontecimento televisivo do ano: o SOS Terra – Live Earth. Serão 24 horas de emissão non stop compostas por concertos, debates com especialistas e caras conhecidas, ligações em directo a repórteres portugueses nos principais palcos mundiais e muitas outras surpresas.</p>
+	<p>Nesta iniciativa sem precedentes, a RTP é a televisão que em Portugal detém o exclusivo da transmissão do SOS Terra - Live Earth. A emissão vai oferecer a transmissão de todos os concertos, convidar especialistas e caras conhecidas e explicar-lhe tudo sobre a questão das alterações climáticas.</p>
+	<p>No estúdio principal, que comandará toda a transmissão, estarão a apresentar: Catarina Furtado; Tânia Ribas de Oliveira; Daniel Oliveira; para além de Carlos Malato e Sílvia Alberto que têm vindo a apresentar um programa na RTP de sensibilização para as questões ambientais, o SOS Terra.</p>
+</citacao>
+
+</corpo>
+
+</pagina>

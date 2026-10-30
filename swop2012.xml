@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="swop.xml" estado="completa">
+
+<cabecalho>
+	<titulo>SWoP 2012</titulo>
+	<descricao>Na qualidade de Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População, é a oradora convidada para a apresentação do relatório anual do UNFPA sobre o Estado da População Mundial (SWoP); neste ano dedicado ao tema: "Por escolha, não por acaso - Planeamento Familiar, Direitos Humanos e Desenvolvimento".</descricao>
+	<data><ano>2012</ano><mes>11</mes><dia>14</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em 2012, foi oradora convidada na apresentação pública em Portugal do Relatório do UNFPA sobre a Situação da População Mundial 2012, nesse ano subordinado ao tema "Por escolha, não por acaso - Planeamento Familiar, Direitos Humanos e Desenvolvimento". O evento teve lugar no dia 14 de Novembro de 2012 na Sala do Senado da Assembleia da República.</p>
+
+<grande><elo href="https://www.youtube.com/watch?v=Gai6RHxxwcU">Intervenção da Catarina Furtado</elo></grande>
+<elo href="./documentos/Catarina Furtado SWOP2012.pdf">Intervenção da Catarina (PDF)</elo>
+<grande><elo href="http://www.youtube.com/watch?v=YmSY4jUWT9k">Catarina Furtado e Alice Frade. Perguntas e Respostas na apresentação do Relatório SWOP 2012</elo></grande>
+<elo href="http://www.instituto-camoes.pt/relatorio-da-unfpa-apresentado-dia-14-com-debate-sobre-planeamento-familiar">Relatório sobre a Situação da População Mundial 2012</elo>
+
+</corpo>
+
+</pagina>

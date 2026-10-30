@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="embaixadora.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>SWoP</titulo>
+	<descricao>Na qualidade de Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População, é a oradora convidada para a apresentação do relatório anual do UNFPA sobre o Estado da População Mundial (SWoP).</descricao>
+	<data><ano>2000</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Desde 2000, a Catarina, tem sido Oradora convidada na Apresentação Pública do Relatório sobre o Estado da População Mundial, na Assembleia da República e Ministério dos Negócios Estrangeiros.</p>
+
+<bloco>
+<incorporar>swop2009.xml</incorporar>
+<incorporar>swop2010.xml</incorporar>
+<incorporar>swop2011.xml</incorporar>
+<incorporar>swop2012.xml</incorporar>
+<incorporar>swop2013.xml</incorporar>
+<incorporar>swop2014.xml</incorporar>
+</bloco>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Ricardo Freitas e Hugo Gonçalves</titulo>
+	<descricao>Os companheiros de viagem nos <cite>Príncipes do Nada</cite></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+<citacao href="revista_africa21_julho2009_01.xml" fonte="Africa 21" ano="2009">
+	<p>Às vezes, só consigo partilhar o que vejo com as duas pessoas com quem vou: o Ricardo Freitas, produtor do programa, e o Hugo, que é repórter de imagem. Muitas vezes, as imagens que selecciono e o texto que escrevo não reflectem tudo o que vi, que vivi, que senti. É tudo tão intenso, que não consigo.</p>
+</citacao>
+<citacao autor="Hugo Gonçalves" href="revista_tvguia_outubro2009_01.xml" fonte="TV Guia" ano="2009">
+	<p>É um privilégio acompanhar a Catarina há quatro anos, não só a nível profissional como a nível humano. Vimos morrer gente à nossa frente... Aprendi com ela a deixar de dar valor a certas coisas e a dar importância a outras. Tem um coração enorme.</p>
+</citacao>
+<citacao href="revista_noticiastv_dezembro2010.xml" fonte="Notícias Tv" ano="2010">
+	<p>Embora às vezes eu me sinta um bocadinho solitária. Quando vou para estas viagens, vou sempre com duas pessoas, o Ricardo Freitas, que é o produtor/realizador de todos os meus documentários, e o repórter de imagem Hugo Gonçalves, que tem sido sempre o mesmo. E é muito importante que assim seja. Há coisas que se vêem, há cumplicidades que se criam. Em Banda Aceh, na Indonésia, estávamos ali chocados a ver aquela miséria, e eu virei-me para eles, baixinho, e disse-lhes "tenho uma coisa para vos contar, estou grávida". Eles ficaram cheios de medo, coitadinhos, queriam logo sair dali (risos). Eu só consigo conversar sobre estas coisas que vejo nas viagens com o Ricardo.</p>
+</citacao>
+</corpo>
+
+</pagina>

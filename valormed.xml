@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>ValorMed</titulo>
+	<descricao>Campanha para a devolução de medicamentos fora do prazo.</descricao>
+	<data><ano>2002</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh5.googleusercontent.com/-BLM5EyXTNMQ/Us0wzoqFLWI/AAAAAAAAUB8/8QCeXUcGH_4/s0/CatarinaFurtado_ValorMed2002_00088_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em 2002 foi criado um spot de 25 segundos para televisão, onde a Catarina Furtado entrega os seus medicamentos fora do prazo na farmácia, encontrando-se à porta com o amigo Luís Esparteiro.</p>
+
+</corpo>
+
+</pagina>

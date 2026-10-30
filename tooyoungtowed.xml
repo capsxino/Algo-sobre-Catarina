@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="eventos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>'Too Young to Wed' - Novas Demais para Casar</titulo>
+	<descricao>Exposição da campanha internacional que visa combater o casamento infantil.</descricao>
+	<data><ano>2014</ano><mes>9</mes><dia>1</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-xAKhQgf5lUA/VA1tfJvMcaI/AAAAAAAApJ8/Gz6vo4Eqd1E/s0/CatarinaFurtado_SoVisto_20140907_100000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>"Too Young to Wed" é uma campanha internacional, associada ao Fundo para a População das Nações Unidas (UNFPA), que visa combater o casamento infantil. Todos os anos milhares de crianças são forçadas a casar com consequências negativas para elas e para a comunidade. Estes casos são retratados pela foto-jornalista Stephanie Sinclair da agência VII e vistas na exposição multimédia e itinerante com o mesmo nome.</p>
+<p>A associação P&amp;D Factor trouxe a exposição para Portugal, no âmbito da Campanha Continuamos à Espera, juntando-se, para isso, à Associação Corações com Coroa (presidida pela Catarina Furtado), à AJPAS e à Oikos. Ficou patente no Átrio Central do Edifício Sede da CGD desde o dia 1 até ao dia 15 de Setembro de 2014.</p>
+
+<elo href="http://tooyoungtowed.org/">Página da campanha 'Too Young to Wed'</elo>			
+<elo href="http://caras.sapo.pt/famosos/2014-09-17-Catarina-Furtado-Ha-formas-de-mostrar-a-realidade-as-criancas">Artigo da revista Caras</elo>			
+<elo href="https://picasaweb.google.com/lh/photo/-V4otkLDCXvul_RxA_2v8BJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da revista TV Guia</elo>			
+<elo href="revista_flash_20140926.xml">Entrevista para a Flash!</elo>						
+<elo href="https://www.youtube.com/watch?v=Nua10QQMIao">Reportagem do "Só Visto!"</elo>						
+<elo href="http://www.maxima.xl.pt/entrevistas/21212-novas-demais-para-casar.html">Reportagem da revista Máxima</elo>
+<elo href="https://www.facebook.com/media/set/?set=a.574560282669957.1073741832.433468380112482&amp;type=3">Fotografias da apresentação oficial da exposição</elo>
+<elo href="http://www.bastidores.pt/too-young-to-wed-novas-demais-para-casar/">Texto da Joana Teles</elo>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="narradora.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Sonho de uma Noite de Verão</titulo>
+	<descricao>Narradora de concerto dado pela Orquestra Metropolitana de Lisboa.</descricao>
+	<data><ano>2006</ano><mes>7</mes><dia>21</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>Sonho de uma noite de verão</cite>, uma recriação da peça de William Shakespeare, executada pela Orquestra Metropolitana de Lisboa. Contou com a narração da Catarina Furtado e do João Reis. O concerto foi de entrada gratuita, no dia 21 de Julho de 2006 no Claustro do Mosteiro dos Jerónimos e no dia 22 no Grande Auditório do Europarque em Santa Maria da Feira.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/xaT5FaxlqpulNeUm1MnCB9keAnMT9DCE5SZaAegvXt8?feat=embedwebsite">https://lh4.googleusercontent.com/-dw-gTgPwScs/UWBtuU7assI/AAAAAAAAOqY/tnurIiP68BE/s400/40587_scscatarinafurtado013se4_122_587lo.jpg</imagem>
+
+</corpo>
+
+</pagina>

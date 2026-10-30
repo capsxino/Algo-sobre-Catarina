@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="convidada.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Toca a Todos</titulo>
+	<descricao>Numa maratona radiofónica da Antena 3, que durou do dia 3 ao dia 6 de Dezembro, ao qual se associou todo o grupo RTP, procurou-se alertar para o problema da pobreza infantil em portugal e angariar fundos para a Caritas. A Catarina participou na iniciativa indo ao estúdio instalado no Terreiro do Paço, e numa edição especial do Preço Certo.</descricao>
+	<data><ano>2014</ano><mes>12</mes><dia>3</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-hoTOgl8oi8Y/VKUtGkx0ZAI/AAAAAAAAqZI/1KQsolQdSQs/s0/CatarinaFurtado_TocaTodos_040000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Toca a Todos">
+	<p>À entrada do mês natalício de Dezembro, a RTP procura mobilizar os Portugueses para uma causa social, com o evento "Toca a Todos". Durante 3 dias, fechados num estúdio transparente no Terreiro do Paço, numa maratona radiofónica, os locutores da Antena 3 animam continuamente a emissão, informam, e apelam à angariação de fundos. As pessoas contribuem, individual ou colectivamente, através de chamadas telefónicas, transferências bancárias ou licitando nos leilões de objectos doados. No exterior do estúdio há uma caixa onde quem passa pode depositar a sua contribuição; pelo interior passam convidados para uns minutos de conversa e, a qualquer hora do dia ou da noite, músicos actuam ao vivo, transmitidos em directo pela ondas da rádio. Mas, no século XXI, a emissão torna-se multimédia e ocupa o seu espaço nas várias plataformas da RTP, na televisão ou na internet, e também se realiza num grande palco armado ao lado do Cais das Colunas, frente ao estúdio improvisado, rodeados de gente curiosa que se torna participante.</p>
+	<p>O "Toca a Todos" é uma réplica do que acontece desde 2004 na Holanda, com a rádio publica 3FM; a ideia foi seguida em diversos países e, em Portugal, a primeira edição ocorreu nos primeiro dias de Dezembro de 2014.</p>
+</bloco>
+
+<bloco titulo="Toca a Todos, com a Caritas, contra a pobreza infantil (2014)">
+	<p>A edição inaugural serviu a causa da luta contra a pobreza infantil. Em 2014, como resultado da crise económica em Portugal e duma politica de austeridade orçamental, os números davam sinais alarmantes: 1 em cada 3 crianças portuguesas estão em risco de pobreza (27% estão em situação de carência). A RTP associou-se à <a href="http://www.caritas.pt/">Cáritas Portuga</a>l para quem reverteu todo o dinheiro angariado. De raiz católica, a Cáritas não deixa de se afirmar subordinada aos princípios consagrados na Convenção das Nações Unidas sobre os Direitos da Criança <cite>com a convicção de que a erradicação da pobreza infantil e familiar na Europa é possível se um nível suficiente de vontade política e apoio social estiverem consertados.</cite></p>
+	<elo href="http://media.rtp.pt/tocaatodos/caritas-portuguesa">Sobre <cite>Toca a Todos</cite> e a Caritas no sitio da RTP</elo>
+	<imagem href="https://www.youtube.com/watch?v=L0A43QvTAO0">https://lh3.googleusercontent.com/-0RiN9fzXY5w/VKUu7ZJIGRI/AAAAAAAAqaI/mQZMiM1Dve8/s400/CatarinaFurtado_TocaTodos_20141206_030000.jpeg</imagem>
+	<p>Quem entrou nesta, coisa inédita em Portugal, primeira maratona radiofónica do "Toca a Todos", foram os locutores: Ana Galvão, Diogo Beja e Joana Marques; que durante 73 horas, entre o dia 3 e 6 de Dezembro de 2014, animaram a emissão continua de rádio da Antena 3, dentro do estúdio transparente montado na parte nascente da Praça do Comércio.</p>
+					
+	<bloco titulo="Flash Mob">
+		<p>Toda a RTP se envolveu e não só a malta da Antena 3; foram algumas caras conhecidas, como a Catarina Furtado, que se juntaram a outros trabalhadores da estação numa coreografia desenhada pelo Marco de Camillis. A <i>flash mob</i>, dançada ao som da "Asas Delta" dos Clã, a canção escolhida para ser o hino da edição deste ano, foi gravada no dia 19 de Novembro, no átrio da sede da estação. O video, que serviu para promover a iniciativa, foi colocado <a href="http://media.rtp.pt/tocaatodos/videos/flash-mob-asas-delta"><i>online</i> no sitio da RTP</a>.</p>
+		<imagem href="https://picasaweb.google.com/lh/photo/-jpjy5FOM8vB4JJhoC3BHDBOKXhIQhNzwipHZtVo4AQ?feat=embedwebsite">https://lh6.googleusercontent.com/-0rOv3-lW-n0/VHLyB2iozPI/AAAAAAAAqCc/pH2FeGVc9kM/s400/CatarinaFurtado_SoVisto_20141123_x.gif</imagem>
+	</bloco>
+	
+	<bloco titulo="Preço Certo Especial">
+		<p><q>Sou Lisboeta mas tenho raízes no Soito e em Penamacor, e agora vim aqui representar o local onde casei e onde os meus filhos foram baptizados: Santarém.</q> Apresentou-se, assim, a Catarina, ao lado da representação da Cáritas da Diocese de Santarém que apoia regularmente 1600 famílias carenciadas; numa edição especial do "Preço Certo" cujo o prémio final reverteu para essas instituições e que juntou colegas da RTP: o Herman José, o Carlos Daniel, a Vanessa Oliveira, a Fátima Campos Ferreira e e Mário Augusto que, com a Catarina, foi o único a não avançar para a roda. O programa foi transmitido no dia 3 de Dezembro</p>
+		<elo href="https://www.youtube.com/watch?v=zTiEBUxEojk">Catarina Furtado no Especial Preço Certo Toca a Todos</elo>	
+	</bloco>
+	
+	<bloco titulo="Entrada dos locutores no estúdio da Antena 3">
+		<p>Logo após o "Preço Certo" especial, perto das 20 horas do dia 3 de Dezembro, a RTP1 transmitia o fechar simbólico das portas do estúdio da Antena 3. Vindos num autocarro de dois andares, directamente da sede da RTP, e chegados à Praça do Comércio, o Diogo, a Ana, e a Joana, foram recebidos de maneira carinhosa pela Catarina e pelo presidente da RTP, Alberto da Ponte. Aos microfones a Catarina confessou uma "inveja boa" enquanto fechava a porta do estúdio e proferia as últimas palavras de incentivo: <q>Os nossos bravos vão entrar e fazer tudo por tudo para que esta grande campanha seja aquilo que nós aqui sonhamos. contamos consigo!</q></p>
+		<imagem href="https://www.youtube.com/watch?v=L0A43QvTAO0">https://lh3.googleusercontent.com/-NO2HFI18VCg/VKUu7QQs7bI/AAAAAAAAqaA/dBVbMIo9XoE/s400/CatarinaFurtado_TocaTodos_20141203_020000.jpeg"</imagem>
+	</bloco>	
+		
+	<bloco titulo="O último dia da maratona radiofónica">
+		<p>O sol tinha acabado de se pôr, para lá da foz do rio Tejo, quando a Catarina entrou no estúdio de rádio montado no Terreiro do Paço. Tinha nas mãos dois pacotes, cada um com uma <i>t-shirt</i> da Associação Corações com Coroa. Depois de largados na mesa, distribuiu abraços e meigos carinhos dedicados a um dos três locutores que, há quase 70 horas, mantinham o seu posto aos microfones da Antena 3. As <i>t-shirts</i> eram o prémio do desafio lançado dias antes pela Catarina: recebia-as quem lá chegasse com um donativo e um girassol (a flor que simboliza o seu filho João) ou uma papoila (a flor da Beatriz que nasceu no dia da espiga).</p>
+		<elo href="http://media.rtp.pt/tocaatodos/videos/o-desafio-da-catarina-furtado">Desafio lançado pela Catarina</elo>
+		<p>A Catarina sentou-se, frente ao microfone, para conversar; e, pouco depois, foi interrompida pela entrada dos ultramaratonistas acabados de chegar do norte e do sul do país. Com a sua caixinha de donativos o valor angariado ultrapassou os 200 mil euros. Eles chegaram cansados mas felizes; o que levou a Catarina a comentar: <q>o que ficava aqui bem era o Sérgio Godinho com um brilhozinho nos olhos...</q> Uma canção pedida, e aceite; ao som da qual saiu do estúdio, puxada para outros compromissos.</p>
+		<p>Lá fora, em frente da porta que ela tinha fechado no primeiro dia, falava em directo para a emissão especial da RTP1. Sempre animada, o seu entusiasmo redobrou quando o Jorge Gabriel lhe lançou a pergunta: <q>Eras capaz de te envolveres numa acção deste género?</q>; e a resposta foi instantânea: <q>Completamente! <i>Bora!?</i></q> E com um aperto de mão selou o compromisso de, se a deixarem, para o ano, passar mais de 72 horas fechada a fazer rádio.  Algo que eu - permitam-me a nota pessoal - ia adorar. Seria o regresso aos tempos da rádio, onde começou, mas também seria um desafio completamente novo.</p>
+		<p>A Catarina não foi embora sem passar pelo <i>call center</i>, como outras caras conhecidas antes, para atender as chamadas telefónicas de quem queria contribuir um pouco mais.</p>
+	</bloco>
+	
+	<bloco titulo="Em 2014 fora angariados 410 mil euros">
+		<p>Logo no fim do dia 6 foi anunciado que a iniciativa se repetiria no próximo ano, com outra causa, desta vez dedicada ao combate à violência doméstica.</p>
+		<p>A recolha de fundos continuou até ao dia 6 de Janeiro de 2015, onde a conta final foi de 410 mil euros, arrecadados a favor da Cáritas portuguesa.</p>
+	</bloco>
+	
+	<bloco titulo="Links">
+		<elo href="http://media.rtp.pt/tocaatodos/">Página da iniciativa "Toca a Todos" no site da RTP</elo>					
+		<elo href="http://tvmais.sapo.pt/bastidores/2014-12-12-Estrelas-solidarias-em-Preco-Certo-">Bastidores do Preço Certo Especial Toca a Todos (TV Mais)</elo>					
+		<elo href="http://www.lux.iol.pt/fotos/363808">Galeria de fotos do dia 6 - Lux</elo>					
+		<elo href="http://caras.sapo.pt/famosos/2014-12-05-Caras-da-RTP-contra-a-pobreza">Artigo da Caras sobre o Preço Certo</elo>					
+		<elo href="http://www.rtp.pt/extra/index.php?article=738&amp;visual=4">Reportagem do "Só Visto!"</elo>
+		<elo href="http://media.rtp.pt/tocaatodos/noticias/flash-mob-toca-todos_234">Gravação da <i>Flash Mob</i></elo>
+		<elo href="http://media.rtp.pt/tocaatodos/videos/flash-mob-asas-delta">Video da <i>Flash Mob</i></elo>						
+		<elo href="https://picasaweb.google.com/116136255703077903546/TocaATodos?authuser=0&amp;authkey=Gv1sRgCPi4pu2g95b_RA&amp;feat=directlink">Galeria de video-capturas</elo>
+		<elo href="https://www.youtube.com/watch?v=zTiEBUxEojk">Momentos do Preço Certo Especial</elo>
+		<grande><elo href="https://www.youtube.com/watch?v=L0A43QvTAO0">Momentos no Terreiro do Paço</elo></grande>
+		<grande><elo href="https://www.youtube.com/watch?v=K02B60JQrdQ">Entrevista com a Antena 3</elo></grande>
+		<elo href="https://picasaweb.google.com/lh/photo/L88oIK0PJ31ZAdtXrb44whJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da TV Guia sobre a 'flash mob'</elo>
+		<elo href="https://picasaweb.google.com/lh/photo/ccrYlXqDg30uYL8Mgw4m-hJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da TV Guia sobre o Preço Certo pag.1</elo>
+		<elo href="https://picasaweb.google.com/lh/photo/0ny-g4WFjEGNaGMUTj4M8RJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da TV Guia sobre o Preço Certo pag.2</elo>
+	</bloco>
+
+</bloco>
+
+</corpo>
+
+</pagina>

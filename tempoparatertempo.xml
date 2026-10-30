@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Tempo Para Ter Tempo</titulo>
+	<descricao>A Catarina emprestou a voz aos spot de TV e de rádio da campanha <cite>Tempo para ter Tempo</cite>, promovida pela Comissão para a Igualdade no Trabalho e no Emprego.</descricao>
+	<data><ano>2013</ano><mes>11</mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A Catarina emprestou a voz aos <i>spot</i> de TV e de rádio da campanha <cite>Tempo para ter Tempo</cite>, promovida pela Comissão para a Igualdade no Trabalho e no Emprego (<a href="http://www.cite.gov.pt/">CITE</a>), que visa a conciliação da vida profissional com a vida familiar e informar as pessoas dos seus direitos. A <a href="http://www.coracoescomcoroa.org">Associação Corações com Coroa</a> é parceira desta iniciativa.</p>
+
+<elo href="http://www.youtube.com/watch?v=9BR6iMfbp8M"><i>Spot</i> de TV</elo>
+
+<citacao href="https://www.facebook.com/catarinafurtado.oficial/posts/232285346931130" fonte="Facebook" ano="2013">
+	<p>A mudança dos paradigmas da sociedade levou a que a palavra 'tempo' se tenha transformado numa das que melhor define um dos bens mais preciosos para a vida de todos e todas! Conseguir conciliar a vida pessoal/familiar com a profissional, tornou-se uma meta que nem sempre é fácil de atingir. A campanha "Ter tempo para ter tempo!", levada a cabo pela Comissão para a Igualdade no Trabalho e no Emprego (CITE), em parceria com a Associação Corações com Coroa (por mim presidida), tem como objectivos (entre muitos outros!) informar as pessoas acerca dos instrumentos que já estão previstos pela lei e por isso, ao seu alcance, e consciencializar as empresas para os benefícios que esta conciliação pode trazer ao nível da produtividade. Afinal, todos precisamos de tempo para ter tempo! </p>			
+</citacao>
+
+<citacao href="http://www.cite.gov.pt/pt/destaques/noticia262.html" autor="CITE" fonte="Texto explicativo da campanha" >
+	<p>No dia 21 de Outubro, pelas 10h30, no Pequeno Auditório da Culturgest, em Lisboa, teve lugar o lançamento da campanha de promoção nacional da Conciliação entre a Vida Profissional e a Vida Familiar, que contou com a presença da Sra. Secretária de Estado dos Assuntos Parlamentares e da Igualdade e do Sr. Secretário de Estado do Emprego.</p>
+ 	<p>A <b>CITE – Comissão para a Igualdade no Trabalho e no Emprego</b>, dando expressão à sua missão enquanto organismo de igualdade, concebeu e desenvolveu uma campanha nacional de promoção da conciliação entre vida familiar e vida profissional, entendida como um dos principais fatores para o incremento sustentável da igualdade de género no trabalho.</p>
+  	<p>Esta campanha durará aproximadamente de 10 dias, contemplando muppis, um spot publicitário de TV, um spot publicitário de rádio, aos quais a Presidente da Associação Corações Com Coroa, Catarina Furtado, emprestou a sua voz, e 10“programetes” de rádio, de 1 minuto cada, com o testemunho de várias entidades e pessoas que promovem a conciliação e/ ou que dela usufruem.</p>
+  	<p>Ainda no âmbito desta campanha, para sensibilizar os principais agentes do mercado de trabalho, a CITE irá oferecer aos CEO das maiores empresas portuguesas, às associações patronais dos principais sectores económicos e aos parceiros sociais, um presente simbólico e alusivo à temática da Conciliação.</p>
+ 	<p>Porque a conciliação entre a vida profissional e a vida familiar é um dos maiores desafios do nosso tempo.</p>
+  	<p>Organizar os tempos de trabalho e partilhar as responsabilidades familiares e domésticas é conciliar a vida profissional com a vida familiar.</p>
+   <p> Conciliar a vida profissional com a vida familiar é <b>ter tempo para ter tempo!</b></p>				
+</citacao>
+
+<grande><elo href="https://www.youtube.com/watch?v=GlQRU4bMogU">A Catarina, com a Presidente da CITE Sandra Ribeiro, na Praça da Alegria</elo></grande>
+<elo href="jornal_dn_20131105.xml">Entrevista para o Diário de Notícias (5/11/2013)</elo>					
+<elo href="http://www.cite.gov.pt/pt/destaques/noticia264.html">Noticia sobre o lançamento da campanha no sitio da Cite.</elo>
+					
+</corpo>
+
+</pagina>

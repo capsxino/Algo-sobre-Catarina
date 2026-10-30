@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Saí P'ra Rua</titulo>
+	<descricao>Com 14 anos, aparece no primeiro tele-disco dos Xutos &amp; Pontapés." </descricao>
+	<data><ano>1987</ano><mes>2</mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-XEuKpuTLRqo/UP_GWKdL4pI/AAAAAAAAOBg/bwiQ3ahFWpM/s400/CatarinaFurtado_SaiPraRua_1987_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em Fevereiro de 1987 é gravado o primeiro <i>video-clip</i> do Xutos &amp; Pontapés. Acrescentado uma história simples ao primeiro <i>single</i> do LP "Circo de Feras": um grupo de jovens acorrentados é conduzido para um edifício abandonado (é aí que a Catarina aparece em grande plano). Por intervenção dos elementos da banda, são libertados e correm para a rua.</p>
+<p>No ano seguinte a popularidade dos Xutos explode, com o <i>single</i> <cite>Minha Casinha</cite> a atingir vendas superiores a 90 mil unidades.</p>
+
+<citacao href="https://www.youtube.com/watch?v=vA7XdGvLFIY" fonte="Não me sai da cabeça" ano="2012">
+	<p>Tudo começou porque o Henrique Cayatte, um homem do cinema, foi fazer um <i>casting</i> ao Conservatório. Fiz o <i>casting</i> e fiquei! Fiquei toda contente porque achei que ia estar com os Xutos.</p>
+	<p>Lembro-me depois de parar no <i>frame</i>, naquelas VHS, para mostrar aos meus amigos que era mesmo eu! E ali ficar horas: Não vêem? Por baixo daquela nódoa negra sou eu!</p>
+</citacao>
+
+<grande><elo href="http://www.youtube.com/watch?v=b4Cf517f3_s">O tele-disco do <cite>Saí p'ra Rua</cite></elo></grande>
+</corpo>
+
+</pagina>

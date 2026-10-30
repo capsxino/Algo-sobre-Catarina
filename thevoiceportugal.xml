@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>The Voice Portugal</titulo>
+	<descricao>Escolher o melhor cantor de Portugal julgando apenas a voz, num concurso de talentos da RTP, apresentado pela Catarina.</descricao>
+	<fundo>https://lh3.googleusercontent.com/-X1hLfZoGBWY/VlcACo0689I/AAAAAAAAuCU/VWs7StHC4As/s0-Ic42/TheVoice.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em Outubro de 2011, estreava o programa <cite>A Voz de Portugal</cite> apresentado pela Catarina Furtado. O formato internacional foi produzido para a RTP pela CBV. Após 2 anos, foi a produtora Shine Iberia a pegar no formato, estreando em Março de 2014 na RTP, com o nome <cite>The Voice Portugal</cite>. Nesta nova edição, juntou-se à Catarina o Vasco Palmeirim na apresentação. Logo em Novembro de 2015, estreava a segunda edição do programa, e já se falava numa terceira em 2016.</p>
+
+<p>O programa propõe-se a encontrar o melhor cantor, em principio julgando apenas a qualidade da sua voz. Para isso, na primeira fase, os 4 mentores terão que escolher as suas equipas de costas voltadas para o palco. Segue-se a fase das Batalhas, em que os concorrentes cantam em dueto, sendo um deles eliminado. Finalmente, acontecem as galas em directo, onde o vencedor é escolhido por votação do público.</p>
+
+<arvore poda="thevoiceportugal.xml"/>
+
+</corpo>
+
+</pagina>

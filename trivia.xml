@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estrutura.xsl"?>
+
+<pagina mae="inicio.xml" estado="invisivel" titulo="Trivia"/>
+
+<!--
+	<h1>Factos triviais (ou não) sobre a Catarina Furtado</h1>
+		<ol>
+			<li>O seu nome completo é Catarina Cardoso Garcia da Fonseca Furtado.</li>
+			<li>Nasceu no dia 25/8/1972.</li>
+			<li>Mede 1.69 metros de altura.</li>
+			<li>Calça sapatos nº 37 e meio.</li>
+			<li>A cor favorita já foi o vermelho mas agora é o violeta : <em>«Dá-me energia»</em>.</li>
+			<li>Já partilhou o palco com a irmã em 2 peças de teatro, "Peer Gynt" (2002) e "Transacções" (2009).</li>
+			<li>O Diogo Infante frequentou o Conservatório Nacional na mesma altura que ela.</li>
+			<li>O bisavô materno é oriundo de Goa</li>
+			<li>A Praia dos Olhos de Água, a Praia Grande e das Maçãs, são as suas praias da infância.</li>
+			<li>É prima da actriz Mafalda Vilhena.</li>
+			<li>Tem sinusite. ( Tinha. Foi tratada em 2012. )</li>
+			<li>20 foi numero máximo de ganchinhos que já teve no cabelo (2011).</li>
+			<li>Some smell, some say,<em> Narciso Rodriguez For Her.</em></li>
+			<li>Tem uma cicatriz do ombro direito provocada por uma queimadura com um ferro de engomar.</li>
+			<li>Os seus ídolos na adolescência eram o Nureyev, o Prince e o James Dean.</li>
+			<li><a href="https://picasaweb.google.com/lh/photo/LrV-ZcwNiididVhKCJSKfTooG3PVJoP5nRDTVM9uLnk?feat=directlink">O 7 é o seu numero da sorte.</a></li>
+			<li>Casou no dia 7/7/2005</li>
+			<li>Diz não saber cozinhar.</li>
+			<li>Não tem apêndice mas tem a cicatriz.</li>
+			<li>Já morou no Bairro Alto, em Campo de Ourique, na Graça e no Restelo.</li>
+			<li>Estudou no Liceu Passos Manuel do 7º ao 12º ano.</li>
+			<li>Entre os 10 e os 18 anos frequentou a Escola de Dança do Conservatório Nacional.</li>
+			<li>Estudou no CENJOR nos anos 1990 e 1991.</li>
+			<li>Não gosta de doces. (Gosta de doces.)</li>
+			<li>Prefere beber chá a beber água.</li>
+			<li>Música da sua vida :<em> Valsa Quase Antidepressiva</em>.</li>
+			<li>Gostava de contracenar com o Harvey Keitel ou com a Juliane Moore.</li>
+			<li>Joga 'Bubbles' no telemóvel.</li>
+			<li>Só diz asneiras quando está a representar.</li>
+			<li>Tem uma irmã 5 anos mais nova. A Marta.</li>
+			<li>Os dois filhos, Beatriz e João, nasceram de parto natural.</li>
+			<li>O programa que mais gostou de apresentar foi o "Caça ao Tesouro".</li>
+			<li><a href="http://youtu.be/sYlctYfCS5c">Não gosta de ervilhas nem de favas (mas adora o cheiro).</a></li>
+			<li><a href="http://www.vidas.xl.pt/noticias/nacionais/detalhe/catarina_furtado_cozinhar_nao_e_um_hobby.html">Os seus pratos favoritos são feijoada, cozido à portuguesa, e lulas recheadas.</a></li>
+			<li><a href="https://picasaweb.google.com/lh/photo/F85xXdHJfjj9ohBxz5m3481O6EcGWQG8O-a5GeefBew?feat=directlink">As botas que usou no 'Pesadelo Cor-de-rosa' são as mesmas que leva nas gravações do 'Príncipes do Nada'.</a></li>
+			<li>Só 4+1 alunas concluíram o Conservatório com ela.</li>
+			<li><a href="http://www.youtube.com/watch?v=xBo6YSW1uuQ">Colecciona fosseis.</a></li>
+			<li><a href="poesia.html#ceu">O seu poeta favorito é Ruy Belo.</a></li>
+			<li><a href="https://www.facebook.com/catarinafurtado.oficial/posts/242417319251266:0">O seu animal favorito é o "bambi".</a></li>
+			<li><a href="https://picasaweb.google.com/lh/photo/NuDi4r4RDJW40A2whKzecTooG3PVJoP5nRDTVM9uLnk?feat=directlink">Adora <i>Polaroids</i>.</a></li>
+			<li>Deixou roupa na Rua da Saudade.</li>
+			<li><a href="https://www.facebook.com/catarinafurtado.oficial/posts/315088168650847">Em adolescente, queria casar com o Chico Buarque.</a></li>
+			<li>Já fez <i>bungee jumping</i> e saltou de paraquedas!</li>
+			<li><a href="http://youtu.be/sYlctYfCS5c">Tem o hábito de comer de 2 em 2 horas.</a></li>
+			<li><a href="http://youtu.be/sYlctYfCS5c">Confessa defeitos: teimosa e possessiva.</a></li>
+			<li><a href="http://youtu.be/sYlctYfCS5c">Come sempre uma maçã antes de se deitar.</a></li>
+			<li>Gosta de gostar de pessoas.</li>
+			<li>Quando estudou em Londres comia muita papa Cerelac.</li>
+			<li><a href="revista_maxima_janeiro2015.xml">É católica.</a></li>
+		</ol>
+-->

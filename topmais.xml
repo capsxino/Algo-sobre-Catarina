@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina estado="completa" mae="temporadas.xml">
+
+<cabecalho>
+	<titulo>Top +</titulo>
+	<descricao>É a primeira apresentadora do programa da RTP que revela as novidades musicais e os discos mais vendidos da semana.</descricao>
+	<data><ano>1991</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-FR6WYB_NJg4/UazkQU2cIwI/AAAAAAAAPWQ/KPpQ5mUDTPk/s2048/CatarinaFurtado_TopMais_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em 1991, com o cabelo longo, do comprimento necessário para fazer um carrapito de bailarina, ainda preso ao sonho de dançar, encontramos a Catarina, a estagiar na redacção do Correio da Manhã Rádio, agora apostada em ser jornalista.</p>
+<p>Por mais um acaso como o que a afastou da dança e a levou ali, Margarida Pinto Correia, a sua editora na rádio, rejeita o convite para fazer um programa de televisão para a RTP e dirige-o à Catarina. Ela aceita e, com alguma ingenuidade e insegurança, grava a primeira emissão do <cite>Top +</cite>. Um magazine que revela as novidades do mundo da música <i>pop</i> e os discos mais vendidos da semana. Produzido pela Valentim de Carvalho e realizado pelo Diamantino Ferreira (que fez uma carreira de sucesso nos filmes publicitários e realizou  o <cite>Lampião da Estrela</cite>), será um dos programas mais longos a permanecer continuamente na grelha da RTP, desde 1991 até 2012.</p>
+<p>Mas ao rever as primeiras gravações quer desistir. Telefona ao Diamantino e diz que não tem jeito para aquilo. Insistem com ela. Ela chora quando lhe cortam o cabelo para o programa. Mas fica. Vai ficando. Porque quem a vê gosta dela.</p>
+<p>A Maria Elisa vê algo de especial na menina de 19 anos quando uns meses depois a convida para integrar o projecto da primeira estação privada de televisão: a Sociedade Independente de Comunicação, SIC.  A Catarina deixou o colega João Vaz a apresentar sozinho o programa e parte para Carnaxide, de volta à secretária da redacção (julgava ela...)</p>
+
+<citacao href="https://www.facebook.com/catarinafurtado.oficial/posts/180909015402097" fonte="Facebook">
+	<p>Foi há 21 anos e passou tão depressa. O meu coração ainda se dividia entre a dança, o jornalismo e a rádio. Com o Top + descobri o prazer de fazer televisão, tentando sempre retirar o melhor que ela pode oferecer. Ah! E custou-me muito, naquela altura, cortar o cabelo! Era tão comprido por causa dos carrapitos...</p>	
+</citacao>
+
+<citacao href="revista_publica_20070909.xml" fonte="Pública" ano="2007">
+	<p>Nunca quis fazer televisão, nunca foi um desejo, uma necessidade ou um sonho. Foi um acaso, um acaso bom (...) achava que era bom tentar coisas (...) uma experiência, uma coisa a curto prazo.</p>
+</citacao>
+
+<citacao href="revista_cosmopolitan_outubro2000.xml" fonte="Cosmopolitan" ano="2000">
+	<p>Também tenho uma relação privilegiada com o Diamantino Ferreira [o realizador], porque foi ele que me descobriu há 11 anos. "Estava eu no Correio da Manhã Rádio, era preciso uma locutora para o Top+. Fui empurrada para o <i>casting</i> pela Margarida (Pinto Correia), a quem eu chamo a minha madrinha televisiva. Na altura, eu achava que era jornalismo que queria, também sentia que era muito difícil despedir-me da dança, mas fui. Foi quando conheci o Diamantino, e fizemos duas promessas que se concretizaram este ano: o primeiro filme que ele fizesse, eu entraria; e, se alguma vez eu fizesse publicidade, seria ele o realizador.</p>		
+</citacao>
+
+<citacao href="revista_tvguia_20150713.xml" autor="Catarina" fonte="TV Guia" ano="2015">
+	<p>Quando estava no Cenjor, e depois na CM Rádio, ainda andei entusiasmada. Tinha 19 anos, mas estava indecisa e baralhada, porque a dança não estava ainda "arrumada" na minha cabeça. Mas, depois, veio aquele <i>casting</i>, e baralhou tudo ainda mais. E como gostei da experiência...</p>
+</citacao>
+
+
+<grande><elo href="http://www.youtube.com/watch?v=4zVcXEAb-hU">Video de momentos do programa.</elo></grande>
+<elo href="http://www.youtube.com/watch?v=xWiGuUY66vU&amp;feature=player_detailpage#t=125s">Em 1998, no "Canções da Nossa Vida", a Catarina fala do programa.</elo>
+<elo href="https://vimeo.com/10368981#t=1290">A Catarina fala sobre o programa no "5 Para a Meia-noite" em 2010.</elo>
+<elo href="http://www.youtube.com/watch?v=yWcgq7UpcbY&amp;t=1013s">No "Show Markl", em 2011, conta que chorou quando lhe cortaram o cabelo.</elo>
+<elo href="http://www.youtube.com/watch?v=M8VwgDFMdJE&amp;t=572s">A Catarina refere o programa no "5 Para a Meia-noite" em 2012.</elo>
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/Top?authuser=0&amp;authkey=Gv1sRgCO7p_8eG8_CQ-AE&amp;feat=directlink">Fotogramas</elo></grande>
+
+</corpo>
+
+</pagina>

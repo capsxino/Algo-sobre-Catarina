@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="coracoescomcoroa.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Uma Arvore por um Mundo Melhor.</titulo>
+	<descricao>Numa iniciativa da Corações com Coroa, planta uma Oliveira</descricao>
+	<data><dia>15</dia><mes>4</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://picasaweb.google.com/lh/photo/I3e02dCRhuAs9v8fKUHS_FnXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da revista Flash!</elo>
+<elo hreg="https://www.facebook.com/catarinafurtado.oficial/photos/a.214209018738763.1073741826.107792466047086/457655771060752/?type=1"></elo>
+<elo hreg="https://instagram.com/p/1ddLS0zBIs/"></elo>
+<elo hreg="https://www.youtube.com/watch?v=B5UcDykvVfU"></elo>
+<elo hreg="http://observador.pt/videos/sensorial/esta-arvore-pode-mudar-mundo/"></elo>
+<elo hreg="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/458046904354972/?type=1"></elo>
+<elo hreg="https://www.facebook.com/photo.php?fbid=1582928105314075&amp;set=a.1435752073365013.1073741827.100007907026848&amp;type=1&amp;permPage=1"></elo>
+<elo hreg="http://expressodooriente.com/?p=22786"></elo>
+<elo hreg="http://www.cm-lisboa.pt/municipio/noticias/detalhe-da-noticia/article/lisboa-acolhe-arvore-por-um-mundo-melhor"></elo>
+<elo hreg="http://www.maxima.pt/celebridades/eventos/detalhe/uma_arvore_por_um_mundo_melhor.html"></elo>
+<elo hreg="http://www.lux.iol.pt/fotos/553624e70cf2e8308bffe21c"></elo>
+
+</corpo>
+
+</pagina>

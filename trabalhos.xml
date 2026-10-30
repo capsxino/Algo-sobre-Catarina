@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina titulo="Trabalhos" cor="Beige" mae="inicio.xml" estado="completa">
+
+<corpo>
+
+<arvore poda="trabalhos.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>
