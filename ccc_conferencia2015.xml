@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="ccc_conferencias.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>4ª conferência da Associação Corações com Coroa</titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>11</mes><dia>9</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-fBkaHqpA1TY/VlYCKL64TfI/AAAAAAAAuB8/SGR0ImjPhK4/s0-Ic42/CatarinaFurtado_CCC_20151109_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="http://visao.sapo.pt/opiniao/2015-11-20-Parem-Olhem-Escutemos-as-suas-vozes-1">Texto lido pela Catarina na conferência, e publicado, como crónica, no sitio da revista Visão</elo></grande>
+<elo href="agoranos_2015106.xml">No <cite>Agora Nós</cite>, no dia 6/11/2015.</elo>
+<elo href="https://www.flickr.com/photos/rtppt/albums/72157658696707823">Galeria de fotografias pela RTP</elo>
+<elo href="https://vimeo.com/145282888">Video da Câmara Municipal de Lisboa</elo>
+<elo href="http://observador.pt/videos/atualidade/quatro-meninas-historia-diferente-comum/">Quatro meninas com uma história diferente. O que têm em comum?</elo>
+<elo href="http://observador.pt/2015/11/10/jorge-sampaio-nao-pode-desistir-nunca/">Jorge Sampaio foi um dos convidados da 4ª Conferência da CCC - Observador</elo>
+<elo href="https://www.facebook.com/video.php?v=541052942721034"></elo>
+<elo href="http://visao.sapo.pt/iniciativas/visaosolidaria/2015-11-10-So-a-inclusao-social-pode-permitir-que-os-jovens-mudem-o-mundo--"></elo>
+<elo href="http://videos.sapo.pt/WgAjVOB6aGgShPV2pwsp"></elo>
+<elo href="http://videos.sapo.pt/1Ull9Bm41lY9gbgqPQnG">Reportagem <cite>Fama Show</cite></elo>
+<elo href="http://media.rtp.pt/sociedaderecreativa/videos/coracoes-com-coroa-a-pensar-na-juventude/">Reportagem <cite>Sociedade Recreativa</cite></elo>
+<elo href="http://visao.sapo.pt/opiniao/2015-11-20-Parem-Olhem-Escutemos-as-suas-vozes-1"></elo>
+<elo href="http://www.lux.iol.pt/fotos/5655f70c0cf268ffea907509">Galeria de fotos da revista Lux</elo>
+<elo href="http://caras.sapo.pt/famosos/2015-11-28-Catarina-Furtado-continua-a-dar-o-coracao-pelos-direitos-humanos"></elo>
+<elo href="http://www.abarca.com.pt/?cix=noticia523377"></elo>
+<elo href="https://europa.eu/eyd2015/pt-pt/portugal/posts/journalismaward"></elo>
+<elo href="http://www.instituto-camoes.pt/cooperacao/premio-de-jornalismo-aed"></elo>
+
+</corpo>
+
+</pagina>
+
+<!-- 
+
+-->

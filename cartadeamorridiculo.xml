@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Carta de Amor Ridículo</titulo>
+	<descricao>Letra para música da banda sonora da série de televisão <cite>Crianças SOS</cite></descricao>
+	<data><ano>2000</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Carta de Amor Ridículo</nome>
+	<nome titulo="Interpretação">Lúcia Moniz</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Arranjo">Mário Delgado</nome>
+	<nome titulo="Ano">2000</nome>
+</creditos>
+
+<letra titulo="Carta de Amor Ridículo">
+	A nossa história não contes a ninguém,
+	<br/>
+	Guarda e nessa memória é igual a tanto alguém.
+	<br/>
+	É assim como novelo ridículo amor em prosa,
+	<br/>
+	Antes tê-lo do que parecê-lo, basta só que seja nossa.
+	<br/>
+	<br/>
+	As palavras, as palavra,
+	<br/>
+	São como tu, curam, curam
+	<br/>
+	<br/>
+	Fecho os meu olhos enrolo-me no ninho,
+	<br/>
+	vejo-te apostos no meu caminho.
+	<br/>
+	Riu-me como um poeta tão poucas, tão loucas,
+	<br/>
+	Aceito pela certa um beijo a conta-gotas.
+	<br/>
+	<br/>
+	As palavras, as palavra,
+	<br/>
+São como tu, curam, curam.
+</letra>
+
+<elo href="https://www.facebook.com/video/video.php?v=322501204442344">A música deixada no mural do facebook da Lúcia Moniz</elo>
+
+</corpo>
+
+</pagina>

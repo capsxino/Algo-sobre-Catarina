@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Dos primeiros anos na RTP até ao nascimento da Beatriz</titulo>
+	<descricao></descricao>
+	<data><ano>2003</ano><mes></mes><dia></dia></data>
+	<data><ano>2006</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="jornal_cm_20030928.xml" fonte="Correio da Manhã" ano="2003">
+	<p>Aprendi mais durante esta primeira edição da ‘OT’ do que nos últimos quatro anos que estive na SIC.</p>	
+</citacao>
+<citacao href="jornal_cm_20030928.xml" fonte="Correio da Manhã" ano="2003">
+	<p>Eles sabem que a minha prioridade é a representação, quer no cinema quer no teatro, mas que estou disposta a tudo para conciliar as duas coisas - desde que os programas que me proponham tenham alguma coisa a ver comigo.</p>
+</citacao>
+
+</corpo>
+
+</pagina>
+
+<!-- Apontamentos
+os primeiros caps q tenho na rtp sao de fevereiro de 2003
+*************
+<p><b>E o Nuno Santos convida-a para a RTP... </b></p>
+<p>Sim. O Nuno e o Luís Marques surgiram com aquela proposta muito sedutora da 'Operação Triunfo'.</p>
+<p><b>Pensou duas vezes?</b></p>
+<p>Pensei muito. Não foi fácil deixar a estação onde tinha crescido. Sempre fui muito bem tratada na SIC e era um bocadinho a mascote da estação.</p>
+revista_tabu_20080927.html
+************
+Em 2005 Luiz Andrade deixa a direcçao de programas da rtp http://www.jn.pt/PaginaInicial/Interior.aspx?content_id=492225
+-->

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Cook Off - Duelo de Sabores</titulo>
+	<descricao>Uma viagem gastronómica por Portugal.</descricao>
+	<data><ano>2015</ano><mes>5</mes><dia>17</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-UefJ-MmWeFA/VUsZWKoCwlI/AAAAAAAArVY/xNoZ0K6_Pc8/s716/CookOff.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_activa_julho2015.xml" autor="Catarina" fonte="Activa" ano="2015">
+	<p>Vou à terça e volto à sexta-feira. Fico com saudades dos meus filhos, mas quando chego sinto-me uma espécie de Fernando Mendes com sacos e sacos de presentes que me dão.</p>
+</citacao>
+
+<citacao href="https://picasaweb.google.com/lh/photo/TaNqe17emuUDobv_k5KVg1nXVeju3V3lLwC9qbT5IR0?feat=directlink" autor="Catarina" fonte="Sexta Tv" ano="2015">
+	<p>Estou muito contente porque tinha saudades co contacto directo com pessoas, nas suas localidades. O programa tem a componente de mostrar o melhor do País a nível gastronómico e dos seus segredos, as suas gentes que são a definição de um Portugal que queremos preservar.</p>
+</citacao>
+
+<elo href="hatarde_20150511.xml">A poucos dias da estreia do "Cook Off", a Catarina esteve no "Há Tarde".</elo>
+<elo>O <cite>Só Visto!</cite> nos ensaios para o primeiro <cite>Cook Off</cite></elo>
+<elo href="http://ferreiradozezere.net/eventos/vencedor-duelo-de-sabores-foi-2/4554"></elo>
+<elo href="http://www.atelevisao.com/rubricas/a-entrevista/a-entrevista-catarina-furtado-chefe-cordeiro-e-chefe-kiko/"></elo>
+<elo href="http://www.dnoticias.pt/multimedia/fotoreportagem/523377-rodagem-do-programa-cook-off-com-catarina-furtado-na-madeira">Rodagem do programa 'Cook Off' com Catarina Furtado na Madeira (por dnoticias.pt)</elo>
+<elo href="http://www.guimaraesdigital.com/noticias/60582/catarina-furtado-apresentou-final-do-cook-off-em-guimaraes"></elo>
+<elo href="https://picasaweb.google.com/lh/photo/nwpvYmy9BJuNJc3y_aca31nXVeju3V3lLwC9qbT5IR0?feat=directlink">Vamos provar Portugal - revista Flash!</elo>
+<elo href="https://picasaweb.google.com/lh/photo/pSGtSqFrUg4hePUXQ-6yrVnXVeju3V3lLwC9qbT5IR0?feat=directlink">Continuo a não aprender nada - revista Flash!</elo>
+<elo hreF="http://media.rtp.pt/blogs/hatarde/videos/cook-off-a-culinaria-das-regioes-no-ha-tarde">Está no "Há Tarde" para falar do "Cook Off" (13/4/2016)</elo>
+<elo href="https://picasaweb.google.com/lh/photo/Er4IRpO7FipdNgCYQMY9w1nXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da TV Mais</elo>
+<elo href="https://picasaweb.google.com/lh/photo/Ri56jY58gVADZOgYqXr25FnXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da TV Mais [pag.1]</elo>
+<elo href="https://picasaweb.google.com/lh/photo/guMrxlOu0qqzHx5hoUZ40VnXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da TV Mais [pag.2]</elo>
+
+</corpo>
+</pagina>
+
+<!-- APONTAMENTOS
+Regiões do país que vamos visitar:
+
+Alentejo \ Beiras \ Lisboa e Zona Oeste \ Trás-os-Montes e Alto Douro \ Algarve \
+
+Açores \ Norte Litoral \ Ribatejo \ Minho \ Madeira.
+
+http://media.rtp.pt/cookoff/
+
+http://www.impala.pt/detail.aspx?id=181587&idCat=2064
+
+
+EPISÓDIO 1:
+- o kiko prepara um petisco com Espargos bravos. invade a cozinha duma taberna. Alcacer do sal.
+- Visita o maior olival do mundo. 
+- Encontra o Vitorino na Taberna do gato? Vitorino Canta. Dirigem-se à Quinta Dona Maria onde aprende a fazer sericaia. Dirigem-se num carro antigo para Estremoz.
+
+EPISÓDIO 2:
+- Vai com o chefe kiko aprender a fazer mel biologico da zona do vale do coa. O kiko tem medo e trauma com as abelhas.
+- Vai com o chefe cordeiro aprender como se faz queijo de cabra na quinta da fonte.
+- Em Figueira de Castelo Rodrigo apanha boleia num tractor com o chefe kiko. sentada nos fardo de palha. ver o rebanho de vacas do david pires.
+- No Piodão encontra o Nilton. De salto alto pelas lajes de xisto. faz festas a um borreguito. onde aprende a fazer queijo de ovelha com a dona graça. broa de batata.
+
+EPISÓDIO 3:
+-
+
+EPISÓDIO 4:
+- O transmontano Chefe Cordeiro mostra o porco bisaro a Catarina. Imita um porco. (instagram). Enchidos. Fumeiro. 
+- É a vez da catarina surpreender o kiko. Apresentado-o a uma doceira de (x)gila.
+- a dina aguiar encontra a catarina sobre as paisagens do vale do douro e leva a visitar as gravuras de foz coa.
+
+EPISÓDIO 5:
+- com o chefe cordeiro vai espreitar a agricultura biologica da batata doce de aljezur. poe as mãos na terra.
+- o chefe kiko mostra as salinas de tavira
+- com a convidada oceana basilio conhece melhor a cidade de silves
+-->

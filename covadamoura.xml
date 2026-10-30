@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pontuais.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Cova da Moura - Aqui é o meu Bairro</titulo>
+	<descricao></descricao>
+	<data><ano>2008</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh4.googleusercontent.com/-hy3YeeAuUag/Upj6GaC6s6I/AAAAAAAARTY/i4V2aTA2-ss/s0/CatarinaFurtado_Page%25201%2520-%25205.jpg</fundo>
+</cabecalho>
+
+<corpo>
+			
+<imagem href="https://picasaweb.google.com/lh/photo/_Cm-_tnzvILD0jl_AqyMQ64M6FWsvxRH22mlVUHZ2SU?feat=embedwebsite">https://lh3.googleusercontent.com/-GyCkqv3RScI/Uf-W4UWqwAI/AAAAAAAAQTw/GpQ2JL0baLo/s400/CatarinaFurtado_TVGuia_Mai08_01.jpg</imagem>				
+
+<elo href="https://picasaweb.google.com/lh/photo/_h0zvxo1-nmH3d3oXujora4M6FWsvxRH22mlVUHZ2SU?feat=directlink">Artigo do Jornal da Região</elo>
+
+</corpo>
+
+</pagina>

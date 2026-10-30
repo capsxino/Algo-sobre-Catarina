@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="circodenataldartp.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Circo de Natal da RTP</titulo>
+	<descricao></descricao>
+	<data><ano>2010</ano><mes>12</mes><dia>24</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://www.lux.iol.pt/nacionais/cardinali-vitor-hugo-cardinali-catarina-furtado-cico/1220440-4996.html" fonte="Lux">
+	<p>Foi fantástico! Senti uma enorme adrenalina! Foi o número que mais frio na barriga me fez sentir. Tivemos dois ensaios porque estou a fazer imensa coisa e não consegui ter mais, mas foi fantástico. Sempre desejei estar uma vez lá em cima, ou no trapézio ou nas fitas. O número das fitas era, apesar da dificuldade, o mais acessível, e depois tive a ajuda do Paulo Magalhães, coreógrafo,e do Edson, bailarino. Senti-me segura.</p>
+	<p>Houve uma série de coisas que fui buscar à dança para poder ajudar, nomeadamente a questão do abdominal para me segurar e mudar de posição. Se não tivesse formação jamais poderia ir para ali!</p>		
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/GEq9weyb5oNVo1IKfQsTfqJWn-jLBQ29wGzPXExP_EM?feat=directlink" fonte="TV Guia">
+	<p>Aceitei logo. Fazer o número das fitas no ar foi realizar parte de um sonho.</p>		
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/6HMn6HdD-St-NXfKikydZqJWn-jLBQ29wGzPXExP_EM?feat=directlink" fonte="Vip">
+	<p>Foi fantástico senti uma enorme adrenalina. Foi o número quem mais 'frio na barriga' me fez sentir.</p>
+	<p>Se não tivesse formação jamais poderia ir para ali. Quando subi e me disseram: 'Agora tira a perna e o braço', aí é que vi que é tudo mais difícil do que parece. Há uma série de coisas que fui buscar à minha experiência em dança, nomeadamente a questão do abdominal que é fundamental para poder pôr e tirar, e segurar-me em cada posição, porque eu não tinha segurança. E depois, claro, a questão da linha e esticar o pé são coisas que praticamente aparecem, já nem penso nelas apesar de ter dançado há 20 anos.</p>
+</citacao>
+
+<imagem legenda="Ensaios para o numero de abertura em tecidos verticais" href="https://picasaweb.google.com/lh/photo/NMcmegHLxcA3f2Im21lKh1EwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh3.googleusercontent.com/-kC--kyqIQnk/UrNvIqHVAGI/AAAAAAAARo4/iRzGXvdfudU/s400/CatarinaFurtado_266963_147390185336573_100001967780449_304169_7252843_o.jpg</imagem>		
+
+<grande><elo href="http://www.youtube.com/watch?v=bM35l7C7keQ">Catarina nos tecidos verticais</elo>			</grande>
+<elo href="http://www.flickr.com/photos/rtppt/sets/72157625511894557/">Galeria de fotos no Flickr</elo>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>App 5i da RTP</titulo>
+	<descricao>A 1ª app 2nd screen em Portugal</descricao>
+	<data><ano>2014</ano><mes>2</mes><dia>5</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-N5EXbhpxnU8/U2Z6R-aSxLI/AAAAAAAAlKo/lRp6CJVVZ64/s0/CatarinaFurtado_5i_Expresso_20140208_l55.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p><q>A minha primeira vez? Eu já vos disse que vocês vão saber tudo sobre a minha primeira vez no dia 5 de Fevereiro!</q> - retorquía a Catarina num pequeno <i>teaser</i> que começou a passar alguns dias antes na RTP. A insinuação baralhava os palpites sobre o que finalmente foi revelado à imprensa, reunida Pátio da Galé, no dia 5.</p>
+<p>Várias caras da RTP participaram na campanha que promoveu a aplicação "5i" para <i>smartphones</i> e <i>tablets</i>, descrita como "a 1ª app 2nd screen em Portugal". A primeira aplicação deste género lançada por uma televisão portuguesa, que permitia os espectadores interagirem, em tempo real, com o programa "5 Para a Meia-noite" e terem acesso a conteúdos extras.</p>
+<p>A ocasião também serviu para lançar o novo programa da RTP, o "<a href="thevoiceportugal.xml">The Voice Portugal</a>", apresentado pela Catarina, que teve a sua estreia no dia 30 de Março de 2014. Este teria uma segunda aplicação, chamada "5i: The Voice Portugal".</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/wXY7-iJOoIIp9H84AFB1AlEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh5.googleusercontent.com/-5T0GOFFVr_4/VMzuQ3ilmwI/AAAAAAAAq-M/E2r7tEGVG_w/s400/CatarinaFurtado_TheVoice_1598770_656138224447820_938789818_n.jpg</imagem>					
+
+<elo href="http://www.youtube.com/watch?v=5R0zkUWOe_I">Making of</elo>					
+<elo href="http://www.youtube.com/watch?v=vw55Pgj7SGs">Spot para televisão</elo>					
+<elo href="https://soundcloud.com/jorge-capsxino/catarina-furtado-promo-o-para">Teaser para a rádio</elo>					
+<elo href="http://www.youtube.com/watch?v=DDtyazanw2k">A Primeira Vez - Teaser</elo>					
+<elo href="http://instagram.com/p/jjDLdZQMoO/">'Instagram' de bastidores</elo>				
+
+</corpo>
+
+</pagina>

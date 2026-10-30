@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Agora Nós</titulo>
+	<descricao>Está no "Agora Nós", na RTP, para falar do seu livro.</descricao>
+	<data><dia>8</dia><mes>7</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+</corpo>
+
+</pagina>

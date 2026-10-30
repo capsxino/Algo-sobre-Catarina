@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>As Nossas Estrelas</titulo>
+	<descricao>Programa que celebrou o 2º aniversário da SIC com várias caras da estação a cantar ao estilo <i>Chuva de Estrelas</i>.</descricao>
+	<data><ano>1994</ano><mes>10</mes><dia>6</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+<elo href="https://www.youtube.com/watch?v=pEPZ1gNM3i4">Marina Mota no Programa As Nossas Estrelas</elo>
+</corpo>
+
+</pagina>

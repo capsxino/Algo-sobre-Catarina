@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="trabalhos.xml" estado="completa" titulo="Autora">
+
+<corpo>
+
+<arvore poda="autora.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>

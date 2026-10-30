@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>A Noiva</titulo>
+	<descricao></descricao>
+	<data><ano>2000</ano><mes>6</mes><dia>27</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-oaezC6jiR2A/UWgvhUseRKI/AAAAAAAAOws/d0jx0OpinlY/s0-Ic42/CatarinaFurtado_Noiva_090023.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/ANoiva?authuser=0&amp;authkey=Gv1sRgCIe1j9Lnv8SLCg&amp;feat=directlink">Fotogramas do filme</elo></grande>
+<elo href="http://www.imdb.com/title/tt0230260/">Página no IMDB</elo>					
+<elo href="http://videos.sapo.pt/Pt0EGDuGp8eS01Lz8FEw">Algumas cenas do filme</elo>					
+
+</corpo>
+
+</pagina>
+<!--
+pelo imdb data de estreia 27 junho 2000 ... na sic esta 2001 !?
+****************************
+carregar meu video
+*******************************
+ver o q escrevi sobre a letra laura
+********************************
+Em Portugal, Laura, a mulher do militar, recusa-se durante muito tempo a acreditar na sua morte. Contra tudo e contra todos, tenta investigar por conta própria o que se passou na Guiné.
+
+Com o passar do tempo, Laura acaba por mostrar-se mais resignada. Envolve-se com Eduardo, um amigo de infância que sempre gostou dela, e marca a data do casamento. E é exactamente nesse dia que ela volta a ser perseguida pelo passado.
+
+Ficha Técnica
+
+Argumento: Cristina Boavida       
+
+Direcção Som: Vasco Pedroso                          
+
+Realização: Luís Galvão Teles      
+
+Fotografia: Carlos Assis           
+
+Produção: SIC Filmes e Animatógrafo II        
+
+Produtor Executivo: Emídio Rangel e António da Cunha Telles
+
+Autor: José Manuel Saraiva
+
+Actores
+
+Nome                         
+
+Marco Delgado
+
+Patrícia Tavares
+
+Catarina Furtado
+
+Diogo Morgado
+
+Ângelo Torres
+
+Miguel Sermão
+
+Daniel Nascimento
+
+Pedro Tavares
+
+****************************
+
+José Manuel Saraiva
+José Manuel Saraiva nasceu na aldeia de Santo António d'Alva, em 1946. Foi jornalista, tendo pertencido aos quadros de O Diário, Diário de Lisboa, Grande Reportagem e Expresso.
+É autor de dois comentários sobre a Guerra Colonial, produzidos pela SIC, um dos quais foi transmitido pelo canal Arte em França e na Alemanha. É sua igualmente a história que deu origem ao telefilme A Noiva, de Luis Galvão Teles.
+Em 2001, publica a sua primeira obra, As Lágrimas de Aquiles. Seguiram-se os romances Rosa Brava (2005) e Aos Olhos de Deus (2008), que o consagraram como um dos mais populares autores portugueses.
+
+**********************
+
+-->

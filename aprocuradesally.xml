@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pontuais.xml" estado="completa">
+
+<cabecalho>
+	<titulo>À Procura de Sally</titulo>
+	<descricao>Através de 4 episódios, apresentados pela Catarina e transmitidos pela RTP, o pais acompanhou a escolha da protagonista do músical <cite>Cabaret</cite>.</descricao>
+	<data><ano>2008</ano><mes>6</mes><dia>29</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-ztfpH3ul1Hs/U_HaisN7XxI/AAAAAAAAojw/EEark9LQtQA/s0/CatarinaFurtado_ProcuraSally_010388.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao autor="RTP" fonte="Sinopse">
+	<p>O país vai acompanhar a procura de uma protagonista para o musical Cabaret, através da RTP.</p>
+	<del>
+	<p>A procura começa com uma audição aberta a quem quiser tentar a sua sorte, perseguir o seu sonho e mostrar o seu talento ao país… através de muito trabalho.</p>
+	<p>Um programa de televisão com um propósito diferente do habitual: aqui não se premeia a melhor cantora, a melhor dançarina ou a melhor actriz. Aqui, premeia-se a melhor artista, a que melhor dança, canta e representa. A artista que pisará, em pouco tempo, o palco do Teatro Maria Matos.</p>
+	<p>As artistas actuam perante um painel de jurados que exige o maior esforço, concentração e dedicação destas jovens actrizes.</p>
+	<p>No primeiro programa acompanhamos o casting realizado a nível nacional, do qual resultarão 10 candidatas.</p>
+	<p>Na semana seguinte elas actuam na semi-final e apenas 5 podem sonhar com o papel de protagonista.</p>
+	<p>No terceiro programa o júri decide quem vai interpretar Sally Bowles.</p>
+	<p>Depois de escolhida a protagonista de Cabaret, todo o seu trabalho de preparação para a estreia do musical, assim como o trabalho do restante elenco, vai ser mostrado ao público, através de um programa especial.</p>
+	<p>Diogo Infante pretende descobrir a protagonista para o musical “Cabaret”, que vai estrear em Setembro, no Teatro Maria Matos.</p>
+	<p>“À procura de Sally” pretende encontrar a estrela para o musical “Cabaret”.</p>
+	<p>Um concurso de talentos, que junta o teatro à TV, num casting que procura a protagonista da versão cénica do filme “Cabaret”. Mais do que saber cantar e dançar, tem de ser “uma estrela”.</p>
+	</del>		
+</citacao>
+
+<p>Sally... Quem é Sally Bowles? A maioria de nós conheceu-a através da Liza Minnelli no filme <cite>Cabaret"</cite> de 1972. Personagem inspirada numa cantora de cabaret Berlinense no fim da década de 1920. Antes, a história de Sally foi adaptada para o teatro e levada à cena na Broadway em 1966. Foi em Nova Iorque, quando a Catarina Furtado e o Diogo Infante assistiram ao musical, que surgiu a vontade conjunta de produzir a peça em Portugal. O Diogo era o Director Artístico do Teatro Maria Matos; a Catarina era a apresentadora com mais relevo na RTP. A ideia não era só levar a peça ao palco, no teatro municipal Lisboa, mas também transformar o processo de procura da protagonista, Sally, num espectáculo de televisão. O projecto para RTP foi concretizado através da produtora CBV, encabeçada por Piet-Hein Bakker. No mês de maio de 2008, já decorriam os primeiros <i>castings</i> separados para profissionais e para actores em inicio de carreira.</p>
+
+<citacao href="http://www.cmjornal.xl.pt/tv_media/detalhe/catarina-e-diogo-procuram-estrelas.html" fonte="Correio da Manhã" ano="2008">
+	<p>O elenco do espectáculo – onde pontuam nomes como Henrique Feist, Isabel Ruth, Luís Lucas ou Pedro Laginha – já está escolhido. O que falta é mesmo a protagonista que, como explicou Diogo Infante, mais do que saber cantar e dançar 'maravilhosamente', tem de ser 'uma estrela'. 'Eu e Catarina tivemos a ideia para este projecto numa viagem a Nova Iorque', conta o actor. 'Porque não fazer isto em Lisboa? Contactei a RTP e a ideia foi bem acolhida, mas todos queremos que o programa seja especial, diferente de outros concursos caça-talentos.'</p>
+</citacao>
+
+<citacao href="https://picasaweb.google.com/lh/photo/cXudtqnWuIn89VmcOJrcEq4M6FWsvxRH22mlVUHZ2SU?feat=directlink" fonte="24 Horas" ano="2008">
+	<p>Eu e o Diogo assistimos a este musical numas férias que fizemos a Nova Iorque. Sonhámos que o iríamos fazer cá.</p>
+</citacao>
+
+<p>Desses <i>castigns</i> iniciais saíram as primeiras 20 escolhidas para integrar um <i>workshop</i> de aperfeiçoamento das técnicas de canto, dança e representação. A Catarina esteve presente nessa fase inicial que deu origem ao primeiro programa para televisão. Seguiram-se mais três; o segundo, gravado no dia 25 de Junho, não abandona o carácter documental mas junta-lhe o espectáculo. As nove candidatas apuradas da primeira fase subiram ao palco para tentarem impressionar o leque de convidados que as avaliava na plateia. A própria Catarina abriu a cena, usando uma peruca e um vestido preto, desenhado pelo Nuno Baltazar, inspirado no guarda roupa do musical. Elas, as Sallys, uma por uma, rodearam a apresentadora enquanto interpretavam o tema <a href="https://www.youtube.com/watch?v=UyuRiQegpcg"><cite>Life is a Cabaret</cite></a>. Das nove passaram cinco para o terceiro programa onde revelada a escolhida para protagonista.</p>
+
+<citacao autor="Elsa Pereira" href="http://www.jn.pt/paginainicial/interior.aspx?content_id=926825" fonte="Jornal de Notícias" ano="2008">
+	<del><p>A comemoração do segundo aniversário do Teatro Maria Matos sob o desígnio de Diogo Infante, adstrita à celebração do Dia Mundial do Teatro, serviu ontem de mote para a apresentação do formato televisivo "À procura de Sally", encetado em parceria com a RTP1 e cuja produção vai estar a cargo da CBV.  Este"caça-talentos" será desdobrado em quatro programas, a ser emitidos em horário nobre na estação pública a partir da última semana de Junho com a condução de Catarina Furtado. A final é a cinco de Julho.</p><p>Na sua génese está a busca, como o nome indica, da protagonista do "Cabaret", musical importado dos Estados Unidos para os palcos portugueses sob alçada de Diogo Infante, que vai encenar o espectáculo com estreia prevista para 10 de Setembro, sendo que o resto do elenco está já fechado.Isabel Ruth, Henrique Feist, Fernando Gomes, Paula Fonseca, Pedro Laginha integram uma equipa de 25 elementos que se pauta ainda por  bailarinos e músicos. As letras estarão a cargo de Ana Zanatti, Rúben Gomes será o director musical e Marco Di Camillis coordenará a componente coreográfica.</p><p>Diogo Infante confessa "Tornei--me actor pelo fascínio que os musicais despertavam em mim". Foi numa visita a Nova Iorque com Catarina Furtado que teve contacto com "Cabaret", nascendo aí o sonho que agora se cumpre. Diogo lança o repto a profissionais e não- -profissionais  que farão provas distrito a distrito. As inscrições foram ontem  abertas, podendo ser feitas por SMS. O actor não titubeia: "A protagonista não tem só de cantar e dançar fantasticamente, tem de ser uma estrela".  Já José Fragoso, director de Programas da RTP,  realça que este projecto "liga a televisão ao teatro", destacando que será "um júri especializado, competente para a matéria," a seleccionar a finalista. Por sua vez, Catarina Furtado  graceja quando diz: "A única tristeza que tenho é a de não poder concorrer", garantindo que os seus dotes de cantora não se enquadram. Ressalva que, ao contrário de outros programas em que se perde o rasto aos concorrentes e onde estes vêem as suas expectativas defraudadas, neste caso a vencedora "vai ter trabalho e, enquanto protagonista de 'Cabaret', uma carreira garantida".</p></del><p>Piet Hein Bakker, responsável pela CBV, esclarece "Os quatro programas serão gravados em jeito de documentário". Numa primeira fase, escolhe-se 50 candidatas; numa segunda,  ficarão  20, que se irão submeter a um "workshop". Das 10 ou 12 melhores subsistirão apenas seis, cabendo a um júri a decisão final.</p>		
+</citacao>
+
+<p>Ana Lúcia Palminha, actriz de 27 anos, foi a estrela escolhida para o papel de Sally Bowles. O quarto, e último, episódio do programa acompanhou os ensaios que levaram à estreia do musical no dia 10 de Setembro. A peça, encenada pelo Diogo Infante, ficou em cena no teatro Maria Matos, em Lisboa, até ao dia 28 de Dezembro de 2008.</p>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/AProcuraDeSally2008?authuser=0&amp;authkey=Gv1sRgCPn--LqOgYGiRA&amp;feat=directlink">Galeria de imagens</elo></grande>
+<grande><elo href="https://www.youtube.com/watch?v=UyuRiQegpcg">As 9 finalistas interpretam "Life is a Cabaret" com a participação da Catarina</elo></grande>
+<grande><elo href="https://www.youtube.com/watch?v=Axr13iKlQJo">Reportagem do "Só Visto!"</elo></grande>
+<grande><elo href="https://www.youtube.com/watch?v=EqUu26qYujU">Reportagem do "Só Visto!"</elo>		</grande>
+<elo href="https://www.youtube.com/watch?v=f-RgnBMxubM">Produção levada ao palco - uma reportagem da RTP</elo>
+<elo href="http://www.jn.pt/paginainicial/interior.aspx?content_id=926825">Artigo do Jornal de Notícias</elo>		
+<elo href="http://www.dn.pt/inicio/interior.aspx?content_id=998942&amp;page=-1">Artigo do Diário de Notícias</elo>		
+<elo href="https://picasaweb.google.com/lh/photo/9nXm-2ZaC2mFeXXMHDrsR64M6FWsvxRH22mlVUHZ2SU?feat=directlink">Artigo do Jornal da Região</elo>	
+<elo href="https://picasaweb.google.com/lh/photo/cXudtqnWuIn89VmcOJrcEq4M6FWsvxRH22mlVUHZ2SU?feat=directlink">Artigo do 24 Horas</elo>	
+<elo href="https://picasaweb.google.com/lh/photo/tGBD-qcorK2OlqZ7oGVhLK4M6FWsvxRH22mlVUHZ2SU?feat=directlink">Fotografia da TV Guia</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/catarina-e-diogo-procuram-estrelas">Artigo do Correio da Manhã</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/rui-baeta-vai-escolher-sally">Artigo do Correio da Manhã</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/cultura/cabaret-com-exito-garantido">Artigo do Correio da Manhã</elo>
+
+<creditos>
+	<nome titulo="Título">À Procura de Sally</nome>		
+	<nome titulo="Canal de televisão">RTP 1</nome>		
+	<nome titulo="Apresentação">Catarina Furtado</nome>
+	<nome titulo="Autoria">Catarina Furtado e Diogo Infante</nome>
+	<nome titulo="Produção">CBV</nome>
+	<nome titulo="Professor de Canto">Rui Baeta</nome>
+	<nome titulo="Direcção Musical">Ruben Alves</nome>
+	<nome titulo="Coreografia">Marco Di Camillis</nome>
+	<nome titulo="Painel de Convidados">Eunice Muñoz, Lia Gama, Carlos Avilez, Olga Roriz, Jorge Salavisa, João Gil, Ana Zanatti e Piet-Hein Bakker</nome>
+	<nome titulo="Número de episódios">4</nome>
+	<nome titulo="Data de estreia">29 de Junho de 2008</nome>
+</creditos>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="circodenataldartp.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Circo de Natal da RTP</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes>12</mes><dia>24</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-5GTyex6q3sk/VK5HaDCQEbI/AAAAAAAAqiU/8G_1lR_b9NE/s0/CatarinaFurtado_CircoNatal2014_030000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_tvguia_20141214.xml" fonte="TV Guia" ano="2014">
+	<p>Fazemos sempre um grande espectáculo, em que todos os membros da família participam, sobretudo, os mais pequenos. Gosto muito de encenar, produzir e representar este espectáculo de variedades caseiro, que antecede sempre a chegada do Pai Natal lá em casa.</p>
+</citacao>
+
+<elo href="revista_tvguia_20141214.xml">Artigo da TV Guia</elo>			
+<elo href="http://youtu.be/37XdWSHgehM">A rábula</elo>			
+<elo href="http://www.rtp.pt/extra/index.php?article=753">Reportagem do "Só Visto!"</elo>			
+
+</corpo>
+
+</pagina>
+<!-- 
+Achei a rábula engraçada. Certo que a Catarina teve um papel lateral; a sua participação não tornou a situação nem mais, nem menos, engraçada. Fez uma caricatura ligeira dela própria. Se uma pessoa não tem confiança na sua capacidade para a comédia, conseguirá fazer uma boa caricatura de si própria? Eu tenho confiança que a Catarina é capaz duma personagem que nos faça rir, mas acho que ela não tem tanto. Eu gostava de a ver num papel cómico. Ela, talvez, sinta uma atracção exclusiva por personagens dramáticas.
+
+No tradicional Circo de Natal da RTP, em 2014, a Catarina Furtado, o Chefe Cordeiro, Chef Kiko e o actor Joaquim Nicolau fizeram uma brincadeira com o programa <cite>Chefs' Academy</cite>.
+-->

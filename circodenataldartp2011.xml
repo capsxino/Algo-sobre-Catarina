@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="circodenataldartp.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Circo de Natal da RTP</titulo>
+	<descricao></descricao>
+	<data><ano>2011</ano><mes>12</mes><dia>24</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="https://picasaweb.google.com/lh/photo/EmRInoNXsilkoInMHu39EPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Lux">
+	<p>Há 20 anos que não calçava umas sapatinhas de pontas. Desde a altura do Conservatório que não o fazia, e esta noite serviu um bocadinho para recordar essa altura de bailarina. Foi muito bom.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/Pw6reWYRCR--88lQ1yuTk_lJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Lux">
+	<p>Põem-me sempre a fazer coisas estranhas e improváveis, que me deixam algumas mazelas, mas gosto imenso</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/EZWqylJZ6GQCEzhzA0kaQPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="TV Mais">
+	<p>Apresentar o circo já começa a ser uma tradição e é sempre um desafio porque acabo por fazer coisas estranhas e improváveis e  que me deixam algumas mazelas. Mas adorei.</p>
+</citacao>
+
+<grande><elo href="http://www.youtube.com/watch?v=4NfFab8P-2Q">Numero de abertura do espetáculo</elo>			</grande>
+<elo href="http://www.flickr.com/photos/rtppt/sets/72157628513154241/">Galeria de fotos no Flickr</elo>			
+
+</corpo>
+
+</pagina>

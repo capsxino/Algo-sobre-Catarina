@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="coracoescomcoroa.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Bolsas de Estudo Corações com Coroa</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="recicla_dezembro2013.xml" autor="Catarina" fonte="Recicla" ano="2013">
+	<p>O impacto que isto tem em mim é inexplicável. Não há nada mais comovente do que ver pessoas que querem aprender e não podem. O que fazemos não é apenas dar dinheiro para que possam estudar. É dar acompanhamento e sustento psicológico. Isto é fazer a diferença. Isto é criar uma sociedade mais equilibrada.</p>
+</citacao>
+
+<citacao href="revista_foradeserie_marco2014.xml" fonte="Fora de Série" ano="2014">
+	<p>Têm idades diferentes, naturalidades diversas, situações próprias, mas as três jovens mulheres tinham em comum um óptimo aproveitamento e uma enorme fragilidade familiar, que punha em causa o vínculo ao ambiente escolar.</p>
+</citacao>
+
+<elo href="https://www.youtube.com/watch?v=newCccF3hf4">O Lidl entrega verba destinada às Bolsas Corações com Coroa (2014)</elo>
+<elo href="http://visao.sapo.pt/opiniao/catarina-furtado/2015-10-22-Ha-sempre-um-primeiro-golo-que-pode-fazer-a-diferenca">Escreve sobre a Jéssica, a primeira bolseira, numa crónica para a Visão</elo>
+<elo href="https://www.youtube.com/watch?v=x15jq_d4GY0">A Catarina fala do apoio dado pelo Montepio à CCC</elo>	
+
+</corpo>
+
+</pagina>
+
+<!--
+Notas sobre a peça do "Só Visto!" quando da entrega da verba do Lidl:
+Diz a Catarina: "estamos a apoiar 3 jovens raparigas com excelente aproveitamento escolar mas que estavam em risco de deixar o ensino formal por questões financeiras. O apoio tem a duração de 3 anos; é um apoio financeiro mas é também um apoio bio psico social
+No dia 17/10/2014 ja tinha sido atribuidas 6 bolsas de estudo
+Em julho de 2015: já demos 7 a jovens com bom aproveitamento em áreas como a medicina, enfermagem, desporto, artes.
+-->

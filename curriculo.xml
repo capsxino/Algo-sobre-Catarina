@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="curriculo.xsl"?>
+<!-- TEMPLATE
+<e>
+<ano></ano><mes></mes><dia></dia>
+<a href="" title=""></a>
+<tag></tag>
+<nivel></nivel>
+</e>
+-->
+<pagina mae="inicio.xml" estado="invisivel">
+<curriculo>
+<!-- 2014 -->
+<e>
+<ano>2014</ano><mes></mes><dia></dia>
+<a href="chefsacademy.xml" title="">Chefs' Academy (2ª série)</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>5</mes><dia>17</dia>
+<a href="ingredientesecreto.xml" title="No quarto episódio do 'Ingrediente Secreto, dedicado ao café, a Catarina e o João Reis são os convidados especiais deste programa de culinária da RTP conduzido pelo chef Henrique Sá Pessoa.">Ingrediente Secreto</a>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>3</mes><dia>30</dia>
+<a href="thevoiceportugal1.xml" title="">The Voice Portugal</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>3</mes><dia>23</dia>
+<a href="maratonadasaude.xml" title="">Maratona da Saúde</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>3</mes><dia>15</dia>
+<ano>2014</ano><mes>6</mes><dia>7</dia>
+<a href="osfilhosdorock.xml" title="">Os Filhos do Rock</a>
+<tag>Atriz</tag>
+<tag>Televisão</tag>
+<tag>Série</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>3</mes><dia>7</dia>
+<a href="premioslumen.xml" title="">Prémios Lumen</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>2</mes><dia>23</dia>
+<a href="gorongosa.xml" title="A Catarina guia-nos pelo Parque Nacional da Gorongosa, um projecto de recuperação da vida selvagem, evolvendo as comunidades, em Moçambique.">A Aventura da Catarina na Gorongosa</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Documentário</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>2</mes><dia>21</dia>
+<a href="sabeounaosabe.xml" title="">Sabe ou Não Sabe (Especial)</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>2</mes><dia>15</dia>
+<ano>2014</ano><mes>3</mes><dia>1</dia>
+<a href="chefsacademy.xml#kids" title="A Catarina apresenta este concurso da RTP que é também uma escola de cozinha. Depois dos adultos a escola recebe 8 crianças que vão aprender e mostrar o seu talento para a culinária">Chefs' Academy Kids</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>2</mes><dia></dia>
+<a href="continuamosaespera.xml" title="">Continuamos à Espera</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Campanha</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2014</ano><mes>2</mes><dia>5</dia>
+<a href="app5i.xml" title="Campanha da primeira aplicação 'second screen' para 'smartphones', da RTP, para o programa '5 Para a Meia-noite'.">Campanha da app 5i</a>
+<tag>Apresentadora</tag>
+<tag>Campanha</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2014</ano><mes></mes><dia></dia>
+<a href="espelho.xml" title="">Espelho</a>
+<tag>Autora</tag>
+<tag>Música</tag>
+<tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<!-- 2013 -->
+<e>
+<ano>2013</ano><mes>12</mes><dia>25</dia>
+<a href="circodenataldartp2013.xml" title="Gravado no dia 17 e emitido no dia 25 de Dezembro de 2013. O espetáculo especial de Natal para a RTP do Circo Vitor Hugo Cardinali foi apresentado, pelo 4º ano consecutivo, pela Catarina.">Circo de Natal 2013</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>12</mes><dia>12</dia>
+<a href="nataldoshospitais2013.xml" title="Pela segunda vez, a Catarina voltou a conduzir a clássica emissão da RTP, a partir do Centro de Reabilitação de Alcoitão.">Natal dos Hospitais, 55ª Edição</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>11</mes><dia>23</dia>
+<ano>2014</ano><mes>2</mes><dia>8</dia>
+<a href="chefsacademy.xml" title="A Catarina apresenta este concurso da RTP que é também uma escola de cozinha. Doze alunos, que no primeiro dia não sabem cozinhar, aprendem com alguns dos melhores chefs portugueses; no final um terá a melhor nota.">Chefs' Academy</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>11</mes><dia>3</dia>
+<a href="falarportugues.xml" title="Falar Português é o espetáculo de encerramento do 2º Congresso da Língua Portuguesa da CPLP. Realizado no Convento do Beato a 30 de outubro, pretende através da música, da dança e da moda dos 8 países lusófonos, mostrar de que forma nos une a língua Portuguesa.">Falar Português</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>10</mes><dia>30</dia>
+<a href="swop2013.xml" title="Oradora convidada na apresentação do relatório SWOP 2013 do UNFPA sobre 'Maternidade na Infância - Respondendo aos Desafios da Gravidez na Adolescência' no dia 30 de Outubro de 2013.">Apresentação do Relatório SWOP 2013</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>10</mes><dia>21</dia>
+<a href="tempoparatertempo.xml" title="A Catarina emprestou a voz aos spot de TV e de rádio da campanha Tempo para ter Tempo, promovida pela Comissão para a Igualdade no Trabalho e no Emprego (CITE), que visa a conciliação da vida profissional com a vida familiar e informar as pessoas dos seus direitos. A Associação Corações com Coroa é parceira desta iniciativa.">Campanha "Tempo para ter Tempo"</a>
+<tag>Presidente da Corações com Coroa</tag>
+<tag>Televisão</tag>
+<tag>Rádio</tag>
+<tag>Campanha</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>10</mes><dia>15</dia>
+<a href="coracoescomcoroa.xml#conferencia2" title="A segunda conferência da Associação Corações com Coroa abordou como se esconde a desigualdade em Portugal.">2ª Conferência da Corações com Coroa</a>
+<tag>Presidente da Corações com Coroa</tag>
+<tag>Conferência</tag>
+<tag>Associação Corações com Coroa</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>9</mes><dia>15</dia>
+<a href="heroisdeportugal.xml" title="Emissão especial da RTP que homenageou os bombeiros portugueses.">Heróis de Portugal</a>
+<tag>Apresentadora</tag>
+<tag>Televisão</tag>
+<tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>9</mes><dia>9</dia>
+<a href="encontrosimaginarios.xml" title="A Catarina foi Marilyn Monroe, numa leitura encenada, no teatro A Barraca. À conversa juntaram-se Damião de Góis e Mussolini.">Encontros Imaginários</a>
+<tag>Atriz</tag>
+<tag>Teatro</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>7</mes><dia>2</dia>
+<a href="icpd2013.xml" title="A Catarina esteve nas Nações Unidas em Genebra, para moderar um painel da conferencia regional organizada pela UNECE subordinada ao tema : 'Taking ICPD Beyond 2014: Partnerships and International Cooperation'.">Moderação da conferência "Taking ICPD Beyond 2014"</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>6</mes><dia>1</dia>
+<a href="" title="Escreveu o comentário a uma das fotos do livro de Inês Santos. São diversas fotografias de viagens. À Catarina coube comentar a imagem duma menina da Papua Nova-Guiné.">"Não me Roubes a Alma" de Inês Santos</a>
+<tag>Autora</tag>
+<tag>Livro</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>6</mes><dia>1</dia>
+<a href="pedroeolobo2013.xml" title="No dia 1 de Junho de 2013 (e também no dia anterior), na Casa da Música, narra a obra de Prokofiev, acompanhada pela Orquestra Sinfónica do Porto.">Pedro e o Lobo e Outras Fábulas</a>
+<tag>Narradora</tag>
+<tag>Música</tag>
+<tag>Espectáculo ao Vivo</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>5</mes><dia>12</dia>
+<a href="http://www.youtube.com/watch?v=xBo6YSW1uuQ" title="Reportagem com a Catarina no Jardim Botânico da Madeira transmitida na emissão da RTP dedicada à Festa da Flor.">Festa da Flor</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Reportagem</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>4</mes><dia>30</dia>
+<a href="conferenciasdoestoril2013.xml" title="Convidada a falar durante a Gala das Conferências do Estoril">Convidada Especial das Conferências do Estoril</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>4</mes><dia>8</dia>
+<a href="poema_amemoriadaceu.xml" title="No dia 8 de Abril a Catarina escolheu um poema da Ruy Belo para dizer no 'Portugal no Coração' em homenagem a Luiz Andrade.">À Memória da Céu</a>
+<tag>Narradora</tag>
+<tag>Televisão</tag>
+<tag>Poesia</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>3</mes><dia>26</dia>
+<a href="portugalsempreligado.xml" title="A Catarina interpreta um momento de teatro musical no espectáculo que comemorou os 56 anos da RTP; dirigido por Filipe La Féria e transmitido em direto do Teatro Politeama.">Portugal Sempre Ligado</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>3</mes><dia></dia>
+<a href="nadajustifica.xml" title="Campanha contra os castigos físicos em crianças; realizada pela Rita Fernandes.">Nada Justifica</a>
+<tag>Campanha</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>2</mes><dia>25</dia>
+<a href="premioautores2012.xml" title="Apresentou a cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.">Prémio Autores SPA/RTP 2013</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2013</ano><mes>2</mes><dia>16</dia>
+<ano>2013</ano><mes>5</mes><dia>11</dia>
+<a href="feitosaobife.xml" title="Apresenta este programa em que 6 actores tem que superar desafios na área da representação, da música, da dança e até do circo.">Feitos ao Bife</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<!--2012-->
+<e>
+<ano>2012</ano><mes>12</mes><dia>24</dia>
+<a href="circodenataldartp2012.xml" title="Gravado no dia 18 e emitido no dia 24 de Dezembro de 2012. O espetáculo especial de Natal do Circo Vitor Hugo Cardinali foi apresentado, pelo 3º ano consecutivo, pela Catarina.">Circo de Natal 2012</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>12</mes><dia>21</dia>
+<a href="umportodos2012.xml" title="Emitido em direto do Pateo da Galé no dia 21 de Dezembro de 2012. A 2ª edição deste especial trouxe a Lisboa alguns dos protagonistas das histórias relatadas na 3ª série do programa.">Especial Príncipes do Nada - Um Por Todos</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>12</mes><dia>20</dia>
+<a href="osegredogigante.xml" title="Conto de Natal escrito pela Catarina. Publicado na revista 'Visão' no dia 20 de Dezembro de 2012.">O Segredo Gigante</a>
+<nivel>3</nivel>
+<tag>Autora</tag>
+<tag>Imprensa</tag>
+<tag>Conto</tag>
+</e>
+<e>
+<ano>2012</ano><mes>12</mes><dia>13</dia>
+<a href="nataldoshospitais2012.xml" title="Estreia da Catarina neste clássico da RTP, na companhia do João Baião. Transmitido em direto do Centro de Reabilitação de Alcoitão no dia 13 de Dezembro de 2012.">Natal dos Hospitais</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>11</mes><dia>26</dia>
+<a href="joaoebeatriz.xml" title="Letra duma canção sobre os seus filhos, incluído no livro/Cd para crianças, 'Vem Daí', lançado dia 26 de Novembro de 2012.">João e Beatriz</a>
+<tag>Autora</tag>
+<tag>Música</tag>
+<tag>Letra de Canção</tag>
+<tag>Infantil</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>11</mes><dia>14</dia>
+<a href="swop2012.xml" title="Oradora convidada na apresentação do relatório SWOP 2012 do UNFPA que decorreu na sala do Senado da Assembleia da República no dia 14 de Novembro de 2012.">Apresentação do Relatório SWOP 2012</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>11</mes><dia>7</dia>
+<a href="coracoescomcoroa.xml" title="Apresentação pública e primeiro congresso da Associação Corações com Coroa, da qual é Presidente. Decorreu no dia 7 de Novembro de 2012 na Culturgest.">Apresentação pública da Corações com Coroa</a>
+<tag>Presidente da Corações com Coroa</tag>
+<tag>Conferência</tag>
+<tag>Associação Corações com Coroa</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>10</mes><dia></dia>
+<a href="aespera.xml" title="Curta-metragem de Eduardo Durão. Rodada em Outubro de 2012. Aborda a relação entre um pai e a filha Marta, personagem interpretada pela Catarina.">À Espera</a>
+<tag>Atriz</tag>
+<tag>Cinema</tag>
+<tag>Curta-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>9</mes><dia>15</dia>
+<a href="pedroeolobo.xml" title="No dia 15 de Setembro de 2012, na comemoração do 50º aniversário da Orquestra Gulbenkian, a Catarina voltou ao grande auditório da fundação para dar a voz à Narradora desta obra de Prokofiev.">Pedro e o Lobo</a>
+<tag>Narradora</tag>
+<tag>Música</tag>
+<tag>Espectáculo ao Vivo</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>9</mes><dia>8</dia>
+<a href="7maravilhaspraiasdeportugal.xml" title="Apresentação da gala de declaração oficial, em direto de Tróia, transmitida pela RTP no dia 8 de Setembro de 2012.">7 Maravilhas - Praias de Portugal</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>7</mes><dia>10</dia>
+<a href="mariarapariga.xml" title="Participação na campanha iniciada a 10 de Julho de 2012, em apoio às raparigas que querem jogar futebol.">Campanha Maria Rapariga</a>
+<tag>Campanha</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>7</mes><dia>8</dia>
+<a href="ambicaoolimpica.xml" title="Apresentação dum espetáculo de celebração do espírito olímpico. Em direto do Pavilhão Atlântico no dia 8 de Julho de 2012.">Ambição Olímpica</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>6</mes><dia>29</dia>
+<a href="piasheb.xml" title="Apresentação do livro 'PIASHEB', sobre o Projecto Integrado de Água, Saneamento e Higiene nas Escolas de Biombo na Guiné-Bissau, na FNAC do C.C.Colombo no dia 29 de Junho de 2012.">Lançamento do livro «PIASHEB»</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>4</mes><dia>23</dia>
+<a href="vozeserostos.xml" title="Participação no debate sobre a Mutilação Genital Feminina enquadrado na campanha Europeia END FGM que decorreu no dia 23 de Abril de 2012.">Vozes e Rostos - A Arte pelo fim da Mutilação Genital Feminina</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>4</mes><dia>21</dia>
+<a href="comamorsepaga.xml" title="Apresentação do programa da RTP onde se agradece e homenageia pessoas que se dedicam aos outros. Estreou-se no dia 21 de Abril de 2012. O último episódio foi transmitido no dia 28 de Julho de 2012.">Com Amor se Paga</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>4</mes><dia>19</dia>
+<a href="primaveradavida.xml" title="Apresentação do espetáculo que culminou a emissão especial da RTP de apoio à recolha de fundos para Associação Portuguesa Contra a Leucemia no dia 19 de Abril de 2012.">Primavera da Vida</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>3</mes><dia>27</dia>
+<a href="ograndeteatrodomundo.xml" title="Apresentação, ao lado do Diogo Infante, do programa da RTP comemorativo do Dia Mundial do Teatro. Emitido no dia 27 de Março de 2012.">O Grande Teatro do Mundo</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>3</mes><dia>26</dia>
+<a href="principesdonada.xml" title="Terceira série do programa de documenta o trabalho de ONGs pelo mundo. Apresentado e da autoria da Catarina, estes documentários são parte integrante do seu trabalho como Embaixadora de Boa Vontade do UNFPA. O primeiro episódio foi emitido no dia 26 de Março de 2012 e o último no dia 2 de Julho de 2012.">Príncipes do Nada - 3ª Série</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Embaixadora de Boa Vontade do UNFPA</tag><tag>Televisão</tag><tag>Documentário</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2012</ano><mes>2</mes><dia>27</dia>
+<a href="premioautores2011.xml" title="Apresentação da gala que distingue o trabalho de criadores na área de atuação da Sociedade Portuguesa de Autores, em parceria com a RTP. Foi trânsmitida em direto do CCB no dia 27 de Fevereiro de 2012.">3ª Gala Prémio Autores SPA/RTP</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<!--2011-->
+<e>
+<ano>2011</ano><mes>12</mes><dia>24</dia>
+<a href="circodenataldartp2011.xml">Circo de Natal da Rtp</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a>Gala Estrela Maior</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="coracoescomcoroa.xml">Criação da «Corações com Coroa»</a>
+<tag>Presidente da Corações com Coroa</tag>
+<tag>Biografia</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2011</ano><mes>10</mes><dia>26</dia>
+<a href="swop2011.xml" title="No dia 26 de Outubro de 2011 a Catarina apresentou na Assembleia da República o relatório sobre a Situação da População Mundial em 2011 do Fundo das Nações Unidas para a População (UNFPA), neste ano subordinado ao tema 'Pessoas e oportunidades num mundo de 7 mil milhões'.">Apresentação do Relatório SWOP 2011</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="avozdeportugal.xml">A Voz de Portugal</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="7maravilhasdagastronomia.xml">7 Maravilhas da Gastronomia (Declaração Oficial das...)</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano data="Lançado em 23/9/2011">2011</ano>
+<a href="ovoodaborboleta.xml">O Voo da Borboleta - Prefácio do Livro</a>
+<tag>Autora</tag>
+<tag>Livro</tag>
+<tag>Prefácio</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="quemtramoupeterpan.xml">Quem Tramou Peter Pan?</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Infantil</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2011</ano><mes>2</mes><dia>21</dia>
+<a href="premioautores2010.xml" title="No dia 21 de Fevereiro de 2011 apresentou a cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.">2ª Gala Prémio Autores SPA/RTP</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano data="Emitido em 27/4/2011">2011</ano>
+<a href="nos.xml">"Nós" sobre a mutilação genital feminina</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag><tag>Televisão</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="principedonada.xml">Príncipe do Nada</a>
+<tag>Autora</tag>
+<tag>Música</tag>
+<tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="movimentohipersaudavel.xml">Movimento Hiper Saudável</a>
+<tag>Apresentadora</tag><tag>Publicidade</tag><tag>Campanha</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2011</ano>
+<a href="caixamais.xml">Caixa Mais</a>
+<tag>Publicidade</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano data="Direto dia 7/3/2011">2011</ano>
+<a href="umportodos2011.xml">Um Por Todos - Especial Príncipes do Nada</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<!--2010-->
+<e>
+<ano>2010</ano><mes>12</mes><dia>24</dia>
+<a href="circodenataldartp2010.xml">Circo de Natal da Rtp</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano data="12/12/2010">2010</ano>
+<a href="pedroeolobo2010.xml">Pedro e o Lobo</a>
+<tag>Narradora</tag>
+<tag>Música</tag>
+<tag>Espectáculo ao Vivo</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2010</ano><mes>2</mes><dia>8</dia>
+<a href="premioautores2009.xml" title="No dia 8 de Fevereiro de 2010 apresentou a cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.">1ª Gala Prémio Autores SPA/RTP</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2010</ano>
+<a href="omeureinoporumamigo.xml">Conto «O Meu Reino Por Um Amigo» incluído no livro «Outras Histórias»</a>
+<tag>Autora</tag><tag>Livro</tag><tag>Conto</tag><tag>Infantil</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano data="Edição do dia 25/11/2010">2010</ano>
+<a>Directora, por um dia, do jornal Metro</a>
+<tag>Autora</tag><tag>Imprensa</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2010</ano><mes>10</mes><dia>20</dia>
+<a href="swop2010.xml" title="No dia 20 de Outubro de 2010 a Catarina apresentou no Salão Nobre do Ministério dos Negócios Estrangeiros o relatório sobre a Situação da População Mundial em 2010 do Fundo das Nações Unidas para a População (UNFPA), neste ano subordinado ao tema 'Do conflito e da crise à renovação: as gerações da mudança'.">Apresentação do Relatório SWOP 2010</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag>
+<tag>Conferência</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2010</ano>
+<a href="damemusica.xml">Dá-me Música (2ª série)</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2010</ano><mes>4</mes><dia>23</dia>
+<a href="cidadedespida.xml">Cidade Despida</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Série</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2010</ano><mes></mes><dia></dia>
+<a href="7maravilhasnaturaisdeportugal.xml">7 Maravilhas Naturais de Portugal</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<!--2009-->
+<e>
+<ano>2009</ano><mes></mes><dia></dia>
+<a href="7maravilhasdeorigemportuguesanomundo.xml">7 Maravilhas de Origem Portuguesa no Mundo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano href="dancacomigonogelo.xml">2009</ano>
+<a>Dança Comigo no Gelo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2009</ano>
+<a href="damemusica.xml">Dá-me Música</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2009</ano>
+<a href="darvidasemmorrer.xml">Dar Vida Sem Morrer</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Embaixadora de Boa Vontade do UNFPA</tag><tag>Televisão</tag><tag>Documentário</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2009</ano>
+<a href="http://www.youtube.com/watch?v=dKcbvsSzPic">Ilha das Cores</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Infantil</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano data="Estreia dia 2 de Abril">2009</ano>
+<a href="monstrosvsaliens.xml">Monstros vs Aliens</a>
+<tag>Atriz</tag><tag>Dobragem</tag><tag>Cinema</tag><tag>Longa-metragem</tag><tag>Infantil</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2009</ano>
+<a href="poema_paralili.xml" title="A Catarina diz o 'Poema para Lili' de Fernando Pessoa">Pessoa Pessoas</a>
+<tag>Narradora</tag><tag>Televisão</tag><tag>Poesia</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2009</ano><mes>3</mes><dia>12</dia>
+<ano>2009</ano><mes>5</mes><dia>13</dia>
+<a href="transaccoes.xml" title="A Catarina volta a fazer teatro com a peça «Transacções», adaptada do original «Up for Grabs» de David Williamson, onde foi Loren, uma negociante de arte, que na venda de um quadro de Pollock vê a possibilidade de ascensão na profissão.">Transacções</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2009</ano>2<mes></mes><dia>25</dia>
+<a href="canalbio.xml">«Catarina Furtado - Porque Cada Pessoa Conta»,uma biografia do canal Bio</a>
+<tag>Biografia</tag><tag>Televisão</tag><tag>Documentário</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2009</ano><mes>1</mes><dia>3</dia>
+<a href="hiphoppobrezastop.xml" title="Um concurso à volta do Hip Hop com o objectivo de lutar contra a pobreza.">Hip Hop Pobreza Stop!</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<!--2008-->
+<e>
+<ano>2008</ano>
+<a href="liberdade21.xml" title="Série produzida para a RTP que retrata o dia a dia de uma grande sociedade de advogados da capital. 
+A Catarina foi convidada em 2008 para interpretar o papel da advogada Serena Antunes nos últimos episódios da segunda e última temporada da série. 
+Apesar da série ter estreado no dia 18 de Outubro de 2008, os episódios com a Catarina só foram transmitidos durante o primeiro semestre de 2012.">Liberdade 21</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Série</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2008</ano>
+<a href="aminhageracao.xml">A Minha Geração</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2008</ano>
+<a href="dancacomigo.xml">Dança Comigo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2008</ano>
+<a href="jogoduplo.xml">Jogo Duplo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2008</ano>
+<a href="aprocuradesally.xml">À Procura de Sally</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2008</ano><mes>5</mes><dia>20</dia>
+<a href="covadamoura.xml">Cova da Moura - Aqui é o meu Bairro</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2008</ano>
+<a href="juntosnadiversidade.xml">Juntos na Diversidade</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<!--2007-->
+<e>
+<ano>2007</ano>
+<a href="causamaior.xml">Gala Causa Maior</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2007</ano><mes>10</mes><dia>27</dia>
+<a>É mãe do seu 2º filho: nasce o João Maria</a>
+<tag>Biografia</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2007</ano><mes>4</mes><dia>20</dia>
+<a title="No primeiro episódio da 3ª série, do programa da RTP, dedicado a bem conhecer a nossa língua, com a apresentação do Diogo Infante, a Catarina foi convidada a descobrir algumas curiosidades da linguagem do meio teatral como a expressão «Parte uma perna!»">Cuidado com a Língua</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2007</ano>
+<a>Gala RTP 50 Anos</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2007</ano><mes>7</mes><dia>7</dia>
+<a href="sosterra.xml" title="Apresenta parte das 24 horas de emissão global de concertos de música por todo o mundo com o objectivo alertar para o aquecimento global do planeta">SOS Terra</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2007</ano>
+<a href="dancacomigo.xml">Dança Comigo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2007</ano>
+<a href="pornascermulher.xml">Prefácio do livro "Por Nascer Mulher... um outro lado dos Direitos Humanos"</a>
+<tag>Embaixadora de Boa Vontade do UNFPA</tag><tag>Livro</tag><tag>Prefácio</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2007</ano><mes></mes><dia></dia>
+<a href="bcp.xml" title="">Banco Comercial Português (BCP)</a>
+<tag>Publicidade</tag>
+<nivel>3</nivel>
+</e>
+<!--2006-->
+<e>
+<ano>2006</ano><mes>12</mes><dia>31</dia>
+<a href="contrainformacao.xml">Gala Contra Informação - 1 Década</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2006</ano><mes>6</mes><dia>25</dia>
+<a>É mãe: nasce a Maria Beatriz</a>
+<tag>Biografia</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2006</ano>
+<a href="obolinha.xml" title="Dobragem de desenhos animados para crianças. Editado em DVD.">O Bolinha</a>
+<tag>Atriz</tag><tag>Dobragem</tag><tag>Infantil</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2006</ano>
+<a href="dancacomigo.xml">Dança Comigo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2006</ano><mes>12</mes><dia>20</dia>
+<a href="oburaco.xml" title="Autora do argumento do telefilme da RTP; um conto de Natal.">O Buraco</a>
+<tag>Autora</tag>
+<tag>Televisão</tag>
+<tag>Telefilme</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2006</ano>
+<a href="sonhodeumanoitedeverao.xml" title="Narradora de concerto dado pela Orquestra Metropolitana de Lisboa nos dias 21 e 22 de Julho">"Sonho de uma noite de verão" com a Orquestra Metropolitana de Lisboa</a>
+<tag>Atriz</tag><tag>Narradora</tag><tag>Música</tag><tag>Espectáculo ao Vivo</tag>
+<nivel>3</nivel>
+</e>
+<!--2005-->
+<e>
+<ano>2005</ano><mes>12</mes><dia>28</dia>
+<a href="galasolidariedadeafrica.xml">Gala Solidariedade África</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>10</mes>
+<a href="osmeusolhosdeafonso.xml" title="Livro de estórias para crianças.">Os Meus Olhos de Afonso</a>
+<tag>Autora</tag><tag>Livro</tag><tag>Conto</tag><tag>Infantil</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<e>
+<ano>2005</ano><mes>7</mes><dia>7</dia>
+<a>Casa com o João Reis</a>
+<tag>Biografia</tag>
+<nivel>2</nivel>
+</e>
+<ano>2005</ano>
+<a href="pequenosemgrande.xml">Pequenos em Grande</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Infantil</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>12</mes><dia>26</dia>
+<ano>2006</ano><mes>12</mes><dia></dia>
+<a href="principesdonada.xml">Príncipes do Nada - 1ª Série</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Documentário</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2005</ano>
+<a href="animal.xml" title="Pequena participação num thriller protagonizado pelo Diogo Infante.">Animal</a>
+<tag>Atriz</tag><tag>Cinema</tag><tag>Longa-metragem</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>6</mes><dia>24</dia>
+<a href="loveonline.xml" title="Telfilme da série da RTP 'Amores e Desamores'. A Catarina é a Laura que convence a amiga a experimentar um relacionamento amoroso cibernético virtual.">Love Online</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Telefilme</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>9</mes><dia>18</dia>
+<ano>2005</ano><mes>10</mes><dia>23</dia>
+<a>Música no Ar</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>7</mes><dia>3</dia>
+<a href="supermodeloftheworld2005.xml" title="Final do concurso, apresentado pela Catarina, para encontrar dois novos talentos das passerelle em Portugal.">Especial Príncipes do Nada - Um Por Todos</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>5</mes><dia>28</dia>
+<ano>2005</ano><mes>7</mes><dia>2</dia>
+<a href="aaventuradoconhecimento.xml" title="Concurso conduzido pela Catarina em que equipas de jovens usam a internet para encontrar respostas a desafios.">A Aventura do Conhecimento – Sapo Challenge RTP</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>6</mes><dia>10</dia>
+<a>Recebe a Comenda da Ordem de Mérito</a>
+<tag>Biografia</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>5</mes><dia>18</dia>
+<a href="pirilampomagico.xml" title="Apresenta gala de apoio à Campanha do Pirilampo Mágico.">Gala do Pirilampo Mágico</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano>
+<a href="elaedanca.xml">Ela é Dança</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano>
+<a href="seeusoubesse.xml">Se Eu Soubesse (o Que Sei Hoje)</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>3</mes><dia>21</dia>
+<a href="poesia.xml" title="A Catarina diz o 'O Poema Ensina a Cair' de Luiza Neto Jorge e o 'Soneto da Fidelidade' de Vinicius de Moraes.">Voz</a>
+<tag>Narradora</tag><tag>Televisão</tag><tag>Poesia</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2005</ano><mes>1</mes><dia>7</dia>
+<a title="Emissão especial da RTP para recolha de fundos de apoio às vítimas do tsunami da Ásia.">Operação Renascer</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Gala</tag>
+<nivel>3</nivel>
+</e>
+<!--2004-->
+<e>
+<ano>2004</ano><mes>12</mes><dia>22</dia>
+<a href="anoitedogil.xml" title="A RTP associa-se à Fundação Gil para levar um presente a mais de 55 mil crianças carenciadas. O espírito de solidariedade vai invadir o centro Olga Cadaval, onde padrinhos bem conhecidos, vão realizar os sonhos de meninos hospitalizados.">A Noite do Gil - Presentes por um Sonho</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2004</ano><mes>6</mes><dia>1</dia>
+<a href="pirilampomagico.xml" title="Apresenta gala de apoio à Campanha do Pirilampo Mágico.">A Arte do Pirilampo Mágico</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2004</ano>
+<a>Festival da Canção</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2004</ano>
+<a>Um Contra Todos</a>
+<tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2004</ano><mes>9</mes><dia>17</dia>
+<a href="aferreirinha.xml">A Ferreirinha</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Série</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2004</ano><mes>4</mes><dia>29</dia>
+<a href="mariaeasoutras.xml">Maria e as Outras</a>
+<tag>Atriz</tag><tag>Cinema</tag><tag>Longa-metragem</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2004</ano>
+<a href="noconcertodopalma.xml">No Concerto do Palma</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<!--2003-->
+<e>
+<ano>2003</ano><mes>6</mes><dia>3</dia>
+<a href="pirilampomagico2003.xml" title="Apresenta gala de apoio à Campanha do Pirilampo Mágico.">A Magia do Pirilampo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2003</ano><mes>9</mes><dia>28</dia>
+<ano>2004</ano><mes>1</mes><dia>25</dia>
+<a href="operacaotriunfo2.xml" title="Segunda edição deste concurso de talentos e escola de cantores apresentado pela Catarina.">Operação Triunfo 2</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2003</ano><mes>12</mes><dia>10</dia>
+<a href="festadogil.xml" title="A Festa do Gil, no Circo Cardinali é um espetáculo de solidariedade de Circo e Variedades, a favor das crianças desfavorecidas, apresentado por Catarina Furtado.">Festa do Gil</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2003</ano>
+<a>Festival RTP da Canção 2003</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2003</ano><mes>7</mes><dia>17</dia>
+<a href="festadalusofonia.xml" title="A 17 de Julho a RTP associou-se à comemoração do Dia da Lusofonia com uma festa, apresentada pela Catarina, que representa um encontro das culturas lusófonas espalhadas pelo mundo.">Festa da Lusofonia</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2003</ano><mes>6</mes><dia>3</dia>
+<a href="pirilampomagico.xml" title="Apresentado pela Catarina Furtado e pelo Jorge Gabriel, em directo do Coliseu dos recreios, com a participação dos alunos da Operação Triunfo, uma campanha de apoio a cidadãos com deficiência.">Gala do Pirilampo Mágico</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2003</ano><mes>2</mes><dia>16</dia>
+<ano>2003</ano><mes>6</mes><dia>1</dia>
+<a href="operacaotriunfo1.xml" title="Primeira edição deste concurso de talentos e escola de cantores. Foi o primeiro programa apresentado pela Catarina no seu regresso à RTP">Operação Triunfo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2003</ano>
+<a href="loucosporamor.xml">Loucos por Amor</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2003</ano><mes></mes><dia></dia>
+<a href="shoette.xml" title="Loja e design de sapatos.">Shoette</a>
+<tag>Empresária</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2003</ano><mes></mes><dia></dia>
+<a href="danone.xml" title="Spot publicitário para televisão da marca de iogurtes Danone.">Corpos Danone</a>
+<tag>Publicidade</tag>
+<tag>Televisão</tag>
+<nivel>3</nivel>
+</e>
+<!--2002-->
+<e>
+<ano>2002</ano><mes></mes><dia></dia>
+<a href="valormed.xml" title="Em 2002 foi criado um spot de 25 segundos para televisão, onde a Catarina Furtado entrega os seus medicamentos fora do prazo na farmácia, encontrando-se à porta com o amigo Luís Esparteiro.">ValorMed</a>
+<tag>Publicidade</tag>
+<tag>Televisão</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2002</ano>
+<a href="globosdeouro.xml">Globos de de Ouro 2001</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2002</ano><mes>3</mes><dia>9</dia>
+<ano>2002</ano><mes>12</mes><dia>14</dia>
+<a href="catarinacom.xml" title="Magazine social, transmitido aos sábados na Sic, com um convidado central entrevistado pela Catarina.">Catarina.com</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2002</ano><mes>2</mes><dia>24</dia>
+<a href="peergynt.xml">Peer Gynt</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2002</ano>
+<a href="chichicama.xml">Chichi Cama</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag><tag>Infantil</tag>
+<nivel>3</nivel>
+</e>
+<!--2001-->
+<e>
+<ano data="1997-2001">2001</ano>
+<a>Mundo Vip</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2001</ano>
+<a href="globosdeouro.xml">Globos de Ouro</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2001</ano>
+<a href="ganancia.xml" title="Telenovela da Sic.">Ganância</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Telenovela</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2001</ano><mes>5</mes><dia>27</dia>
+<a href="teoremadepitagoras.xml" title="Pequena participação num tele-fime da Sic.">Teorema de Pitágoras</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Telefilme</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2001</ano><mes>1</mes><dia>8</dia>
+<a href="musicadomundo.xml">Música do Mundo</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<!--2000-->
+<e>
+<ano>2000</ano>
+<a href="globosdeouro.xml">Globos de Ouro 1999</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="umaaventuranabiblioteca.xml" title="A Catarina faz o papel de Matilde, uma jovem e bonita bibliotecária, que se vê envolvida numa perigosa rede de criminosos. A série é uma adaptação da SIC da popular colecção de livros para jovens.">Uma Aventura na Biblioteca</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Série</tag><tag>Infantil</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="anoiva.xml">A Noiva</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Telefilme</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2000</ano><mes>5</mes><dia>30</dia>
+<a href="olampiaodaestrela.xml" title="Tele-filme de Sic, uma comédia protagonizada por Herman José com a Catarina no papel da sua filha Cristina.">O Lampião da Estrela</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Telefilme</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="jornalistas.xml" title="A Catarina entrou num episódio da série 'Jornalistas' da SIC fazendo o papel duma apresentadora de meteorologia da estação vitima de assédio.">Jornalistas</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Série</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano><mes>11</mes><dia>22</dia>
+<a href="amacanoescuro.xml" title="A Catarina é Ermelinda numa adaptação para o teatro do romande de Clarice Lispector. Levada à cena no Teatro da Trindade no final de 2000 e no Teatro Nacional de S.João em 2001.">A Maçã no Escuro</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2000</ano><mes>1</mes><dia>21</dia>
+<a href="abelaadormecida.xml" title="Narração duma adaptação da clássica história infantil pela Companhia Nacional de Bailado.">"A Bela Adormecida" - C.N.B.</a>
+<tag>Narradora</tag><tag>Teatro</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>2000</ano><mes>3</mes><dia>14</dia>
+<a href="lucefecit.xml" title="Peça de Teatro que estreou no dia 14 de Março no Teatro Aberto.">Lucefécit</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="avoamigo.xml">Avô Amigo</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="cartadeamorridiculo.xml">Carta de Amor Ridícula</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="lutador.xml">Lutador</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="laura.xml">Laura</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>2000</ano>
+<a href="historiadepedra.xml">História de Pedra</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<!--1999-->
+<e>
+<ano>1999</ano>
+<a>As Mais Belas Canções de Natal</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1999</ano>
+<a href="globosdeouro.xml">Globos de Ouro 1998</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1999</ano>
+<a href="pequenoseterriveis.xml">Pequenos e Terríveis</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Infantil</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1999</ano>
+<a href="cruzamentos.xml" title="A Catarina Furtado representa o papel da Sara que enfeitiça o João. Atraem-se para uma paixão fulgurante que dura poucos dias, até ela descobrir que ele tem um relacionamento com outra mulher. A história desenvolve-se ao longo dos últimos dois episódios (o 12 e 13) da primeira temporada da série 'Cruzamentos', transmitida pela RTP em 1999.">Cruzamentos</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Série</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1999</ano><mes>12</mes><dia>3</dia>
+<a href="thedaysbefore.xml" title="Peça de teatro de Robert Wilson, representada no Teatro Rivoli, no Porto, durante a edição de 1999 do Festival PoNTI.">The Days Before</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1999</ano><mes>5</mes><dia>7</dia>
+<a href="quase.xml" title="Do original Closer de Patrick Marber. Foi a estreia em teatro da Catarina. No dia 7/5/1999.">Quase</a>
+<tag>Atriz</tag><tag>Teatro</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1998</ano>
+<a href="soltaseobeijo.xml">Solta-se o Beijo</a>
+<tag>Autora</tag><tag>Música</tag><tag>Letra de Canção</tag>
+<nivel>2</nivel>
+</e>
+<!--1998-->
+<e>
+<ano>1998</ano>
+<a href="oanjodaguarda.xml" title="A Catarina faz uma pequena participação como dançarina no filme da Margarida Gil">O Anjo da Guarda</a>
+<tag>Atriz</tag><tag>Cinema</tag><tag>Longa-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1998</ano>
+<a href="globosdeouro.xml">Globos de Ouro 1997</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1998</ano><mes>6</mes><dia>7</dia>
+<a title="Programa da Sic que destacou 6 jovens portugueses excepcionais." href="geracaofantastica.xml">Geração Fantástica</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1998</ano><mes>10</mes><dia>30</dia>
+<a href="pesadelocorderosa.xml">Pesadelo Cor-de-rosa</a>
+<tag>Atriz</tag><tag>Cinema</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1998</ano><mes>4</mes>
+<a href="longedavista.xml" title="Filme de João Mário Grilo rodado em ambiente prisional. A Catarina tem uma breve aparição no filme como visita a um dos presidiários.">Longe da Vista</a>
+<tag>Atriz</tag><tag>Cinema</tag><tag>Longa-metragem</tag>
+<nivel>2</nivel>
+</e>
+<!--1997-->
+<e>
+<ano>1997</ano>
+<a href="globosdeouro.xml">Globos de Ouro 1996</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1997</ano>
+<a href="fatima.xml">Fátima</a>
+<tag>Atriz</tag><tag>Televisão</tag><tag>Telefilme</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1997</ano>
+<a href="siamesecop.xml" title="Longa-metragem rodada no inicio de 1997. Comédia ao género B-movies. O filme nunca foi comercializado.">Siamese Cop</a>
+<tag>Atriz</tag><tag>Cinema</tag><tag>Longa-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1997</ano>
+<a href="killingtime.xml" title="Curta-metragem de Alexandre Finbow rodada em Inglaterra.">Killing Time</a>
+<tag>Atriz</tag><tag>Curta-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1997</ano>
+<a href="drinkingandbleeding.xml" title="Curta-metragem do periodo Londrino da Catarina.">Drinking &amp; Bleeding</a>
+<tag>Atriz</tag><tag>Curta-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1997</ano><mes></mes><dia></dia>
+<a href="supermodeloftheworld1997.xml" title="Final do concurso, apresentado pela Catarina, para encontrar dois novos talentos das passerelle em Portugal.">Supermodel of the World</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<!--1996-->
+<e>
+<ano>1996</ano>
+<a href="poema_emtodasasruasteencontro.xml" title="A Catarina diz o poema 'Em Todas as Ruas te Encontro' de Mário Cesariny.">Instantes</a>
+<tag>Narradora</tag><tag>Televisão</tag><tag>Poesia</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>1996</ano>
+<a href="summermoments.xml" title="Média-metragem da autoria de Rita Fernandes">Summer Moments</a>
+<tag>Atriz</tag><tag>Curta-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1996</ano>
+<a href="globosdeouro.xml">Globos de Ouro 1995</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<!--1995-->
+<e>
+<ano>1995</ano>
+<a href="umanoitedesonho.xml">Uma Noite de Sonho</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1995</ano>
+<a href="biografia_londres.xml">Ingressa no 'London International School of
+Acting' e frequenta o 'Actors Studio'</a>
+<tag>Biografia</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1995</ano>
+<a href="amorealquimia.xml">Amor &amp; Alquimia</a>
+<tag>Atriz</tag><tag>Curta-metragem</tag>
+<nivel>2</nivel>
+</e>
+<!--1994-->
+<e>
+<ano>1994</ano><mes>12</mes><dia>31</dia>
+<a title="Programa da passagem do ano 1994 para 1995 na Sic.">A Grande Noite</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1994</ano><mes>10</mes>
+<a href="asnossasestrelas.xml" title="Programa que celebrou o 2º aniversário da SIC com várias caras da estação a cantar ao estilo 'Chuva de Estrelas'">As Nossas Estrelas</a>
+<tag>Apresentadora</tag><tag>Autora</tag><tag>Televisão</tag><tag>Entretenimento</tag><tag>Gala</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1994</ano>
+<a href="cacaaotesouro.xml">Caça ao Tesouro</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<!--1993-->
+<e>
+<ano>1993</ano>
+<a href="oassassinodavozmeiga.xml" title="Curta-metragem de Artur Ribeiro.">O Assassino da Voz Meiga</a>
+<tag>Atriz</tag><tag>Curta-metragem</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1993</ano>
+<a href="grandesplanos.xml" title="Magazine semanal de actualidades culturais.">Grandes Planos</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1993</ano><mes>10</mes><dia>1</dia>
+<a href="chuvadeestrelas.xml">Chuva de Estrelas</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<!--1992-->
+<e>
+<ano>1992</ano><mes>10</mes><dia>6</dia>
+<a href="mtv.xml" title="Magazine diário sobre música e cinema.">Mtv Portugal</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<!--1991-->
+<e>
+<ano>1991</ano>
+<a href="topmais.xml" title="Programa da RTP que revela as novidade músicais e os discos mais vendidos da semana.">Top +</a>
+<tag>Apresentadora</tag><tag>Televisão</tag><tag>Entretenimento</tag>
+<nivel>1</nivel>
+</e>
+<!--1972 até 1990-->
+<e>
+<ano>1990</ano>
+<a href="biografia_crescimento_e_formacao.xml">Ingressa no CENJOR</a>
+<tag>Biografia</tag>
+<nivel>2</nivel>
+</e>
+<e>
+<ano>1990</ano>
+<a href="non.xml" title="Longa-metragem realizada por Manoel de Oliveira que também foi autor do argumento e diálogos. O filme teve a sua estreia em Portugal no dia 12 de Outubro de 1990.">Non ou a Vã Glória de Mandar</a>
+<tag>Atriz</tag><tag>Cinema</tag><tag>Longa-metragem</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>1987</ano><mes>2</mes><dia></dia>
+<a href="saiprarua.xml" title="Com 14 anos, aparece no primeiro tele-disco dos Xutos &amp; Pontapés.">Saí P'rá Rua</a> 
+<tag>Biografia</tag><tag>Música</tag>
+<nivel>3</nivel>
+</e>
+<e>
+<ano>1982</ano>
+<a href="biografia_crescimento_e_formacao.xml">Ingressa na Escola de Dança do Conservatório Nacional de Lisboa</a>
+<tag>Biografia</tag>
+<nivel>1</nivel>
+</e>
+<e>
+<ano>1972</ano><mes>8</mes><dia>25</dia>
+<a href="biografia_crescimento_e_formacao.xml">Nasce em Lisboa</a>
+<tag>Biografia</tag>
+<nivel>1</nivel>
+</e>
+</curriculo>
+</pagina>

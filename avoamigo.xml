@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Avô Amigo</titulo>
+	<descricao>Letra para música da banda sonora da série de televisão <cite>Crianças SOS</cite></descricao>
+	<data><ano>2000</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Avô Amigo</nome>
+	<nome titulo="Interpretação">Carlos do Carmo</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Arranjo">Mário Delgado</nome>
+	<nome titulo="Ano">2000</nome>
+</creditos>
+
+<elo href="http://videos.sapo.pt/E5s4rHiGMg9J6Lz83P1Q">Excerto final da série «Crianças SOS» com a música nos créditos finais</elo>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="teatro.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>A Maçã no Escuro</titulo>
+	<descricao>A Catarina é Ermelinda numa adaptação para o teatro do romance de Clarice Lispector. Levada à cena no Teatro da Trindade, no final de 2000, e no Teatro Nacional de S.João, em 2001.</descricao>
+	<data><ano>2000</ano><mes>11</mes><dia>22</dia></data>
+	<data><ano>2000</ano><mes>11</mes><dia>25</dia></data>
+	<data><ano>2000</ano><mes>10</mes><dia>3</dia></data>
+	<data><ano>2000</ano><mes>11</mes><dia>24</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-xAlpH3_89Co/UQpQDcWO9zI/AAAAAAAAOGs/PrpTBEuFc7w/s640/CatarinaFurtado_ng1135259.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://www.tnsj.pt/2001/minisite09/" autor="Excerto da sinopse do TNSJ">
+	<p>Tudo principia «numa noite de Março», mas esse registo não tem a menor importância, porque o tempo é interior. O protagonista é um homem: Martim. Tendo cometido um crime, ele foge da cidade e chega a uma fazenda cuja proprietária é Vitória, mulher solteira de meia idade. Com ela mora uma prima, Ermelinda, moça e viúva, e uma cozinheira mulata. A chegada de Martim perturba o ritmo de vida das mulheres, que passa de pacata a tensa, porque a sua presença põe em relevo os problemas pessoais de cada uma. Um dia, Martim possui a mulata e, depois, cedendo ao cerco de Ermelinda, torna-se seu amante.</p>
+</citacao>
+
+<imagem>https://lh3.googleusercontent.com/-uRLIuxq1RuQ/UWFfcUX0UYI/AAAAAAAAOqs/OUfZ0xm6d0k/s800/MacaEscuro_688.jpeg</imagem>
+
+<p>"A Maçã no Escuro"; Romance de Clarice Lispector adaptada para o teatro por Maria Emilia Correia. Com a Catarina Furtado no papel de Ermelinda. A peça estreou no dia 22 de Novembro de 2000, no Teatro da Trindade em Lisboa, onde esteve em cena até 23 de Dezembro. Em 2001 o elenco deslocou-se ao Porto, para uma semana em cena, entre o dia 19 e 27 de Maio de 2002, no Teatro Nacional de S.João, no Porto.</p>				
+
+<elo href="http://www.youtube.com/watch?v=vSy6RgMHEfs">O actor Paulo Pires recorda um momento embaraçado com a Catarina</elo>
+
+<creditos>
+	<nome titulo="Encenação e Adaptação">Maria Emília Correia</nome>
+	<nome titulo="Dramaturgia">Luís Mourão</nome>
+	<nome titulo="Cenografia"><a href="http://blog.ruifilipelopes.com/?page_id=297">Rui Filipe Lopes</a></nome>
+	<nome titulo="Figurinos">Mário Oliveira</nome>
+	<nome titulo="Desenho de luz">João Paulo Xavier</nome>
+	<nome titulo="Vídeo e Fotografia">Hugo de Sousa</nome>
+	<nome titulo="co-produção">O Vermelho e o Negro e Teatro da Trindade/INATEL</nome> 
+</creditos>
+
+<creditos titulo="Elenco">
+	<nome titulo="Ermelinda">Catarina Furtado</nome>
+	<nome titulo="Martim">Paulo Pires</nome>
+	<nome titulo="Vitória">Maria Emília Correia</nome>
+	<nome titulo="Francisco / Investigador">Eurico Lopes</nome>
+	<nome titulo="Professor">Rui Sérgio</nome>
+	<nome titulo="Alemão">Carlos Costa</nome>
+	<nome titulo="Filho / Garimpeiro / Menino">Martinho Silva</nome>
+	<nome titulo="Mulata">Carla Galvão</nome>
+	<nome titulo="Polícia">Hélder Gamboa</nome>
+	<nome titulo="Fernandes Polícia">José Manuel</nome>
+</creditos>
+
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+Gabriela Scheer vai olhar-se várias vezes ao espelho oval. E em cada cena é uma mulher diferente a confrontar-se consigo própria, porque em "A Bela e As Feras" são três as personagens femininas que interpreta. A peça, baseada em contos de autores brasileiros - "Uma Senhora" (1886), de Machado de Assis; "Monólogo de Última Hora" (1946), de Cecília Meireles e "A Bela e a Fera ou A Ferida Grande Demais" (1977), de Clarice Lispector - sobe hoje, às 21h30, ao palco do auditório do Padrão dos Descobrimentos, em Lisboa, onde será representada até sábado.Depois de ter levado à cena "O Pessegueiro, uma Galinha Perdoando Deus", peça baseada em textos de Lispector e do português Abel Neves, Scheer quer ainda adaptar "Um Sopro de Vida" e talvez "A Paixão de G. H.", ambos de Clarice. "Quanto mais a leio, mais gosto dela. Tem um estilo que é muito bom para teatro. Quando me dizem que ela é complicada eu costumo dizer: 'Só tem que lê-la em voz alta'." Da obra de uma das maiores escritoras brasileiras deste século, Gabriela selecciona os textos que têm personagens. Não lhe interessam as figuras teatrais meramente poéticas, a representação de "estados de alma". Como dramatizar então os movimentos interiores, as deambulações psicanalíticas, as introspecções intímas das figuras de Lispector? "Costumo dizer que 'Paixão de G.H. é um psico-thriller...! Mas não senti dificuldade em adaptar estes textos. Usei apenas um foco branco [de luz] porque o texto é tão forte que nem me passou pela cabeça fazer outra coisa." A actriz está quase sempre no mesmo sítio do palco. Movimenta-se (às vezes) mas a mobilidade no espaço é quase insignificante como insignificante é o tempo real (uma hora) na vida da personagem: o tempo que interessa é o que chega do interior como uma revelação. Os que viram "A Maçã no Escuro" - também de Clarice, encenada por Maria Emília Correia (com Catarina Furtado e Paulo Pires), estreada em Novembro no Teatro da Trindade, em Lisboa, e reposta há pouco tempo no Porto - notarão as diferentes opções de cada uma das encenadoras. Centrada nas palavras de um único actor, que circula num palco ocupado por poucos elementos - plantas, uma mesa, um biombo, um espelho ou uma cadeira -, na peça que hoje sobe à cena, a actriz interpreta o papel de narradora que conta a sua própria história, não apagou as passagens reflexivas e faz também de mendigo, encadeando a passagem entre os personagens. Já em "A Maçã no Escuro" optou-se por teatralizar sobretudo o enredo, "quase policial", onde participavam várias personagens, representadas por diferentes actores que circulavam pelos diversos espaços cénicos.Embora esteja sozinha em palco quando representa, Gabriela não adopta sempre o mesmo modelo para os textos de Clarice. Por exemplo: "O conto da Galinha [um dos textos incluídos em "A Descoberta do Mundo" (ed. Rocco), selecção de crónicas] - tem coreografia, tem música cigana e de filme mudo. No 'Perdoando Deus' juntei um texto do Vinicius de Morais, que acho que combina muito bem com Clarice". Sobre a adaptação teatral das três figuras com preocupações diferentes - a mulher de Machado de Assis não quer envelhecer, a de Meireles debate-se com a morte, a de Clarice confronta-se com a sua vida - Gabriela conta que cortou as descrições e "tudo o que fale sobre sentimentos, porque isso você mostra". Ela assume o papel de narradora e das personagens sobre as quais fala, mudando o registo de história para história, de figura para figura. Há o humor, o dramático ou o trágico. "Cada um dos escritores tem uma linguagem bem específica, bem própria. E até agora não encontrei nenhuma peça de teatro tão interessante como os textos literários. Talvez os escritores se libertem mais facilmente no conto", considera. Este é o segundo de uma série de espectáculos baseados em literatura brasileira sobre a qual a Gabriela Scheer trabalha. A actriz já interpretou Brecht, Büchner, esteve atrás das câmaras de televisão como reportér, chegou a ler a Carta de Pêro Vaz de Caminha (iniciativa do Instituto Camões) mas nunca tinha representado textos de autores brasileiros. "Foi quando estive no Salão do Livro de Paris [cidade onde vive] que percebi que a literatura brasileira é muito pouco conhecida. Como sou actriz, porque não dramatizá-la?"
+
+"A Maçã no Escuro", de Clarice Lispector, é a história da longa caminhada interior de um homem que um dia leva o seu mistério para uma fazenda no Brasil e abala a vida emocional de três mulheres. Maria Emília Correia encena e protagoniza ao lado de Catarina Furtado e Paulo Pires, no Teatro da Trindade, em Lisboa, a partir de quinta-feira.
+
+Há silêncio e mistério em "A Maçã no Escuro", de Clarice Lispector. Porque a palavra nunca chega a preencher esse vazio, essa "falta de nome como falta nome ao gosto que a língua tem na boca". Daí que a exclamação não chegue para Martim - personagem principal do livro e da peça baseada em "A Maçã No Escuro", que estreia quinta-feira no Teatro da Trindade, em Lisboa -, o homem que se abandona, que "teria que começar pelo próprio começo". "Porque acontece que ele queria a palavra. Enquanto fosse quem era estaria preso à sua própria respiração à espera de que ela o unisse a si mesmo, vivendo com essa palavra na ponta da língua, com a compreensão quase por se revelar, nessa tensão que termina por se confundir com a vida, e que é ela própria, acontecia que ele queria a palavra.(...) Porque não dizia a palavra? O sol estava parado. A água ofuscada. Martim diante dela. Porque não a dizia? É que tudo estava tão perfeito que ele sobrava.(...) Tudo rebentava de silêncio".Mas literatura não é teatro e a encenadora, Maria Emília Correia - que diz que muitos dos seus silêncios e imagens poéticas poderiam ser resolvidas no cinema -, pegou neste romance e seguiu a linearidade da história com um enredo, "que até é policial", "sobre um homem que é obrigado a cometer um crime para romper com um sistema vivencial e que perpassa pelos seus comprazimentos, prazeres e angústias". Não quer dizer que tenha abdicado das paragens textuais, das reflexões filosóficas e poéticas de Martim (Paulo Pires), agora transformadas em diálogo/monólogo, ou em "voz off". "As ligações foram feitas de acordo com a minha sensibilidade, que poderia fornecer fios para uma teia porque é importante que as pessoas acompanhem a história. Tudo é um pouco onírico: o universo de Martim, o facto de ele ter cometido um crime como forma de subverter a existência. Tentei aproximá-lo daquilo que é a mensagem - a longa caminhada de um homem, as coisas que passam e são filtradas pela mente, e joguei muito com as paridades vida e morte, um ser no outro, o tu e o eu". Maria Emília Correia não quis também esquecer as imagens poéticas e o jogo de sombras. Recorreu ao vídeo para projectar as folhas, a água ou o bosque. E há, como sempre nas suas encenações, a componente plástica e sensual (encarnada sobretudo pela Mulata, Carla Galvão) no movimento e caracterização dos actores, nas "continuidades e descontinuidades no processo cenográfico", na simbologia dos vermelhos, no retrato de Clarice. A escritora que um dia, em entrevista, respondeu que ela era Martim e não Ermelinda (Catarina Furtado), a mulher um "pouco espírita" - "a personagem feminina a quem é dada especial atenção e isso tentei passar no espectáculo", diz a encenadora - ou Vitória (Maria Emília Correia). São elas as duas mulheres que abandonam Martim depois de ele ter transformado as suas vidas ao entrar um dia na fazenda de Vitória com a desculpa de matar a sede que tinha ganho no "deserto".Referências biográficas. Maria Emília Correia viu Martim como um alter-ego da escritora e daí que tenha seleccionado, de entre as inúmeras reflexões que a personagem vai fazendo, as que estão ligadas à escrita e às angústias do acto criativo. Martim carrega uma máquina de escrever que põe no colo (como fazia a escritora no sofá de sua casa), e vai tentando passar para o papel o que pensa. Diz: "Já não sei falar. Perdi a linguagem dos outros". Tenta organizar: "Coisas que tentarei saber: número 1. (...) Número 2: como ligar 'aquilo' que eu souber com o estado social".O livro é muito mais interessante do que o espectáculo, diz a encenadora, que poderia ter feito muitas outras encenações a partir das múltiplas leituras de "A Maçã no Escuro" - "até da primeira página", diz . Ou de outras obras de Clarice, como "A Paixão Segundo G.H.", que seria um monólogo mas Maria Emília Correia gosta de, em teatro, trabalhar com muita gente. "De todos os romances que li dela penso que este era o que me permitia uma organização de personagens mais apelativa (mas não mais fácil), jogar com os sonhos, com as imagens. Tentei que não perdesse a profundidade e respeitar o espírito do texto". O livro foi escrito em Washington, nos Estados Unidos da América - Clarice terminou-o em 1956 mas só seria publicado em 1961 - e a encenadora decidiu introduzir música americana contemporânea e criar um ambiente de Verão que tanto poderia ser o de uma fazenda brasileira como o de um "western" americano.Há um alemão que nunca fala mas que é uma sombra que paira durante o espectáculo - é uma personagem evocada no livro a que a encenadora atribui o símbolo do fascismo brasileiro ou da ascendência judia da escritora brasileira nascida na Ucrânia. "Pensa-se que havia um certo prurido de ela revelar que era judia, só muito no fim da vida é que o assumiu".Quanto às inúmeras evocações religiosas de "A Maçã no Escuro", e constante repetição da palavra deus - também o grande silêncio - a encenadora decidiu reduzi-las. Aproveitando as alusões à maçã, inverteu a relação Adão e Eva - "Martim não é um homem que se deixe facilmente seduzir porque o seu raciocínio e emoções estão voltados para preocupações mais altas". 
+
+
+http://www.publico.pt/noticias/jornal/a-palavra-na-ponta-da-lingua-151348
+
+http://www.tnsj.pt/2001/minisite09/
+
+Estreia: 22/11/2000 ?
+
+De 22 de Novembro até 23 de Dezembro, ‘A Maçã no Escuro’ vai estar à sua espera no Teatro da Trindade.
+http://www.mulherportuguesa.com/lazer/fora-de-casa/a-maca-no-escuro/
+-->

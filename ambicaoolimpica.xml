@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Ambição Olímpica</titulo>
+	<descricao>Apresentação dum espetáculo de celebração do espírito olímpico. Em direto do Pavilhão Atlântico no dia 8 de Julho de 2012.</descricao>
+	<data><ano>2012</ano><mes>7</mes><dia>8</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-zlwEppOQQUE/T_098BJEtJI/AAAAAAAAMYc/LK2dcwq5a_A/s0/CatarinaFurtado_AmbicaoOlimpica_20120708_090000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Antes da partida dos atletas Portugueses para os Jogos Olímpicos de Londres de 2012, a RTP transmitiu no dia 8 de Julho, em direto do Pavilhão Atlântico, um espectáculo de celebração do espírito Olímpico ,nomeado «Ambição Olímpica».</p>
+<p>Apresentado pela Catarina e pelo José Carlos Malato. Produzido pela <a href="http://www.tavolanostra.com/">Tavolanostra</a> e com direção artística de <a href="http://www.pmpeventos.com/">Paulo Magalhães</a>. A mesma equipa dos espectáculos das <a href="http://www.7maravilhas.sapo.pt/">"7 Maravilhas"</a>.</p>
+<p>No palco, horizontal e vertical, que foi um ecrã de projeção gigante, atuaram bailarinos, artistas de circo, ginastas e cavaleiras. Recordaram-se os atletas Portugueses medalhados e no final, ao som dos <i>Xutos&amp;Pontapés</i>, desfilaram os nossos atletas Olímpicos e Para-olímpicos.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/XzXRPFAcVc7nV4Ebvv17ljbZlhh68JhSIwGNZsep9Pk?feat=embedwebsite">https://lh6.googleusercontent.com/-_bpyf0ekm2I/UDTWZINhAWI/AAAAAAAANUE/NVlEMExZXj4/s400/CatarinaFurtado_AmbicaoOlimpica_03.jpg</imagem>
+
+<grande><elo href="https://www.youtube.com/watch?v=eTsQjFDjkt4">O espírito Olímpico</elo></grande>
+<elo href="http://www.lux.iol.pt/nacionais/catarina-furtado-gala-ambicao-olimpica-catarina-furtado-ferias-catarina-furtado-familia-rtp/1361114-4996.html">Reportagem da revista Lux</elo>
+<elo href="http://www.missaolondres2012.pt/pt/noticias/go/geral-despedida-oficial-da-missao-londres-2012">Artigo do site Missão Londres 2012</elo>
+<elo href="http://x.eventpoint.com.pt/articles/ambicao-olimpica-2012">Galeria de imagens da gala pela "Event Point"</elo>
+<grande><elo href="https://picasaweb.google.com/capsxino/AmbicaoOlimpica?authuser=0&amp;authkey=Gv1sRgCJmLhrT69JOCPg&amp;feat=embedwebsite">Galeria de imagens</elo></grande>
+
+</corpo>
+
+</pagina>

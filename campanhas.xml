@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="trabalhos.xml" estado="completa" titulo="Campanhas">
+
+<corpo>
+
+<arvore poda="campanhas.xml" ordem="data"/>
+
+</corpo>
+</pagina>
+<!--
+******
+http://www.briefing.pt/publicidade/32781-diga-nao-aos-maus-tratos-infantis-como-a-dreamery.html
+http://videos.sapo.pt/bZLU5iOERe7WWSR5sbD4 E Se fosse Eu?
+******
+-->

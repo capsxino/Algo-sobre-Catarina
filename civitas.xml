@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="eventos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Liga Portuguesa dos Direitos Humanos - Civitas</titulo>
+	<descricao>Sessão Comemorativa do Dia dos Direitos Humanos.</descricao>
+	<data><ano>2014</ano><mes>12</mes><dia>10</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 10 de Dezembro de 2014, a Liga Portuguesa dos Direitos Humanos - Civitas comemorou o Dia dos Direitos Humanos, num evento realizado no Museu do Oriente, e apresentado pela Catarina Furtado. Entre discursos e momentos musicais, também a Catarina deixou a sua mensagem, onde-se referiu a campanha "Continuamos à Espera". Em seguida, leu a mensagem de Malala Yousafzai e ficou a promessa desta se deslocar a Portugal no próximo mês de Abril.</p>
+<p><small>A sessão realizou-se ao final da tarde. De manhã esteve na festa de Natal do IPO - contou-me para sublinhar a importância de eu aproveitar a vida enquanto posso. Nesse dia reconheci melhor a enorme generosidade da Catarina, que me deu tantos minutos, a querer saber de mim, quando tinha a Beatriz e o João à espera dum beijo de boa noite da mãe.</small></p>
+
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.214209018738763.1073741826.107792466047086/400243266802003/?type=1">Catarina e o troféu com que foi distinguida</elo>
+
+</corpo>
+
+</pagina>

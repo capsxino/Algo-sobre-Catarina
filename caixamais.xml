@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Caixa Mais</titulo>
+	<descricao>Publicidade para a Caixa Geral de Depósitos</descricao>
+	<data><ano>2011</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="https://picasaweb.google.com/lh/photo/Xk9PquZ_6yfAcJtKrU6yjvlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Nova Gente" ano="2011">
+	<p>Os meus filhos vão adorar quando me virem chegar a casa de jardineiras porque pensam que vamos brincar.</p>
+</citacao>
+
+
+</corpo>
+
+</pagina>

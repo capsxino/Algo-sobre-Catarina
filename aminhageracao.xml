@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>A Minha Geração</titulo>
+	<descricao></descricao>
+	<data><ano>2008</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-w6Lnbiid2sk/VfpuY1qgAoI/AAAAAAAAscI/kv0DQujbqdg/s0-Ic42/2012-08-26-23-catarina-furtado-na-estreia-do-programa-da-rtp-a-minha-geracao-2008.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_vogue_marco2009.xml" fonte="Vogue" ano="2009">
+	<p>Criaram em mim — o que é muito ingrato, embora já saiba viver com isso — a expectativa de que eu estar à frente de um projecto é sinónimo de sucesso. Mas não é isso que me move.</p>
+</citacao>
+
+<elo href="https://www.youtube.com/watch?v=NfJFtJq_48w">'Remix' duma reportagem do "Só Visto!"</elo>					
+<elo href="https://picasaweb.google.com/lh/photo/lToiHfeb8exoKwrW9Y54Ra4M6FWsvxRH22mlVUHZ2SU?feat=directlink">Fotografia tirada durante a gravação da promoção</elo>					
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/AMinhaGeracaoCaps?authuser=0&amp;authkey=Gv1sRgCLG5qLGyobK2xQE&amp;feat=directlink">Fotogramas</elo></grande>
+<elo href="https://picasaweb.google.com/116136255703077903546/AMinhaGeracaoFotos?authuser=0&amp;authkey=Gv1sRgCNf-k-LQk8PqHg&amp;feat=directlink">Fotografias</elo>
+<elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2008?authuser=0&amp;authkey=Gv1sRgCMWknZjoxczgrQE&amp;feat=directlink">Scans da imprensa de 2008</elo>
+
+</corpo>
+
+</pagina>
+<!--
+Reportagem completa do Só Visto?
+<div id="caixaFotos">
+	<img id="foto3" src="https://lh5.googleusercontent.com/-5fvzxQKx2z0/UpiPWeSr4mI/AAAAAAAARQU/GlE0pUEKXU4/s800/aminhageracao80.jpg" height="660" width="444" />
+	<img id="foto2" src="https://lh6.googleusercontent.com/-JW04z9De2-o/UpiPWSGo7JI/AAAAAAAARQU/mbefiarOTpE/s800/aminhageracao60.jpg" height="660" width="444" />
+	<img id="foto1" src="https://lh4.googleusercontent.com/-MGOKvMA0tkc/UpiPWSXyXpI/AAAAAAAARQU/gErc_X3FPXI/s800/aminhageracao50.jpg" height="660" width="444" />
+</div>
+-->

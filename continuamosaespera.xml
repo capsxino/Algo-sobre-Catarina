@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Continuamos à Espera</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="https://www.facebook.com/catarinafurtado.oficial/posts/689659734387929" autor="Catarina" fonte="Facebook" ano="2014">
+	<p>Continuamos à Espera é uma campanha criada pela Associação Corações com Coroa, Associação P&amp;DFactor, Oikos e pela Ajpas, centrada na Educação para o Desenvolvimento e para a Cidadania Global. Alerta para as temáticas da Saúde Sexual e Reprodutiva, Justiça Social, Igualdade de Género e Oportunidades. É baseada nos Direitos Humanos e pretende INFORMAR, INSPIRAR, MOBILIZAR e AGIR em torno da Agenda de Desenvolvimento Pós-2015 com vista à promoção e defesa de um ambiente social e político favorável ao exercício da igualdade de todas as pessoas, sobretudo as mais invisíveis e que mais facilmente estão em situações evitáveis de vulnerabilidade, pobreza, doença, exclusão e violência: as raparigas e as mulheres. A Corações com Coroa, associação que presido, lança a Campanha e eu conto com todos vocês para dar o primeiro passo: partilhar esta mensagem e o vídeo!! Obrigada!</p>	
+</citacao>
+
+<citacao href="jornal_dicadasemana_20140306.xml" autor="Catarina" fonte="Dica da Semana" ano="2014">
+	<p>A campanha "Continuamos à Espera" é um movimento que pretende apelar, inspirar e desafiar as pessoas, de maneira a que percebam o poder que efetivamente têm na tentativa de construção de um mundo mais justo. O vídeo surge no seguimento do aproximar do final dos objetivos de desenvolvimento do milénio e, consequentemente, da necessidade de construir a agenda pós 2015, exigindo que lá sejam colocadas as prioridades efetivas para que o mundo seja mais justo e solidário, sobretudo no que diz respeito à saúde materno infantil.</p>		
+</citacao>	
+
+<elo href="https://www.facebook.com/continuamosaespera?fref=ts">Página de facebook da campanha</elo>			
+<elo href="http://popdesenvolvimento.org/continuamosaespera/">Página da campanha</elo>			
+<elo href="https://www.youtube.com/watch?v=1PqjfpmlEac">Spot da campanha</elo>			
+<elo href="http://www.youtube.com/watch?v=RI04mRSov_g">Catarina no "Bom Dia Portugal" (20/1/2014)</elo>			
+<elo href="http://www.youtube.com/watch?v=F4gFQdzk7E8">Catarina e Alice Frade no "Edição da Manhã" (16/1/2014)</elo>			
+<elo href="http://youtu.be/YM8vdaW7zZk">Alice Frade da P&amp;D Factor e Pedro Krupenski da Oikos no "Manhã Informativa" (20/1/2014)</elo>			
+<elo href="http://youtu.be/ejE0jG1-vNg">Alice Frade da P&amp;D Factor e Afonso Lagarto no "Agora Nós" (23/1/2015)</elo>			
+<elo href="cronicas_maxima.xml">Crónicas da Catarina para a revista Máxima</elo>
+
+</corpo>
+
+</pagina>

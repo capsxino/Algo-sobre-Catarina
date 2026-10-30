@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+a {
+	text-decoration: none;
+}
+body {
+	font-family: 'Merriweather Sans', sans-serif;
+	background-color:FloralWhite;
+	margin: 0;
+}
+#tituloTopo {
+	font-size: 3em;
+	text-align: center;
+	text-shadow: 0 0 30px white;
+	font-family: 'Londrina Solid', cursive;
+	color: navy;
+}
+#cronologia {
+	border-spacing: .5em;
+}
+#cronologia td {
+	padding: 0 .5em 0 .5em;
+	border: 1px solid lightpink;
+}
+#cronologia td:nth-child(1){
+		background-color: white;
+		white-space: nowrap;
+		font-weight: bold;
+		text-align: right;
+		font-size: .9em;
+		border-top-left-radius: .5em;
+		border-bottom-left-radius: .5em;
+		font-size: .9em;
+}
+#cronologia td:nth-child(2){
+		background-color: white;
+}
+#cronologia td:nth-child(3){
+		background-color: white;
+		max-width: 5em;
+		word-wrap: break-word;
+		border-top-right-radius: .5em;
+		border-bottom-right-radius: .5em;
+}

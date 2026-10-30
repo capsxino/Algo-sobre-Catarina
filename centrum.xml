@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Centrum</titulo>
+	<descricao>Publicidade</descricao>
+	<data><ano>2015</ano><mes>5</mes><dia>18</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-tGR-G1-qj78/VWA-WlZbhTI/AAAAAAAArdQ/lPwowE9q49c/s0/CatarinaFurtado_Centrum_2015_060000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://imagensdemarca.sapo.pt/atualidade/catarina-furtado-e-a-cara-da-nova-campanha-da-centrum/"></elo>
+<elo href="http://centrumvitaminas.com.pt/"></elo>
+<elo href="https://www.youtube.com/watch?v=00eqAMdPJkI">Centrum – Making of 2015</elo>
+<elo href="https://www.youtube.com/watch?v=3TvYglF1GBo">Centrum Homem - Marca de Confiança</elo>
+<elo href="https://www.youtube.com/watch?v=FLENBdYOtoE">Centrum Mulher - Marca de Confiança</elo>
+<elo href="https://www.youtube.com/watch?v=l3TTwKC9fdk">Centrum 50+ - Marca de Confiança</elo>
+<elo href="http://videos.sapo.pt/rveWg4eLleWuHbwAlJfV">Catarina Furtado fala sobre o seu estilo de vida</elo>
+<elo href="https://www.youtube.com/channel/UC_PTqtNIHgKKZzN_O9Eb0RA/videos"></elo>
+<elo href="http://www.briefing.pt/entrevistas/34796-a-centrum-tem-um-ponto-de-vista.html"></elo>
+
+<imagem href="ht-tps://www.youtube.com/watch?v=00eqAMdPJkI" legenda="Making of (2015)">https://lh3.googleusercontent.com/-XIAeS9Jv1mY/VWA-RrmIvYI/AAAAAAAArdI/xyEgVIdQkXI/s640/CatarinaFurtado_Centrum_2015_01x.gif</imagem>
+
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+Campanha iniciada no dia 18/5/2015
+Mesma agência da publicidade da CGD ?
+https://www.youtube.com/channel/UC_PTqtNIHgKKZzN_O9Eb0RA/videos
+-->

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="ccc_conferencias.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Primeira conferência da Associação Corações com Coroa</titulo>
+	<descricao>Primeira conferência da associação, sob o lema "As meninas e as mulheres em primeiro lugar."</descricao>
+	<data><ano>2012</ano><mes>11</mes><dia>7</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-7qm6-_Oh0U8/UUdC4Pdu5uI/AAAAAAAAOew/nQ1d2NElylI/s0/615646_114647225361610_1343649486_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="As meninas e as mulheres em primeiro lugar">
+
+<p>A apresentação pública e a primeira conferência da Associação Corações com Coroa, ocorreu no dia 7 de Novembro de 2012, no Pequeno Auditório da Culturgest, em Lisboa, sob o lema "As meninas e as mulheres em primeiro lugar."</p>
+
+<tabela titulo="Mesas da Conferência">
+	<tr>
+		<td>Mesa de Abertura<br />"Quem somos e para que existimos"</td>				
+		<td>Direcção da CCC:<br />Ana Magalhães<br />Ana Torres<br />Catarina Furtado</td>	
+	</tr>
+	<tr>
+		<td>Apresentação do Prémio CCC<br />"Corações Capazes de Construir"</td>				
+		<td>Catarina Furtado, Presidente da CCC<br />Nádia Reis, Representante da SONAE/MC</td>				
+	</tr>		
+	<tr>
+		<td>Mesa II<br />Acções com Coroa</td>				
+		<td>Maria Leonor Beleza, Presidente da Fundação Champalimaud<br />Alanna Armitage, Representante do UNFPA<br />Moderação: Catarina Furtado</td>				
+	</tr>	
+	<tr>
+		<td>Mesa III<br />As "Coroas" da Republica</td>
+		<td>D. Maria José Ritta<br />Drª Maria de Jesus Barroso<br />Drª Maria Manuel Eanes<br />Moderação: Catarina Furtado</td>	
+	</tr>	
+</tabela>
+
+<citacao href="http://www.vip.pt/55612a8/mod_artigos_link.aspx?objecto=24110" autor="Catarina" fonte="Vip">
+	<p>Este, para mim, é um dia único e histórico! É a concretização de um projeto que, no fundo, vem no seguimento de 12 anos a trabalhar para o Fundo das Nações Unidas para a População, de forma voluntária, como sabem, e também da recolha da realidade que é feita no terreno e que toca diretamente ao coração. As reportagens que tenho feito para os Príncipes do Nada, quer nos países em desenvolvimento, quer aqui em Portugal, no fundo, isto é o seguimento. Achei que, de alguma forma, esta era a minha missão na vida – porque é mesmo a missão da minha vida: estar atenta aos outros e poder contribuir com o meu lado mais mediático para a sociedade civil, para uma melhoria dos direitos humanos e da promoção da cidadania.</p><p>[...]</p><p>Passei a acreditar, porque muita gente me disse que confiava em mim e nas pessoas que tenho ao meu redor, que fazia sentido, mesmo nos tempos complicados que correm. Se desistirmos todos, o que vai ser do nosso País? Por isso, mesmo nesta altura mais complicada, achei que devia erguer a Corações com Coroa. A partir de hoje, neste dia histórico, é uma associação que está entregue à sociedade civil.</p>		
+</citacao>
+
+<elo href="SaberViver_Nov2012_01.xml">Entrevista à Catarina para a <cite>Saber Viver</cite></elo>
+<elo href="http://youtu.be/GuWpF-T2aIo">Conversa no «Portugal no Coração» (video)</elo>
+<elo href="http://mulher.sapo.pt/atualidade/noticias/artigo/catarina-furtado-lanca-associacao-de-apoio">Artigo no Portal Sapo Mulher</elo>
+<elo href="http://caras.sapo.pt/famosos/2012/11/27/catarina-furtado-a-coracoes-com-coroa-e-um-dos-meus-projetos-de-vida">Artigo da revista Caras</elo>
+<elo href="http://www.youtube.com/watch?v=gtUrguoAEVw">Reportagem do «5 Sentidos» da apresentação pública da CCC</elo>	
+<elo href="herman2012.xml">Conversa com a Catarina no "Herman 2012"</elo>
+<elo href="https://picasaweb.google.com/lh/photo/mnHpgej-bb_Bz-zP9bh3Fi6-SlhEwZ92ve_rio6iAU0?feat=directlink">Programa completo da conferência</elo>
+
+</bloco>
+
+<bloco titulo="O primeiro 'spot'">
+	<p>Na véspera da primeira conferência da Associação Corações com Coroa (que aconteceu no dia 7 de Novembro de 2012), a Catarina esteve no <i>talk-show</i> da RTP: <a href="5meianoite_20121106.xml">"5 Para a Meia-noite"</a>, onde apresentou, pela primeira vez, <i>spot</i> institucional da associação.</p>
+	<elo href="http://www.youtube.com/watch?v=KsoaPqNVTnc">O primeiro 'spot'</elo>
+	<p>A actriz Ana Padrão deu voz ao video, realizado pela Patrícia Sequeira (que, em 2010, realizou a série "Cidade Despida" protagonizada pela Catarina) e editado com uma ajuda da SP Televisão.</p>
+	<p>A Catarina escolheu o tema "Reflexos Movimento Circular", do amigo de adolescência Bernardo Sasseti, para sonorizar o <i>spot</i>.</p>
+	<imagem legenda="A Catarina com a Ana Padrão nos estúdios da SP Televisão" href="https://picasaweb.google.com/lh/photo/xIKnXGilaiDF2aB7wkUXKi6-SlhEwZ92ve_rio6iAU0?feat=embedwebsite">https://lh3.googleusercontent.com/-Z3gBa5gVfAw/UUdC4MW_mLI/AAAAAAAAOe4/DIGTy0ZaE8U/w400/CatarinaFurtado_CCC_20121101_664967_424271830961383_2139494354_o.jpg</imagem>
+</bloco>
+
+</corpo>
+
+</pagina>

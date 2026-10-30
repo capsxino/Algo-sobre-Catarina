@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Animal</titulo>
+	<descricao>Pequena participação num thriller protagonizado pelo Diogo Infante.</descricao>
+	<data><ano>2005</ano><mes>9</mes><dia>7</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-V10LGpiZ2wA/UXcTp80o-6I/AAAAAAAAO2c/GBR2KUIPb4A/s0/CatarinaFurtado_Animal_01.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Animal. Uma co-produção Inglesa, Francesa e Portuguesa. Com muitas cenas filmadas no nosso pais. Inicialmente o Diogo Infante teria um papel secundário mas no inicio da rodagem foi lhe atribuído um dos papeis principais, o do assassino em série. O Diogo sugeriu a Catarina para uma pequena participação no filme. Ela aparece nos créditos como <cite>mulher beijada</cite>. As pequenas participações da Catarina em cinema nunca foram boas. Nunca lhe permitiram desenvolver o seu potencial de atriz. Esta foi, na minha opinião, a menos notável.</p>
+
+<citacao autor="Diogo Infante" href="http://destakdiario.blogspot.pt/2005/09/entrevista-diogo-infante.html" fonte="Destak">
+	<p><small>Apesar da maior parte dos actores serem estrangeiros, existe um beijo a Catarina Furtado (que aparece como figurante). Como surgiu ela no filme, convidou-a?</small></p>
+	<p>Claro que sim. Essa cena foi inventada, no filme a realizadora queria que eu conseguisse escapar da perseguição que a polícia me fazia, e havia um artifício com que ela não estava contente e decidiu criar aquele beijo a uma figurante para despistar a polícia. Ela pensou isto na véspera de filmarmos a cena… (na Feira Popular). Eu disse-lhe que achava que não deveria de ser uma figurante, mas uma actriz, porque a cena embora não tenha texto tem uma densidade dramática muito grande e uma figurante pouco preparada podia ficar mal. Ela pediu-me para arranjar uma actriz muito bonita. Eu disse, "bonita só pode ser a Catarina". Telefonei-lhe e ela disse logo que sim.</p>
+</citacao>
+
+<elo href="http://www.imdb.com/title/tt0412412/">Página no IMDB</elo>					
+
+</corpo>
+
+</pagina>

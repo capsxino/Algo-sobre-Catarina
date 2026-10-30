@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Festa do Gil - Presentes por um Sonho</titulo>
+	<descricao>A RTP associa-se à Fundação Gil para levar um presente a mais de 55 mil crianças carenciadas.</descricao>
+	<data><ano>2004</ano><mes>12</mes><dia>22</dia></data>
+</cabecalho>
+
+<corpo>
+
+<p><cite>No dia 22 de Dezembro de 2004, a RTP associa-se à Fundação Gil para levar um presente a mais de 55 mil crianças carenciadas. O espírito de solidariedade vai invadir o centro Olga Cadaval, onde padrinhos bem conhecidos, vão realizar os sonhos de meninos hospitalizados.</cite></p>
+					
+<elo href="http://www.rtp.pt/programa/tv/p16375">Página RTP</elo>
+
+</corpo>
+
+</pagina>

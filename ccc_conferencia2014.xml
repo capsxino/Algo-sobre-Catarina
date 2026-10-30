@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="ccc_conferencias.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>3ª conferência da Associação Corações com Coroa</titulo>
+	<descricao>Direitos Negados - Vidas com Violência e Discriminação</descricao>
+	<data><ano>2014</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh4.googleusercontent.com/-DkVMU-c8VRc/VM0xNpx0xbI/AAAAAAAAq_4/QI8nw2UwLBI/s0/CatarinaFurtado_CCC_F3.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Direitos Negados - Vidas com Violência e Discriminação">
+
+<tabela titulo="Mesas da Conferência">
+	<tr>
+		<td>Mesa de Abertura</td>				
+		<td>Catarina Furtado, <i>Presidente da CCC</i><br />Carlos Monjardino, <i>Presidente da Fundação Oriente</i><br />Ana Paula Laborinho, <i>Presidente do Instituto da Cooperação de da Língua</i></td>			
+	</tr>
+	<tr>
+		<td>Quotidianos e Saberes</td>				
+		<td>Elisabete Brasil, <i>Jurista</i><br />João Redondo, <i>Psiquiatra</i><br />Margarida, <i>Testemunho</i><br />Catarina Furtado, <i>Moderadora</i></td>				
+	</tr>		
+	<tr>
+		<td>Tomar Partido</td>				
+		<td>Maria José Morgado, <i>Magistrada</i><br />Ricardo Araújo Pereira, <i>Humorista/Comentador</i><br />Catarina Furtado, <i>Moderadora</i></td>				
+	</tr>
+	<tr>
+		<td>Breve apresentação dos projectos da CCC e entrega dos diplomas do curso para o voluntariado</td>
+		<td>Catarina Furtado, <i>Presidente da CCC</i></td>			
+	</tr>
+	<tr>
+		<td>Cerimónia de entrega de Prémio Comunicação</td>
+		<td>Ana Torres, <i>Direcção da CCC</i><br />Ana Paula Laborinho, <i>Presidente do Instituto da Cooperação de da Língua</i><br />Nádia Reis, <i>Representante do Continente</i><br />Joana Gomes Ferreira, <i>Procuradora da República, Directora do Gabinete de Documentação e Direito Comparado/PGR</i><br />Vera Ávila, <i>Ministério dos Negócios Estrangeiros</i><br />Joaquim Furtado, <i>Jornalista e Presidente do Júri</i></td>	
+	</tr>	
+</tabela>
+
+<elo href="http://www.sabado.pt/Multimedia/FOTOS/Sociedade/RAP---Ha-poucas-mulheres-na-comedia%E2%80%9D.aspx">Artigo da revista Sábado</elo>
+<elo href="http://www.maxima.xl.pt/celebridades/21498-pr%C3%A9mios-comunica%C3%A7%C3%A3o-cora%C3%A7%C3%B5es-capazes-de-construir-2014.html">Reportagem da revista Máxima</elo>
+<elo href="http://youtu.be/tZQFgXR5AyA">Reportagem do Só Visto!</elo>
+<elo href="http://observador.pt/episodio/coracoes-com-coroa-pela-igualdade-de-direitos/">Reportagem d'O Observador</elo>
+<elo href="https://picasaweb.google.com/lh/photo/rWwLYrnE90MnhYOPsRYS8xJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da revista Nova Gente</elo>
+<elo href="https://www.youtube.com/watch?v=PrggDHdcnA">Reportagem "Rumos"</elo>
+<elo href="https://www.youtube.com/watch?v=1jB_SUakBuM">Uma conversa no "Agora Nós" sobre violência doméstica</elo>
+
+</bloco>
+
+<bloco titulo="Atribuição do Prémio Comunicação 2014">
+
+<elo href="http://www.plataformaongd.pt/noticias/noticia.aspx?id=645">Descrição, candidatura e regulamento</elo>
+<elo href="https://picasaweb.google.com/lh/photo/xeXz0k_MvCVLhNeauaLEPC6-SlhEwZ92ve_rio6iAU0?feat=directlink">Texto de introdução à atribuição do 1º Prémio Comunicação</elo>			
+<elo href="http://www.briefing.pt/entrevistas/30024-a-catarina-quer-que-se-fale-mais-de-direitos-humanos.html">Entrevista para a Briefing</elo>
+
+</bloco>
+
+</corpo>
+
+</pagina>
+
+<!-- 
+"Em dois anos e meio, ainda não temos suporte financeiro para ter uma pessoa a tempo inteiro mas temos uma pessoa a meio tempo que faz toda a parte burocrática." 17/11/2014
+-->

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Chichi Cama</titulo>
+	<descricao>Letra para música do Avô Cantigas</descricao>
+	<data><ano>2002</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Chichi Cama</nome>
+	<nome titulo="Interpretação">Avô Cantigas (Carlos Alberto Vidal)</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Álbum">É Bom Ser Assim</nome>
+	<nome titulo="Ano">2000</nome>
+</creditos>
+
+<p>Em 2002, aceita o desafio para escrever uma letra infantil para o Avô Cantigas ( Carlos Alberto Vidal ). A canção “Chichi Cama”, com música do João Gil, reporta a sua infância ou a de todas as crianças que não querem ir dormir. É da Catarina a voz da mãe que na canção diz : “São horas meu filho. Lavar os dentes!”. O tema está incluído no álbum "É Bom Ser Assim".</p>
+
+<letra titulo="Chichi Cama">
+	Gostava de saber tudo muito depressa,<br />
+	Coisas do mundo daquelas que até os pais desconhecem.<br />
+	Gostava que o saber estivesse no leite com chocolate<br />
+	e grandes bolos de respostas a todos os porquês.<br />
+	<br />
+	Cheguem-se para lá duvidas<br />
+	que ficam feias nos meus sonhos<br />
+	e distraem os pensamentos.<br />
+	<br />
+	<div style="text-align:right;">
+	<u>REFRÃO :</u><br />
+	Estou na idade dos porquês!<br />
+	Estou na idade dos porquês!<br />
+	Estou na idade dos porquês!<br />
+	Estou na idade dos porquês!<br />
+	<br />
+	E a mãe o que é que diz?<br />
+	E a mãe o que é que diz?<br />
+	<br />
+	São horas meu filho!<br />
+	São horas meu filho!<br />
+	Lavar os dentes!<br />
+	Lavar os dentes!<br />
+	<br />
+	Chichi, Cama!<br />
+	Chichi, Cama!<br />
+	Chichi, Cama!<br />
+	</div>
+	<br />
+	Prometo comer tudo, tudo, tudo,<br />
+	se assim entender para que servem os pesadelos.<br />
+	Prometo fazer todos, todos, os deveres<br />
+	se assim entender como nascem as lágrimas.<br />
+	<br />
+	<div style="text-align:right;">
+	(REFRÃO)<br />
+	</div>
+	<br />
+	Só tenho medo de ficar triste<br />
+	quando souber tudo<br />
+	e não faltar mais nada por saber.<br />
+	<br />
+	<div style="text-align:right;">
+	(REFRÃO)<br />
+	</div>
+	<br />
+	Estou na idade dos porquês.<br />
+</letra>
+
+<grande><elo href="https://www.youtube.com/watch?v=QwgYsimAW7U">Avô Cantigas - 30 Anos " É Bom Sonhar"</elo></grande>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="teatro.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>A Bela Adormecida</titulo>
+	<descricao>Bailado</descricao>
+	<data><ano>2000</ano><mes>1</mes><dia>21</dia></data>
+	<data><ano>2000</ano><mes>1</mes><dia>30</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Nos dias 21, 21, 27, 28 e 30 de Janeiro, a Companhia Nacional de Bailado apresentou uma versão reduzida da "Bela Adormecida". A apresentação coube à Catarina Furtado.</p>
+<p>A Catarina vestiu o figurino de Carabosse, a Fada Má.</p>
+
+<elo href="http://www.publico.pt/cultura/jornal/de-princesa-a-fada-ma-138967">Artigo do Jornal Publico</elo>	
+
+<imagem href="https://picasaweb.google.com/lh/photo/4lkl96AR7NE6eJd7DTnoa9keAnMT9DCE5SZaAegvXt8?feat=embedwebsite">https://lh3.googleusercontent.com/-G2QQ4Mwq6fg/UWFn2GYdOsI/AAAAAAAAOq8/faAO8d5Nq_E/s400/BelaAdormecida_2012000771.jpg</imagem>	
+
+</corpo>
+
+</pagina>

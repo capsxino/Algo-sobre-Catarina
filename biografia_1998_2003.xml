@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Actriz e os últimos anos na SIC</titulo>
+	<descricao></descricao>
+	<data><ano>1998</ano><mes></mes><dia></dia></data>
+	<data><ano>2003</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 14 de Dezembro de 2002, ia para o ar o último "Catarina.com", e a Sic, sob a Direcção de Programas de Manuel da Fonseca, anunciava a não renovação do contracto com a estação. Foi um desatar de laços amigável e com votos mútuos de sucesso.</p>
+<p>Ao mesmo tempo a RTP confirmava a contratação da apresentadora. A Catarina estava a filmar a longa-metragem "Maria e as Outras" e só em Fevereiro começaria a trabalhar na RTP, no programa "Operação Triunfo". Na RTP já não encontraria Emídio Rangel que negociou o formato mas o novo Director de Programas Luiz Andrade e o Director Adjunto Nuno Santos. O Luiz dirá, na hora da sua despedida da casa onde sempre trabalhou, que um dos seus orgulhos profissionais foi ter trazido a Catarina para a RTP.</p>
+
+<citacao href="revista_cosmopolitan_outubro2000.xml" fonte="Cosmopolitan" ano="2000">
+	<p>Acompanhei desde cedo, lá em casa, as reportagens que o meu pai fazia, mas o que sempre me seduziu era ser jornalista para contar histórias. Gosto da sociedade, do ser humano, das diferenças entre as culturas. Arte não, não é por aí. É o que varia de cultura para cultura e formas de estar. Se em Portugal, talvez por ser um país ainda muito fechado, as pessoas não estão muito habituadas a ver uma pessoa que faça muitas coisas e diversifique a sua carreira, acho que dentro da área em que estou posso contar histórias, sem ser jornalista.</p>	
+</citacao>
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p><small>Quando fez a 'Ganância' ainda estava em lua-de-mel com a SIC?.</small></p>
+	<p>Sim. Só no último ano é que as coisas correram mal. O Rangel já tinha saído e à frente da programação estava o Manuel Fonseca. O esfriar da relação teve que ver com um mudança estratégica em termos de conteúdos. Não me identificava com aquele caminho. Estava a apresentar o 'Catarina.com' e o conteúdo do programa começava a não ter nada que ver comigo.</p>	
+</citacao>
+
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/rtp-paga-a-catarina-15-mil-euros-por-mes">RTP paga a Catarina 15 mil euros por mês (artigo do Correio da Manhã)</elo>
+
+</corpo>
+
+</pagina>
+
+<!-- Apontamentos
+Eu sou actriz - revista_seleccoes_2001.html
+*****
+os ultimos caps que tenho na sic sao da cat.com em 14/12/2002
+os primeiros caps que tenho da cat.com sao do dia 29/6/2002
+SIC e Catarina Furtado confirmaram, em comunicado, a não renovação de contrato que vai levar a apresenatdora para a RTP, como o CM noticiou. A SIC formulou “os melhores votos para o futuro de Catarina Furtado”, que sai do canal sem nenhum contencioso. Por seu turno, a apresentadora “deseja à SIC e a todos os que nela trabalham as maiores felicidades com um abraço de gratidão e amizade”. Manuel da Fonseca, director de programas, elogiou o trabalho de Catarina.
+-->

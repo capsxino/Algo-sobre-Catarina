@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Circo de Natal da RTP</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<incorporar>circodenataldartp2010.xml</incorporar>
+<incorporar>circodenataldartp2011.xml</incorporar>
+<incorporar>circodenataldartp2012.xml</incorporar>
+<incorporar>circodenataldartp2013.xml</incorporar>
+<incorporar>circodenataldartp2014.xml</incorporar>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/CircoDeNatalDaRTP?authuser=0&amp;authkey=Gv1sRgCI3L0OLxgcq0AQ&amp;feat=directlink">Galeria de fotogramas</elo><elo href="https://picasaweb.google.com/116136255703077903546/CircoDeNatalDaRTP?authuser=0&amp;authkey=Gv1sRgCI3L0OLxgcq0AQ&amp;feat=directlink">Galeria de imagens</elo></grande>
+
+</corpo>
+
+</pagina>

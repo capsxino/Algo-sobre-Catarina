@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="coracoescomcoroa.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Conferências da Associação Corações com Coroa</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Conferências anuais">
+	<arvore poda="ccc_conferencias.xml" ordem="data"/>
+</bloco>
+
+<bloco titulo="Prémio Comunicação 'Corações Capazes de Construir'">
+	<p>Anunciado na primeira conferência da CCC, em 2012, o prémio visa distinguir trabalhos de comunicação na aérea dos direitos humanos. Divide-se em duas categorias, de Jornalismo e de Campanha, que concorrem separadamente. O prémio é atribuído em parceria com a SONAE MC (Modelo/Continente).</p>
+	<p><cite>O Prémio Comunicação Corações Capazes de Construir resulta de uma parceria com a SONAE/MC e visa distinguir trabalhos de comunicação (Televisão, Rádio, Imprensa) que se destaquem na promoção do conhecimento, informação, sensibilização e protecção dos Direitos Humanos numa perspectiva de igualdade de direitos e oportunidades, bem como de inclusão social e no contexto dos Objectivos de Desenvolvimento do Milénio.</cite></p>
+	<elo href="http://www.coracoescomcoroa.org/projectos/premio-comunicacao-2/">Sobre o prémio no sitio da CCC</elo>
+	<p><cite>Estamos convictos de que o Prémio Comunicação CCC irá continuar ano após ano, não só para apoiar e dignificar este tipo de trabalhos, como também para colocar na ordem do dias nas agendas dos media as temáticas com que a Corações com Coroa, Associação sem fins lucrativos e ONG de Desenvolvimento se debate, diariamente, e às quais se dedica no terreno, ajudando a criar uma consciencialização da importância da igualdade de oportunidades para a construção de uma sociedade mais justa, saudável e produtiva.</cite></p>
+	<elo href="https://picasaweb.google.com/lh/photo/xeXz0k_MvCVLhNeauaLEPC6-SlhEwZ92ve_rio6iAU0?feat=directlink">Folheto da conferência da CCC em 2013</elo>
+</bloco>
+
+<bloco titulo="Direitos Humanos e Desenvolvimento - o lugar da investigação e acção académica">
+	<p>No dia 17 de Dezembro de 2013, o Instituto Superior de Ciências Sociais e Políticas da Universidade Técnica de Lisboa acolheu a conferência "Direitos Humanos e Desenvolvimento - o lugar da investigação e acção académica". Foi apresentada a investigação em antropologia sobre histórias de vida de jovens mulheres ("Histórias de vida de meninas e mulheres em situação de vulnerabilidade social e risco, nas freguesias de vizinhança da CCC"), um dos estudos resultante de estágios académicos na Corações com Coroa. Um segundo estudo, na área dos serviços sociais, também enquadrado por um protocolo entre a associação e o ISCSP, estava, à data, em fase de conclusão. Na conferência estiveram presentes a antropóloga Alice Frade e a actriz/apresentadora Cláudia Semedo na função de moderadoras.</p>
+	<elo href="https://www.facebook.com/photo.php?fbid=597099403678624">Mensagem no facebook</elo>
+</bloco>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Porque Cada Pessoa Conta</titulo>
+	<descricao>Uma biografia da Catarina Furtado, feita pelo canal Bio.</descricao>
+	<data><ano>2009</ano>2<mes></mes><dia>25</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao>Gosto de pessoas. Gosto de descobrir pessoas.</citacao>
+
+<p>Aos 36 anos - a Catarina achou cedo - o canal de televisão por cabo <i>Bio</i> sugeriu-lhe contar a sua vida em 50 minutos. Sete meses depois concretizou-se, sem grandes revelações, sem segredos. O documentário não é tanto um registo da sua carreira como um registo dos acontecimentos que a definiram e dos depoimentos das pessoas que a acompanharam. </p>
+<p>Não começa com : «Catarina Cardoso Garcia da Fonseca Furtado, nasceu em Lisboa, no dia 25 de Agosto de 1972»... Começa no Conservatório Nacional. Começa na primeira pessoa com a Catarina a contar como esse sitio a moldou. Descobrimos o que levou os pais a inscreverem-na naquela escola... Lembra-nos do <i>Chuva de Estrelas</i>. O programa de televisão que a tornou figura pública querida e reconhecida. Mas depressa o documentário percorre os 17 anos de carreira para dedicar quase metade do tempo à atividade como Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População. Missão que a Catarina abraçou em 2001.</p>
+<p>A biografia estreou no dia 25 de Fevereiro de 2009. Foi apresentada à imprensa no Salão de Inverno do Teatro São Luiz, onde a Catarina deu um sentido ao documentário : um agradecimento a quem fez este percurso com ela.</p>
+
+<imagem>http://i44.tinypic.com/24g99cl.gif</imagem>
+
+<citacao href="http://www.dn.pt/inicio/tv/interior.aspx?content_id=1142658" fonte="Diário de Notícias"><p>No início, o programa ia incidir sobre a minha vida profissional na televisão, já que comecei a trabalhar aos 19 anos, mas depois de conversarmos o foco mudou para o acompanhamento da minha ida à Guiné-Bissau.</p></citacao>
+<citacao autor="A mãe recorda a infância da Catarina" href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/estou-numa-boa-fase" fonte="Correio da Manhã"><p>Em criança nunca me deu trabalho, mas não era sossegada. Era traquinas e cheia de vida.</p></citacao>
+<citacao href="http://www.destak.pt/artigo/22544" fonte="Destak"><p>À minha mãe, que me mostrou a diferença e me ensinou que cada pessoa conta; ao meu pai, pela exigência, pelo sentido de responsabilidade e por nunca me deixar fazer as coisas com leviandade; à minha mana, por existir; à tia Luísa pelo açúcar que põe na minha vida; ao meu João, pelo nosso amor; e aos meus filhos porque, que desperdício que era a minha vida antes de os ter!</p></citacao>
+<citacao autor="João Reis" href="http://caras.sapo.pt/famosos/2009/02/18/catarina-furtado-agradece-a-familia-sou-uma-privilegiada" fonte="Caras"><p>Ela é muito mais bem-disposta do que eu, muito exigente, perfeccionista, e com uma capacidade de relação com os outros extraordinária. Como mãe e mulher é extraordinária, fora de série.</p></citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/ICwP-wtVoCpVPcQ3Za6wHtC6-SfFC8nBYpPoKjS7EPA?feat=directlink" fonte="Flash" ano="2009">
+	<p>É sempre comovente quando ouvimos as pessoas de quem gostamos falarem sobre nós.</p>
+</citacao>
+
+<creditos>
+	<nome titulo="Autoria">Alexandrina Pereira, Rui Pinto de Almeida</nome>
+	<nome titulo="Intervenientes">Catarina Furtado, Diogo Infante (o "irmão"), Guy de Araújo (do UNFPA), Helena Furtado (a Mãe), Isabel Sousa (a professora do Conservatório), João Reis (o marido), Joaquim Furtado (o Pai), Marta Furtado (a irmã), Rui Calapez (o agente), Rita Fernandes (a amiga de Londres), Rita Judas (a colega do Conservatório)</nome>
+	<nome titulo="Estreou dia">25 de Feveiro</nome>
+</creditos>
+
+<grande><elo href="http://www.youtube.com/watch?v=-Wfn51jNN88">O documentário completo</elo></grande>
+<elo href="http://www.youtube.com/watch?v=2N-pGCenAFM">Reportagem do <cite>Só Visto!</cite> na apresentação do documentário</elo>
+<elo href="http://fama.sapo.pt/fotogaleria/catarina-furtado-abre-o-livro-da-sua-vida">Foto-reportagem do <cite>Sapo Fama</cite> na apresentação do documentário</elo>
+
+</corpo>
+
+</pagina>

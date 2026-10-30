@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="inicio.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Associação Corações com Coroa</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+	
+<bloco titulo="A Corações com Coroa">
+
+	<imagem href="https://picasaweb.google.com/lh/photo/jQkqCnBahxdOR9-Bm1SMaS6-SlhEwZ92ve_rio6iAU0?feat=embedwebsite">https://lh3.googleusercontent.com/-sTgv5W42Duk/Ulzyyq40TtI/AAAAAAAAREQ/JUt9MUXpaRs/w400/CatarinaFurtado_QuandoForGrande_040000.jpg</imagem>
+	
+	<citacao href="http://www.coracoescomcoroa.org/" autor="Declaração de intenções da" fonte="Corações com Coroa" ano="2012">
+		<del>
+		<p>A Associação Corações com Coroa nasce em 2012 através um conjunto de vontades com disponibilidade e entrega para concretizar projectos que correspondam a necessidades identificadas.</p>
+		<p>A CCC rege-se pelos princípios da Igualdade de cada uma e de todas as pessoas nomeadamente no âmbito da Educação, Saúde, Desenvolvimento e Direitos Humanos; princípios garantidos numa base de transparência e coerência que temos como referência.</p>
+		<p>"Corações com Coroa" é uma associação sem fins lucrativos que tem como objectivo central promover uma cultura de solidariedade e inclusão sócio-afectiva das pessoas em situações de vulnerabilidade, risco e pobreza e assim contribuir para que em Portugal se promova e vivencie uma cultura de Direitos Humanos assente na Não discriminação e Não violência.</p>
+		<p>Sabemos que há, em Portugal, espaço para a nossa actuação no que diz respeito à Igualdade, nomeadamente em matéria de género: meninas, jovens e mulheres.</p>
+		<p><b>As crianças, as jovens e as mulheres vivem as maiores vulnerabilidades e as realidades denunciam situações de discriminação e pobreza.</b></p>
+		<p>Quando as mulheres são saudáveis, existem benefícios noutras áreas de desenvolvimento humano, incluindo a redução da pobreza, educação e sustentabilidade de recursos naturais.</p>
+		<p>Um planeta e uma economia mais sustentável, uma sociedade mais justa  englobam a necessária promoção da igualdade social e redução da exclusão.</p>
+		</del>
+		<p>Sabemos que os programas de inclusão e promoção com base no género, contrariam os dados actuais observados, e produzem a médio e longo prazo, resultados positivos de Desenvolvimento Humano.</p>
+		<del>
+		<p>A Igualdade de Género é uma estratégia eficaz para combater a pobreza e a exclusão social.</p>
+		<p>Na "Corações com Coroa" acreditamos que, ao informar, comunicar e partilhar com base nos princípios que nos unem, estamos a apoiar e a investir na Igualdade de Oportunidades.</p>
+	 	<p>A responsabilidade social implica saber mais, fazer melhor, empoderar e apoiar.</p>
+		<p>Queremos promover respostas sociais que ajudem a prevenir e a contrariar a exclusão das crianças, jovens, mulheres e apoiar mães que, por força das circunstâncias, não consigam assegurar aos seus filhos e filhas, uma educação completa que os estimule e prepare para o futuro.</p>
+		<p>A Associação "Corações com Coroa" pretende desenvolver uma forte componente de prevenção mas também de actuação directa que contribua para a resolução de problemas e/ou redução de riscos.</p>
+		<p>Existem realidades para as quais queremos ajudar a encontrar respostas. Realidades que conhecemos porque nos cruzamos nos nossos espaços de actuação mas também porque nos chegam através de pessoas individuais, juntas de freguesia e autarquias, escolas, profissionais, ONG e amigos.</p>
+		<p>Acreditamos na intervenção social, no trabalho em rede e nas parcerias por isso queremos articular com outras instituições que estejam no terreno e com quem poderemos funcionar em complementaridade.</p>
+		<p>No primeiro ano a "Corações com Coroa" vai dedicar-se sobretudo à dimensão da igualdade de oportunidades para que um maior número de crianças, jovens e adultos, enquanto pessoas únicas, sejam actores de mudança e responsabilidade para o desenvolvimento do nosso país e do mundo.</p>
+	    <p>Queremos provocar vontades, abanar consciências, promover as pessoas a quem iremos dar apoio e acompanhar na construção de um roteiro de vida, com inclusão, igualdade e cidadania, com base na procura de trabalho digno, na tomada de consciência dos seus direitos, no combate à discriminação e violência, na promoção da educação,  da saúde e da capacitação de estímulos.</p>
+		<p><b>A CCC não pretende ser uma Associação caritativa, no sentido de se transformar num banco de bens mas antes, quer crescer como uma Associação de apoio e de intervenção social.</b></p>
+		<p>Somos um banco de muitas vontades e saberes que está agora a nascer. Contamos ser capazes de mobilizar apoios e voluntariado para que possamos existir e ajudar a existência de outros.</p>
+		<p>Estamos a formar  grupos de trabalho e reflexão, com pessoas voluntárias que vêm de áreas diferentes como a Educação, a Saúde, o Desenvolvimento e outras que irão trabalhar connosco para apurar estratégias eficazes contra as vulnerabilidades,  a desigualdade social e a pobreza.</p>
+		</del>
+	</citacao>
+		
+	<citacao href="revista_maxima_dezembro2013.xml" autor="Catarina" fonte="Máxima" ano="2013">
+		<p>Passámos muito tempo no terreno, dentro das comunidades. Conseguimos perceber como é que as pessoas vivem. Tudo isso fez com que fosse natural que, ao regressar a Portugal, quisesse dar uma continuação a esse trabalho. Isto também coincidiu com um ano em que tive menos trabalho visível na RTP, o que me deu a oportunidade de pensar com calma na possibilidade de criar uma associação sem fins lucrativos. Teria de o fazer sempre com pessoas da minha inteira confiança porque se houve uma coisa de que me apercebi neste meio das ONG's e das Associações Sem Fins Lucrativos é que há pessoas sérias a fazer um trabalho meritório... mas também há outras que não o fazem. Por tudo isto, só faria sentido se a minha associação tivesse como princípio básico a questão da transparência. Sendo eu uma figura pública e tendo uma vida privilegiada, jamais poria em causa, de forma leviana, aquele que é o meu maior património, a minha carreira, seja ela considerada como for, mas que já tem 22 anos. Acho que tenho uma imagem de seriedade e de profissionalismo e, por isso mesmo, nunca deixaria que essa imagem fosse beliscada por alguma suspeita.</p>
+	</citacao>
+		
+</bloco>
+
+<bloco titulo="A Equipa e os Voluntários">
+
+	<imagem legenda="Ana Torres, Catarina Furtado, Alice Frade, Ana Magalhães e Sara Martins na 2ª conferência da CCC" href="https://picasaweb.google.com/lh/photo/dIgqKOl_n0Jyq1EQEtpani6-SlhEwZ92ve_rio6iAU0?feat=embedwebsite">https://lh3.googleusercontent.com/-G06QP5QG43k/Us_xK9lgLnI/AAAAAAAAUHw/W5mutokT5w4/w400/CatarinaFurtado_CCC_20131015_557233_569056589816239_344333018_n.jpg></imagem>
+
+	<citacao href="revista_maxima_dezembro2013.xml" autor="Catarina" fonte="Máxima" ano="2013">
+		<p>Tem sido um trabalho pós-laboral porque é e será sempre voluntário. Há muita coisa que é feita à noite porque todas nós temos as nossas profissões e somos as três que desenhamos os projetos. Depois cabe-me a mim a função de encontrar apoio financeiro para os concretizar. Num ano, já muito foi feito. Este mês vamos dar o nosso primeiro ordenado, temos uma pessoa a trabalhar connosco a tempo inteiro e assim podemos abrir a porta todos os dias.</p>	
+	</citacao>
+			
+<!--
+CATARINA FURTADO
+Direcção
+
+Catarina Furtado, apresentadora, actriz e documentarista. Fundadora e Presidente da Associação Corações com Coroa.
+
+Na continuidade da sua experiência enquanto Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População (UNFPA) desde 2000, em 2012 cria a CCC. É co-autora de três séries documentais  “Príncipes do Nada” e também dos quatro documentários “Dar Vida sem Morrer” na Guiné Bissau.
+
+Em 2010 foi convidada pelo Secretário Geral das Nações Unidas, Ban Ki-moon para participar como Oradora na Cimeira do Milénio em Nova Iorque  enquanto “Campeã dos ODM” e na Abertura Oficial do Ano Internacional da Juventude. Desde 2000 tem sido Oradora convidada na Apresentação Pública do Relatório sobre o Estado da População Mundial, na Assembleia da República e Ministério dos Negócios Estrangeiros.
+
+Ao longo destes anos tem sido inúmeras vezes convidada a participar em iniciativas de Educação para o Desenvolvimento, Educação para a Cidadania e Advocacy no  Parlamento, Escolas, Universidades, ONG, Associações de Empresas e tem feito muitas visitas de trabalho a países em desenvolvimento e participações em reuniões internacionais.
+
+ANA MAGALHÃES
+Direcção
+
+Depois da Licenciatura em Gestão de Recursos Humanos e Psicologia do Trabalho, no ISLA/1996 e da Pós-graduação em Comunicação e Imagem no IADE/2002, fez o Curso de Joalharia na Escola Contacto Directo e frequentou o Curso Profissional de Formação de Actores na ACT – Escola de Actores.
+
+Da experiência profissional gosta de referir que além de sócia fundadora da Cafetaria e Galeria Love Store, também foi sócia fundadora do atelier Lua de Luz. De 1999 a 2004 foi responsável pela Direcção do Gabinete de Comunicação e Imagem, e Coordenadora da área de Recursos Humanos da Auto-Estradas do Atlântico S.A. e de 1996 a 1999, Coordenadora do Planeamento e Desenvolvimento Estratégico de Recursos Humanos, da Bento Pedroso Construções S.A. (Grupo Odebrecht).
+
+Para além da Direcção da Associação Corações com Coroa, que ajudou a fundar em Janeiro de 2012, a nível associativo integrou entre 1998 e 2006 a Direcção Nacional da Associação Portuguesa de Gestores e Técnicos de Recursos Humanos, em representação da qual integrou o Júri do Prémio “Igualdade é Qualidade” promovido pela CITE – Comissão para a igualdade no trabalho e emprego.
+
+ANA TORRES
+Direcção
+
+Infância feliz repleta de afectos de pais, irmãos, avós, bisavós, tios e primos.
+Adolescência feliz com professores extraordinários. Juventude feliz com o despertar de uma revolução. 28 anos de vida profissional muito gratificante, ligada à televisão, cinema e teatro.
+Actualmente ligada à responsabilidade social através da Associação Corações com Coroa.
+Em 2014 voltou à produção de televisão que concilia com o voluntariado.
+
+ALICE FRADE
+
+OUTROS
+2015
+Assembleia Geral
+
+Ana Lúcia Valente
+Secretária
+
+Bela Branquinho
+Presidente
+
+Conselho Fiscal
+
+João Reis
+Vogal
+
+André Riscado
+Vogal
+
+Rui Calapez
+Presidente
+
+Técnico Oficial de Contas da Associação
+
+Joaquim Costa Lima
+HippValue
+
+A Sara Martins é coordenadora de projectos da CCC / anunciado na 2ª conferencia CCC
+-->
+</bloco>
+
+<!-- HISTORIAL -->
+<bloco titulo="Historial">
+
+	<bloco titulo="Inauguração da sede">	
+	
+		<p>Em 2012, a Câmara Municipal de Lisboa cedeu a antiga Casa do Porteiro da <a href="http://revelarlx.cm-lisboa.pt/gca/?id=1003">Biblioteca Municipal de Belém</a> para a instalação da sede da Associação Corações com Coroa; a Junta de Freguesia de Santa Maria de Belém ajudou na recuperação do espaço.</p>
+		<p>Situada num edifício lateral à biblioteca, na Rua da Junqueira, é parte do antigo Palácio dos Marqueses de Angeja; um espaço modesto, de características residenciais. Depois de obras de reabilitação a pequena equipa fundadora da CCC começou reunir-se no local em Setembro de 2012. A casa, de tecto alto e fria, depressa ganhou calor e cor com as pessoas e os pequenos objectos que foram ocupando o espaço (muitos corações) como o desenho feito pela Beatriz pendurado numa das paredes; como as canecas de chá na pia da cozinha antiga que acompanharam uma reunião tardia.</p>
+		<p>Por volta do meio-dia, 4 de Fevereiro de 2013, num dia soalheiro de inverno, em frente à nova sede, com dezenas de pessoas presentes, foi assinado o protocolo entre a associação e o município, pela mão da Catarina Furtado e do Presidente da Câmara de Lisboa António Costa.</p>
+		
+		<imagem href="https://picasaweb.google.com/lh/photo/j4kn7QiSvUYUe0qUj8K1pi6-SlhEwZ92ve_rio6iAU0?feat=embedwebsite">https://lh3.googleusercontent.com/-Hwr94QfIW4E/UUdC5mGtVUI/AAAAAAAAOfA/5a4Y4lU_qSc/w400/CatarinaFurtado_CCC_54875_112767708882895_1579458476_o.jpg</imagem>	
+	
+		<elo href="http://www.youtube.com/watch?v=Do_X-vh7huQ">Reportagem Tv do «Portugal em Direto»</elo>
+		<elo href="https://soundcloud.com/jorge-capsxino/inaugura-o-da-sede-da-ccc">Reportagem Rádio do «Portugal em Direto»</elo>
+		<elo href="http://videos.sapo.pt/1JFoZ0Oe2b7AuzVS537Z">Reportagem Caras Tv</elo>
+		<elo href="https://picasaweb.google.com/lh/photo/tiREQv8yrLnAdoRQf7zcrhOXbgRy0ABb-_jzPRB_IaE?feat=directlink">Artigo da revista Caras</elo>
+		<elo href="http://www.cm-lisboa.pt/noticias/detalhe/article/inauguracao-da-sede-da-associacao-coracoes-com-coroa">Reportagem do sitio da C.M.L.</elo>
+		<elo href="https://soundcloud.com/jorge-capsxino/catarina-furtado-presidente-da">Entrevistada para o programa de rádio Lusófonias</elo>
+		
+	</bloco>
+	
+	<incorporar>ccc_cronologia.xml</incorporar>
+	
+</bloco>
+
+<!-- PROJECTOS -->
+<bloco titulo="Projectos">
+	
+<bloco titulo="Corações XXL">
+
+	<p>Através parceria tripartida entre a Corações com Coroa, a <a href="http://jf-belem.pt/index.php?option=com_content&amp;view=article&amp;id=232:coracoes-com-coroa-ccc&amp;catid=36:caixa-destaque">Junta de Freguesia de Belém</a> e a Enfermeira Cristina Flores, nasce o projecto Corações XXL. <q>O seu objectivo é proporcionar a mães e pais em situação de vulnerabilidade social, o acesso a um conjunto de actividades que contribuam para a construção de uma Maternidade plena</q>, através de <q>cursos de preparação pré e pós-parto, workshops, aulas abertas e distribuição gratuita de informação.</q></p>
+	<p>Em Dezembro de 2013, o Corações XXL muda-se para novas instalações no Centro Social "Os Moinhos", localizado no Bairro de Caselas. As mães e pais que frequentam os cursos são indicados pela Junta de Freguesia de Belém ou pela associação. O projecto é coordenado pela Enfermeira Cristina Flores que tem larga experiência nessa área, dirigindo há vários anos o <a href="http://www.clubebarrigasxxl.pt/">Clube Barrigas XXL</a> com sede em Cascais, onde também tem apoiado novos pais sem possibilidade monetária de acesso aos cursos. A ligação da Catarina Furtado à enfermeira já é longa: acompanhou a gravidez dela, quando esperava o nascimento dos filhos Beatriz e João; e ela é assídua no apoio aos projectos da Cristina Flores em Cascais.</p>
+
+	<elo href="http://www.coracoescomcoroa.org/projectos/coracoes-xxl/">Informação no sitio da CCC</elo>		
+
+</bloco>
+
+<incorporar>ccc_bolsas.xml</incorporar>
+
+<bloco titulo="Apoio Psicológico">
+	<p>A partir do dia 21 de Agosto de 2013, a sede da CCC abre as portas todas as quartas-feiras para atendimento gratuito com a psicóloga voluntária Diana Cruz. Esta primeira fase de atendimento tem como destinatárias jovens raparigas e mulheres.</p>
+	<elo href="https://www.facebook.com/photo.php?fbid=545385878849977&amp;set=a.313684028686831.79505.256405387748029&amp;type=1">Mensagem no facebook</elo>
+</bloco>
+
+<bloco titulo="Curso de Formação para o Voluntariado">
+	<p>A associação realizou, na sua sede em Belém, do dia 15 de Setembro ao 2 de Outubro, a primeira edição do Curso de Formação de Voluntariado. Dirigida a 20 pessoas, com uma duração de 72 horas, repartidas por 11 módulos, a formação pretende capacitar voluntários para responder às necessidades identificadas no quadro da missão da CCC. Os certificados de conclusão do curso foram atribuídos durante a 3ª conferência da associação.</p>
+	<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/371058756387121/?type=1">Uma fotografia de final de curso (2014)</elo>			
+	<elo href="http://lifestyle.sapo.pt/vida-e-carreira/em-foco/artigos/associacao-de-catarina-furtado-realiza-curso-de-formacao-de-voluntariado?r=mulher.sapo.pt">Artigo Sapo Lifestyle (2014)</elo>			
+</bloco>
+
+<bloco titulo="Outros Projectos">
+	<p>A CCC foi co-produtora, com a a <a href="http://www.plano6.pt/tesourodtdm.htm">Plano 6</a>, da peça de teatro infantil "Um Tesouro do Tamanho do Mundo". Estreou no dia 18 de Outubro de 2014, no Teatro Tivoli BBVA, em Lisboa, onde esteve até ao final de Fevereiro. É a história da aventura dos primos Miguel e Matilde pelo mundo, com quem conhecemos e aprendemos a respeitar os costumes dos diferentes povos. <cite>Ana Rangel, autora do texto, não terá deixado ao acaso o facto da personagem que os aventureiros  encontram</cite>, quando passam por Moçambique, <cite>se chamar Catarina, uma jovem europeia a desenvolver  um  trabalho humanitário perto de Maputo, numa simpática alusão à Presidente da Corações com Coroa.</cite></p>
+	<elo href="http://canelaehortela.com/um-tesouro-do-tamanho-do-mundo-em-cena-no-tivoli/">Artigo do sitio Canela e Hortelã</elo>
+</bloco>
+
+</bloco>
+
+<!-- CAMPANHAS, CONFERÊNCIAS, EVENTOS E EXPOSIÇÕES -->	
+
+<bloco titulo="Campanhas, Conferências, Eventos e Exposições">	
+
+<elo href="continuamosaespera.xml">Continuamos à Espera</elo>
+<elo href="tooyoungtowed.xml">Novas Demais para Casar</elo>
+<elo href="marias.xml">Marias – Por Todas as Meninas e Mulheres</elo>
+<elo href="aoladodumamulher.xml">Ao lado de uma grande mulher há sempre outra grande mulher</elo>
+<elo href="umaarvoreporummundomelhor.xml">Uma árvore por um mundo melhor</elo>
+<incorporar>ccc_conferencias.xml</incorporar>
+
+</bloco>
+
+<!-- RECOLHAS DE FUNDOS E PARCERIAS COM MARCAS OU EMPRESAS -->
+<bloco titulo="Recolha de Fundos e Parcerias com Marcas ou Empresas">
+
+<grande><elo href="ccc_tshirts.xml"></elo></grande>
+			
+<bloco titulo="Lisbon Kids Market e Little Style">
+
+	<p>Nos dias <b>6 e 7 de Abril 2013</b>, ocorreu o <a href="http://www.facebook.com/pages/Lisbon-Kids-Market/568037186548100">Lisbon Kids Market</a>, na antiga cavalariça do Palácio de Vale Flor, evento dedicado à moda infantil. A entrada, no valor de 1 euro, reverteu inteiramente para a CCC. A Catarina esteve lá presente, na manhã do primeiro dia. Passaram pelo Pestana Palace mais de 10 mil pessoas em dois dias.</p>
+	<p>Nos dias <b>26 e 27 de Outubro 2013</b>, a segunda edição do Lisbon Kids Market voltou a dar o seu apoio à Corações com Coroa, com 1 euro por entrada a reverter para a associação.</p>
+	<p>Nos dias <b>22 e 23 de Março 2014</b>, o evento voltou a realizar-se, na sua 3ª edição, no mesmo espaço, com a totalidade do valor dos ingressos (1 euro por pessoa) a reverter para a CCC.</p>
+	<p>Também organizado pela Filipa Cortez Faria, realizou-se a edição de Natal do Little Style, no dia <b>7 de Dezembro 2014</b>, no Hotel Myriad do Parque das Nações. O valor das entradas, para o evento de moda infantil, reverteu integralmente para a edição dum "Guia para a Parentalidade e Maternidade Positiva" da CCC, cujo projecto foi apresentado, na ocasião, pela Catarina Furtado. Outro amigo a juntar-se ao evento foi o Diogo Infante com um atelier de teatro e leitura de contos.</p>
+
+	<elo href="http://www.youtube.com/watch?v=0ho6MuBWfc0">Lisbon Kids Market apoia a Corações com Coroa (video)</elo>
+	<elo href="http://fcfkidsdesign.blogspot.pt/">Blog My Happy Kids</elo>
+	<elo href="https://www.facebook.com/LisbonKidsMarket?fref=ts">Facebook do Lisbon Kids Market</elo>
+	<elo href="https://www.facebook.com/littlestyleportugal">Facebook do Little Style Portugal</elo>
+	<elo href="http://youtu.be/6FK4PXydb1U">Reportagem do "Só Visto!" no "Little Style" em 2014</elo>
+
+</bloco>
+
+<bloco titulo="David Rosas">
+
+	<p>No dia <b>28 de Junho de 2013</b>, a Catarina está presente na abertura da renovada loja da marca de jóias David Rosas, na Avenida da Liberdade, em Lisboa. Nessa ocasião é assinado o acordo com empresa, no qual se firma o compromisso duma percentagem das vendas reverter para a associação.</p>
+	<p>Na segunda conferência da CCC, em 2013, a Catarina anuncia que a empresa irá financiar uma das bolsas de estudo atribuídas pela associação.</p>
+		
+	<imagem legenda="Inauguração da renovada loja David Rosas na Avenida da Liberdade no dia 28 de Junho de 2013" href="https://picasaweb.google.com/lh/photo/F7c3hW4hZJkB0H9rg8feji6-SlhEwZ92ve_rio6iAU0?feat=embedwebsite">https://lh6.googleusercontent.com/-knXesZCkFzk/UiXAlGZIwHI/AAAAAAAAU4I/29DfcHNHzEs/w400/1065210_10152048133497785_1924185432_o.jpg</imagem>
+		
+	<bloco titulo="Vortex">
+	
+		<citacao href="revista_vogue_marco2014.xml" autor="Catarina" fonte="Vogue" ano="2014">
+			<p>A inspiração da Joana foi extraordinária e veio ao encontro do que eu tinha idealizado. A peça tem esta componente de abraçar, de dar a mão, de apoiar, que é uma palavra de que gosto muito.</p>
+		</citacao>
+		<citacao href="revista_foradeserie_marco2014.xml" autor="Catarina" fonte="Fora de Série" ano="2014">
+			<p>Abordei a Joana na rua, quando a encontrei por acaso à porta da escola dos nossos filhos – é raro encontramo-nos ali, mas nesse dia, por coincidência cruzámo-nos –, e ela mostrou-se logo muito entusiasmada.</p>
+		</citacao>
+		
+		<elo href="http://www.davidrosas.com/articles/catarina-furtado-ccc">A parceria com CCC faz parte da responsabilidade social da empresa David Rosas (sitio oficial).</elo>					
+		<elo href="http://www.youtube.com/watch?v=PHHmOzGJ09k">CM Tv na apresentação da peça "Vortex" - Parte 1</elo>					
+		<elo href="http://www.youtube.com/watch?v=tUC5kn597y4">CM Tv na apresentação da peça "Vortex" - Parte 2</elo>					
+		<elo href="https://picasaweb.google.com/lh/photo/s94XptAjQAnFteERn7XghRJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da revista Vip sobre a apresentação da peça "Vortex" [pagina 1]</elo> 
+		<elo href="https://picasaweb.google.com/lh/photo/9V2w3Sf5k_FX2nlPEZrRaxJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da revista Vip sobre a apresentação da peça "Vortex" [pagina 2]</elo>					
+		<elo href="https://picasaweb.google.com/lh/photo/QuyCY9ydnz-fX4TP3JWNsRJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da revista Flash! sobre a apresentação da peça "Vortex" [pagina 1]</elo>
+		<elo href="https://picasaweb.google.com/lh/photo/Tl9Ac6ATiFqbdN7hFdWKpRJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo da revista Flash! sobre a apresentação da peça "Vortex" [pagina 2]</elo>
+		<elo href="">"Fama Show" na apresentação da "Vortex"</elo>										
+		<elo href="http://www.youtube.com/watch?v=SychiUwC8dk">"Só Visto!" na apresentação da "Vortex"</elo>										
+		<elo href="revista_vogue_marco2014.xml">Artigo da revista Vogue sobre a "Vortex"</elo>										
+		<elo href="http://caras.sapo.pt/famosos/2014/02/13/catarina-furtado-parceria-solidaria-com-a-artista-joana-vasconcelos">Artigo da revista Caras sobre a "Vortex"</elo>										
+		<elo href="http://caras.sapo.pt/famosos/2014/02/18/catarina-furtado-com-o-voluntariado-encontrei-a-minha-missao-na-vida">Artigo da revista Caras sobre a "Vortex"</elo>										
+		<elo href="http://www.jn.pt/PaginaInicial/Gente/Interior.aspx?content_id=3789593">Artigo do Jornal de Notícias</elo>										
+		<elo href="http://visao.sapo.pt/joia-criada-por-joana-vasconcelos-financia-bolsas-de-estudo=f775442">Artigo da revista Visão</elo>										
+		<elo href="https://picasaweb.google.com/lh/photo/sa7zdaLlW76KRuCookCwfhJfOAsVO4BDy642eMYnaWw?feat=directlink">Artigo do Diário de Notícias</elo>										
+		<elo href="revista_foradeserie_marco2014.xml">Artigo do suplemento Fora de Série</elo>
+		<elo href="http://fama.sapo.pt/fotogaleria/catarina-furtado-leiloa-joia-milionaria"></elo>								
+	</bloco>
+</bloco>
+
+<bloco titulo="LIDL">
+	<elo href="http://www.bastidores.pt/coracoes-com-coroa-catarina-furtado/">Texto do blog Bastidores</elo>
+	<elo href="http://www.movenoticias.com/2014/08/lidl-entrega-donativo-a-associacao-coracoes-com-coroa/">Artigo do site MoveNoticias</elo>
+	<elo href="http://visao.sapo.pt/associacao-de-catarina-furtado-recebe-cheque-de-18-mil-euros=f794599">Artigo da revista Visão online</elo>			
+<!-- LIDL 
+No dia 29/8 A Associação Corações com Coroa recebe um donativo de 18 mil euros do LIDL que vão ser aplicados em 2 bolsas de estudo para jovens meninas.
+http://www.bastidores.pt/coracoes-com-coroa-catarina-furtado/
+http://www.movenoticias.com/2014/08/lidl-entrega-donativo-a-associacao-coracoes-com-coroa/
+http://visao.sapo.pt/associacao-de-catarina-furtado-recebe-cheque-de-18-mil-euros=f794599
+http://activa.sapo.pt/vida/sociedade/2014-09-01-Lidl-e-Coracoes-Com-Coroa-aliam-se-para-ajudar-jovens-que-sonham-continuar-os-estudos
+http://www.lidl.pt/pt/14942.htm
+-->
+</bloco>
+
+<bloco titulo="Outros Fundos">
+	<p>No dia <b>7 de Março de 2013</b>, a Catarina esteve presente na inauguração dum novo hotel na Praça da Figueira, em Lisboa. Foi assinado um acordo com a <a href="http://www.thebeautiquehotels.com/">The Beautique Hotels Figueira</a> com o fim de ajudar a CCC. Por cada três estadias um euro reverterá para a CCC.</p>
+	<p>Entre o dia <b>14 e 24 de Março de 2013</b>, cerca de 164 restaurantes de todo o país aderiram à <b>Portugal Restaurant Week</b>. Durante a semana, refeições de excelência foram servidas com o custo de apenas 20 euros. A iniciativa também teve um lado solidário. Por cada refeição, 1 euro reverteu para duas instituições solidárias: o <a href="http://www.mulheresdevermelho.com/">Movimento Mulheres de Vermelho</a> e a Associação Corações com Coroa. Em Junho a associação recebeu €5750 arrecadados pela iniciativa.</p>
+	<elo href="http://caras.sapo.pt/famosos/2013/06/03/catarina-furtado-sensibilizada-com-doacao-a-sua-associacao"></elo>
+	<p>No dia <b>21 de Março de 2013</b> a Catarina apresentou na Livraria Barata, em Lisboa, o primeiro livro da editora Glaciar: <b>"Frank - O Andarilho"</b> do autor brasileiro Sérgio Ribas. Parte dos direitos de autor revertem para a CCC.</p>
+	<elo href="https://www.facebook.com/photo.php?fbid=157809587712040&amp;set=a.111610348998631.19794.107792466047086&amp;type=1"></elo>
+	<p>Pelo <b>verão de 2013</b> o empreendimento turístico <a href="http://www.quintadabalaia.net/">Quinta da Balaia Resort &amp; Villas</a> associou a CCC e outras 19 instituições ao seu projecto "Férias Solidárias" - 10% do valor pago pela estadia na villa nº 201 reverterá para a CCC.</p>
+	<elo href="https://www.facebook.com/catarinafurtado.oficial/posts/213527688806896"></elo>
+	<p>Depois de, no dia <b>11 de Fevereiro de 2014</b>, o <a href="http://www.colegiocasamae.pt">Colégio Casa-Mãe</a>, no Porto, ter recebido a visita da Catarina, os alunos, familiares e professores organizaram um jantar de beneficência a favor da CCC.</p>
+	<elo href="https://www.facebook.com/photo.php?fbid=268681593291505"></elo>
+	<elo href="http://www.lux.iol.pt/nacionais/catarina-furtado-solidariedade-bullying-colegio-casa-mae-coracaoes-com-coroa/1540614-4996.html"></elo>
+	<imagem legenda="Visita ao Colégio Casa Mãe em 2014" href="https://picasaweb.google.com/lh/photo/Szt3qspmQtdmwqkJxw4fsy6-SlhEwZ92ve_rio6iAU0?feat=embedwebsite">https://lh4.googleusercontent.com/-_1OAXb072Eg/U2tEQtm-h6I/AAAAAAAAlgg/iO1unf_lpZc/s400/CatarinaFurtado_CasaMae_20140211_1801330_633450986726086_753306589_o.jpg</imagem>
+	<p>No dia <b>20 de Novembro de 2014</b>, a <i>Let's Help</i> organizou o concerto <b>"Música em Degradé – Da Ópera ao Rock"</b>, cuja receita de bilheteira reverteu para quatro associações, entre elas, a Corações com Coroa.</p>
+	<elo href="https://www.facebook.com/coracoescomcoroa/posts/756227131099183"></elo>
+</bloco>						
+</bloco>	
+
+<!-- LINKS -->
+<bloco titulo="links">
+	<elo href="http://http://www.coracoescomcoroa.org/">Página da Associação Corações com Coroa</elo>
+	<elo href="http://www.facebook.com/coracoescomcoroa">Página de facebook da Corações com Coroa</elo>
+	<elo href="hatarde20141117.xml">Entrevista, no "Há Tarde", à cerca do voluntariado</elo>
+	<elo href="https://picasaweb.google.com/116136255703077903546/CoracoesComCoroa?authuser=0&amp;authkey=Gv1sRgCKDyyNbEn7DLVg&amp;feat=directlink">Imagens diversas</elo>
+</bloco>
+
+</corpo>
+
+</pagina>
+
+<!--
+https://www.youtube.com/watch?v=fiXcXrT2-QY
+https://www.facebook.com/magalhaesana/posts/10204512848120422
+https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/466744856818510/?type=1
+https://www.facebook.com/coracoescomcoroa/photos/a.313684028686831.79505.256405387748029/839880449400517/?type=1
+https://www.youtube.com/watch?v=TUNZwm5cDGY
+https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/522503504575978/?type=1
+http://www.lusapress.com/2015/10/09/decisoes-e-solucoes-apoia-coracoes-com-coroa-de-catarina-furtado/
+http://pt-starsonline.com/index.php/eventos/outubro-2015/catarina-furtado-solidaria-na-3-edicao-do-little-style
+https://www.facebook.com/decisoesesolucoes/posts/890262921057702
+http://www.lux.iol.pt/nacional/famosos/catarina-furtado-marcha-pelo-fim-da-violencia-contra-as-mulheres-uma-chapada-mesmo-que-seja-a-brincar-e-uma-chapada
+http://lifestyle.publico.pt/artigos/356290_bloggers-solidarias-vao-vender-roupa-para-a-coracoes-com-coroa
+https://www.instagram.com/p/BD_qECgzBLo/
+em 2016 tinha 5 funcionários e 7 bolseiras
+http://www.bestfranchising.pt/ver_noticia.aspx?idnoticia=4482
+http://caras.sapo.pt/famosos/2016-05-22-Catarina-Furtado-apoiada-pelos-pais-em-novo-projeto-social
+http://media.rtp.pt/sociedaderecreativa/videos/coracoes-com-coroa-promove-a-parentalidade-positiva/
+-->

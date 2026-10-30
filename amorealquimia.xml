@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="curtasmetragens.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Amor &amp; Alquimia</titulo>
+	<descricao></descricao>
+	<data><ano>1995</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Ainda Bem que Vieste</titulo>
+	<descricao>Uma conversa com o jornalista Nuno Azinheira, para a RTP Informação.</descricao>
+	<data><ano>2015</ano><mes>3</mes><dia>29</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://www.facebook.com/photo.php?fbid=982698341742315amp;&amp;set=a.205356176143206.59665.100000064755802&amp;type=1">Mensagem no facebook</elo>
+
+</corpo>
+
+</pagina>

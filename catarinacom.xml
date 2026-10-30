@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Catarina.com</titulo>
+	<descricao>Magazine social, transmitido aos sábados na Sic, com um convidado central entrevistado pela Catarina.</descricao>
+	<data><ano>2002</ano><mes>3</mes><dia>9</dia></data>
+	<data><ano>2002</ano><mes>12</mes><dia>14</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-oQ3B8deCiXE/UsnCli0eCJI/AAAAAAAAT1g/31br8w5yp2I/s0/CatarinaFurtado_CatCom2002_Gen0182.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem legenda="Com Reynaldo Gianecchini no Brasil" href="https://picasaweb.google.com/lh/photo/_y0UJ8qogU5ty4UvRNEj22wLlWahj2WADIscZ_OMYCM?feat=embedwebsite">https://lh6.googleusercontent.com/-TyyRw92sGT4/UsnCmpE6_HI/AAAAAAAAT18/q-AwNfxBTWY/s400/CatarinaFurtado_CatCom_20020831_010000036.jpg</imagem>
+
+<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+	<p>Foi por altura do "Catarina.com", quando o Manuel Fonseca estava na direcção de programas. Eu nunca quis o meu nome num programa. Não aguento. Muito mau.</p>
+</citacao>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/CatarinaCom?authuser=0&amp;authkey=Gv1sRgCL-x77D3mYWpYA&amp;feat=directlink">Fotogramas do programa</elo>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+
+os ultimos caps que tenho na sic sao da cat.com em 14/12/2002
+os primeiros caps que tenho da cat.com sao do dia 29/6/2002
+estreou dia 9/3/2002
+
+Repórteres Silvia Alberto e Cláudia Semedo
+-->

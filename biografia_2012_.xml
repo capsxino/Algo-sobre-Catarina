@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>40 anos e depois...</titulo>
+	<descricao></descricao>
+	<data><ano>2012</ano><mes>8</mes><dia>25</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://caras.sapo.pt/famosos/2012/09/01/catarina-furtado-comemora-o-seu-40.-aniversario-num-liceu-de-lisboa" fonte="Caras" ano="2012">
+	<p>Catarina Furtado celebrou o seu 40.º aniversário no dia 25 de Agosto com uma festa de arromba onde reuniu a família e muitos amigos. A apresentadora quis fazer uma coisa especial para assinalar a data e escolheu o Liceu Passos Manuel, onde estudou durante a adolescência, para acolher a sua festa.</p><p>A celebração foi privada e a imprensa teve de ficar à porta. Ainda assim, houve oportunidade para falar com alguns dos convidados, como foi o caso de Mafalda Vilhena, prima de Catarina. <em>“Sempre fomos muito chegadas, tínhamos uma relação quase de irmãs. Passávamos sempre as férias juntas, ao todo éramos cinco primos e aquilo é que era um festival. Ela é mais velha oito meses...Os 40 já não assustam, isso era antigamente. Ela que se mantenha gira, é o conselho que lhe dou”</em>, brincou a atriz. Nuno Santos foi outro dos convidados:<em> “Conhecemo-nos há 20 anos. A Catarina não é muito diferente da figura pública que as pessoas conhecem. E isso é uma das vantagens que ela tem, é que aquela pessoa que nós vemos é aquela pessoa que ela é, verdadeira. É uma pessoa muito coerente que fez sempre uma gestão muito inteligente da sua carreira.”</em></p><p>Em vez de receber presentes, a apresentadora pediu a todos os seus convidados que ajudassem financeiramente a <em>Corações com Coroa</em>, uma associação criada pela própria, em parceria com Ana Magalhães, e que pretende angariar fundos para ajudar o UNFPA (Fundo das Nações Unidas para a População) a realizar o seu trabalho na área da saúde materna e infantil nos países mais necessitados.</p>
+</citacao>
+<citacao href="http://youtu.be/AKRRXMVlqLc" fonte="Caras" ano="2012">
+	<p><b>Porque escolheu o Liceu Passos Manuel para fazer a festa?</b></p>
+	<p>O liceu guarda, naquelas salas, naqueles corredores, debaixo daquelas arcadas maravilhosas, muitos segredos meus. Não são segredos muito reveladores, são segredos de adolescente, mas de qualquer forma são segredos meus... E é um liceu que me acompanhou do 7º ao 12º ano, fazia dali viagens diárias para o Conservatório, portanto, achei que a festa deveria ser ali. Estou muito grata ao liceu por ter ajudado a concretizar este meu sonho.</p>
+	<p><b>O que era preciso para integrar a lista de convidados?</b></p>
+	<p>Convidei as pessoas que, ao longo destes 40 anos, e 21 e qualquer coisa de televisão, me ajudaram a ser a pessoa completa e feliz que sou hoje. Pessoas que no seu percurso profissional se cruzaram comigo e tiveram a 'batuta' que me permitiu concretizar os meus sonhos e me ajudaram a trabalhar e a acreditar em mim. Além disso, os meus amigos, claro. Amigos todos nós temos e acho que se deve dizer-lhes, várias vezes, que gostamos deles. Depois, os familiares. </p>
+	<p><b>O que espera desta nova fase?</b></p>
+	<p>Artroses? [Risos] Dores nas costas, menos paciência... Bom, por enquanto não penso em nada disso. Espero que os meus filhos me repeitem mais, que eu vou dizer-lhes: "A mãe já tem 40 anos, não podem irritar-me!" [Risos] Estou muito bem comigo, estou bem com os outros, estou muito bem com aquilo que faço, não posso mesmo queixar-me.</p>
+	<p><b>Falta-lhe fazer alguma coisa?</b></p>
+	<p>Falta-me fazer muitas coisas. Em termos profissionais, há muita coisa que gostava de explorar, de pôr de o pé, gostava de trabalhar com mais pessoas... Gostava de conquistar mais coisas na minha vida, mas nada que seja inalcançável, não sonho demasiado alto, e <u>tudo aquilo que eu gostava de fazer, prometo a mim própria que vou tentar fazê-lo.</u></p>
+</citacao>
+<citacao href="revista_tabu_20140117.xml" fonte="Tabu" ano="2014">
+	<p>Os 40 não me passaram com leveza, mas hoje em dia não os sinto. A primeira coisa em que pensei é que tenho menos tempo para abraçar as coisas que ainda quero abraçar.</p>
+</citacao>
+
+<elo href="https://picasaweb.google.com/lh/photo/buRe7kwjzKsMgwf59Anqsl3rYiS-9tvfO2fv7mBFXMs?feat=directlink">Entrevistada para a "TV Mais" sobre os 40º aniversário.</elo>
+<elo href="http://www.lux.iol.pt/fotos/todos/1/271159">Fotografias dos convidados da festa no site da Lux.</elo>
+<elo href="http://caras.sapo.pt/famosos/2012/09/16/catarina-furtado-aos-40-anos-falta-me-fazer-muita-coisa-mas-nao-sonho-demasiado-alto">Entrevista para a Caras durante a apresentação do conceito da gala das "7 Maravilhas - Praias de Portugal".</elo>
+<elo href="https://picasaweb.google.com/lh/photo/yyGrgG9TkDamHzGHHLnCAl3rYiS-9tvfO2fv7mBFXMs?feat=directlink">Artigo da revista Vip sobre a conceito da gala das "7 Maravilhas - Praias de Portugal".</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/nacional/ensino/liceu-passos-manuel-faz-100-anos">Liceu Passos Manuel faz 100 anos</elo>
+			
+
+</corpo>
+
+</pagina>
+
+<!-- Apontamentos
+Em 2005 Luiz Andrade deixa a direcçao de programas da rtp http://www.jn.pt/PaginaInicial/Interior.aspx?content_id=492225
+-->

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="series.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Cidade Despida</titulo>
+	<descricao>Série policial da RTP</descricao>
+	<data><ano>2010</ano><mes>4</mes><dia>23</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-yOCK3zR0G8s/VhupmFenrcI/AAAAAAAAsyk/kuf0FBEDx_o/s0-Ic42/AnaBelmonte.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Cidade Despida">
+
+</bloco>
+
+<bloco titulo="Personagens">
+
+</bloco>
+
+<bloco titulo="Equipa">
+
+</bloco>
+
+<bloco titulo="Locais de Gravação">
+<!--
+	2º o 24h as gravações no estúdio da SP em São Marcos começaram no dia 23/2/2010 depois dos exteriores
+-->
+</bloco>
+
+<bloco titulo="Promoção da Série, Entrevistas e Bastidores">
+
+</bloco>
+
+<bloco titulo="Prémios e Nomeações">
+
+	<p>Em Junho de 2010, a  Catarina deslocou-se à capital monegasca para deslumbrar na passadeira vermelha do Festival de Televisão de Montecarlo. Com um vestido branco do Nuno Baltazar, de braço dado com o colega Albano Jerónimo. A série estava nomeada em várias categorias, entre as quais a Catarina concorria para o prémio de melhor atriz numa série dramática.</p>
+	<p>A Catarina não ganhou a <cite>Ninfe D'Or</cite> mas a nomeação foi uma distinção importante que marcou o primeiro reconhecimento internacional da série. Seguiram-se outras nomeações em outros festivais, às quais não deve ser alheio o esforço da produtora SP Televisão em divulgar a série. Que deu frutos. Em 2012 a 'Cidade Despida' foi vendida para exibição em Singapura e na Malásia.</p>
+
+	<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/ficcao-exportada--para-europa-e-asia"></elo>
+
+	<p>Estes foram os prémios para os quais a série e os actores que nela participaram foram nomeados:
+		<ul>
+			<li><b>50th MONTE-CARLO TELEVISION FESTIVAL (2010)</b></li>
+			<ul><li>Nomination for Best European Series</li>
+			<li>Nomination for Best Drama Series</li>
+			<li>Two Nominations for Best Actor in a Drama Series, para Albano Jerónimo e Pedro Laginha</li>
+			<li>Two Nominations for Best Actress in a Drama Series, para Catarina Furtado e Cristiana Carvalhal</li></ul>
+			<li><b>PRÉMIO AUTORES SPA/RTP (2011)</b></li>
+			<ul><li>Nomeação para Melhor Programa de Ficção</li></ul>		
+			<li><b>PRÉMIOS TV 7 DIAS 2010 (2011)</b></li>
+			<ul><li>Nomeação para Melhor Série de Televisão</li>	
+			<li>Nomeação para Melhor Actor numa Série de Televisão para Albano Jerónimo</li></ul>
+			<li><b>13th INTERNATIONAL FESTIVAL “DETECTIVEFEST” (2011/MOSCOW)</b></li>
+			<ul><li>Special Prize in the category of Theme TV Series</li></ul>
+			<li><b>16th SEOUL INTERNATIONAL DRAMA AWARDS (2011)</b></li>
+			<ul><li>Nomination for Best Drama Mini-Series</li>		
+			<li>Nomination for Best Actress in a Drama Mini-Series, para Catarina Furtado</li></ul>		
+		</ul>
+	</p>
+
+</bloco>
+
+<bloco titulo="Citações">
+
+		<citacao href="revista_luxwoman_maio2011_01.xml" fonte="Lux Woman" ano="2011">
+			<p>Conheci-me melhor enquanto atriz. Dei tudo àquela Ana Belmonte e agora olho para trás e sinto que, de facto, fiz um bons trabalho. E eu sou muito autocrítica!</p>
+		</citacao>
+		<citacao href="jornal_jn_20100424.xml" fonte="Jornal de Noticias" ano="2009">
+			<p>Arrisquei. Estou numa fase da minha vida em que não tenho nada a perder, muito tranquila. O que quer que seja que aconteça acho que esta série devia ser editada em DVD. Não digo que seja a melhor coisa do mundo, mas sim um marco. Uma conquista nossa.</p>
+		</citacao>
+		<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+			<p><small>Foi usada alguma dupla nas cenas perigosas?</small></p>
+			<p>Apenas em situações pontuais trabalhei com uma dupla, do grupo do mestre David Chan. Mas houve planos pensados para a dupla que acabaram por ser feitos por mim, porque não os achei arriscados. Refiro-me, por exemplo, a momentos em que me atiro violentamente contra o capô de um carro. Ou a uma cena de perseguição num armazém, onde fui arrastada pelos pés num chão imundo de terra e lama. Fiquei arranhada, encharcada, mas quis dar tudo, sentir no corpo o frio e o dramatismo da cena para a sentir verdadeira.</p>
+		</citacao>
+		<citacao href="revista_madresgps_maio2010.xml" fonte="Revista Madre SGPS">
+			<p>Os limites que eu poderia achar que existiam para me entregar a determinadas cenas de exteriores mais complexas, como, por exemplo, ser arrastada num armazém velho e sujo, pelo chão cheio de água, num dia gelado, deixaram de fazer sentido, porque a convicção de que o que estávamos a fazer era especial, fez com que esses limites deixassem de existir.</p>	
+		</citacao>
+		<citacao href="revista_madresgps_maio2010.xml" fonte="Revista Madre SGPS">
+			<p>Eu optei por não ver nada, para que o meu olhar não se intrometesse. Queria estar totalmente entregue e despida de qualquer tipo de ideia preconcebida. A Patrícia e a Ana eram as minhas maestrinas.</p>
+		</citacao>
+		<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+			<p><small>Não tem medo de falhar?</small></p>
+			<p>Não tenho nada a perder. Quero fazer mais séries e filmes, testar-me, perceber até onde posso ir. Estou quase com 40 anos. As críticas vão-me fazer o quê? Vou pensar: "Ai, meu Deus! Não posso fazer isto ou aquilo porque vão dizer que o que eu sou é apresentadora." Não! Sou actriz, para todos os efeitos.</p>
+		</citacao>
+		<citacao href="https://picasaweb.google.com/lh/photo/KPvFcn_GLCsL4s1V-JeuxqJWn-jLBQ29wGzPXExP_EM?feat=directlink" fonte="24 Horas">
+			<p>Não vejo praticamente televisão, a minha vida é isto. Chego a casa e tenho de estar com os meus filhos, é evidente. Prioridade número um (...) Esperam-me sempre para que possa contar a história. [Depois regresso ao trabalho ao] mergulhar num calhamaço de cenas (...) E já é dia seguinte sem eu notar.</p>
+		</citacao>
+		<citacao href="revista_caras_maio2010_01.xml" fonte="Caras">
+			<p>Gosto de coisas difíceis e de me pôr à prova. Ganho sempre uma adrenalina extra quando me proponho fazer algo que impõe respeito e algum medo de falhar.</p>
+		</citacao>
+		<citacao href="revista_caras_maio2010_01.xml" fonte="Caras">
+			<p>Durante estes dois meses, a Ana Belmonte invadiu completamente a minha vida. Ela de facto existiu e é tão diferente de mim que tive mesmo de deixar que ela tivesse o seu espaço. Para mim, restou-me um bocadinho da noite em que apenas deitava os meus filhos, lhes contava a história dos sonhos cor-de-rosa e azuis, preparava a roupa deles para o dia seguinte e deixava a lista dos afazeres domésticos. Logo a seguir mergulhava nos textos da série e adormecia já "vestida" de Ana Belmonte.</p>	
+		</citacao>
+		<citacao href="https://picasaweb.google.com/lh/photo/S-EtroKRYfyVKh41LejqQKJWn-jLBQ29wGzPXExP_EM?feat=directlink" fonte="Notícias Tv">
+			<p>Vão ser oito semanas de entrega total, mas dormir pouco não não será necessariamente mau para esta personagem até porque ela sofre de insónias.</p>	
+		</citacao>
+		<citacao href="revista_tvguia_fevereiro2010_01.xml" fonte="TV Guia">
+			<p>A minha personagem é de uma componente psicológica muito interessante. Analisa o comportamento humano e vem de alguma forma trazer outra maneira de fazer interrogatórios, que a velha guarda, representada aqui pelas personagens Rocha e Freitas, não aprecia.</p>	
+		</citacao>
+		<citacao href="revista_tvguia_fevereiro2010_01.xml" fonte="TV Guia">
+			<p>Foi um bombom. Tenho muita sorte. Tenho trabalhado sempre com equipas fantásticas. Não vale a pena andarmos nesta vida, que são dois ou três dias, se não tivermos um bom ambiente. É muito difícil estar a contracenar com pessoas pelas quais não temos qualquer tipo de admiração. Eu admiro mesmo este elenco, 'bebo' nele experiência.</p>	
+		</citacao>
+		<citacao href="jornal_i_20100403.xml" fonte="Jornal i">
+			<p>Em dois meses não vi uma única cena, entreguei-me à Patrícia Sequeira, realizadora, e à Ana Nave, directora de actores. Não me importei minimamente com a minha imagem. Não tenho maquilhagem.</p>		
+		</citacao>
+		<citacao href="https://vimeo.com/10368981#t=2140" fonte="5 Para a Meia-noite">
+			<p>Nesta altura só faz sentido eu entrar em projectos em que acredito e em que me possa entregar sem qualquer tipo de receios, em que possa aprender e descobrir coisas. Foi muito cansativo. Não me lembro de ter trabalhado tanto em tão pouco tempo. Tive de dar muito, quer fisicamente, quer emocionalmente.</p>	
+		</citacao>
+		<citacao href="revista_noticiastv_dezembro2010.xml" fonte="Notícias Tv" ano="2010">
+			<p>Quando me apresentaram a Cidade Despida, percebi que a minha personagem era dificílima, porque ela fica louca. Era uma personagem que exigia de mim uma transformação física e com uma grande densidade psicológica. A minha preocupação era apenas perceber se eu era, ou não capaz de fazer aquilo. Depois, dediquei-me à exaustão. Sou muito disciplinada e muito obsessiva e acredito em duas ou três pessoas e não acredito em mais ninguém.</p>		
+		</citacao>
+		<citacao href="revista_maxima_janeiro2015.xml" fonte="Máxima" ano="2015">
+			<p>Mas sinto tanta vontade de representar… A Cidade Despida foi, para mim, um curso de psicanálise de borla, porque me preencheu de uma forma incrível enquanto atriz e exigiu de mim um despojamento total, até em termos de imagem. Foi um projeto muito feito por mulheres e foi muito importante para mim. E, por isso, às vezes, dá-me esse soluço de ansiedade do tempo passar, porque eu tenho muito terror do tempo, muito terror da morte.</p>		
+		</citacao>
+		
+</bloco>
+
+<bloco titulo="Elos">
+
+	<elo href="http://youtu.be/tK8vLQPxZ-A">Treino da cena de luta entre a Ana Belmonte e o Rodrigo (video)</elo>
+	<elo href="http://www.jn.pt/PaginaInicial/Gente/Interior.aspx?content_id=1552297&amp;page=-1">Café com... Catarina Furtado (Jornal de Noticias)</elo>
+	<elo href="revista_expresso_maio2010_01.xml">'Conquistei o que queria sem saber o que queria...' (Expresso)</elo>
+	<elo href="http://www.ionline.pt/conteudo/53729-catarina-furtado-ha-um-fascinio-idiota-pela-tv-e-doentio-">Catarina Furtado: "Há um fascínio idiota pela TV. É doentio" (Jornal i)</elo>
+	<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/ficcao-exportada--para-europa-e-asia">Em 2012 a série foi vendida para exibição em Singapura e na Malásia segundo o Correio da Manhã</elo>
+	<elo href="http://caras.sapo.pt/famosos/2010/05/18/catarina-furtado-esta-nomeada-para-melhor-actriz-no-festival-de-monte-carlo-com-o-papel-de-cidade-despida">Catarina Furtado está nomeada para Melhor Actriz no Festival de Monte Carlo (Caras).</elo>
+	<elo href="http://activa.sapo.pt/tv/celebridades/2010/06/15/catarina-furtado-em-monte-carlo-ao-lado-de-albano-jeronimo2">Catarina Furtado em Monte Carlo ao lado de Albano Jerónimo (Activa).</elo>
+	<elo href="http://fama.sapo.pt/noticia/catarina-furtado-implacavel-na-luta-contra-o-crime-2">Catarina Furtado implacável na luta contra o crime (Sapo Fama).</elo>
+	<elo href="http://fama.sapo.pt/noticia/catarina-furtado-chora-3">Catarina Furtado chora (Sapo Fama).</elo>
+	<elo href="http://fotos.sapo.pt/gentetv/albuns/?aid=62&amp;listar=normal&amp;ordenar=maisrecentes&amp;pagina=1#lista">Fotografias da apresentação à imprensa (GenteTv).</elo>
+	<elo href="http://fotos.sapo.pt/gentetv/albuns/?aid=55&amp;listar=normal&amp;ordenar=maisrecentes&amp;pagina=1#lista">Fotografias de cena (GenteTv).</elo>
+	<elo href="http://caras.sapo.pt/famosos/2010/04/16/fotogaleria-apresentacao-da-serie-cidade-despida">Fotogaleria da apresentação à imprensa (Caras).</elo>
+	<elo href="http://www.flickr.com/photos/rtppt/sets/72157623521505819/">Fotografias de Cena (Rtp).</elo>
+	<elo href="https://picasaweb.google.com/116136255703077903546/CidadeDespida?authuser=0&amp;feat=directlink">Caps</elo>
+	<elo href="https://picasaweb.google.com/116136255703077903546/CidadeDespidaFotografiasDeCena?authuser=0&amp;authkey=Gv1sRgCNqOx_GvrODszgE&amp;feat=directlink">Cena</elo>
+	<elo href="https://picasaweb.google.com/116136255703077903546/CidadeDespidaImagensDetrasDaCena?authuser=0&amp;authkey=Gv1sRgCLHfr4Lg7pyPNQ&amp;feat=directlink">bastidores</elo>
+	<elo href="https://picasaweb.google.com/116136255703077903546/Imprensa2010?authuser=0&amp;authkey=Gv1sRgCOv4itOvleXWvwE&amp;feat=directlink">Imprensa</elo>
+
+</bloco>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+******************
+ver 5pmn e videos
+****************
+Estreou no dia 23 de Abril de 2010
+******************
+http://www.stick2target.com/vhils-mar-dirty-cop-spotted
+**********************
+musica do genérico: Musica: David Rossi e Paulo Cavaco Letra: David Rossi Arranjo: David Rossi Interpretes: Isabel Abreu e Pedro Laginha 
+***************
+
+Catarina Furtado confidencia: "Eu e o João somos mais semelhantes do que possa parecer e é no nosso objectivo de vida que nos encontramos"
+
+Ler mais: http://caras.sapo.pt/famosos/2010/03/15/catarina-furtado-confidencia-eu-e-o-joao-somos-mais-semelhantes-do-que-possa-parecer-e-e-no-nosso-objectivo-de-vida-que-nos-encontramos#ixzz2RJNMQopO
+
+*********************************************
+gravada em 2 meses
+********************************************
+Pedro repescou a ideia das máscaras sociais que todos usamos, pois defende "poder haver um assassino dentro de qualquer um de nós". E para o efeito consultou o arquivo da Polícia Judiciária, inspirando-se em casos reais relatados em dossiês e recortes de jornais, gerando, pois, "proximidade com o público". Tendo bebido inspiração em séries "mais bafientas, como o caso de 'Colombo'", para lá do intento, cujo título da série dá pistas, de deixar cair a face mais bela da cidade, mostrando o seu lado obscuro, Pedro assume o tributo a "Naked city", intriga dos anos 50.
+http://www.jn.pt/paginainicial/interior.aspx?content_id=1551228 
+****************************
+Foi um prazer e um sacrifício, porque em dois meses gravei 12 a 14 horas por dia. 
+*******************
+-->

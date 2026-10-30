@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Estudante em Londres</titulo>
+	<descricao></descricao>
+	<data><ano>1995</ano><mes></mes><dia></dia></data>
+	<data><ano>1998</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem legenda="Londres, 1997" href="https://picasaweb.google.com/lh/photo/BDmMlPgcxKLp5I5CcCEvFOcwFYWf0O1gb8bLsTE2_o0?feat=embedwebsite">https://lh4.googleusercontent.com/-A9JKRlyFTcU/UbSiY8ecN9I/AAAAAAAAPa0/eMAT7zOBUY0/s400/catarina_furtado0094.jpg</imagem>
+
+<bloco titulo="Citações">
+
+	<citacao href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=xWiGuUY66vU#t=168s" fonte="Canções da Nossa Vida" ano="1998">
+		<p>Fui à procura de muito mais que uma formação. Fui à procura duma paz interior, porque as coisas passaram-se muito depressa e a minha imagem ultrapassou-me, ou seja, eu era falada, era conhecida sem que as pessoas soubessem exactamente quem eu era e, sobretudo, o que me assustou mais foi, na altura em que eu estava a fazer o "Chuva de Estrelas", eu pensar: se não sair agora, se calhar, fico lá para sempre.</p>
+	</citacao>
+	<citacao href="revista_maxima_2004.xml" fonte="Máxima" ano="2004">
+		<p>Eu sempre soube o que não queria. O que não sabia era o que eu queria, exactamente. Por isso mesmo tirei o curso de dança e formei-me em dança. Depois, tirei Jornalismo no Cenjor. De repente, percebi que havia ali qualquer coisa que estava guardada há muito tempo que, afinal, não era jornalismo, mas sim a vontade de representar. Não sabia exactamente o que queria, mas sabia o que não queria. E desde muito cedo percebi a importância do não. Desde muito cedo que soube que o não era mais importante do que o sim. De repente, as coisas começaram a acontecer um pouco por acaso, como a televisão. A certa altura tive de dizer que não outra vez. Foi nessa altura que eu fui para Londres. Quando vim, sabia que tinha de delinear a minha carreira de outra forma.</p>
+	</citacao>
+	<citacao href="revista_luxwoman_maio2011_01.xml" fonte="LuxWoman">
+		<p>À data, Catarina <q>não tinha certeza nenhuma do que queria na vida</q> Essas dúvidas viraram angústias: <q>A ideia de poderem limitar-me só àquela imagem... Aquilo era o que eu estava a fazer, mas a minha vida era outra para além daquilo. Lembro-me de sentir essa pressão e de querer fazer outras coisas, inclusive do ponto vista interior.</q> A filha da professora e do jornalista sentia que tinha de crescer, de aprender outras coisas, de se pôr em causa. Pensado e feito. Mudou-se para Londres e cursou teatro. Ficou por lá três anos. Recorda: <q>Estava decidida a deixar a televisão, queria só representar.</q> E enquanto tirava o curso, também tinha dúvidas se o seu futuro estaria na representação...</p>
+	</citacao>	
+	<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+		<p>- Quis sair daqui, estudar, testar-me, pôr-me à prova, ter medo, despir-me de uma certa imagem. Após tanta exposição, quis voltar a estar a sós comigo num sítio onde ninguém me conhecesse ou tivesse uma pré-imagem de mim. O que estava a fazer era pouco. Não queria ser a eterna menina do "Chuva de Estrelas".</p>
+		<p><i>- Como recorda a experiência em Londres?</i></p>
+		<p>- Foi duro. Estive sozinha durante três anos a estudar e a fazer testes e castings. Mal cheguei à escola comecei a fazer Shakespeare naquele inglês do Shakespeare... Hoje em dia, todas as actrizes portuguesas vão para Nova Iorque e para Londres fazer cursos curtinhos.</p>
+	</citacao>	
+	<citacao href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=M8VwgDFMdJE#t=1924s" fonte="5 Para a Meia-noite" ano="2012">
+		<p>Eu fui estudar representação para Londres durante três anos. Fiz muitos castings. É facil ir a um casting quando ninguém te conhece e tens uma entrega diferente. Eu senti mesmo falta de voltar ao meu pais.</p>				
+	</citacao>	
+	<citacao href="jornal_cm_20030928.xml" fonte="Correio da Manhã" ano="2003">
+		<p><i>Ao fim de todo este tempo em permanente ‘exposição’, é inevitável construir uma imagem. Isso não é sufocante?</i></p>
+		<p>Agora não, mas foi muito sufocante, eu diria até asfixiante. Foi por causa disso que há uns anos fui para Londres. Tinha uma imagem tão forte e tão exposta que o meu interior era uma coisa só minha. Custava-me estar reduzida ao ‘pacote exterior’. Quando voltei, comecei a ver as coisas de outra forma. Já não tinha a mesma ansiedade de mostrar aos outros que existia - para o melhor ou para o pior -para além dessa imagem.</p>
+		<p><i>Tornou-se mais claro onde é que acabava a Catarina Furtado e começava a Catarina?</i></p>
+		<p>Para mim sempre foi claro, o difícil era lidar com o facto de as pessoas me reduzirem a uma imagem. Hoje, isso deixou de ser importante. A minha preocupação é tentar fazer aquilo que gosto, e concretizar. Já não tenho a ingenuidade de desejar que o destino se encarregue de mim. Quero que o meu percurso dependa da minha vontade e que aquilo que faço, acima de tudo, me dê prazer.</p>			
+	</citacao>
+	<citacao href="revista_activa_maio2013.xml"  fonte="Activa" ano="2013">
+		<p>Foi uma decisão difícil e achei por bem falar com o dr. Balsemão pessoalmente. Quando lhe disse que iria desvincular-me, porque não era justo pedir à SIC para me manter porque iria estar 3 anos a estudar lá fora, a resposta foi... 'Nem pensar', iria fazer uma formação e que isso também era bom para a SIC. Nunca vou esquecer isso e agradeço-lhe até hoje. Foi isso que me permitiu explorar o meu lado de jornalista e entrevistar várias celebridades internacionais... e fazer concorrência ao Mário Augusto.</p>
+	</citacao>
+	<citacao href="revista_seleccoes_2001.xml" fonte="Selecções Reader's Digest" ano="2001">
+		<p>A certa altura, achei que já não queria mais, porque tive a percepção clara de que iria continuar no "Chuva de Estrelas" e em programas do género, e se calhar tive um pânico. Hoje, com a distância, já fez três ou quatro anos, percebo que foi um ataque de pânico que me fez ir embora, juntamente com a vontade de representar e de descobrir outras coisas a meu respeito. Mas foi sobretudo um ataque de pânico, de sentir que podia ficar fechada, só a fazer aquele tipo de programas, e eu achava que podia aprender muito mais e ser muito útil noutras coisas.</p>				
+	</citacao>
+	<citacao href="revista_publica_20070909.xml" fonte="Pública" ano="2007">
+		<p><q>Quando houve o 'boom' do Chuva de Estrelas, comecei a suspeitar que se deixasse as coisas correrem ia continuar a fazer 'chuvas de estrelas', metaforicamente falando, para o resto da vida. Percebi que se não fosse eu a travar ia ficar rotulada e muito infeliz. É uma coisa que se faz durante um período, corre bem, mas depois parte-se para outra</q>.</p><p>Decidiu então explorar uma coisa diferente: a representação. Quando andava no Conservatório diziam-lhe que tinha jeito, mas ela queria confirmar. <q>Queria também viver fora de Lisboa e perceber o que é estar sozinha, sem os olhos postos em cima de mim e sem este cobertor de mimos que tenho naturalmente, com a família e os amigos. Queria destapar-me um bocadinho disso e ver como sobrevivia</q>. Pegou no dinheiro que tinha ganho na SIC, candidatou-se a várias escolas, acabou por escolher, alugou um quarto e mudou-se para Londres.</p><p>Dividia a casa com um casal de ingleses com os quais achava que iria poder praticar a língua. Mas enganou-se. <q>Eles estavam muito apaixonados, e foi uma seca porque quando eu pensava que ia falar com eles, fechavam-se no quarto a fazer amor</q>. Ela via televisão, lia jornais, mas lembra-se de esse primeiro ano ter sido <q>muito difícil, porque muito solitário</q>.</p><p>Em Londres aprendeu o que é ter tempo. Sentava-se nos cafés, observava as pessoas, ás vezes metia conversa com elas, e escrevia sobre o que ia descobrindo. Tudo partiu de um desafio do jornalista Sena Santos, que lhe propôs fazer, para a Antena 1, bilhetes postais da capital britânica. Pela primeira vez, Catarina mostrou (ou melhor, leu) publicamente aquilo que escrevera. <q>Sempre escrevi muito. Mas nunca para mostrar. Nunca senti que fosse uma escrita editável. Mas acho que era uma boa escrita falada, e por isso achei que as crónicas para a rádio podiam funcionar bem</q>.</p><p>Antes disso, mais pequena, escrevia histórias que inventava, um diário, que abandonou rapidamente — <q>gosto muito de ler diários, mas acho horrível escrever um, sobretudo em vidas em que não acontece nada de especial</q> — e cartas, aos amigos, e, recorda, ao pai, quando este sofreu um atentado à bomba na Nicarágua e esteve internado num hospital na Costa Rica.</p><p>Mas a razão da estadia em Londres não era a escrita, e sim a representação. Também aí aprendeu muito — sobretudo a <q>lidar com a rejeição</q>. <q>Ainda fiz muitas coisas, porque eles lá têm imensas curtas-metragens e eu entrei em várias, sempre a fazer de porto-riquenha, de espanhola ou de mexicana, nunca de portuguesa. Também fui recusada para muitas coisas, o que é importante porque não tinha vivido isso cá</q>. No terceiro ano, estava completamente adaptada e já nem lhe apetecia vir embora. <q>Mas achei que tinha uma porta aberta em Portugal e que não fazia sentido fechá-la durante muito tempo</q>. Decidiu tentar representar em Portugal, <q>sabendo à partida que os preconceitos seriam muitos, que teria que lidar com as ideias feitas sobre 'a apresentadora que quer ser actriz'</q>.</p>													
+	</citacao>
+	<citacao href="https://picasaweb.google.com/lh/photo/CHRA5iUfcfmdoHgW6kxZhumEfnfUGNb0AsFKwQS2siw?feat=directlink" fonte="Elle" ano="1994">
+		<p>Mas Rangel já lhe disse que talvez em Janeiro de 95 possa voltar a andar às voltas com a informação, as notícias, as reportagens, num projecto que ela própria apresentou. Talvez a travessia termine aí e ela possa fazer o curso de História de Arte que agora meteu na cabeça.</p>													
+	</citacao>
+	<citacao href="revista_cosmopolitan_outubro2000.xml" fonte="Cosmopolitan" ano="2000">
+		<p>Porque toda a gente falava de mim, partia do princípio que me conhecia muito bem, e eu, com 19 anos, se ainda hoje me conheço pouco, como é que todos sabiam que eu era isto ou aquilo? Andava eu à procura das minhas vontades, dos meus desejos e todos sabiam taxativamente quem eu era. Isso irritou-me muito. Tornei-me mais desconfiada, que nunca fui, gosto de me entregar, foi complicado. Tive de recuar um bocadinho, de remar contra uma maré. Se a minha vida profissional estava a correr muito bem, havia qualquer coisa cá dentro que me dizia que não devia prosseguir como os outros achavam que eu deveria seguir e foi quando decidi ir lá para fora, aprender mais; porque, senão, se calhar, hoje estava a fazer a mesma coisa que há dez anos.</p>
+	</citacao>
+	<citacao href="revistas_luxwoman_junho2002.xml" fonte="Lux Woman" ano="2002">
+		<p>Eu já tinha saído de casa aos 19 anos, mas era, e sou, emocionalmente muito dependente dos meus pais. O que foi mais importante para mim, e que compensou todas essas coisas de estar sozinha — as saudades, o facto de estar a fazer um curso difícil —, foi fazer as audições para as escolas e ter entrado, foi fazer o curso, fazer os <i>castings</i> e ficar em alguns. Essas conquistas eram fundamentais para mim, naquele ponto da minha carreira, porque ali eu era mais uma. Era fundamental passar por aquilo tudo.</p>
+	</citacao>
+	<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+		<p><small>Nunca se chateou com Rangel?</small></p>
+		<p>Não. Tivemos só algumas discordâncias quando eu quis ir para Londres estudar representação. Ele tinha vontade de repetir o 'Chuva' e achava uma burrice minha ir para fora. O doutor Balsemão, pelo contrário, apoiou-me. Acabei por ir durante três anos [1995, 1996 e 1997].</p>	
+	</citacao>
+	<citacao href="revista_tvguia_20131201.xml" fonte="TV Guia" ano="2013">
+		<p>Só comia papas. Sanduíches durante o dia e papas ao jantar. Quando lá estava a minha amiga Rita Fernandes, com quem partilhei casa, era ela que cozinhava.</p>
+	</citacao>
+	<citacao href="revista_tabu_20140117.xml" fonte="Tabu" ano="2014">
+		<p>Foi aí que resolvi ir tirar o curso de representação em teatro e cinema para Londres. Propus ao Dr. Balsemão sair dos quadros porque não achava justo estar longe durante três anos lectivos. Nunca hei-de esquecer a resposta dele: 'Não concordo. Acho que deve ir na mesma, vai fazendo entrevistas aos actores, produtores e realizadores de cinema e envia para cá e a SIC só terá a ganhar com a sua formação'.</p>
+	</citacao>
+
+</bloco>
+
+</corpo>
+
+</pagina>
+
+<!-- Apontamentos
+Catarina Furtado tinha apenas 20 anos quando viu Emídio Rangel desafiá-la a "voos mais altos". "Ele, primeiro, quis que eu fizesse um curso de pivô, e eu fi-lo com a Alberta Marques Fernandes, o José Alberto Carvalho e outros colegas da área. Mas depois acabou por achar que eu tinha capacidades para abraçar um programa de entretenimento", começa por recordar ao IN" a atual apresentadora da RTP1. "O "Chuva de Estrelas", naquela altura, era uma das grandes apostas de programação da SIC. Eu ainda lhe disse que não estava preparada para fazê-lo, mas ele, com a sua capacidade mobilizadora e inquestionável capacidade de argumentação, acabou por me convencer de que seria capaz. E a verdade é que fui", lembra Catarina, que se estreou na SIC a apresentar "MTV Portugal" e vestiu a camisola de Carnaxide até 2002. Para ela, Emídio Rangel foi um "tutor". "Conheci-o ainda em criança, o meu pai [o jornalista Joaquim Furtado] também esteve associado à criação da rádio TSF. Eu cresci com ele. Entre nós, havia uma admiração mútua", sublinha. 
+http://www.jn.pt/PaginaInicial/Gente/Interior.aspx?content_id=4080133
+-->

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pontuais.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>A Aventura do Conhecimento - Sapo Challenge RTP</titulo>
+	<descricao>Concurso conduzido pela Catarina em que equipas de jovens usam a internet para encontrar respostas a desafios.</descricao>
+	<data><ano>2005</ano><mes>5</mes><dia>28</dia></data>
+	<data><ano>2005</ano><mes>7</mes><dia>2</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-uq_noGpkrLE/U--ggCFqY2I/AAAAAAAAoeY/DQoUidA5DYo/s0/CatarinaFurtado_AventuraConhecimento_Jul2005_020004.jpg</fundo>
+</cabecalho>
+
+<corpo>
+						
+<citacao fonte="Sinopse" autor="RTP">
+	<p>A Aventura do Conhecimento - Sapo Challenge RTP é um concurso juvenil onde são lançados desafios diferentes em cada uma das partes do programa, com a finalidade de apurar o vencedor dos quatro Clãs que se defrontam.</p>
+	<p>A participação de cada Clã alterna-se entre a investigação on-line dos Pesquisadores (dois membros em estúdio) e o cumprimento das provas dos Exploradores (três membros no exterior), para o acesso às pistas necessárias para a obtenção das respostas correctas.</p>
+	<del><p>A comunicação entre os Pesquisadores e Exploradores do mesmo Clã é feita tendo como base as potencialidades dos serviços móveis e da Web (Wi Fi, SMS, MMS, telemóvel 3G, mensageiro do sapo, mail, etc).</p>
+	<p>Ao longo de 6 programas, um concurso de cariz pedagógico que promove a investigação de conhecimentos úteis, on-line.</p>
+	<p>A RTP1 exibe "A Aventura do Conhecimento - Sapo Challenge RTP", concurso dirigido ao público juvenil, que tem como objectivo a transformação, como grande prémio final, de uma escola do País na mais moderna da Europa em termos tecnológicos.</p>
+	<p>A Aventura do Conhecimento - SAPO Challenge RTP é constituído por seis sessões, mantendo o espírito inicial do projecto e vai chegar a todo o País. As sessões serão gravadas no Porto, Aveiro, Évora e Faro.</p>
+	<p>A Finalíssima terá lugar em Lisboa. Nesse momento, Portugal entrará no conjunto restrito de países onde a utilização das novas tecnologias no ensino passará a constituir uma referência.</p>
+	<p>A apresentação estará a cargo de Catarina Furtado e de outros cinco apresentadores que têm acompanhado o projecto PT Escolas desde Fevereiro.</p></del>
+</citacao>
+
+<elo href="http://videos.sapo.pt/Ts6znsVDgELRWlPFbB6u">Excerto do programa</elo>					
+<elo href="http://pt.wikipedia.org/wiki/SAPO_Challenge">Referência na wikipédia</elo>					
+
+</corpo>
+
+</pagina>
+<!--
+
+
+<a class="icon fotografia" href="" target="_blank"></a>
+
+APONTAMENTOS:
+
+‘A Aventura do Conhecimento’ estreia hoje na RTP1
+Catarina desafia Sapo
+
+A primeira sessão do concurso ‘A Aventura do Conhecimento – Sapo Challenge RTP’ estreia hoje, às 17h30, no canal público e terá, a partir da segunda emissão, a apresentação de Catarina Futado.
+
+    28 de Maio 2005, 00h00
+    Nº de votos (0)
+    Comentários (0) 
+
+ 
+
+Neste primeiro ‘capítulo’, Cristina Alves divulgará quais as 16 equipas finalistas, que procurarão atingir o grande prémio: transformar a respectiva escola na mais moderna da Europa.
+‘A Aventura do Conhecimento – Sapo Challenge’ procura despertar o público mais jovem para o meio de formação que é a internet, além da vertente de entretenimento.
+Catarina Furtado será acompanhada pelos cinco embaixadores correspondentes às tribos representantes dos estilos de vida dos mais jovens. Jadyn (Glammies), Márcio (Soundies), Mário (Techies), Ricardo (Sporties) e Ana (Pro-activists) foram escolhidos num ‘casting’ on-line realizado pelo Grupo PT.
+A Finalíssima terá lugar em Lisboa, a 2 de Julho.
+-->

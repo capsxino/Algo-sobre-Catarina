@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="coracoescomcoroa.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Cronologia</titulo>
+	<descricao>Da Associação Corações com Coroa</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<tabela titulo="Cronologia">
+	<tr><td>Dezembro de 2011</td><td>A primeira referência à CCC na imprensa aparece num artigo da revista Visão. As <i>t-shirts</i> "Princesas e Príncipes" são colocadas à venda.</td></tr>
+	<tr><td>4 de Janeiro de 2012</td><td>Os estatutos da associação são reconhecidos perante um notário.</td></tr>
+	<tr><td>Fevereiro de 2012</td><td>É criada a página no facebook.</td></tr>
+	<tr><td>Setembro de 2012</td><td>A sede da CCC, em Belém, acolhe as primeiras reuniões da equipa fundadora da associação.</td></tr>
+	<tr><td>7 de Novembro de 2012</td><td>É realizado a primeira conferência da associação, sobre o lema: "As meninas e as mulheres em primeiro lugar".</td></tr>
+	<tr><td>4 de Fevereiro de 2013</td><td>Inauguração oficial a sede e assinatura do protocolo com a Câmara Municipal de Lisboa.</td></tr>
+	<tr><td>28 de Junho de 2013</td><td>É assinado o acordo com a marca de joalharia David Rosas, no qual se firma o compromisso duma percentagem das vendas reverter para a associação.</td></tr>
+	<tr><td>21 de Agosto de 2013</td><td>Inicio das consultas gratuitas com uma psicóloga, na sede da CCC.</td></tr>
+	<tr><td>15 de Novembro de 2013</td><td>Realiza-se a segunda conferência da CCC sobre o tema "Como se Esconde a Desigualdade em Portugal" e são entregues os primeiros prémios de comunicação "Corações Capazes de Construir".</td></tr>
+	<tr><td>17 de Dezembro de 2013</td><td>ISCSP acolhe a conferência "Direitos Humanos e Desenvolvimento - o lugar da investigação e acção académica".</td></tr>
+	<tr><td>15 de Janeiro de 2014</td><td>É colocado na internet o primeiro video da campanha "Continuamos à Espera".</td></tr>
+	<tr><td>15 de Setembro de 2014</td><td>Têm inicio o primeiro Curso de Formação para o Voluntariado na sede da CCC.</td></tr>
+</tabela>
+
+</corpo>
+
+</pagina>

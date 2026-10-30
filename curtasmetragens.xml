@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="atriz.xml" estado="incompleta" titulo="Curtas-metragens">
+
+<corpo>
+
+<arvore poda="curtasmetragens.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>

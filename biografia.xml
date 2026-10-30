@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="inicio.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Biografia</titulo>
+	<descricao></descricao>
+	<data><ano>1972</ano><mes>8</mes><dia>25</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+				
+<bloco titulo="Etapas da Vida">
+
+<incorporar>biografia_1972_1991.xml</incorporar>
+<incorporar>biografia_1991_1995.xml</incorporar>
+<incorporar>biografia_1995_1998.xml</incorporar>
+<incorporar>biografia_1998_2003.xml</incorporar>
+<incorporar>biografia_2003_2006.xml</incorporar>
+<incorporar>biografia_2006_2012.xml</incorporar>
+<incorporar>biografia_2012_.xml</incorporar>
+
+<h2>Dos primeiros anos na RTP até ao nascimento da Beatriz (2003 até 2006)</h2>
+<h2> (2006 - 2012)</h2>
+
+</bloco>
+
+<bloco titulo="Família e Amigos">
+
+<citacao href="revista_tvguia_20141214.xml" fonte="TV Guia" ano="2014">
+	<p>Fazemos sempre um grande espectáculo, em que todos os membros da família participam, sobretudo, os mais pequenos. Gosto muito de encenar, produzir e representar este espectáculo de variedades caseiro, que antecede sempre a chegada do Pai Natal lá em casa.</p>	
+</citacao>
+
+<incorporar>pai.xml</incorporar>
+<incorporar>mae.xml</incorporar>
+
+<bloco titulo="A irmã, Marta">
+<!--
+- irmã: nós temos 5 anos de diferença: eu estava no beliche de cima, ela no de baixo. Adormecia de mão dada com ela, contava-lhe histórias e falavamos de deus. a minha irmã foi a minha primeira filha.
+(Alta Definição)
+-->
+<citacao href="publico_20150607.xml" autor="Helena Furtado" fonte="Público" ano="2015">
+	<p>A Marta só vestia, só calçava o que a Catarina lhe dizia. “Tu não sabes, a Catarina é que sabe.”</p>
+</citacao>
+</bloco>
+
+
+<bloco titulo="Avós, Bisavós e primos">
+<!--
+A ponte da Arrábida, na cidade do Porto faz 50 anos! Quem a projectou foi o meu tio avô, o engenheiro Edgar Cardoso (irmão da minha avó Amélia), por quem eu e toda a familia tínhamos uma grande admiração, orgulho e carinho! O tio Edgar faria 100 anos. Os dias especiais devem ser assinalados e partilhados!
+(fb 22/6/2013)
+***
+O Avô Paterno, António Furtado:
+ver video de penamancor e video do natal dos hospitais
+Era bombeiro profissional https://www.facebook.com/photo.php?fbid=215032401989758&set=pb.107792466047086.-2207520000.1378395752.&type=3&theater#
+https://picasaweb.google.com/lh/photo/CLN6UAmEMxdu0GsVrBJVdqJWn-jLBQ29wGzPXExP_EM?feat=directlink
+-->
+	<citacao href="https://picasaweb.google.com/lh/photo/zS4OI20-7Ax5ziMcHLvO9F3rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="Lux">
+		<p>Tenho sangue goês. Embora não vá poder ir a Goa, sinto uma emoção especial. Sei que vou sentir o sangue. O meu bisavô era de Goa e lindo de morrer.</p>
+	</citacao>
+	<citacao href="https://picasaweb.google.com/lh/photo/kL_RFJ3yA__x_6RjwMz6SV3rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="TV7Dias" ano="2012">
+		<p>Sinto que, por estar na terra da qual era oriundo o meu bisavô materno, o sangue vai ferver-me nas veias. Só eu e a minha irmã, Marta, é que temos estes traços. O meu bisavô tinha olhos verdes e era lindo de morrer!</p>
+	</citacao>
+	<elo href="https://www.youtube.com/watch?v=BYXH3g08TiE">A Catarina visita Penamacor com o avô paterno</elo>	
+</bloco>
+				
+<incorporar>joaoreis.xml</incorporar>
+<incorporar>filhos.xml</incorporar>
+<incorporar>diogoinfante.xml</incorporar>	
+<incorporar>summermoments.xml</incorporar>	
+<incorporar>ricardofreitas_hugogoncalves.xml</incorporar>	
+<incorporar>nunobaltazar.xml</incorporar>	
+
+<bloco titulo="João Gil">
+<!--
+Começaram a namorar em 1996 ainda namoravam em 2001
+-->
+<citacao href="revista_cosmopolitan_outubro2000.xml" fonte="Cosmopolitan" ano="2000">
+	<p>A minha história com o João é um bocadinho um amor à primeira vista, no sentido de admiração, que veio muitos anos antes, mas não era, no início, amor.</p>					
+</citacao>
+</bloco>
+
+</bloco>
+
+<bloco titulo="Links">
+<elo href="revista_tabu_20140117.xml">Entrevista sobre a carreira na revista Tabu em 2014</elo>	
+<elo href="https://picasaweb.google.com/116136255703077903546/Biografia?authuser=0&amp;authkey=Gv1sRgCKGVn6-GsKPWxQE&amp;feat=directlink">Fotografias</elo>
+<elo href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=-Wfn51jNN88#t=779s"></elo>
+<elo href="http://static.publico.clix.pt/tvzine/perfil.asp?id=25159"></elo>
+<elo href="http://joelneto-outros.blogs.sapo.pt/266.html"></elo>
+</bloco>
+
+</corpo>
+
+</pagina>
+
+<!--
+<h1>Biografia Incompleta</h1>
+<p><small>Em 2011 escrevi esta biografia da Catarina por desafio da Joana, a repórter web do programa "A Voz de Portugal". O texto é bastante limitado e feito para encaixar no <i>site</i> do programa. Público-o aqui, provisoriamente, enquanto não construo uma biografia completa.</small></p>
+<blockquote><b>Gosto de pessoas. Gosto de descobrir pessoas e de partilhar sensações.</b></blockquote>
+<p>Nasceu em Lisboa a 25 de Agosto de 1972. Aos 9 anos era uma criança tímida. Entrou para a Escola de Dança do Conservatório Nacional por iniciativa dos pais que viram no ensino artístico a maneira de inverter essa timidez. Foram oito de formação determinantes para a personalidade da Catarina. Recém saída do conservatório magoou as costas no ensaio geral dum espectáculo, a lesão obrigou-a a uma pausa na carreira de bailarina. Sem feitio para estar parada resolveu procurar formação em jornalismo, ingressando no CENJOR em 1991.</p>
+<p>Ainda nesse ano surge o convite para apresentar um programa de música na RTP, o "Top +". Sem confiança na sua estreia como apresentadora declarou a sua disponibilidade para abandonar o programa, não o fez e começou uma carreira de 20 anos na televisão, cheia de projectos ligados à musica e à descoberta de novos talentos. Em 1992 muda-se para a recém criada SIC onde no ano seguinte apresenta o programa que a tornará conhecida do publico, o "Chuva de Estrelas", vencedora nas audiências e rompendo com a postura tradicional duma apresentadora de televisão.</p>
+<p>Aos 23 anos, quando começa a ser um caso sério de popularidade, decide abandonar tudo e partir para Londres, para estudar representação no London International School of Acting. Regressa a Portugal e faz a sua estreia no Teatro, em 1999, com a peça "Quase". Seguem-se diversas subidas ao palco, a ultima em 2009 com "Transacções", peça protagonizada e produzida por ela. Entretanto faz cinema e ficção na televisão. Em 2004 contracena com João Reis na série "A Ferreirinha", com quem viria a casar e ter dois filhos. Em 2010 é a protagonista de "Cidade Despida", uma série policial inovadora da RTP. A inspectora Ana Belmonte é um dos papeis que mais se orgulha de ter representado e pelo qual recebeu diversas nomeações, entre as quais para o prémio de melhor actriz dramática no Festival de Televisão de Monte Carlo.</p>
+<p>Em 2001, como consequência da colaboração próxima com a APF (Associação para o Planeamento da Família), surge o convite para ser Embaixadora da Boa Vontade do UNFPA (Fundo das Nações Unidas para a População), organismo da ONU focado na melhoria das condições da mulher em países em desenvolvimento, através de programas de redução da pobreza, da promoção da igualdade de género, da gravidez segura e do combate ao Sida. Testemunho do seu empenho como Embaixadora são as series de reportagens "Dar Vida Sem Morrer" e "Príncipes do Nada", iniciadas em 2006 e ainda em aberto, onde pretende dar voz a quem não tem voz.</p>
+<p>Em 2003 regressou à RTP para apresentar a "Operação Triunfo", um concurso que procurava descobrir novos cantores. Em 2008 acontece o primeiro trabalho com a produtora CBV, "À Procura de Sally", para descobrir a protagonista do espectáculo musical "Cabaret". Ainda no mesmo ano apresenta "A Minha Geração", em co-autoria com a CBV, uma viagem pela musica e acontecimentos da segunda metade do século XX. Finalmente, em 2011, surge o convite para ser a apresentadora de "A Voz de Portugal", um programa de televisão que promete ser diferente...</p>
+<p>...esta é uma biografia incompleta da Catarina, podia escrever-se mais, podia dizer-se que ela acha que não tem voz para cantar mas que é autora de letras de canções que toda a gente canta... "Espreito por uma porta encostada. Sigo as pegadas de luz"... Lembram-se desta?</p>
+-->

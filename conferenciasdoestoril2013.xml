@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="embaixadora.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Conferências do Estoril</titulo>
+	<descricao>Convidada Especial das Conferências do Estoril.</descricao>
+	<data><ano>2013</ano><mes>4</mes><dia>30</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 30 de Abril de 2013, a Catarina foi a convidada especial da gala das <a href="http://www.conferenciasdoestoril.com">Conferências do Estoril</a>. De dois em dois anos os participantes partilham as suas ideias sob a perspectiva <cite>Global Challenges, Local Answers</cite>. Após o jantar que decorreu no Salão Preto e Prata, a Catarina subiu ao palco para apresentar um curto video e falar sobre a sua experiência como Embaixadora de Boa Vontade do FNUAP.</p>
+
+<elo href="http://www.youtube.com/watch?v=OI7FzTrc1xE">Declarações para a TV Portugal</elo>
+<elo href="http://www.youtube.com/watch?v=cqOPtkb6J3U">O primeiro dia das conferências em resumo</elo>
+<elo href="https://www.youtube.com/watch?v=zVGLteNWqB8">Excertos do "Príncipes do Nada" apresentados nas Conferências do Estoril 2013 (video)</elo>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Caça ao Tesouro</titulo>
+	<descricao></descricao>
+	<data><ano>1994</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-KcUL57hXXXI/Vi0xU1a0TXI/AAAAAAAAtfw/A7TJPo_cfKM/s0-Ic42/Ca%2525C3%2525A7a%252520ao%252520Tesouro.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p>Deu-me uma escola que mais nenhum programa me deu. Tinha que improvisar a toda a hora. Não tinha texto, não tinha guião e nem sequer sabia o que ia acontecer. Era maquilhada e punham-me às nove da manhã com o comandante Souto dentro do helicóptero. A única coisa que sabia era o destino e na véspera, estudava um pouco da História da localidade. Quando aterrava tinha sempre uma massa gigantesca de gente a querer dar-me força e beijinhos.</p>
+</citacao>
+
+<elo href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=iWiKs2sWDAE#t=108s">Conversa entre a Catarina e a Rita Blanco no "5 Sentidos" em 2012</elo>
+<elo href="http://www.youtube.com/watch?v=yWcgq7UpcbY#t=1089s">Fala sobre o programa no "Show Markl" em 2011</elo>
+<elo href="https://picasaweb.google.com/lh/photo/sMJJBscQXDOwciUHvC0QMOmEfnfUGNb0AsFKwQS2siw?feat=directlink">Um recorte da imprensa</elo>
+<elo href="https://vimeo.com/103241383">Selecção de momentos do programa (video)</elo>
+<elo href="http://enciclopediadecromos.blogspot.pt/2014/10/a-caca-ao-tesouro-1994.html"></elo>
+
+</corpo>
+
+</pagina>
