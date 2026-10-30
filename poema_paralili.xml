@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="poesia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Poema para Lili</titulo>
+	<descricao>A Catarina diz o poema de Fernando Pessoa.</descricao>
+	<data><ano>2009</ano><mes>3</mes><dia>21</dia></data>
+	<fundo>https://lh5.googleusercontent.com/-c1QtD20Zx6I/UzFRl8oAoJI/AAAAAAAAi_U/x5vOCFRM25s/s0/CatarinaFurtado_PoemaLili_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A Catarina diz um poema de Pessoa em 'PESSOA PESSOAS', uma série de 30 programas produzidos em 2009 para a Casa Fernando Pessoa, no âmbito da comemoração dos 120 de nascimento do autor. Passaram na RTP durante o mês de Junho. Todos os programas foram filmados na Casa Fernando Pessoa durante cinco dias.</p>
+			
+<letra titulo="'Poema para Lili' de Fernando Pessoa">
+	Levava eu um jarrinho<br />
+	P'ra ir buscar vinho<br />
+	Levava um tostão<br />
+	P'ra comprar pão:<br />
+	E levava uma fita<br />
+	Para ir bonita.<br />
+	<br />
+	Correu atrás<br />
+	De mim um rapaz:<br />
+	Foi o jarro p'ra o chão,<br />
+	Perdi o tostão,<br />
+	Rasgou-se-me a fita...<br />
+	Vejam que desdita!<br />
+	<br />
+	Se eu não levasse um jarrinho,<br />
+	Nem fosse buscar vinho,<br />
+	Nem trouxesse uma fita<br />
+	P'ra ir bonita,<br />
+	Nem corresse atrás<br />
+	De mim um rapaz<br />
+	Para ver o que eu fazia,<br />
+	Nada disto acontecia.
+</letra>
+		
+<grande><elo href="https://vimeo.com/21526202">'Poema para Lili' dito pela Catarina</elo></grande>
+
+</corpo>
+
+</pagina>

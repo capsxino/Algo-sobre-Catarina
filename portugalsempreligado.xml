@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Portugal Sempre Ligado</titulo>
+	<descricao>A Catarina interpreta um momento de teatro musical no espectáculo que comemorou os 56 anos da RTP.</descricao>
+	<data><ano>2013</ano><mes>3</mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-GcC4BKkbLAU/UVL_7PHX4QI/AAAAAAAAOjU/mSsXRPYlQ5M/s0-Ic42/CatarinaFurtado_PortugalSempreLigado_20130326_030000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 26 de Março de 2013, a RTP transmitiu em directo do Teatro Politeama, o espectáculo "Portugal Sempre Ligado". Com o pretexto de celebrar os 56 anos da RTP que tinham sido cumpridos no passado dia 7 de Março, varias caras da RTP integraram o mundo do teatro musical do Filipe La Féria.</p>
+<p>À Catarina coube a recriação dum momento do músical "Sweet Charity", o tema "Big Spender".</p>
+<p>No final, todos se juntaram no palco, para cantar o hino da RTP.</p>
+
+<imagem legenda="'Estes foram os dois vestidos escolhidos para a gala de ontem. Mais uma vez fiquei entregue ao bom gosto do Nuno Baltazar, os cabelos foram carinhosamente penteados pela Marina Cruz e a make up femme fatale é da autoria da mão certeira da Cris Gomes.'" href="https://picasaweb.google.com/lh/photo/c2mCPXQTkRYwk85YvnkaQIHtJCKNmWqq1oaMb9vCmmw?feat=embedwebsite">https://lh3.googleusercontent.com/-xo3wwdxbMuA/UVgvKCGefPI/AAAAAAAAOls/KnUAF60DjYg/s400/CatarinaFurtado_PortugalSempreLigado_578995_159807857512213_29125878_n.jpg</imagem>
+
+<grande><elo href="https://www.youtube.com/watch?v=gdn8qCZf2Xw">Dançar e cantar ao som de <cite>Big Spender</cite></elo></grande>
+<elo href="http://www.rtp.pt/programa/tv/p30020">O programa completo na RTP Play.</elo>		
+<elo href="http://www.youtube.com/watch?v=l2NeztrZcSw">Reportagem do "Praça da Alegria" sobre os ensaios.</elo>		
+<elo href="http://www.facebook.com/media/set/?set=a.495830553804705.1073741827.125383140849450&amp;type=3">Fotografias dos ensaios.</elo>		
+<elo href="https://picasaweb.google.com/116136255703077903546/PortugalSempreLigado?authuser=0&amp;authkey=Gv1sRgCPzLhJyPtZn8GQ&amp;feat=directlink">Imagens do Programa</elo>
+
+</corpo>
+
+</pagina>

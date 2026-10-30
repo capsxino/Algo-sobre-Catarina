@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Pequenos em Grande</titulo>
+	<descricao></descricao>
+	<data><ano>2005</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-Y_rUNqLNAzU/UpkdgEeGXdI/AAAAAAAARVQ/aQVR7AtwbJQ/s0-Ic42/CatarinaFurtado_PequenosEmGrande_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem href="https://picasaweb.google.com/lh/photo/7C0hXPsThPjaqHlx97Dx9nFcHMi2OF6LO51LpyNYd0U?feat=embedwebsite">https://lh3.googleusercontent.com/-_sL5_cuBh-A/UpkdgAPA0kI/AAAAAAAAsYg/6-2U3pwQk-s/s400-Ic42/CatarinaFurtado_PequenosEmGrande_02.jpg</imagem>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/PequenosEmGrande?authuser=0&amp;authkey=Gv1sRgCIGcl-aYtMCB7QE&amp;feat=directlink">Fotogramas do programa</elo>
+<elo href="revista_tvguia_janeiro2005_01.xml">Entrevista na TV Guia em 2005</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/os-miudos-terriveis-de-catarina"></elo>			
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="poesia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>À Memória da Céu</titulo>
+	<descricao>A Catarina diz o poema de Ruy Belo.</descricao>
+	<data><ano>2013</ano><mes>4</mes><dia>8</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-WDjt1MvmJG8/UzFS7G2Vi0I/AAAAAAAAi_0/R_S0VNrgBMU/s0/CatarinaFurtado_PnC_20130408_040000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Ruy Belo. A Catarina declarou ser ele o seu poeta favorito. No dia 8 de Abril de 2013, escolheu este poema para dizer. Dedicado ao Luiz Andrade. No dia do seu enterro.</p>
+<p>Luiz Andrade, a quem chamaram o Príncipe da Televisão, que disse ter orgulho da Catarina. Foi lembrado, dois dias após a sua morte, no programa <cite>Portugal no Coração</cite>.</p>
+<elo href="http://www.youtube.com/watch?v=MUxutm9-4mc">Catarina explica a escolha do poema no <cite>Portugal no Coração</cite></elo>
+<p>O José Cid acompanhou-a ao piano. O momento não foi ensaiado, se o tivesse sido então talvez não fosse dito de maneira tão honesta. A Catarina começa. Posta repentinamente no palco. Passo a passo diz cada palavra. Até as assumir como suas. Até ser totalmente verdadeira quando diz: <q>não preciso de menos que todos os meus amigos</q>.</p>
+
+<letra titulo="'À Memória da Céu', de Ruy Belo, do livro 'Homem de Palavra[s]'">
+	Não preciso de menos que todos os meus amigos<br />
+	mas dizem-me que a teus ouvidos já a voz não soa<br />
+	nem sabes já como neste mês de outubro<br />
+	chega a ser agradável passear por lisboa<br />
+	<br />
+	Não comes castanhas não sentes o frio<br />
+	nem mais connosco te sentas à mesa<br />
+	Qual é a tua nacionalidade<br />
+	tu que antes eras portuguesa?<br />
+	<br />
+	Cansaste-te e foste-te embora<br />
+	não passarão por ti mais primaveras<br />
+	fosses pra onde fosses foste decerto<br />
+	para o país donde afinal eras<br />
+	<br />
+	As coisas todas pouco mudaram<br />
+	sabem-nos bem alguns bocados<br />
+	e no entanto tudo mudou<br />
+	já não nos sentimos por ti olhados<br />
+	<br />
+	Falamos de ti no passado<br />
+	como se tu estivesses morta<br />
+	mas tu és tudo e tivesse eu casa<br />
+	tu passarias à minha porta<br />
+	<br />
+	Não preciso de menos que todos os meus amigos<br />
+	não te vemos mas estás connosco<br />
+	se não ao lado dentro de nós<br />
+	no frio de março no calor de agosto<br />
+	<br />
+	Nos dias de hoje ou nos tempos antigos<br />
+	não preciso de menos que todos os meus amigos
+</letra>
+
+<grande><elo href="http://www.youtube.com/watch?v=9vcH7FuP0IM">Catarina diz o poema no <cite>Portugal no Coração</cite></elo></grande>
+
+</corpo>
+
+</pagina>

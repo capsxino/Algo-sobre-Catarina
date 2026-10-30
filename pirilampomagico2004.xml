@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pirilampomagico.xml" estado="completa">
+
+<cabecalho>
+	<titulo>A Arte do Pirilampo Mágico</titulo>
+	<descricao>Apresenta a gala da campanha do Pirilampo Mágico.</descricao>
+	<data><ano>2004</ano><mes>6</mes><dia>1</dia></data>
+	<fundo>https://lh5.googleusercontent.com/-tI4l45dnelw/Us2TJ1KUdkI/AAAAAAAAUEg/NPm6T1HgNmE/s0/CatarinaFurtado_PirilampoMagico_1Jun2004_012_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Transmitida em directo do Coliseu dos Recreios, no dia 1 de Junho de 2004, celebrando também o dia da criança, a gala foi apresentada pela Catarina Furtado e pelo Jorge Gabriel.</p>
+
+</corpo>
+
+</pagina>

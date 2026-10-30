@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Primavera da Vida</titulo>
+	<descricao>Apresenta o espetáculo que culminou a emissão especial da RTP de apoio à recolha de fundos para Associação Portuguesa Contra a Leucemia.</descricao>
+	<data><ano>2012</ano><mes>4</mes><dia>19</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-qE3vkH8E0KI/UD06MzOqlVI/AAAAAAAANXU/Tix_zlnejho/s0/CatarinaFurtado_PrimaveraVida_20120419_040000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 19 de Abril de 2012 a RTP associou-se a Associação Portuguesa Contra a Leucemia <a href="http://www.apcl.pt/">(APCL)</a> numa campanha de angariação de fundos e de sensibilização e apelo para a doação de medula óssea. O dia terminou com a transmissão em direto do Pavilhão Atlântico do espectáculo «Primavera da Vida» com nomes grandes da música: Camané, Luís Represas, Rui Veloso, João Gil, Carminho. Boss AC, Nancy Vieira e Paulo Flores, acompanhados pela Orquestra Filarmónica das Beiras. O espectáculo teve a direção artística de Rui Veloso. A Catarina entrevistou os artistas e introduziu os momentos musicais a partir do topo do pavilhão.</p>
+<p>Durante o dia a RTP transmitiu o programa <cite>Solidários até à medula</cite> que acompanhou os ensaios para o espectáculo da noite. Na entrevista a Catarina transparece alguma frustração, talvez justificada pelo que foi noticiado, no dia seguinte, pelo Correio da Manhã: a direção artística não contou com a Catarina para apresentar a gala no palco. O espectáculo correu bem e a Catarina mostrou o profissionalismo de sempre na função que lhe coube na apresentação da gala.</p>
+
+<elo href="http://www.youtube.com/watch?v=7g9o8mWvI0g">Catarina nos ensaio para o espectáculo</elo>
+<elo href="http://www.lux.iol.pt/nacionais/estrelas-da-musica-cantam-contra-a-leucemia-rui-veloso-luis-represas-leucemia-medula-ossea-catarina-furtado/1331268-4996.html">Apresentação à imprensa - Lux</elo>
+<elo href="http://fama.sapo.pt/evento/gala-contra-a-leucemia">Reportagem fotográfica - Sapo Fama</elo>
+
+</corpo>
+
+</pagina>

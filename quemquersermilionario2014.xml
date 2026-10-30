@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="convidada.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Quem Quer Ser Milionário - Especial Apresentadores</titulo>
+	<descricao>Emissão solidária de Natal do concurso da RTP.</descricao>
+	<data><ano>2014</ano><mes>12</mes><dia>30</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>O concurso da RTP entrou no espírito de Natal em 2014; numa emissão especial e solidária cujo prémio reverteu para a Comunidade Vida e Paz. Os apresentadores Vasco Palmeirim e Mariana Monteiro foram uns dos participantes, e contaram com a ajuda telefónica da Catarina Furtado.</p>
+<p>Telefona, a pedir ajuda, o Palmeirim à amiga Catarina que estava a acabar de ler uma estória ao filhote João - agora o João tem que dormir que a mãe está a espera dum telefonema do 'Palmeirinho'. O 'Palmeirinho' que - diz o João - é muito engraçado e parecido comigo quando era pequenino.</p>
+<p>O programa foi para o ar no dia 30 de Dezembro de 2014.</p>
+
+<elo href="https://www.youtube.com/watch?v=WXm5AtaFAVg">«Quem Quer Ser Milionário» com a ajuda da Catarina Furtado</elo>
+
+</corpo>
+
+</pagina>

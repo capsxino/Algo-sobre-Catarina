@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Quando eu for Grande</titulo>
+	<descricao>Dos sonhos de criança aos sonhos de hoje: uma conversa que passa pelos locais onde a Catarina cresceu e regressa para dançar.</descricao>
+	<data><dia>7</dia><mes>10</mes><ano>2013</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Dos sonhos de criança aos sonhos de hoje. Uma conversa que passa pelos locais onde a Catarina cresceu: do Bairro Alto até à Escola de Dança do Conservatório Nacional; da relação de sacrifício com as sapatilhas de ponta até ao medo da morte. Passa pelos sonhos presentes, na Associação Corações com Coroa, e pela coreografia do futuro; ao som das músicas a que deu as palavras.</p>
+
+<p>No final, regressa à sala de ensaio do Conservatório, à relação de amor com a dança. Nos braços do bailarino Benvindo Fonseca, sem sapatilhas de pontas, tem o sorriso duma indisfarçável felicidade.</p>
+
+<imagem>https://lh4.googleusercontent.com/-pDrqxQq1IWs/UlP9_1iZ0AI/AAAAAAAAQ_g/guiXDLEO3Vw/s800/CatarinaFurtado_QuandoEuForGrande_01r.gif</imagem>					
+
+<p>Eu, depois de ver a entrevista - da qual já conheço a maior parte das perguntas e respostas - voltei a dizer-me, baixinho: “Eu gosto da Catarina.”</p>
+
+<p>A peça, da autoria da jornalista Ana Sofia Fonseca, foi transmitida no Jornal da Noite da Sic, no dia 6 de Outubro de 2013.</p>
+
+<creditos>
+	<nome titulo="Autoria">Ana Sofia Fonseca</nome>
+	<nome titulo="Repórter de Imagem">Paulo Cepa e Carlos Aranha</nome>
+	<nome titulo="Edição de Imagem">Luís Gonçalves</nome>
+	<nome titulo="Produção">Sónia Ricardo</nome>
+</creditos>
+
+<grande><elo href="https://www.youtube.com/watch?v=cY2QvJ9sCXs">Catarina Furtado: Quando Eu For Grande</elo></grande>
+				
+</corpo>
+
+</pagina>

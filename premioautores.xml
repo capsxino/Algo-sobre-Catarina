@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Prémio Autores SPA/RTP</titulo>
+	<descricao>Apresenta a cerimónia anual de entrega de prémios da Sociedade Portuguesa de Autores em parceria com a RTP.</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Prémio Autores SPA/RTP">
+
+<p>O <cite>Prémio Autores SPA/RTP</cite> distingue o trabalho de criadores na área de atuação da Sociedade Portuguesa de Autores. Desde a sua primeira atribuição, em 2010, que a SPA organiza, juntamente com a RTP, um espectáculo para a revelação dos premiados e homenagem aos autores Portugueses.</p>
+<p><span style="text-decoration: line-through;">A Catarina apresentou as quatro primeiras galas.</span> Sendo ela também sócia da SPA e autora de letras para canções.</p>
+<incorporar>premioautores2009.xml</incorporar>
+<incorporar>premioautores2010.xml</incorporar>
+<incorporar>premioautores2011.xml</incorporar>
+<incorporar>premioautores2012.xml</incorporar>
+<incorporar>premioautores2014.xml</incorporar>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/PremioAutoresSPARTP?authuser=0&amp;feat=embedwebsite">Galeria de fotogramas das galas</elo>
+
+</bloco>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Pirilampo Mágico</titulo>
+	<descricao>Apresenta a gala da campanha do Pirilampo Mágico.</descricao>
+	<fundo>https://lh6.googleusercontent.com/-unE5PhDlpqE/Us2TKMf8QRI/AAAAAAAAUEU/ozQklmAtnpo/s0/CatarinaFurtado_SoVisto_Maio2005_010039.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Pirilampo Mágico">
+
+<citacao href="http://www.dn.pt/inicio/interior.aspx?content_id=599517&amp;page=-1" fonte="Diário de Noticias" ano="2005">
+	<p>A primeira campanha do Pirilampo Mágico realizou-se em 1987, a partir de uma proposta formulada pela RDP - Antena 1 e destinava-se exclusivamente a apoiar financeiramente as CERCI que, na altura, se debatiam com grandes dificuldades. [...] A FENACERCI representa 50 cooperativas, espalhadas por todo o país, que directa ou indirectamente facultam atendimento a quase sete mil crianças, jovens e adultos portadores de deficiência mental ou multideficiência.</p>
+</citacao>
+
+<p>A Mãe da Catarina, Helena Furtado, foi professora na CRINABEL, uma dessas cooperativas de ensino especial. A Catarina desde cedo lidou de perto com as crianças com deficiência, acompanhado-as e tomando conta delas durante as suas férias.</p>
+<p>Nos seu primeiros anos na RTP, apresentou 3 galas que visaram angariar apoio e dar visibilidade para a campanha do Pirilampo Mágico.</p>
+
+<incorporar>pirilampomagico2003.xml</incorporar>
+<incorporar>pirilampomagico2004.xml</incorporar>
+<incorporar>pirilampomagico2005.xml</incorporar>
+
+</bloco>
+
+</corpo>
+
+</pagina>

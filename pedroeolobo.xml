@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="narradora.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Pedro e o Lobo</titulo>
+	<descricao>Narração da obra de Sergei Prokofiev</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-BLNzxXRPwvk/VXAjmuwjiBI/AAAAAAAArf8/L4k2gwK8Nnk/s0/CapaCd.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="O CD «Pedro e o Lobo»">
+<p><cite>A maestrina Joana Carneiro dirige a Orquestra Gulbenkian no mais recente registo deste agrupamento, onde Catarina Furtado dá voz à narração da história de Pedro e o Lobo, de Sergei Prokofiev e do Guia da Orquestra para Jovens, de Benjamin Britten.</cite></p>
+<p><cite>Trata-se de um CD dedicado aos mais novos (mas também para toda a família), em que se associa à fruição musical propriamente dita a vertente pedagógica que aquelas obras contêm, sobretudo no que respeita ao reconhecimento das sonoridades dos vários instrumentos da orquestra. Em complemento, junta-se o célebre e divertido Carnaval dos Animais, de Camille Saint-Saëns, uma obra de referência para os pequenos melómanos, onde participam os pianistas António e Eurico Rosado.</cite></p>
+<p>O CD foi gravado no Grande Auditório da Fundação Calouste Gulbenkian, em Lisboa, no mês de Junho de 2010.</p>
+<grande><elo href="https://www.youtube.com/watch?v=zEmeRhuS718">Primeira faixa do CD</elo></grande>
+<elo href="http://www.musica.gulbenkian.pt/cgi-bin/wnp_db_dynamic_record.pl?dn=db_musica_discography_pt&amp;sn=discography&amp;orn=468">Algumas faixas do CD disponíveis para audição</elo>
+</bloco>
+
+<incorporar>pedroeolobo2010.xml</incorporar>
+<incorporar>pedroeolobo2012.xml</incorporar>
+<incorporar>pedroeolobo2013.xml</incorporar>
+
+<bloco titulo="Links">
+	<elo href="https://picasaweb.google.com/116136255703077903546/PedroEOLobo?authuser=0&amp;authkey=Gv1sRgCIa4-Ljf6sOVNA&amp;feat=directlink" >Imagens</elo>
+</bloco>
+
+</corpo>
+
+</pagina>

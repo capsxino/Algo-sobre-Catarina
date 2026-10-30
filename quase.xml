@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="teatro.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Quase</titulo>
+	<descricao>Estreia-se em teatro com a personagem <cite>Alice</cite>, na adaptação da peça <cite>Closer</cite> de Patrick Marber.</descricao>
+	<data><ano>1999</ano><mes>5</mes><dia>7</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-j4ExHcf54ys/T4bYFaP0R6I/AAAAAAAALj4/x821BwzVZ98/s622/Teatro_Quase_04.jpg</fundo>	
+</cabecalho>
+
+<corpo>
+
+<p><cite>Quase é uma peça sobre quatro pessoas, dois homens e duas mulheres, que se amam e se deixam, mentem e exigem a verdade num jogo de relações entre os sexos em que se reflecte o estilo de vida livre e intenso, característico dos habitantes das grandes cidades nos anos 90.</cite></p>
+<p>Foi a estreia da Catarina Furtado em teatro, no papel de <i>Alice</i>, na muito representada peça de Patrick Marber (<i>Closer</i> no original). Estreia no dia 7 de Maio de 1999, no antigo Teatro Aberto. Partilhou o palco com o Diogo Infante, que se tinha tornado um grande amigo; com a Ana Nave, com quem manteve uma relação próxima nos anos seguintes; e com o Virgílio Castelo.</p>
+<p>Depois de ter estudado representação em Londres e participado em diversos filmes e ficção para televisão, esta seria talvez a sua prova de fogo como atriz. Dois anos antes confessou ter medo de subir ao palco. Durante a rodagem do filme <i>Pesadelo Cor-de-rosa</i>, ao lado do Diogo Infante, disse-o, e o Diogo retorquiu: <q>Eu dou-lhe uns safanões e ponho-a em cima dum palco e vá!</q></p>
+<elo href="http://www.youtube.com/watch?v=uJ56_2hPlVE">Catarina e Diogo Infante na rodagem do <cite>Pesadelo Cor-de-rosa</cite></elo>
+<p>Foi premonitório. No teste que a Catarina fez para o papel de Alice, paralisou durante a contracena com o Diogo. Para resolver isto, ele gritou com ela, insultou-a de tal maneira que provocou nela uma reacção física e emocional tão genuína que lhe valeu a conquista do papel.</p>
+<elo href="http://www.youtube.com/watch?v=-Wfn51jNN88#t=1279s">Catarina no <cite>Biography Channel</cite></elo>
+<p>Um dia, perguntei-lhe: porque aceitava ou escolhia fazer uma personagem em teatro. Respondeu-me que tinha que ser muito diferente dela. A Catarina, que é incapaz de dizer um palavrão, solta-os em palco! A menina, que chorou quando teve que cortar o cabelo para o <i>Top+</i>, muda voluntariamente de visual pelo teatro. Para a <i>Quase</i>, cortou o cabelo radicalmente curto. Ficou loira para a <i>Loucos por Amor</i>, e fez franja para a <i>Transacções</i>.</p>
+
+<grande>
+	<elo href="https://picasaweb.google.com/116136255703077903546/Quase?authuser=0&amp;authkey=Gv1sRgCMvPvtyAmaWfHg&amp;feat=directlink">Galeria de fotografias de cena</elo>
+</grande>
+<elo href="publico_19990507.xml">Artigo do jornal Público</elo>
+
+<citacao ano="1999" fonte="Passeio da Fama" href="http://www.youtube.com/watch?v=848TQymHrVI#t=3538s">
+	<p>Todo aquele nervosismo, todo aquele entusiasmo, que chegava a ser quase infantil, porque eu andava completamente eufórica.</p>
+</citacao>
+<citacao ano="1998" fonte="Canções da Nossa Vida" href="http://www.youtube.com/watch?v=xWiGuUY66vU#t=295s">
+	<p>As poucas coisas que fiz em cinema nunca me transformaram emocionalmente como o teatro me está a fazer. [...] Eu chego a casa e estou constantemente com a minha personagem.</p>
+</citacao>
+<citacao ano="2012" fonte="Caras" href="https://picasaweb.google.com/lh/photo/21OzkqWUzSkz1oCQzoW17F3rYiS-9tvfO2fv7mBFXMs?feat=directlink">
+	<p>Há 21 anos estreei-me com esta peça no Teatro Aberto. Fazia o papel da Sara [Matos]. E percebi agora que ainda sei as falas de cor! Não fazia a mínima ideia de que ainda me lembrava de tantos diálogos.</p>
+</citacao>
+<grande>
+<citacao ano="2002" fonte="Lux Woman" href="revistas_luxwoman_junho2002.xml">
+	<p>Sei que por mais boas representações que faça, vai demorar algum tempo a ter outra imagem. No <i>Quase</i>, tive a felicidade de os críticos me terem dado muita força. Foi muito importante saber que os conhecedores de teatro gostavam do meu trabalho. (...) A crítica recebeu-me lindamente. E era algo que receava, porque o meio é muito fechado. Provavelmente, porque na representação não se mente e eles sentiram a minha dedicação, o amor, o esforço. A personagem Alice, do <i>Quase</i>, deu a volta à minha vida, à minha cabeça, porque era muito diferente de mim. Era uma mal-amada, amarga, desesperada, muito dura e sofrida e, provavelmente, as pessoas sentiram muito esse trabalho.</p>
+</citacao>
+</grande>
+<citacao ano="2014" fonte="Facebook" href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/284754078350923/?type=1">
+	<p>Foi uma verdadeira transformação emocional! A minha personagem, Alice, deu a volta à minha vida. Foi a minha estreia e desde aí, nunca mais consegui deixar de representar. Às vezes muito menos do que gostaria mas o tempo não estica.</p>
+</citacao>
+
+<creditos titulo="Ficha Artística">
+	<nome titulo="Data da estreia">7 de Maio de 1999</nome>
+	<nome titulo="Local">(Antigo) <a href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=56">Teatro Aberto</a></nome>
+	<nome titulo="Título Original">Closer</nome>
+	<nome titulo="Autor">Patrick Marber</nome>
+	<nome titulo="Versão">João Lourenço, Vera San Payo de Lemos</nome>
+	<nome titulo="Dramaturgia">Vera San Payo de Lemos</nome>
+	<nome titulo="Cenário e Figurinos">Vera Castro</nome>
+	<nome titulo="Luz">João Lourenço, Melim Teixeira</nome>
+	<nome titulo="Encenação">João Lourenço</nome>
+	<nome titulo="Interpretação">Ana Nave, Catarina Furtado, Diogo Infante, Virgílio Castelo</nome>
+</creditos>
+	
+<imagem href="https://picasaweb.google.com/116136255703077903546/Quase?authuser=0&amp;authkey=Gv1sRgCMvPvtyAmaWfHg&amp;feat=directlink">https://lh3.googleusercontent.com/-zejgZJT-KMg/UWKOWGSUhHI/AAAAAAAAOrU/HVWFxMPENcE/s400/CatarinaFurtado_Quase_20130207180820_0YP3K1PW86O727NR8578.jpg</imagem>
+
+</corpo>
+
+</pagina>

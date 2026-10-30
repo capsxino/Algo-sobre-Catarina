@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="premioautores.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Prémio Autores SPA/RTP 2009</titulo>
+	<descricao>Apresenta a primeira cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.</descricao>
+	<data><ano>2010</ano><mes>2</mes><dia>8</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-mLUfMZdGoyU/UTCI0lhfUQI/AAAAAAAAOSM/zV1QQAcw3Mg/s0/CatarinaFurtado_PremiosAutores_20100208_080006.jpg</fundo>
+</cabecalho>
+
+<corpo>
+	
+<p>No dia 8 de Fevereiro de 2010 foi realizada a primeira gala de entrega do Prémio Autores. O pai da apresentadora, Joaquim Furtado, recebeu das mãos da filha o Prémio para Melhor Programa de Informação pelo documentário "A Guerra". No ano anterior a RTP transmitiu a 2ª série do programa da autoria do jornalista.</p>
+			
+<elo href="https://picasaweb.google.com/lh/photo/yd_-Oyzk6_FEHaGCuxWWNKJWn-jLBQ29wGzPXExP_EM?feat=embedwebsite">Artigo da revista Caras</elo>
+<elo href="http://youtu.be/ievgmb9wLyg">«Só Visto!» na primeira Gala Prémio Autores 2010</elo>
+
+</corpo>
+
+</pagina>

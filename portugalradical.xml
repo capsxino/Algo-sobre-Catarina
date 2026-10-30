@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Portugal Radical</titulo>
+	<descricao>Roupa associada ao programa de desportos radicais da SIC</descricao>
+	<data><ano>1996</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh5.googleusercontent.com/--Ler9_-7U-0/U-_O3MEJLBI/AAAAAAAAoik/rKdJzws0caw/s0/CatarinaFurtado_PTRadical_040016.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Catarina Furtado, Rita Mendes, Raquel Prates e Rita Seguro, entre outros modelos, participaram numa produção da marca associada ao programa de desportos radicais da SIC, em 1996.</p>
+
+<grande><elo href="https://www.youtube.com/watch?v=nhuqpRtd_Wo">Video do Portugal Radical</elo></grande>
+
+</corpo>
+
+</pagina>

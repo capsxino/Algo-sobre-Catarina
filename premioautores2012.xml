@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="premioautores.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Prémio Autores SPA/RTP 2012</titulo>
+	<descricao>Apresenta a cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.</descricao>
+	<data><ano>2013</ano><mes>2</mes><dia>25</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-tupAGjUgXU0/US9BR-1vUQI/AAAAAAAAONo/fInHUzexG5Y/s0/CatarinaFurtado_PremioAutores_20130225_050000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Foi a quarta cerimónia de entrega de prémios conduzida pela Catarina mas desta vez a apresentação foi repartida com o Diogo Infante. A gala foi transmitida em direto do Centro Cultural de Belém no dia 25 de Fevereiro de 2013.</p>
+<p>Para mim, o momento mais engraçado da noite foi a conversa entre a Catarina e a escritora Alice Vieira que contrariou alguma da sisudez  da plateia.</p>
+
+<grande><elo href="http://www.youtube.com/watch?v=0qaCLaHtWMo">Selecção de bons momentos da gala</elo></grande>
+
+<citacao href="http://www.youtube.com/watch?v=otnOOIW0LFs" fonte="Conferência de imprensa" ano="2013">
+	<p>Um grande presente para uma apresentadora, como eu, que tem um carinho especial pelos autores e por aquilo que é a nossa história, o nosso património [...] Nós na RTP damos voz a áreas que normalmente não tem voz na televisão.</p>
+</citacao>
+
+<elo href="http://www.youtube.com/watch?v=otnOOIW0LFs">Conferência de imprensa na sede da RTP sobre o Prémio Autores 2013</elo>		
+<elo href="http://www.youtube.com/watch?v=tD1WSQP-C7U">Entrevista com os apresentadores do Prémio Autores 2013, Catarina Furtado e Diogo Infante</elo>		
+<elo href="http://www.propagandistasocial.com/2013/02/25/premio-autores-rtpspa-entrevista-com-os-apresentadores-video/">Entrevista com os apresentadores</elo>		
+<elo href="http://fama.sapo.pt/fotogaleria/gala-do-premio-autores-2">Reportagem do site Sapo Fama</elo>		
+<elo href="http://hardmusica.pt/noticia_detalhe.php?cd_noticia=15409">Reportagem do site Hard Musica</elo>		
+<elo href="http://www.rtp.pt/play/p1092/e109118/premios-autores-2013">Programa completo no site da RTP Play</elo>		
+
+</corpo>
+
+</pagina>

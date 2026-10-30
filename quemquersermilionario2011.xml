@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="convidada.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Quem Quer Ser Milionário</titulo>
+	<descricao>Especial de solidariedade</descricao>
+	<data><ano>2011</ano><mes>3</mes><dia>7</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia do 54º aniversário da RTP, várias caras da estação reuniram-se numa edição especial do <i>"Quem Quer Ser Milionário - Alta Pressão"</i>. O prémio do concurso reverteu para o Refugio Aboim Ascensão.</p>
+
+<p>A Catarina participou no concurso e falou com o Malato sobre, desde criança, conhecer os corredores da estação pública de televisão pela mão do seu pai, Joaquim Furtado, jornalista da RTP. Falou dos filhos. Em particular, contou uma história engraçada sobre a sua filha Beatriz...</p>
+
+<citacao autor="Catarina">
+	<p>Eu percorria os corredores da RTP [...] Para mim a rádio e a televisão sempre foram muito desmontadas porque eu vinha para cá com o meu pai [...] <b>Eu também nunca quis ser mas também nunca não quis ser.</b> Achei sempre que o meu futuro seria a dança. [...] O que eu queria era alguma coisa que me desse tanto prazer a fazer como aquilo que eu via no meu pai.</p>
+</citacao>
+
+<citacao  autor="Catarina" href="https://picasaweb.google.com/lh/photo/EfwwVs4GPArNVMCB_UHHK_lJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="TV Guia" ano="2011">
+	<p>Sou péssima em datas, até nas minhas próprias datas.</p>
+</citacao>
+
+<grande><elo href="https://www.youtube.com/watch?v=aQbYSMql7vw">Catarina Furtado no Quem Quer Ser Milionário</elo></grande>
+<elo href="http://www.imdb.com/title/tt1843653/">Página do IMDB</elo>
+<elo href="http://fama.sapo.pt/noticia/quem-quer-ser-milionario">Reportagem do Sapo Fama</elo>
+<elo href="https://picasaweb.google.com/lh/photo/EfwwVs4GPArNVMCB_UHHK_lJK2GXsaV1QbUbqHcERsw?feat=directlink">Artigo da TV Guia</elo>
+
+</corpo>
+
+</pagina>

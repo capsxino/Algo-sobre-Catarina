@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="premioautores.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Prémio Autores SPA/RTP 2010</titulo>
+	<descricao>Apresenta a cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.</descricao>
+	<data><ano>2011</ano><mes>2</mes><dia>21</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-0uCeei0qHqw/UTCIzVxtHqI/AAAAAAAAORg/7_OTTNX0A8w/s0/CatarinaFurtado_PremiosAutor_20110221_280000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A segunda Gala do Prémio Autores realizou-se no dia 21 de Fevereiro no Centro Cultural de Belém. Desta vez com a particularidade da Catarina estar nomeada através da <cite>Cidade Despida</cite>. A série policial da RTP, na qual desempenhava o papel da protagonista Ana Belmonte, estava nomeada para o Prémio de Melhor Programa de Ficção. O galardão acabou por ser atribuído à mini-série da RTP <cite>Noite Sangrenta</cite>.</p>
+<p><q>Eu também gosto muito de Catarina.</q> Assim concluiu o ensaísta Eduardo Lourenço quando agradeceu o Prémio Especial Vida e Obra. Pegando na brincadeira que aconteceu momentos antes entre a escritora Alice Vieira e a Catarina.  Apetece-me dizer: eu também gosto muito da Catarina!</p>
+
+<grande><elo href="http://youtu.be/1325BjqXU5o">Momentos divertidos entre a Catarina, a escritora Alice Vieira e o ensaísta Eduardo Lourenço</elo></grande>
+
+<citacao href="https://picasaweb.google.com/lh/photo/gQuxyMMO6oC_KZEohfNDyflJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Caras" ano="2011">
+	<p>Acho que fazia sentido e, sobretudo, faltava um prémio credível que viesse do ninho da cultura, onde se fabricam os nosso produtores nacionais. E a SPA, com mais de 25 mil associados, dá essa credibilidade. e é importante divulgar prémios que normalmente não são tão mediáticos, como por exemplo para danças, as artes visuais ou mesmo a rádio. E o papel que da RTP é exatamente esse, divulgar a nossa cultura. Sem autores não há cultura e sem incentivar esses autores é mais difícil que a criação continue a ferver.</p>
+</citacao>
+
+<citacao href="http://www.youtube.com/watch?v=VpkWgwJgiBc" fonte="Só Visto!" ano="2011">
+	<p>É muito importante que as pessoas sejam reconhecidas, para continuarem a sentir vontade, e inspiração até, para continuarem a produzir e a criar.	</p>
+</citacao>
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="trabalhos.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Poesia</titulo>
+	<descricao>Diz e interpreta poemas</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+	<p>Ler poesia. É fundamental para mim. As palavras dos poetas embalam-me a noite, transportam-me para outra dimensão. Como as de Ruy Belo, Sofia de Mello Breyner, Eugénio de Andrade, Luiza Neto Jorge ou Adília Lopes.</p>
+</citacao>
+
+<arvore poda="poesia.xml" ordem="data"/>
+
+</corpo>
+
+</pagina>

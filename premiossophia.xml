@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="eventos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Prémios Sophia</titulo>
+	<descricao>Exposição</descricao>
+	<data><ano>2014</ano><mes>10</mes><dia>08</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-vgg0KzfPolU/VMzvQuMrTxI/AAAAAAAAq_A/91ZSrS6bPLU/s0/CatarinaFurtado_PremiosSophia_20141008_14204072.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+
+</corpo>
+
+</pagina>

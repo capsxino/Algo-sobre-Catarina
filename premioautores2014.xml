@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="premioautores.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Prémio Autores SPA/RTP 2014</titulo>
+	<descricao>Apresenta a cerimónia de entrega de prémios da Sociedade Portuguesa de Autores.</descricao>
+	<data><ano>2015</ano><mes>5</mes><dia>25</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+<elo href="http://130.185.86.199/index.php/eventos/maio-2015/gala-premio-autores-premeia-autores-portugueses">Fotografias no <cite>Stars Online</cite></elo>
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+http://www.spautores.pt/comunicacao/noticias/spa-entrega-amanha-na-camara-municipal-de-lisboa-os-premio-autor-2014
+-->

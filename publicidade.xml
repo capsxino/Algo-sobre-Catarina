@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="trabalhos.xml" estado="incompleta" titulo="Publicidade">
+
+<corpo>
+
+<arvore poda="publicidade.xml" ordem="data"/>
+
+<bloco titulo="Outras e Diversas Publicidades">
+
+</bloco>
+
+<citacao href="revista_cosmopolitan_outubro2000.xml" fonte="Cosmopolitan" ano="2000">
+	<p>Adorei fazer, diverti-me muito com todos, mas, o facto de ser um <i>remake</i> já tinha, acho eu, um não muito a favor; um guião em que o futebol é o rei também não é assim uma das coisas que me desperta a atenção, mas, em termos técnicos, ou melhor, artísticos, foi um avanço, porque a realização, sem ter muito da publicidade, inovou. Também tenho uma relação privilegiada com o Diamantino Ferreira [o realizador], porque foi ele que me descobriu há 11 anos.</p>
+	<p>Estava eu no Correio da Manhã Rádio, era preciso uma locutora para o Top+. Fui empurrada para o <i>casting</i> pela Margarida (Pinto Correia), a quem eu chamo a minha madrinha televisiva. Na altura, eu achava que era jornalismo que queria, também sentia que era muito difícil despedir-me da dança, mas fui. Foi quando conheci o Diamantino, e fizemos duas promessas que se concretizaram este ano: o primeiro filme que ele fizesse, eu entraria; e, se alguma vez eu fizesse publicidade, seria ele o realizador. [Se só este ano aceitou fazer publicidade foi porque,] achava, e ainda hoje não mudei de opinião, que um jornalista não deve fazer publicidade. Esperava que houvesse uma altura em que ia deixar a apresentação para o jornalismo e por isso não o podia manchar.</p>
+</citacao>
+
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+******
+publicidade a maquina de lavar com antonio sala ?
+INDESIT (Ariston?)
+Coreografada por PATRICK HURDE
+Neste anúncio publicitário P.H. integrou uma jovem bailarina, aluna no Conservatório Nacional que viria a notabilizar-se como apresentadora de televisão, trata-se de Catarina Furtado. 
+******
+-->

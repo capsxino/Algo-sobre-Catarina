@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="poesia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>O Guardador de Rebanhos</titulo>
+	<descricao>A Catarina diz o X poema da série escrita por Alberto Caeiro.</descricao>
+	<data><ano>1996</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-QRUlTKRMpTc/Vibu5M6-inI/AAAAAAAAtNY/PEqweM97PyM/s0-Ic42/CatarinaFurtado_Instantes_040000%252520%2525282%252529.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Um dos poemas ditos na série <cite>Instantes</cite>, produzido para RTP em 1996, da autoria de Hermínio Monteiro, Nuno Artur Silva e Margarida Gil que realizou este programa.</p>
+
+<video>http://rd3.videos.sapo.pt/0Oq05UnJKCUCZBzGB8LL/mov/1</video>
+
+<letra titulo="X poema d'O Guardador de Rebanhos">
+"Olá, guardador de rebanhos,
+<br />
+Aí à beira da estrada,
+<br />
+Que te diz o vento que passa?"
+<br /><br />
+"Que é vento, e que passa,
+<br />
+E que já passou antes,
+<br />
+E que passará depois.
+<br />
+E a ti o que te diz?»
+<br /><br />
+"Muita cousa mais do que isso.
+<br />
+Fala-me de muitas outras cousas.
+<br />
+De memórias e de saudades
+<br />
+E de cousas que nunca foram."
+<br /><br />
+"Nunca ouviste passar o vento.
+<br />
+O vento só fala do vento.
+<br />
+O que lhe ouviste foi mentira,
+<br />
+E a mentira está em ti."
+</letra>
+
+<grande><elo href="http://videos.sapo.pt/0Oq05UnJKCUCZBzGB8LL">Poema de Alberto Caeiro na série <cite>Instantes</cite></elo></grande>
+
+<p style="font-weight:lighter">Em 1996 a Catarina apenas fazia trabalhos pontuais para a SIC. Nessa altura, entre 1995 e 1997, estava a frequentar um curso de representação em Londres.</p>
+<p style="font-weight:lighter">Sobre os autores do <cite>Instantes</cite>: o Hermínio Monteiro foi o editor da Assirio &amp; Alvim; o Nuno Artur Silva é escritor e fundador das Produções Fictícias; o Margarida Gil é realizadora e irmã do músico João Gil - A Catarina viria a participar num filme da Margarida em 1999.</p>
+			
+</corpo>
+
+</pagina>

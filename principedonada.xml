@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Príncipe do Nada</titulo>
+	<descricao>Letra para música de Lúcia Moniz</descricao>
+	<data><ano>2011</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh5.googleusercontent.com/-1Kbj4HeDYtI/UARQZIBgNhI/AAAAAAAAMgU/FDFLD6XHPHk/s0/CatarinaLucia.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Príncipe do Nada</nome>
+	<nome titulo="Interpretação">Lúcia Moniz</nome>
+	<nome titulo="Compositor da Música">Lúcia Moniz</nome>
+	<nome titulo="Álbum">Fio de Luz</nome>
+	<nome titulo="Ano">2011</nome>
+</creditos>
+
+<p>No inicio de 2011, uma música não saía da cabeça da Catarina, a música da Lúcia Moniz que irá acompanhar o poema escrito por ela, «Príncipe do Nada», incluído no disco «Fio de Luz».</p><p>Em 7 de Março desse ano, a canção é interpretada ao vivo no especial “Príncipes do Nada – Um por Todos”, suportada por um coro assume as dimensões dum hino que reflecte a vivência dela enquanto Embaixadora de Boa Vontade do UNFPA e autora do programa de televisão.</p><p> Ambas abdicaram dos 'royalties' devidos pela autoria da composição em favor de causas que apoiam.</p>
+
+<citacao	autor="Catarina" href="https://picasaweb.google.com/lh/photo/6naUmRYpXVAKCziXHj5Oz_lJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Expresso" ano="2011">
+	<p><small>Uma música que não lhe sai da cabeça.</small></p>
+	<p>A que a Lúcia Moniz fez para o seu próximo disco e que me pediu para escrever a letra. Que responsabilidade...</p>
+</citacao>
+<citacao autor="Catarina" href="https://picasaweb.google.com/lh/photo/vclFRqSxbc1SLdoAGvCmKvlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Caras" ano="2011">
+	<p>No fundo, escrevi sobre aquilo que estava a viver... É uma história de alguém que olha para o ecrã, vê um príncipe do nada e decide segui-lo até ao fim. Um grito de alerta vindo de mim só poderia estar relacionada com aquilo que tenho visto no terreno.</p>
+</citacao>
+<citacao	autor="Lúcia Moniz" href="http://www.youtube.com/watch?v=f5kpZcAMk9Y" fonte="Só Visto" ano="2011">
+	<p>A letra que a Catarina escreveu reflete tudo aquilo que eu sentia ao ver o programa. Dei valor à vida.</p>
+</citacao>
+
+<grande><elo href="https://www.youtube.com/watch?v=5SsgF-TOUNI">"Um por Todos" em direto do Convento do Beato no dia 7 de Março de 2011</elo></grande>
+
+<letra titulo="Príncipe do Nada">
+	Vi-te no ecrã, vives sem saber como.<br/>
+	Vi-te e não esqueci, dás tudo o que não tens.<br/>
+	<br/>
+	Vi-te no ecrã, dei valor à vida.<br/>
+	Vi-te e não esqueci, príncipe sem nada.<br/>
+	Foi assim que decidi,<br/>
+	Nunca mais desligar.<br/>
+	Lutar p'los direitos<br/>
+	Surdos, ignorados, direitos pisados.<br/>
+	<br/>
+	(Vou-te seguir até ao fim...)<br/>
+	<br/>
+	O presente tem poder<br/>
+	P'ra travar o que aí vem,<br/>
+	Contra a fome, guerra, medo...<br/>
+	Vou-te seguir até ao fim!<br/>
+	<br/>
+	Vou-te seguir,<br/>
+	Vou-te seguir até ao fim!<br/>
+	<br/>
+	Quanto mais te dói, e mais te dói,<br/>
+	Mais longe eu vou!<br/>
+	Tenho a tua voz, a tua voz<br/>
+	Príncipe sem nada.<br/>
+	Voz que denuncia, denuncia...<br/>
+	O teu sofrer.<br/>
+	Quanto mais te dói, mais longe eu vou!<br/>
+	Quanto mais te dói, mais longe eu vou!<br/>
+	Quanto mais te dói, mais longe eu vou!<br/>
+	Quanto mais te dói, mais longe eu vou!<br/>
+</letra>
+
+<elo href="http://www.youtube.com/watch?v=j2FXe35LCMw">«Catarina Furtado - Princesa do Nada» - fiz um <i>videoclip</i> com uma selecção de momentos da 2ª série do "Princípes do Nada".</elo>
+<elo href="http://rtp.sapo.pt/avozdeportugal/videos/catarina-furtado-responde-aos-seguidores">«Catarina Furtado responde aos seguidores» - Em de Agosto de 2012, durante a gravação das provas cegas d'A Voz de Portugal, a repórter web Joana Martins teve a simpatia de colocar uma pergunta minha à Catarina. Falou da Lúcia Moniz e desta canção.</elo>
+<elo href="https://www.youtube.com/watch?v=4rmbb1AtViM">Lúcia Moniz interpreta a canção no programa "Quem Tramou Peter Pan" em 2011.</elo>
+
+</corpo>
+
+</pagina>

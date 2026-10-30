@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pirilampomagico.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Gala do Pirilampo Mágico</titulo>
+	<descricao>Apresenta a gala da campanha do Pirilampo Mágico.</descricao>
+	<data><ano>2005</ano><mes>5</mes><dia>18</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-qM2NqseGTRg/Us2TFh1YGdI/AAAAAAAAUCw/0cTL4rgHo8k/s0/CatarinaFurtado_EspiritoPirilampo_20050518_010033_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Na 19º edição da Campanha do Pirilampo Mágico, a RTP transmitiu a festa, no dia 18 de Maio de 2005, em directo do Coliseu dos Recreios, apresentado pela Catarina Furtado e pelo Luís de Matos.</p>
+
+<elo href="http://www.dn.pt/inicio/interior.aspx?content_id=599517&amp;page=-1">Artigo do Diário de Noticias</elo>
+
+</corpo>
+
+</pagina>

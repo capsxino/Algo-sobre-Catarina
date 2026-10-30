@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pedroeolobo.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Pedro e o Lobo</titulo>
+	<descricao>Lançamento do CD e a primeira narração ao vivo.</descricao>
+	<data><ano>2010</ano><mes>12</mes><dia>12</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-R7rdcsEF1PE/UHSgHnKSVSI/AAAAAAAANiU/Kxm6yHBdwac/s2048/00000001_0001.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia de 12 de Dezembro, a Fundação Calouste Gulbenkian associou-se ao Music Fund e abriu as suas portas para a iniciativa "Música por uma Causa" com o objectivo de recolher instrumentos musicais para Moçambique e outros países de África e do Médio Oriente. </p>
+<p>Em simultâneo aconteceu o lançamento do CD. No Grande Auditório da Gulbenkian foi executada a obra <cite>Pedro e o Lobo</cite>, conduzida pela maestrina Joana Carneiro e narrada pela Catarina. Por cada CD vendido nesse dia, 5 euros foram entregues para a campanha.</p>
+<p>Em Setembro de 2011 a Catarina viajou até Moçambique para registar a entrega de mais de 100 instrumentos recolhidos na campanha. A reportagem pôde ser vista em Junho de 2012 no 11º episódio do "Príncipes do Nada".</p>
+
+<elo href="http://www.dn.pt/inicio/artes/interior.aspx?content_id=1735085"><cite>Um avô que fala por um fagote</cite>: artigo do Diário de Notícias</elo>
+<elo href="http://www.gulbenkian.pt/index.php?article=2775&amp;format=404">A campanha <cite>Música por uma Causa</cite> explicada no site da Gulbenkian</elo>>
+<elo href="http://www.youtube.com/watch?v=16l30inw1Mc">Anselmo e o Music Fund numa reportagem do <cite>Príncipes do Nada</cite></elo>
+
+</corpo>
+</pagina>

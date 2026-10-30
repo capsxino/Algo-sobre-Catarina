@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Prémios Lumen</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes>3</mes><dia>7</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-tCaocjXT-DM/UxscAa5mNZI/AAAAAAAAizw/VmrJgjVGPww/s0/CatarinaFurtado_PremiosLumen_20140307_130000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://www.dn.pt/inicio/tv/interior.aspx?content_id=3726456">Artigo do Diário de Notícias</elo>
+<elo href="http://www.movenoticias.com/2014/03/rtp-celebrou-57-anos/#.Uxt-odtb88o">Galeria de fotos no site movenoticias</elo>
+<elo href="http://www.youtube.com/watch?v=SA88F8d6b_E">Os bastidores mostrados pelo "Só Visto!"</elo>
+<elo href="http://www.youtube.com/watch?v=7iS_4n_SPQY">Melhores momentos</elo>
+<!-- TORNAR PUBLICO -->
+<elo href="http://www.spautores.pt/comunicacao/noticias/spa-entrega-amanha-na-camara-municipal-de-lisboa-os-premio-autor-2014"></elo>
+
+</corpo>
+
+</pagina>

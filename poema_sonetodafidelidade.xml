@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="poesia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Soneto da Fidelidade</titulo>
+	<descricao>A Catarina diz o poema de Vinicius de Moraes.</descricao>
+	<data><ano>2005</ano><mes>3</mes><dia>21</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-aYfL9nTmAfo/UzFRl-GPm_I/AAAAAAAAi_Q/q30d0LlOfss/s0/CatarinaFurtado_SonetoFidelidade_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Um dos 75 poemas da série <cite>Voz</cite> dito pela Catarina. Uma ideia de Nuno Artur Silva; Produção: Até ao Fim do Mundo; Imagem: João Filipe Rodrigues; Realização: Ricardo Espírito Santo.</p>
+
+<p style="font-weight:lighter;">O primeiro da série foi para o ar no dia 21 de Março de 2005, no Dia Mundial da Poesia. No final do mesmo ano, no dia 26 de Dezembro, estreava o <cite>Príncipes do Nada</cite> com um especial sobre os efeitos do <i>tsunami</i> na Indonésia em 2009. Refiro isto porque os dois programas são produzidos pela <cite>Até ao Fim do Mundo</cite> e o Ricardo Freitas, companheiro da Catarina na gravação do <i>Príncipes</i>, foi também o realizador de alguns dos episódios do <cite>Voz</cite>.</p>
+<p style="font-weight:lighter;">O Nuno Artur Silva descreveu o <cite>Instantes</cite> de 1996 como <q>uma primeira versão deste Voz.</q></p>
+
+
+<letra titulo="Soneto da Fidelidade">
+	De tudo ao meu amor serei atento<br />
+	Antes, e com tal zelo, e sempre, e tanto<br />
+	Que mesmo em face do maior encanto<br />
+	Dele se encante mais meu pensamento.<br />
+	<br />
+	Quero vivê-lo em cada vão momento<br />
+	E em seu louvor hei de espalhar meu canto<br />
+	E rir meu riso e derramar meu pranto<br />
+	Ao seu pesar ou seu contentamento<br />
+	<br />
+	E assim, quando mais tarde me procure<br />
+	Quem sabe a morte, angústia de quem vive<br />
+	Quem sabe a solidão, fim de quem ama<br />
+	<br />
+	Eu possa me dizer do amor (que tive):<br />
+	Que não seja imortal, posto que é chama<br />
+	Mas que seja infinito enquanto dure.<br />
+	<br />
+	<small>Estoril, Outubro de 1939.</small>
+</letra>
+			
+<grande><elo href="https://vimeo.com/11550871">Catarina diz o Soneto da Fidelidade</elo></grande>
+			
+</corpo>
+
+</pagina>

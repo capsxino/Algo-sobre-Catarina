@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pirilampomagico.xml" estado="completa">
+
+<cabecalho>
+	<titulo>A Magia do Pirilampo</titulo>
+	<descricao>Apresenta a gala da campanha do Pirilampo Mágico.</descricao>
+	<data><ano>2003</ano><mes>6</mes><dia>3</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-H_nHhQ8PosU/Us2TIgBmg5I/AAAAAAAAUD8/pMH_tK6dQn8/s0/CatarinaFurtado_PirilampoMagico_20030603_010017_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+				
+<p><cite>No Ano Europeu das Pessoas com Deficiência, o Pirilampo quis assinalar a Campanha com uma grande festa, transmitida pela RTP, e pela Antena 1, a partir do Coliseu dos Recreios. O espectáculo "A Magia do Pirilampo", apresentado por Catarina Furtado e Jorge Gabriel, realizou-se no dia 3 de Junho e contou com a presença de grandes artistas nacionais e de conhecidas figuras públicas.</cite></p>
+
+</corpo>
+
+</pagina>

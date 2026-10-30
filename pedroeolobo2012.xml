@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pedroeolobo.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Pedro e o Lobo</titulo>
+	<descricao>Segunda narração ao vivo.</descricao>
+	<data><ano>2012</ano><mes>9</mes><dia>15</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-bYGSxTLC5mI/UIbNh8ggjSI/AAAAAAAANjM/1QmneFR9b3o/s2048/CatarinaFurtado_PedroLobo_2012.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 15 de Setembro celebrou-se os 50 anos da Orquestra Gulbenkian e o Grande Auditório teve as suas portas abertas para quem, gratuitamente, quis assistir aos concertos. Ás 15 horas, a abrir a festa, a Catarina e a Orquestra voltaram a executar a obra "Pedro e o Lobo" de Prokofiev.</p>
+
+<citacao autor="João Maria" href="http://caras.sapo.pt/famosos/2012/09/24/catarina-furtado-no-palco-da-gulbenkian" fonte="Caras" ano="2012">
+	<p>Ó mãe, o Pedro e o Lobo agora não, porque tenho medo do lobo e não vou conseguir adormecer!</p>
+</citacao>
+
+<p>Quando cheguei, já uma fila enorme de gente serpenteava pelo <i>foyer</i> do auditório da Gulbenkian e a sala encheu rapidamente. Muitos ficaram de fora. Eu sentei-me bem à frente, na fila zero. Sentei-me no chão. Aplausos. Entra a orquestra. Depois ela. A Catarina e toda a orquestra usava a <i>t-shirt</i> preta comemorativa dos 50 anos. A minha atenção demorou a passar dela para a música e para a história que contava. Quando reparei já a Catarina era um pato, um gato, um Pedro. Com os filhos na plateia, a história podia estar a ser lhes contada. Aplausos, partilhados.  No final encontrei-a lá fora. Sempre com gente à volta. Sempre a repartir a atenção por muitas pessoas. Sempre a responder com um sorriso.</p>
+<p>- Tenho o director da Gulbenkian sentado no camarim à minha espera!</p>
+<p>Ocupei o meu lugar na roda e troquei um sorriso. Ela diz-me que fui a primeira pessoa em que reparou quando subiu ao palco.</p>
+<p>- Quem é aquele puto reguila sentado no chão?</p>
+<p>Pergunta-me se tinha sido melhor desta vez. Ela achava que sim. Eu digo-lhe que tinha sido mais expressiva.</p>
+<p>- Sim, é isso, fui mais expressiva.</p>
+<p>- Mas há dois anos interagiu mais com o público!</p>
+<p>- Não.</p>
+<p>- Não? - <i>Ups.</i></p>
+<p>- Gostaste?</p>
+<p>Eu estava a olhar para chão. Seguiu-se a justificação dela: tem que andar atrás da orquestra e não podia ser o contrário.</p>
+<p>- Mas ainda bem que me dizes isso.</p>
+<p>Reconfortou-me. Brevemente iria ao Porto com o <cite>Pedro e o Lobo</cite>.</p>
+<p>Encontrei-me afastado dois passos dela.</p>
+<p>- Catarina! - aceno-lhe um adeus.</p>
+<p>- Beijo, Jorge.</p>.
+
+<elo href="http://caras.sapo.pt/famosos/2012/09/24/catarina-furtado-no-palco-da-gulbenkian">Artigo da revista Caras</elo>
+<elo href="http://www.flickr.com/photos/57878485@N02/sets/72157631544513854/with/7989968737/">Fotografias do concerto por Nilza Monteiro</elo>
+
+</corpo>
+</pagina>

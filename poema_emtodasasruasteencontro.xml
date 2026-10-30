@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="poesia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Em Todas as Ruas te Encontro</titulo>
+	<descricao>A Catarina diz o poema de Mário Cesariny.</descricao>
+	<data><ano>1996</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-1eE6mjo5MjI/UzFRynbTplI/AAAAAAAAi_k/jSK7wEnaK5E/s0/CatarinaFurtado_Instantes_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Um dos poemas ditos na série <cite>Instantes</cite>, produzido para RTP em 1996, da autoria de Hermínio Monteiro, Nuno Artur Silva e Margarida Gil que realizou este programa.</p>
+
+<p style="font-weight:lighter">Em 1996 a Catarina apenas fazia trabalhos pontuais para a SIC. Nessa altura, entre 1995 e 1997, estava a frequentar um curso de representação em Londres.</p>
+<p style="font-weight:lighter">Sobre os autores do <cite>Instantes</cite>: o Hermínio Monteiro foi o editor da Assirio &amp; Alvim; o Nuno Artur Silva é escritor e fundador das Produções Fictícias; o Margarida Gil é realizadora e irmã do músico João Gil - A Catarina viria a participar num filme da Margarida em 1999.</p>
+
+<letra titulo="Poema do livro Pena Capital">
+	Em todas as ruas te encontro<br />
+	em todas as ruas te perco<br />
+	conheço tão bem o teu corpo<br />
+	sonhei tanto a tua figura<br />
+	que é de olhos fechados que eu ando<br />
+	a limitar a tua altura<br />
+	e bebo a água e sorvo o ar<br />
+	que te atravessou a cintura<br />
+	tanto    tão perto    tão real<br />
+	que o meu corpo se transfigura<br />
+	e toca o seu próprio elemento<br />
+	num corpo que já não é seu<br />
+	num rio que desapareceu<br />
+	onde um braço teu me procura<br />
+	<br />
+	Em todas as ruas te encontro<br />
+	em todas as ruas te perco<br />
+</letra>
+
+<grande><elo href="http://videos.sapo.pt/V3YmBwuhcDYdNeslH8ed">'Poema' de Mário Cesariny na série <cite>Instantes</cite></elo></grande>
+<elo href="http://catarinafurtado.tumblr.com/post/134585747262/catarina-furtado-diz-poema-de-m%C3%A1rio-cesariny">Gif Animado</elo>
+			
+</corpo>
+
+</pagina>

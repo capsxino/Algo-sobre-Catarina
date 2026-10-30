@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="poesia.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Soneto da Fidelidade</titulo>
+	<descricao>A Catarina diz o poema de Luiza Neto Jorge.</descricao>
+	<data><ano>2005</ano><mes>3</mes><dia>21</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-k2p_IfECmWs/UW7gQLDEZ3I/AAAAAAAAOy4/-Zm-T13XLlA/s0/PoemaEnsinaCair_01.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Um dos 75 poemas da série <cite>Voz</cite> dito pela Catarina. Uma ideia de Nuno Artur Silva; Produção: Até ao Fim do Mundo; Imagem: João Filipe Rodrigues; Realização: Ricardo Espírito Santo.</p>
+<p style="font-weight:lighter;">Tenho praticamente a certeza de que este momento foi gravado no teatro do Chapitô.</p>
+<p style="font-weight:lighter;">O primeiro da série foi para o ar no dia 21 de Março de 2005, no Dia Mundial da Poesia. No final do mesmo ano, no dia 26 de Dezembro, estreava o <cite>Príncipes do Nada</cite> com um especial sobre os efeitos do <i>tsunami</i> na Indonésia em 2009. Refiro isto porque os dois programas são produzidos pela <cite>Até ao Fim do Mundo</cite> e o Ricardo Freitas, companheiro da Catarina na gravação do <i>Príncipes</i>, foi também o realizador de alguns dos episódios do <cite>Voz</cite>.</p>
+<p style="font-weight:lighter;">O Nuno Artur Silva descreveu o <cite>Instantes</cite> de 1996 como <q>uma primeira versão deste Voz.</q></p>
+
+<citacao autor="Catarina" fonte="facebook" ano="2013">
+	<p>Hoje partilho poesia: “O Poema Ensina a Cair”, de Luiza Neto Jorge, mãe do meu colega de Liceu e também ator e dj, Dinis Neto Jorge, a quem mando um beijinho!</p>
+</citacao>
+
+<letra titulo="'O Poema Ensina a Cair' de Luiza Neto Jorge">
+	O poema ensina a cair<br />
+	sobre os vários solos<br />
+	desde perder o chão repentino sob os pés<br />
+	como se perde os sentidos numa<br />
+	queda de amor, ao encontro<br />
+	do cabo onde a terra abate e<br />
+	a fecunda ausência excede<br />
+	até à queda vinda<br />
+	da lenta volúptia de cair,<br />
+	quando a face atinge o solo<br />
+	numa curva delgada subtil<br />
+	uma vénia a ninguém de especial<br />
+	ou especialmente a nós uma homenagem<br />
+	póstuma.
+</letra>
+			
+<grande><elo href="https://vimeo.com/12177580">O Poema Ensina a Cair</elo></grande>
+			
+</corpo>
+
+</pagina>

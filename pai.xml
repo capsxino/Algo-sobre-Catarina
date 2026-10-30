@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Joaquim Furtado</titulo>
+	<descricao>Pai da Catarina</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-mXDefeQBaxw/VX7F8OiudFI/AAAAAAAArnU/tUw3BWg6S3g/s0/CatarinaFurtado_AltaDefinicao_20150613_12.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/279957585497239/?type=1&amp;stream_ref=10" fonte="facebook" ano="2014">
+	<p>Pai, e agora? Com tantos anos juntos, haverá alguma coisa que não lhe tenha dito ainda mas que deveria? Acho, muito sinceramente, que não. Tenho por hábito não deixar para amanhã o que posso dizer hoje, porque acredito que faz melhor à saúde e ao coração! E até de silêncios preciosos faz parte a nossa relação. Por isso, num abraço profundo, deixo hoje, apenas encostar a cabeça...</p>		
+</citacao>
+<citacao href="revista_seleccoes_2001.xml" fonte="Selecções Reader's Digest" ano="2001">
+	<p>Não podia ter outros pais tão maravilhosos. São de uma grande generosidade, transmitiram-me coisas que para mim são hoje fulcrais e que ditam a minha própria vida. Eles transmitiram-me um sentido de justiça muito apurado, um sentido de dignidade, a necessidade de lutar pelas coisas, não numa perspectiva de ganância, mas sim de realização pessoal, transmitiram-me a sua generosidade e sensibilidade.</p>
+</citacao>
+<citacao href="revista_novagente_novembro1999_01.xml" fonte="Nova Gente" ano="1999">
+	<p>Nós somos 18 netos e eu, não sendo a mais velha, sempre organizei todas as actividades dos primos, na casa da avó...</p>
+</citacao>
+<citacao href="revista_tv7dias_dezembro2009_01.xml" fonte="TV7Dias" ano="2009">
+	<p>Tenho de fazer um enorme esforço para me lembrar de uni brinquedo que recebi no Natal, mas não faço nenhum para me recordar de como eram passadas as noites de 24 para 25. E até sei de cor alguns dos textos que nós, os mais pequenos, representávamos. Fazíamos verdadeiros espectáculos antes da meia-noite. O show tinha desde canções a danças, anedotas, adivinhas, tudo!</p>
+</citacao>					
+<citacao href="revista_seleccoes_2001.xml" fonte="Selecções Reader's Digest" ano="2001">
+	<p>O contacto com o meu pai, o vê-lo trabalhar enquanto jornalista, o vê-lo preparar as reportagens, provavelmente influenciou-me durante um período. E, seriamente, eu achava que queria ser jornalista, mas depressa percebi que não me preenchia. Há coisas que não são compatíveis. Eu não posso ser jornalista e representar de vez em quando, e escrever…</p>	
+</citacao>
+<citacao href="revistas_luxwoman_junho2002.xml" fonte="Lux Woman" ano="2002">
+	<p>Sou o papel químico do meu pai, em termos de feitio. É engraçado que ontem fomos os dois juntos, pela primeira vez, falar de televisão. É uma coisa que não fazemos. Estava a ouvi-lo e pensei: "Somos tão parecidos..." No perfeccionismo, no arrumar de ideias, na exigência naquilo que fazemos, na insatisfação permanente, no chatearmo-nos de morte com alguém e, de repente, esquecermo-nos que nos zangámos e ficarmos bem. Somos muito sensíveis. Mas a minha mãe também é muito sensível. Para mim, não faz sentido dar-me com pessoas que só pensam na carreira, nas suas conquistas, gosto de partilhar. Ganhei isso com os meus pais.</p>
+</citacao>
+<citacao href="revista_maxima_dezembro2006.xml" fonte="Máxima" ano="2006">
+	<p>Queria que ele gostasse daquilo que eu faço. Hoje sei que eles são mui-to orgulhosos de mim. Os filhos imaginam que só se forem extraordinários e corresponderem às expectativas é que merecem um amor incondicional. Havia, até agora, um receio de não corresponder aquilo que eles tinham na ideia para mim.</p>
+</citacao>
+<citacao href="revista_elle_outubro2007.xml" fonte="Elle" ano="2007">
+	<p>Estas minhas exigências também vêm dele, ele é uma pessoa com uns princípios e uma integridade enormes, não facilita em nada. Se eu ultrapasso qualquer limite, ele é o primeiro a dizer-me. Com ele, tenho sempre uma luz em alerta, um farol, o que é muito bom.</p>
+</citacao>
+<citacao href="revista_expresso_20130727.xml" fonte="Expresso" ano="2013">
+	<p>As histórias que o meu pai me trazia das suas viagens. Incutiram em mim uma vontade muito grande de ver como é que as pessoas viviam noutros lados, sensibilizaram-me para as questões da diferença, da tolerância, da discriminação.</p>
+</citacao>
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p>E fazia-lhe queixinhas da minha mãe. Estava o meu pai a apresentar o jornal da hora de almoço e eu a dizer-lhe, para o ecrã, que a minha mãe me tinha feito isto ou aquilo. Achava que ele ouvia [risos]. Mas ele, quando chegava a casa, fossem as horas que fossem, ia sempre dar-me um beijinho cama e aconchegar o edredão. São coisas que ficam para toda a vida.</p>
+</citacao>
+<citacao href="http://www.forum.pt/estudantes/perguntas-tu/6016-arte-e-boa-vontade" fonte="Forum Estudante">
+	<p>Mas apesar desta minha forma de lidar com o facto de ser filha do Joaquim Furtado, ele influenciou-me pela paixão com que sempre vivera o jornalismo, pela biblioteca enorme que ele tem, pela pesquisa, pela escrita, pelas viagens ao estrangeiro e voltar cheio de histórias para contar…era contagiante.</p>
+</citacao>
+<citacao href="revista_caras_outubro2012_01.xml" fonte="Caras" ano="2012">
+	<p>Com o meu pai era, e ainda hoje é, diferente. Sendo eu mulher, há um certo acanhamento, mas entre nós as coisas têm sido bem resolvidas através do silêncio, que pode ser uma opção fantástica de aconchego. Mesmo que num momento difícil nem eu nem ele tenhamos a capacidade de falar, esse silêncio é precioso e eficaz.</p>
+</citacao>
+<citacao href="revista_tabu_20140117.xml" fonte="Tabu" ano="2014">
+	<p>A verdade é que o meu pai soube sempre depois de as coisas acontecerem, exactamente pelo peso - com muito orgulho - de ser filha de quem sou.</p>
+</citacao>
+<citacao href="revista_activa_marco2014.xml" autor="Catarina sobre o Pai" fonte="Activa" ano="2014">
+	<p>Ambos somos teimosos, exigentes e perfecionistas... às vezes havia faísca.</p>
+</citacao>
+<citacao href="revista_noticiastv_20140425.xml" fonte="Notícias TV" ano="2014">
+	<p>Quando eu estava na SIC, e o pai e o Joaquim Vieira estavam na direção da RTP, lembro-me de a minha entrada na RTP ter sido vetada por si [risos]. Recordo-me que o Joaquim me dizia que eu só não ia para lá porque o pai não estava de acordo...</p>
+</citacao>
+<citacao href="revista_noticiastv_20140425.xml" fonte="Notícias TV" ano="2014">
+	<p>A primeira vez que eu a vi na televisão foi a fazer um anúncio com o António Sala [Catarina sorri e canta o jingle associado à marca de eletrodomésticos em causa]. Mas, sabe, eu comecei por não levar muito a sério os primeiros passos da Catarina na televisão. Ela tinha feito o curso de dança e eu achava que ela ia por esse caminho. Mas achei a sua prestação boa. E, antes que vocês me perguntem que opinião é que tenho sobre a carreira da Catarina, posso dizer o seguinte: ela conseguiu defender-se muito bem do facto de ser bonita. [Catarina olha para o pai e não reage. Os olhos brilham] Ela defendeu-se bem da beleza, porque a beleza podia ter sido um obstáculo, porque há muitas vezes a tendência de achar que o simples facto de alguém ser bonito pode ser suficiente para triunfar. Ora, se ela tivesse achado isso, isso tê-la-ia limitado. A Catarina procurou fazer um percurso que contrariou essa ideia. Estudou, investiu na carreira.</p>
+</citacao>
+<citacao href="publico_20150607.xml" autor="Catarina" fonte="Público" ano="2015">O meu pai sempre afirmou o que pensava, mesmo que isso significasse um despedimento logo a seguir. O não ter medo vem dele. Isto deu-me um mundo enorme.
+	<p>Tinha consciência desse mundo. Apesar de viver no estrelato — cá para fora —, dentro da minha casa sempre se falou de desigualdade. O meu pai, jornalista, sempre trouxe o mundo real. O impacto resulta de ver com os meus olhos. O verdadeiro impacto resulta de estar tempo com as pessoas e não passar por elas [de raspão]. E sentir que todos nós, em cada uma das nossas funções, pode fazer muito mais do que fazemos. Isso deixou-me, nos primeiros tempos, quase paralisada. E a pensar que tem de haver uma fórmula de isto ficar mais equilibrado. Foi tudo muito inquietante. O maior impacto de todos — isso sim, mudou-me radicalmente — foi ver mortes evitáveis.</p>
+</citacao>
+	
+</corpo>
+
+</pagina>

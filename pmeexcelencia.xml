@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="eventos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>PME Excelência 2014</titulo>
+	<descricao>Apresenta a cerimónia de entrega dos prémios PME Excelência.</descricao>
+	<data><ano>2014</ano><mes>1</mes><dia>26</dia></data>
+	<fundo>https://lh5.googleusercontent.com/-8ZTwrMK25nA/VMtdIe0kbGI/AAAAAAAAq7o/b66LhCKXZYE/s0/CatarinaFurtado_PME_20150126_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em 2014, 1845 pequenas e médias empresas foram distinguidas pelo <a href="http://www.iapmei.pt/iapmei-not-02.php?noticia_id=1297">IAPMEI</a> com o estatuto anual de "PME Excelência". A cerimónia de entrega dos prémios ocorreu no dia 26 de Janeiro de 2015, no Centro de Congressos de Santa Maria da Feira, e foi apresentada pela Catarina Furtado.</p>
+
+<elo href="http://ncproducoes.com/premios-pme-excelencia-2014-fotografia/">Fotografias do evento</elo>
+
+</corpo>
+
+</pagina>

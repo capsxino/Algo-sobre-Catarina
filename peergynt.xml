@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="teatro.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Peer Gynt</titulo>
+	<descricao>Representa a Solveig na peça de Ibsen em cena no Teatro Aberto.</descricao>
+	<data><ano>2002</ano><mes>2</mes><dia>24</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-_zgAx1vSe8I/UuLLwAVCWvI/AAAAAAAAUT0/41MPlWzp7uw/s2048/PeerGynt_20130411153445_4JKMS11J2VJABDXWQX48.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p style="font-weight:lighter;"> Não consegui encontrar muita informação sobre a peça, nem sobre o papel representado pela Catarina. Parece que foi um pequeno papel (Solveig, rapariga árabe, lunática), com poucas falas, no meio dum elenco numeroso que estreou o novo Teatro Aberto.</p>
+
+<citacao href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=26" autor="Teatro Aberto" fonte="Sinopse">
+<p><cite>Peer Gynt</cite>  é como o próprio Ibsen refere um grande poema dramático. É também um conto filosófico. Ibsen deseja exprimir teatralmente não somente o seu conhecimento  das diferentes correntes de pensamento da sua época (Kant, Hegel, etc.) mas também o seu ponto de vista pessoal sobre as diversas teorias. Para isso utiliza o mais íntimo do ser humano no seu percurso ao longo da vida, passando por diferentes idades, fases e épocas, cruzando mares e atravessando continentes, posto à prova em situações extremas onde o Homem é forçado a revelar não só os sentimentos mais nobres como também a mostrar que é capaz dos comportamentos mais vis conjugando-se tudo numa espécie de hino à grandeza e miséria do ser humano.</p>
+</citacao>
+
+<creditos>
+	<nome titulo="Data de estreia">24 de Fevereiro de 2002</nome>
+	<nome titulo="Local">Sala Azul do <a href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=26">Teatro Aberto</a></nome>
+	<nome titulo="Autor">Henrik Ibsen</nome>
+	<nome titulo="Versão">João Lourenço, Vera San Payo de Lemos</nome>
+	<nome titulo="Dramaturgia">Vera San Payo de Lemos</nome>
+	<nome titulo="Coreografia">Rita Judas</nome>
+	<nome titulo="Figurinos">Reneé Hendrix</nome>
+	<nome titulo="Cenário">Jochen Finke</nome>
+	<nome titulo="Direcção Musical">João Paulo Santos</nome>
+	<nome titulo="Música original">Eurico Carrapatoso</nome>
+	<nome titulo="Luz">João Lourenço, Melim Teixeira</nome>
+	<nome titulo="Encenação">João Lourenço</nome>
+	<nome titulo="Elenco">António Cordeiro, Carlos Pisco, Catarina Furtado, Catarina Matos, Cláudia Chéu, Francisco Pestana, Henrique Félix, Inês Rosado, Irene Cruz, João Pedro Vaz, José Boavida, Lourenço Henriques, Luís Alberto, Marta Furtado, Melim Teixeira, Nuno Nunes, Nuno Távora, Paulo Ribeiro, Rita Pitschieller, Sara Belo, Sílvia Balancho, Sofia Borges, Sofia de Portugal, Tobias Monteiro</nome>
+</creditos>
+
+<elo href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=26">Página do Teatro Aberto</elo>				
+<elo href="http://www.publico.pt/noticias/jornal/peer-gynt-em-fuga-167683">Artigo do jornal Público</elo>	
+<elo href="https://picasaweb.google.com/116136255703077903546/Teatro?authuser=0&amp;authkey=Gv1sRgCMmZ5rGbn5z2-QE&amp;feat=directlink">Fotografias da Catarina no teatro</elo>			
+
+</corpo>
+
+</pagina>

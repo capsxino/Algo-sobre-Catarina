@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Querida Júlia</titulo>
+	<descricao>Está no 'Queridas Manhãs' da SIC.</descricao>
+	<data><dia>22</dia><mes>6</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://videos.sapo.pt/M3K9ZKsbwGuFSJpMJW3j"></elo>
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/487220634770932/?type=1"></elo>
+
+</corpo>
+
+</pagina>

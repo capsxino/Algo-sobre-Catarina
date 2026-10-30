@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Pantene</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://www.youtube.com/watch?v=YOcQ8EPzo8I"><i>Spot</i> publicitário para televisão I (2009)</elo>							
+<elo href="https://www.youtube.com/watch?v=7baUnUSHAAs"><i>Spot</i> publicitário para televisão II (2009)</elo>							
+<elo href="https://www.youtube.com/watch?v=HLXAyf2vy2I">Reportagem do "Só Visto!" (2009)</elo>							
+<elo href="https://www.youtube.com/watch?v=p6ianaEA7vQ">Meu 'Remix' do 'Making of' (2007)</elo>
+<elo href="http://www.youtube.com/watch?v=_e1nhB44Kvo">Sessão fotográfica para a Pantene com Catarina Furtado</elo>							
+
+</corpo>
+
+</pagina>

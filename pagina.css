@@ -1,0 +1,482 @@
+@charset "UTF-8";
+
+/*** FONTES - inicio ***/
+body {
+	font-family: 'Merriweather Sans', sans-serif;
+}
+.tituloTopo,.cabecalhoTitulo,.cabecalhoData,#corpo>h1,#corpo>h2,#corpo>h3,#corpo>h4,#corpo>h5,#corpo>h6{
+	font-family: 'Londrina Solid', cursive;
+}
+.letra {font-family: 'Indie Flower', cursive;}
+/*** FONTES - fim ***/
+
+/*** HTML GERAL - inicio ***/
+html, body {
+	/*
+	height: 100%;
+	width: 100%;
+	*/
+}	
+
+body {
+	background-color: white;
+	margin: 0;
+	visibility: hidden;
+}
+/*** HTML GERAL - fim ***/
+
+/*** ÁRVORE/PÁGINA - inicio ***/
+.arvore {
+	margin: 5px auto 5px auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.mostraMais {
+	margin: 5px;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 5px solid;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,128,.9);
+}
+
+.mostraMais:hover {
+	cursor: pointer;
+	color: rgba(0,0,128,1);
+}
+/*
+.mostraMais:active {
+	color: rgba(0,0,0,.1);
+}
+*/
+.pagina {
+	margin: 5px;
+	width: 200px;
+	height: 200px;
+	background-color: black;
+	border-radius: 20px;
+	background-position: center center;
+	background-size: cover;
+	display: none;
+	box-shadow: 2px 2px 4px rgba(0,0,0,.3);
+}
+.paginaAtiva, .paginaInativa {
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+	box-sizing: border-box;
+	outline: none;
+	overflow: hidden;
+}
+.paginaAtiva {
+	border: 10px solid transparent;
+}
+.paginaInativa {
+	border: 10px solid transparent;
+	background-color: rgba(255,255,255,.5);
+}
+.paginaAtiva:hover {
+	border-color: rgba(255,255,255,.1);
+	cursor: pointer;
+}
+.paginaAno {
+	color: gold;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 12px;
+	text-shadow: 0 0 2px black;
+}
+.paginaTitulo {
+	color: white;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 16px;
+	text-shadow: 0 0 2px black;
+}
+/*** ÁRVORE/PÁGINA - fim ***/
+
+/*** CABECALHO - inicio ***/
+.cabecalho {
+	/*
+	width: 100%;
+	height: 100%;
+	*/
+	background-color: rgba(0,0,0,.5);
+	background-image: inherit;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.cabecalhoFundo {
+	width: 100%;
+	height: 100%;
+	margin-top:10px;
+	background-color: grey;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.cabecalhoFundo:first-of-type {
+	/*height: 100%;*/
+	margin: 0;
+}
+.cabecalho>div	{
+	margin: 20px;
+}
+.cabecalhoLegenda {
+	color: white;
+	font-size: .7em;
+	text-shadow: 0 0 1px black;
+	text-align: right;
+	align-self: flex-end;
+}
+.cabecalhoSobre {
+	padding: 10px;	
+	background-color: rgba(0,0,0,.2);
+	text-shadow: 0 0 3px black;
+
+	align-self: flex-start;
+	display: flex;
+	flex-direction: column;
+}
+.cabecalhoDescricao {
+	color: white;
+}
+.cabecalhoTitulo {
+	font-size: 3em;
+	font-weight: bold;
+	color: white;
+}
+.cabecalhoData {
+	color: gold;
+	/*text-align: right;*/
+	/*font-weight: bold;*/
+	border-collapse: collapse;
+}
+.cabecalhoData tr:first-child {
+	font-size: 1.5em;
+}
+.cabecalhoData tr:last-child {
+	font-size: .8em;
+}
+.cabecalhoData td {
+	border-left: 1px solid gold;
+	padding: 0 5px 0 5px;
+}
+.cabecalhoData td:first-child {
+	font-size: 1.5em;
+}
+.cabecalhoEstado {
+	color: darkred;
+	text-shadow:none;
+	font-size: .8em;
+	font-weight: bold;
+}
+.cabecalhoFiliacao {
+	color: whitesmoke;
+	font-size: .8em;
+}
+.cabecalhoFiliacao > a {
+	text-decoration: none;
+	color: inherit;
+}
+.cabecalhoFiliacao > span:last-of-type {
+	display: none;
+}
+/*** CABECALHO - fim ***/
+
+/*** CAIXA -inicio ***/
+.caixa {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: flex;
+	justify-content: center;
+}
+
+.esquerda, .direita {
+	background-color: #FDFDFD;
+	flex-basis: 200px;
+	flex-grow: 1;
+	display: flex;
+}
+
+.esquerda {
+	margin-right: 5px;
+}
+
+.direita {
+	margin-left: 5px;
+}
+.esquerda>*, .direita>*, .centro>* {
+	flex-grow:1;
+	box-sizing: border-box;
+	padding: 5px;
+}
+.esquerda>div {
+	text-align: right;
+}
+.direita>div {
+	text-align: left;
+}
+.esquerda .icon, .direita .icon {
+	font-size: 2em;
+}
+.centro {
+	flex-basis: 600px;
+	display: flex;
+}
+/*** CAIXA - fim ***/
+
+/*** CITAÇÃO - inicio ***/
+.citacao, .citacaoInvisivel{
+	text-align: justify;
+	background-color: #FBFDF7;
+	font-weight: lighter;
+	font-style: italic;
+	padding: 2em;
+}
+.citacao del{
+	text-decoration: none;
+}
+.citacaoInvisivel:hover{
+	cursor: s-resize;
+}
+.citacaoInvisivel del{
+	display: none;
+}
+.citacaoAutor {
+}
+.citacaoAno {
+}
+.citacaoFonte {
+	font-weight: bold;
+}
+.citacaoSobre {
+	color: yellowgreen;
+	background-color: #EBF5D6;
+}
+.citacaoSobre2 {
+	color: yellowgreen;
+}
+/*** CITAÇÃO - fim ***/
+
+/*** CORPO - inicio ***/
+#corpo {
+
+}
+
+#corpo a {
+	text-decoration: none;
+}
+
+#corpo p a:hover {
+	text-decoration: underline;
+}
+
+#corpo p {
+	margin: 0;
+	text-indent: .5em;
+}
+
+#corpo q {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#corpo>h1,#corpo>h2,#corpo>h3,#corpo>h4,#corpo>h5,#corpo>h6 {
+	text-align: center;
+	color: navy;
+}
+#corpo>h1 {font-size: 3em;}
+#corpo>h2 {font-size: 2.5em}
+#corpo>h3 {font-size: 2em}
+#corpo>h4 {font-size: 1.5em}
+#corpo>h5 {font-size: 1em}
+#corpo>h6 {font-size: 1em}
+/*** CORPO - fim ***/
+
+/*** CRÉDITOS - inicio ***/
+.creditos {
+	font-size: .9em;
+	background-color: #F6F8FE;
+}
+.creditos td {
+	vertical-align: top;
+}
+.creditos td:first-child {
+	font-weight: bold;
+}
+.creditosTitulo {
+	font-weight: bold;
+}
+.creditosSobre {
+	color: RoyalBlue;
+	background-color: #ECF0FC;
+}
+/*** CRÉDITOS - fim ***/
+
+/*** DEBUG - inicio ***/
+#debug {
+	display: inline-block;
+	background-color: yellow;
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+}
+
+#debug:before {
+	content: "DEBUG: ";
+}
+/*** DEBUG - fim ***/
+
+/*** ELO - inicio ***/
+.elo {
+	background-color: #E6F2F2;
+}
+.eloSobre .icon {
+	font-size: 1em;
+}
+.eloSobre {
+	color: teal;
+	background-color: #CCE6E6;
+}
+/*** ELO - fim ***/
+
+/*** IMAGEM - inicio ***/
+.imagem {
+	max-height: 600px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	background-color: #FFF8EB;
+	overflow: hidden;
+}
+.imagem img {
+	display: block;
+	width: 100%;
+	visibility: hidden;
+}
+
+.com_link:hover {
+	cursor: pointer;
+}
+
+.imagemSobre {
+	color: orange;
+	background-color: #FFF6E6;
+	font-weight: lighter;
+	font-size: .9em;
+}
+/*** IMAGEM - fim ***/
+
+/*** ÍNDICE - inicio ***/
+#indice {
+	font-weight: bold;
+	background-color: #F1F3F5;
+}
+#indiceSobre {
+	color: LightSlateGray;
+	background-color: #E4E7EB;
+}
+#indice ul:first-child{
+	list-style-type: none;
+	padding: 0;
+	margin:	0;
+	font-size: 1em;
+}
+#indice ul{
+	list-style-type: none;
+	padding-left: 1em;
+	font-size: .9em;
+}
+/*** ÍNDICE - fim ***/
+
+/*** LETRA - inicio ***/
+.letraPapel{
+	text-align: center;
+}
+.letra{
+	display: inline-block;
+	text-align: left;
+}
+.letraTitulo {
+	font-weight: bold;
+}
+.letraSobre {
+	color: gray;
+}
+/*** LETRA - fim ***/
+
+/*** PARÁGRAFO - inicio ***/
+.paragrafoSobre span {
+	font-weight: lighter;
+	font-size: .8em;
+}
+/*** PARÁGRAFO - fim ***/
+
+/*** TABELA - inicio ***/
+.tabela {
+	font-size: .9em;
+	background-color: #E4BFBF;
+	padding: 0;
+}
+.tabela th {
+	background-color: #F6EAEA;
+	color: Brown;
+	padding: 5px;
+}
+.tabela td {
+	background-color: white;
+	padding: 5px;
+}
+.tabela td:first-child {
+	font-weight: bold;
+}
+.tabelaTitulo {
+	font-weight: bold;
+	color: Brown;
+	background-color: #EDD4D4;
+}
+.tabela a:empty:after {
+	font-family: 'capsxino';
+	content: '\e810';
+}
+/*** TABELA - fim ***/
+
+/*** TITULO TOPO ***/
+.tituloTopo {
+	font-size: 3em;
+	text-align: center;
+	text-shadow: 0 0 30px white;
+	color: navy;
+}
+/*** VIDEO - inicio ***/
+.video {
+	background-color: #F9F2F9;
+	text-align: center;
+}
+.video video {
+	width: 100%;
+}
+.videoSobre {
+	color: purple;
+	background-color: #F2E6F2;
+}
+.videoLegenda {
+	font-weight: lighter;
+	font-size: .9em;
+}
+/*** VIDEO - fim ***/

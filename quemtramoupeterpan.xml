@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Quem Tramou Peter Pan?</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="https://picasaweb.google.com/lh/photo/hoHNx7GGSK2thvzH2wPlFvlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="TV Guia" ano="2011">
+	<p>Eu é que os apanhei, fui malandra. Tive que estar à altura deles e não podia rir. Foi difícil, mas é giro, recorri à minha vertente de actriz.</p>
+</citacao>
+
+<elo href="http://caras.sapo.pt/famosos/2011/04/20/vdeo-catarina-furtado-seguida-pela-caras-tv-num-dia-especialmente-atarefado">Catarina Furtado seguida pela CARAS Tv</elo>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+-*-
+músico professor na escola da beatriz.
+-*-
+2 de Abril gravou o 1º que estreia dia 9
+-*-
+-->

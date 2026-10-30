@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="documentarios.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Príncipes do Nada</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="recicla_dezembro2013.xml" fonte="Recicla" ano="2013">
+	<p>Sou muito obsessiva, vivo tudo intensamente. Os meus filhos e o meu marido sentem isso. Quando venho das minhas viagens, sinto-me irascível... A nível pessoal parece que tenho uma nova vida. Estou há 21 anos a fazer televisão, teatro, representação, e de repente estou numa área totalmente diferente, sem a luz da ribalta, e isso é extraordinário. Receio que qualquer dia só esta área de trabalho faça sentido para mim.</p>
+</citacao>
+<citacao href="revista_face_outubro2011.xml" fonte="FACE" ano="2011">
+	<p>A ideia de desenvolver o « Príncipes do Nada» nasceu exactamente (há mais de cinco anos) pelo facto de ter tido um contacto mais próximo com diferentes ONG e com a dificuldade que muitas tinham e têm em cumprir os seus propósitos. Acho sempre que, quanto mais informada, chocada e envolvida for a sociedade civil, mais facilmente são criadas sinergias e esforços conjuntos para se construir um Mundo mais equilibrado. E a divulgação ajuda também a forçar o cumprimento de compromissos por parte dos decisores políticos.</p>	
+</citacao>
+<citacao href="http://www.dn.pt/inicio/interior.aspx?content_id=639764&amp;page=-1" fonte="Diário de Notícias" ano="2006">
+	<p>Um jornalista deve tentar ser imparcial... eu não tento. Este trabalho é assumidamente o meu olhar sobre a realidade que vi. Sou eu o condutor emocional daquelas histórias [apesar de] tentar que tivessem todo o rigor, complementado com toda a informação e até números.</p>
+</citacao>
+<citacao href="jornal_africatoday_Junho2010.xml" fonte="Africa Today">
+	<p><small>Como controla as emoções nesses cenários?</small></p>
+	<p>É muito difícil fazê-lo, mas não tenho o direito de me descontrolar à frente das pessoas, até porque nem vão perceber o porquê do meu estado emotivo. Aquela é a realidade deles e a minha é outra, que eles não conhecem. Isso até lhe pode passar a ideia de que são coitadinhos e isso não suporto. O descontrolo acontece sempre sozinha, noutro sítio qualquer, sem os olhares.</p>
+</citacao>
+<citacao href="revista_caras_setembro2011_01.xml" fonte="Caras" ano="2011">
+	<p> É sempre muito frustrante porque em cada país que visito encontro sempre gente extraordinária que apenas precisaria de uma mão para poder endireitar a vida e claro que também encontro sofrimento permanente. Ponho-me a pensar como seria a minha ou as nossas vidas se vivêssemos naquelas circunstâncias (...) Hoje em dia já estou mais habituada a fazer as minhas opções de ajuda porque sei que saio de uma história dramática e encontro logo outra a seguir, mas sabemos, eu, o produtor e realizador Ricardo Freitas e o repórter de imagem Hugo Gonçalves, que este é o nosso dever, a nossa missão: divulgar e tornar os espetadores cúmplices para se poderem também comprometer.</p>
+</citacao>
+<citacao href="revista_noticiastv_outubro2011_01.xml" fonte="Notícias Tv" ano="2011">
+	<p>Não tenho medo das emoções. Não tenho medo de chorar, de rir, de deixar transparecer isso cá para fora. Conforme os sítios e as pessoas, sei gerir a transparência dessas emoções ou não. Se num programa como A Voz de Portugal me comover com uma mãe porque diz "amo a minha filha", que é uma coisa básica, choro com ela. Não estou preocupada em segurar as emoções. Em Príncipes do Nada é diferente. Tudo aquilo que comove, comove pela injustiça, pela desigualdade e sobretudo porque a maioria das mortes a que assisto eram completamente evitáveis no meu país. E a emoção aqui é transformada em revolta.</p>					
+</citacao>
+<citacao href="jornal_jn_20111127.xml" fonte="Jornal de Notícias" ano="2011">
+	<p>O que comove, o que choca, o que emociona, o que provoca indignação não se esquece. E não se esquecem as pessoas e as suas vidas. As pessoas que vamos conhecendo e com quem vamos passando tempo, decoramos-lhes os nomes e a sua capacidade de sobreviver. Fico sempre ligada numa espécie de compromisso.</p>				
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/iFSjdtLSKnk3ADB4GBVkIPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Lux">
+	<p>As saudades acabam por ser a parte mais fácil porque, quando estou lá fora, sinto que tenho uma missão a cumprir e os dias acabam por passar a correr. As saudades estão sempre presentes, mas a imagem que tenho lá é deles felizes, numa escola, bem alimentados, com os cuidados todos de saúde e isso é o mais importante. Eu sei que vou voltar.</p>
+</citacao>
+<citacao href="SaberViver_Nov2012_01.xml" fonte="Saber Viver" ano="2012">
+	<p>Eu é que faço o corte e costura, a edição dos trabalhos. E, às vezes, estou com o editor e com o realizador, o Ricardo Freitas, e ficamos para ali os dois a pensar «Isto não pode ser exibido, pois não? Isto já é demais... Já é uma exposição um bocadinho acima daquilo que nós queremos».</p>
+</citacao>
+<citacao href="revista_luxwoman_maio2011_01.xml" fonte="Lux Woman">
+	<p>Envolvo-me muito nos conteúdos e com as equipas, mas aquilo que acho que é o meu caminho é poder usar o poder da televisão para qualquer coisa que dê resultados - a curto, a médio e a longo prazo. Que traga consequências, que mobilize, que agite consciências, que ajude, que informe</p>
+</citacao>
+<citacao href="revista_publica_20070909.xml" fonte="Pública" ano="2007">
+	<p>Descobri que tudo o que sabemos dos compêndios jornalísticos e que ouvi toda a vida, que temos que travar as emoções e os afectos, não funciona comigo. Para mim é impensável não deixar as emoções virem ao de cima. Quando estou a conversar com uma pessoa no meio de uma montanha, em Timor, por exemplo, é-me impossível não me envolver. Talvez venha a ser, e é uma das minhas ambições, uma contadora de histórias. Isso em televisão é possível. Foi o que tentei demonstrar com os Príncipes do Nada.</p>		
+</citacao>
+<citacao href="revista_africa21_julho2009_01.xml" fonte="Africa 21" ano="2009">
+	<p>Às vezes, só consigo partilhar o que vejo com as duas pessoas com quem vou: o Ricardo Freitas, produtor do programa, e o Hugo, que é repórter de imagem. Muitas vezes, as imagens que selecciono e o texto que escrevo não reflectem tudo o que vi, que vivi, que senti. É tudo tão intenso, que não consigo.</p>			
+</citacao>
+<citacao autor="Hugo Gonçalves, repórter de imagem" href="revista_tvguia_outubro2009_01.xml" fonte="TV Guia" ano="2009">
+	<p>É um privilégio acompanhar a Catarina há quatro anos, não só a nível profissional como a nível humano. Vimos morrer gente à nossa frente... Aprendi com ela a deixar de dar valor a certas coisas e a dar importância a outras. Tem um coração enorme.</p>
+	<cite></cite>			
+</citacao>
+<citacao href="revista_noticiastv_dezembro2010.xml" fonte="Notícias Tv" ano="2010">
+	<p>Embora às vezes eu me sinta um bocadinho solitária. Quando vou para estas viagens, vou sempre com duas pessoas, o Ricardo Freitas, que é o produtor/realizador de todos os meus documentários, e o repórter de imagem Hugo Gonçalves, que tem sido sempre o mesmo. E é muito importante que assim seja. Há coisas que se vêem, há cumplicidades que se criam. Em Banda Aceh, na Indonésia, estávamos ali chocados a ver aquela miséria, e eu virei-me para eles, baixinho, e disse-lhes "tenho uma coisa para vos contar, estou grávida". Eles ficaram cheios de medo, coitadinhos, queriam logo sair dali (risos). Eu só consigo conversar sobre estas coisas que vejo nas viagens com o Ricardo.</p>										
+</citacao>
+<citacao href="revista_vlife_2014.xml" fonte="VLife" ano="2014">
+	<p>Quando pela primeira vez partiu para gravar um dos episódios documentais de <i>Príncipes do Nada</i>, em Timor-Leste, comprou a mala mais leve do mercado, fez um kit de medicamentos e preparou lenços e roupas. Não deixou nada em terra, nem os dois bonecos com a imagem dos filhos, nem o relógio de cabedal e muito menos as botas que usou no filme <i>Pesadelo Cor-de-Rosa</i> (Fernando Fragata, 1998) — que a acompanham em todas as viagens. Após o O.K. de Nuno Santos, então director da RTP, fora tudo previamente delineado com a produtora Até ao Fim do Mundo e tinha toda a informação consigo: pesquisa sobre os entrevistados, itinerários, agenda. Mas faltaram as barrinhas de cereais e os rebuçados para enganar o estômago quando os imprevistos transformam distâncias curtas em várias horas de espera. “Passámos muita fominha”, confessa a rir.</p>						
+</citacao>
+<citacao href="revista_vlife_2014.xml" fonte="VLife" ano="2014">
+	<p>A experiência na Gorongosa, essa, foi um acaso feliz e uma viagem diferente. Catarina estava em Moçambique a gravar um episódio de <i>Príncipes do Nada</i> quando, num jantar na embaixada, conheceu o milionário Greg Carr. O informático responsável pela invenção do <i>voice mail</i>, que à época lançava as bases de um projecto de recuperação do Parque da Gorongosa, contou-lhe os planos de repovoação do parque, de onde desapareceram milhares de animais durante a Guerra Civil, e levou-a de helicóptero a conhecer a zona.</p>						
+</citacao>
+<citacao href="revista_maxima_janeiro2015.xml" fonte="Máxima" ano="2015">
+	<p>Nos <em>Príncipes do Nada</em>, eu e o Ricardo Freitas decidimos que nunca deixaríamos um rasto de tristeza, mas sim um raio de esperança e de otimismo. Eu e o Ricardo Freitas brindámos de comoção quando, depois da primeira série, o número de voluntários aumentou já nem sei em quantos por cento. Isto para mim é tão importante, tão significativo e vale tanto a pena. Depois também tenho a "vantagem" de não ter carteira profissional e, assim, poder partilhar as minhas emoções… Neste registo não há ninguém que o faça.</p>				
+</citacao>
+
+<citacao href="revista_tvguia_20150912.xml" autor="Catarina" fonte="Tv Guia" ano="2015">
+	<p>Quando estou a editar os Príncipes do Nada, coloco essa questão: onde é que começa e onde é que acaba a linha que retira a dignidade daqueles que estão a sofrer? O que eu faço normalmente é uma gestão pessoal e intuitiva, que é perceber até que ponto é que aquilo é importante mostrar. Se não, o espectador não chega aperceber o drama…</p>
+</citacao>
+
+<grande><elo href="https://maps.google.com/maps/ms?msa=0&amp;msid=200784419952609460590.0004b0d9925e9350b7012&amp;ie=UTF8&amp;t=h&amp;ll=7.710992,26.71875&amp;spn=153.125254,298.828125&amp;z=1&amp;source=embed">Mapa multimédia com os sítios por onde a série passou.</elo></grande>
+<elo href="http://www.principesdonada.com/">Site do Programa</elo>
+		
+<bloco titulo="Primeira Série">
+		
+<citacao href="jornal_cm_20051111.xml" fonte="Correio da Manhã" ano="2005">
+	<p>É igualmente um bom nome para o programa que pretende identificar todas aquelas pessoas que nós vamos encontrar ao longo das nossas viagens, portugueses e não só, mas sobretudo os cidadãos portugueses, que estão a dar o seu melhor em países onde falta tudo, onde o nada é a palavra que mais se ouve. Acho que são príncipes porque fazem um trabalho difícil e extraordinário e abdicam da vida, da família, do conforto no seu país em prol de ajudarem determinadas populações e, às vezes, durante anos. Uns vão acudir a catástrofes pontuais, mas há funcionários de Organizações Não Governamentais (ONG) que estão ausentes durante anos. São opções de vida em prol dos outros. É um extraordinário trabalho de altruísmo. Ser voluntário é trabalhar com o coração.</p>
+</citacao>
+<citacao autor="Nuno Santos (Director de Programas da RTP)" href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/principes-cozinhado-ao-almoco" fonte="Correio da Manhã" ano="2005">
+	<p>O programa nasceu de mais um almoço de trabalho com a Catarina. Dei-lhe a conhecer a ideia em bruto e foi recebida com muito entusiasmo da parte dela [...] Começou logo a dar sugestões de... ‘podíamos fazer isto e aquilo, desta e daquela forma’. Escreveu a toalha de mesa toda e a verdade é que saímos do almoço com um alinhamento completo de um programa. O mérito é todo dela, que tem uma alma de repórter que deve ser genética.</p>
+</citacao>
+<citacao href="hatarde20141117.xml" fonte="Há Tarde" ano="2014">
+	<p>As vacinas eu tomo. Quando fiz a primeira série do 'Príncipes do Nada', há 8 anos, estava grávida da minha filha e não tomei nada. Foi uma opção minha. Tive uma conversa bastante complicada com o meu obstetra e amigo.</p>			
+</citacao>
+<citacao href="publico_20150607.xml" autor="Catarina" fonte="Público" ano="2015">
+	<p>Tinha consciência desse mundo. Apesar de viver no estrelato — cá para fora —, dentro da minha casa sempre se falou de desigualdade. O meu pai, jornalista, sempre trouxe o mundo real. O impacto resulta de ver com os meus olhos. O verdadeiro impacto resulta de estar tempo com as pessoas e não passar por elas [de raspão]. E sentir que todos nós, em cada uma das nossas funções, pode fazer muito mais do que fazemos. Isso deixou-me, nos primeiros tempos, quase paralisada. E a pensar que tem de haver uma fórmula de isto ficar mais equilibrado. Foi tudo muito inquietante. O maior impacto de todos — isso sim, mudou-me radicalmente — foi ver mortes evitáveis.</p>
+</citacao>	
+					
+<!-- APONTAMENTOS
+-*-
+Em 2005, a RTP estreia um outro programa, “já a ser delineado”, como avança Luiz Andrade, onde Catarina colocará em evidência o seu papel enquanto Embaixadora da Boa Vontade da ONU.
+-*-
+-*-
+Ainda em Janeiro de 2005 a série estava para se chamar "O Melhor de Nós"
+revista_tvguia_janeiro2005_01.html
+-*-
+Em novembro de 2005 parte para a indonesia e timor
+-*-
+tsunami dia 26 de dezembro de 2004
+-*-
+Catarina Furtado encontrou-se com Martunis,
+o menino indonésio que, sozinho, sobreviveu à tragédia comendo sementes e crustáceos. Quando o encontraram na praia trazia vestida a camisola da Selecção portuguesa.
+-*-
+ inteiramente dedicado a Banda Aceh, na Indonésia
+ -*-
+ http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv-
+ -media/um-ano-apos-o-tsunami-catarina-visita-indonesia
+-->
+
+</bloco>
+		
+<bloco titulo="Segunda Série">
+
+<citacao href="jornal_africatoday_Junho2010.xml" fonte="Africa Today" ano="2010">
+	<p>Admiro ainda Cabo Verde porque é um belíssimo exemplo dos países africanos que conseguiu vencer uma luta contra o analfabetismo, a corrupção e a igualdade de género, pois é o país que tem mais mulheres no poder. É aquele que mais atingiu os Objectivos de Desenvolvimento do Milénio (ODM) até agora. Está no caminho certo.</p>		
+</citacao>
+		
+<elo href="revista_tvguia_outubro2009_01.xml">Reportagem da TV Guia sobre a ida da Catarina a Cabo Verde em 2009.</elo>
+
+</bloco>
+		
+<bloco titulo="Terceira Série">
+
+<citacao href="revista_novagente_agosto2012_01.xml" fonte="Nova Gente" ano="2012">
+	<p>Ser Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População (UNFPA) há 12 anos tem sido a minha maior missão (tirando a maternidade). É um privilégio poder dar voz a quem não a tem e mostrar, alertando, as condições às vezes desumanas em que vive grande parte da população mundial, sobretudo as mulheres e as crianças. Acredito que a falta de informação gera indiferença e por isso também acredito (e com o exemplo da recetividade aos episódios do <i>Príncipes do Nada</i> tive essa prova) que se estivermos mais conscientes da realidade em que vivemos podemos atuar. Endireitar e equilibrar o Mundo, fazendo uma melhor distribuição de todos os recursos são tarefas que devem ser executadas pelos Governos, sociedade civil, ONG e filantropos.</p>			
+	<p>Confesso que existem situações tão duras e intensas que tenho vivido ao longo destes sete anos do programa Príncipes do Nada que só consigo partilhar com os meus dois amigos e companheiros de sempre, o realizador Ricardo Freitas e o repórter de imagem Hugo Gonçalves. Vivemos situações que nunca conseguimos contar integralmente à nossa família e de vez em quando tenho necessidade de desabafar com eles. Faz parte.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/wyhIxDMDVVCJ9cugTaFLVPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="TV Guia" ano="2011">
+	<p>Preparo-me muito, leio imenso, mas emocionalmente é impossível. Há cinco anos, quando comecei <i>Príncipes do Nada</i>, achei que me preparava emocionalmente, que construía uma armadura. Estudava imenso... mas depois o confronto com a realidade era sempre imprevisível.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/wyhIxDMDVVCJ9cugTaFLVPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="TV Guia" ano="2011">
+	<p>Quando eu tiver mais que 10 dias de férias vai sair um livro baseado em <i>Príncipes do Nada</i>.</p>
+</citacao>
+			
+<elo href="http://www.youtube.com/watch?v=jwg1YNZ1mkM">Catarina Furtado apresenta a 3ª série</elo>
+
+<!-- APONTAMENTOS
+
+Não foi ao brasil nem ao ... (camodja?)
+-*-
+-->
+
+</bloco>
+
+<bloco titulo="Haiti">
+<citacao>
+	<p>A primeira viagem da terceira série de “Príncipes do Nada” teve o Haiti como destino. Um ano e meio depois do terremoto que matou cerca de 220.000 pessoas ( incluindo 96 membros das Nações Unidas) chegámos à capital Porto Príncipe ( eu, o produtor/realizador Ricardo Freitas e o repórter de imagem Hugo Gonçalves da produtora “Até ao Fim do Mundo”) e fomos confrontados com uma realidade muito difícil de aceitar: <mark>Milhares de pessoas que ficaram sem nada vivem ( ainda!) em tendas que, juntas formam gigantes campos de deslocados onde passam fome, sede, não têm acesso a saneamento básico, nem possibilidade de arranjar emprego. A cólera está a atacar com força. As crianças e as mulheres estão muito mais vulneráveis a situações de risco como violações, tráfico e violência física.</mark> </p>
+	<del>
+	<p>Encontrei um povo cansado de sofrer, cansado de estar permanentemente no foco das atenções devido às piores razões. Cansado de tantas promessas e de ter ( ainda !) o seu país por reconstruir.</p>
+	<p><mark>A seguir ao terramoto, cerca de 2.000 ONG´s foram para o Haiti fazer ajuda de emergência. Muito trabalho foi feito mas existe ( e existiu) um notória falta de sinergias entre as diferentes ONG´s e talvez isso justifique o atraso na reconstrução do país.</mark> Ao passearmos pelas ruas só vemos vestígios daquilo que foram os edifícios, escombros e pessoas à beira das estradas a venderem os que lhes foi sobrando... Não há um haitiano que não tenha perdido alguém especial sem ter tido a oportunidade de se despedir porque os mortos encontrados foram todos recolhidos e depositados em grandes descampados numa tentativa de “limpar” a cidade. Hoje ainda por lá estão cerca de 400 ONG´s a trabalhar em diferentes áreas. </p>
+	<p>Mais uma vez, o nosso trabalho foi o de escolher projectos e pessoas que merecem ser destacados. Os “Príncipes do Nada”seguiram os trilhos da ONG Portuguesa Oikos que está a fazer um trabalho ao nível da construção de casas através dos materiais reciclados dos escombros. Fomos também filmar os projectos de Ocupação dos Tempos Livres das crianças implementados pela UNICEF ( 85% do ensino é privado e com o terramoto muitas escolas foram destruídas por isso as crianças haitianas praticamente não vão à escola!) Uma portuguesa, Mariana Palavra foi a nossa cicerone e falou-nos inclusivamente de outra dura realidade, a das crianças escravas. </p>
+	<p>Com o UNFPA ( Fundo das Nações Unidas para a População , do qual sou Embaixadora de Boa Vontade) fomos ver o trabalho essencial feito na Maternidade Croix-des-Bouquets para tentar reduzir a elevada taxa de mortalidade materna e infantil e verificar a assistência que é feita às mães que têm os seus bébés nos campos de deslocados em condições dramáticas. </p>
+	<p>Com a ONG espanhola Cesal e pela mão da portuguesa Maria Leitão percorremos um dos bairros mais problemáticos da capital, Cite Militaire e assistimos ao trabalho essencial de apoio psico-social às crianças afectadas pelo terramoto e o dia a dia de um centro de nutrição. </p> <p>Foram 12 dias a assistir a situações difíceis de tolerar onde fica provada a capacidade de resistência do ser humano. Trazemos muitas histórias humanas de um povo que nos recebeu muito bem e que mantém a sua dignidade a todo o custo num país magnífico, muito católico e que merecia a sua oportunidade.</p>
+	<br />
+	<p style="text-align:right;">Catarina Furtado</p>
+	</del>
+</citacao>
+<citacao href="revista_caras_setembro2011_01.xml" fonte="Caras" ano="2011">
+	<p>Logo a seguir ao terramoto de 12 de janeiro de 2010, fiquei com muita vontade de visitar o Haiti para fazer um levantamento das necessidades. Era importante fazer histórias sobre Ajuda de Emergência para a diferenciar da ajuda ao desenvolvimento.</p>	
+</citacao>
+
+<elo href="http://www.dn.pt/inicio/pessoas/interior.aspx?content_id=1902853">Partida para o Haiti - Diário de Notícias</elo>			
+
+<!-- APONTAMENTOS
+Partiu sábado à tarde dia 7 de julho de 2011
+-*-
+No dia 14 deste mês, Catarina Furtado parte para Moçambique
+http://www.dn.pt/revistas/ntv/interior.aspx?content_id=1969275	
+-*-
+-->
+</bloco>
+	
+
+<bloco titulo="Moçambique">
+<citacao href="https://picasaweb.google.com/lh/photo/ceb8ARlIo5mza13IwF2esflJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Flash!">
+	<p>Irei fazer cinco reportagens, inclusivamente vou a um sítio que quero muito ir, há muitos anos que é a ilha de Moçambique. Há muitos anos, o meu pai (Joaquim Furtado) fez uma grande reportagem para a RTP. Eu era muito criança, mas lembro-me dessa reportagem e fiquei sempre com muita vontade de visitar a pequena ilha de Moçambique.</p>
+</citacao>
+<citacao href="revista_noticiastv_outubro2011_01.xml" fonte="Noticias Tv" ano="2011">
+	<p><small>Esteve recentemente em Moçambique no âmbito do programa Príncipes do Nada. O que mais a surpreendeu?</small></p>
+	<p>Uma das maiores preocupações é a sida. E ao que assisti é que as pessoas estão a viver mais tempo, mas existem cada vez mais pessoas infectadas. Outra coisa que me tocou foi a maneira como os idosos estão a ser tratados. Se aqui há uns anos havia o mítico papel do idoso como o sábio, o transmissor da sabedoria, quase sagrado... a verdade é que agora estão a ser completamente abandonados. E isso toca-me imenso. Estão a atribuir-lhes a culpa destes males e eles estão mesmo a ser postos fora de casa.</p>	
+</citacao>
+<!-- APONTAMENTOS
+-*-
+viaja para moçambique dia 15 de setembro
+-*-
+-->
+</bloco>
+
+<bloco titulo="Sudão do Sul">
+
+<citacao href="jornal_jn_20111127.xml" fonte="Jornal de Notícias" ano="2011">
+	<p>A viagem é longa e começou de Lisboa para Londres, de Londres para o Cairo e do Cairo para Juba (capital do Sudão do Sul, três horas a mais do que Lisboa). Para cá, o regresso foi através do Quénia em vez do Egipto. A primeira peripécia aconteceu logo em Lisboa quando o voo para Londres atrasou e fez com que já não pudéssemos voar nesse dia, porque todos os outros voos de ligação ficaram comprometidos e as reportagens no local também porque chegaríamos dois dias depois. Tivemos, por isso, de adiar a partida uma semana e remarcar toda a agenda em Juba! Nada fácil, porque nestes 10 dias fizemos cinco histórias. A articulação de tudo, com as dificuldades de rede e Internet exige uma ginástica considerável.</p>
+</citacao>
+<citacao href="jornal_jn_20111127.xml" fonte="Jornal de Notícias" ano="2011">
+	<p>O novo país depende ainda e muito da ajuda humanitária de emergência, para além da ajuda ao desenvolvimento. Juba é uma cidade em construção com visitantes dos países vizinhos (Egipto, Quénia, Uganda) a quererem montar negócios. Uma das minhas primeiras constatações foi de que é urgente a implementação de leis que protejam as crianças e as jovens contra o abuso sexual - são muitas meninas de rua, algumas órfãs, outras cujos pais e mães não têm condições para cuidar- que sobrevivem prostituindo-se a partir dos 10 anos! As violações são muito comuns em meninas ainda mais pequenas e os casamentos precoces forçados - normalmente em troca de vacas - são ainda uma realidade que apesar de ser legalmente punível, na prática ainda não se verifica. Menos de 10% das crianças acaba o ensino primário e 2% das mulheres não sabe ler nem escrever. O Sudão do Sul tem a maior taxa de Mortalidade Materna e uma das maiores infantis - uma em cada quatro crianças morre antes de completar os 5 anos - e 80% da população não tem acesso a serviços básicos de saúde!</p>
+</citacao>
+<citacao href="jornal_jn_20111127.xml" fonte="Jornal de Notícias" ano="2011">
+	<p>(...) não gostarem muito que filmássemos. Tínhamos de ter muito mais cuidado porque existe uma visível desconfiança. (...) Fomos inclusivamente ao maior mercado da cidade - onde tudo acontece e pode acontecer - fazer o meu "vivo" (um resumo do trabalho virada para a câmara) e teve de ser à primeira porque um "take 2" já não seria aconselhável.</p>
+</citacao>
+<citacao href="jornal_jn_20111127.xml" fonte="Jornal de Notícias" ano="2011">
+	<p>Quando se assiste a mortes perfeitamente evitáveis, as emoções e as dores partilhadas têm, inevitavelmente, de se transformar em acção. Por isso, hoje em dia vou "trabalhando" as emoções, mas existem sempre momentos únicos em que somos assaltados pela crueldade da realidade. Conheci meninas das idades dos meus filhos a quem lhes foi roubado tudo. Sem espaço para sonharem, sem poderem ir à escola, abusadas sexualmente, a comerem o que apanham na rua, sem acesso a cuidados básicos de higiene, sem água. São muitas assim a viverem num dos países menos desenvolvidos do Mundo e essas imagens nós, felizmente, não temos em Portugal.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/iFSjdtLSKnk3ADB4GBVkIPlJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Lux">
+	<p>Foi muito violento, foi o cenário mais problemático e mais duro que já vi. Mas, em termos de trabalho, correu bem. Trago histórias que são muito fortes e que faz todo o sentido serem partilhadas.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/iVk6p3S0BNQR1LFWhVMdLF3rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="TV Guia" ano="2012">
+	<p><small>Qual foi a história que mais a marcou nesta 3ª série?</small></p>
+	<p>A Reportagem sobre crianças que são violadas aos cinco anos, que vai passar no primeiro programa. Foi das coisas mais dolorosas que vi e ouvi. Como mãe, que sou, tocou-me especialmente, ver as pessoas a morrer de sida. Na verdade, para mim, isto é uma missão, não é um programa.</p>
+</citacao>
+
+<citacao autor="Ana Lúcia Sousa"  href="http://www.voltaaomundo.pt/Cicerone/Artigo/VM065463.html" fonte="Volta ao Mundo" ano="2013"><del><b>Das muitas viagens que fez em lazer e trabalho há algum país que a tenha marcado mais?<br/></b>De todos os países que já visitei escolho a mais recente nação do mundo: Sudão do Sul. <br/><br/><b>Porque visitou esse país?</b><br/>Foi o programa Príncipes do Nada (RTP) que me levou (e aos meus dois companheiros Ricardo Freitas e Hugo Gonçalves) ao Sudão do Sul durante dez dias para fazer cinco histórias sobre desenvolvimento e ajuda humanitária. A viagem partiu de Lisboa e seguiu para Londres, de Londres para o Cairo e do Cairo para Juba (capital do Sudão do Sul, três horas a mais de Lisboa). Para cá o regresso foi através do Quénia em vez do Egipto. <br/><br/><b>Porque a marcou essa viagem?</b><br/>É difícil descrever a emoção de ver um povo que acaba de conquistar a sua independência - Julho de 2001-. É uma experiência única assistir ao fervilhar das pessoas e das ruas. Inesquecível! A primeira impressão foi a de que é um país orgulhoso por finalmente ter conseguido o que desejava há já longos anos. <br/><br/><b>Sentiu isso nas pessoas?</b><br/>Esse sentimento acaba por ser contagiante e muito depressa tornamo-nos cúmplices. Foi muito bom sentir a vontade dos sudaneses do Sul de começarem do zero e construírem um país com paz (não sei se será mesmo assim mas espero...). <br/><br/><b>Porque diz isso?</b><br/>Sente-se essa dedicação à nova Nação e o desejo de mostrarem que são capazes. Ao mesmo tempo também paira no ar uma enorme instabilidade ao nível da segurança do país (cerca de metade do Orçamento Geral do Estado vai para a Segurança relegando para último plano a Saúde, a Educação e as questões sociais que ao todo não passam dos 20%). O novo país depende ainda e muito, e terá de depender...) da ajuda humanitária de emergência para além da ajuda ao desenvolvimento. O Sudão do Sul tem no Norte um campo de refugiados cuja sobrevivência depende da ajuda internacional. Juba é uma cidade em construção com visitantes dos países vizinhos (Egipto, Quénia, Uganda) a quererem montar negócios. <br/><br/><b>O que mais a surpreendeu?</b><br/>Uma das minhas primeiras constatações foi de que é urgente a implementação de leis que protejam as crianças e as jovens contra o abuso sexual (são muitas meninas de rua, algumas órfãs, outras cujos pais e mães não têm condições para cuidar) que sobrevivem prostituindo-se a partir dos 10 anos! As violações são muito comuns em meninas ainda mais pequenas e os casamentos precoces forçados (normalmente em troca de vacas) são ainda uma realidade que apesar de ser legalmente punível, na prática ainda não se verifica. Menos de 10% das crianças acaba o ensino primário. <br/><br/><b>Uma realidade muito preocupante…<br/></b>O Sudão do Sul tem a maior taxa de mortalidade materna e uma das maiores infantis (uma em cada quatro crianças morre antes de completar os 5 anos de idade). 80% da população não tem acesso a serviços básicos de saúde!<br/><br/><b>Sentiu alguma dificuldade em chegar às pessoas para fazer o Principes do Nada?</b><br/></del>Os mais de vinte anos de guerra e mais de cinquenta de conflito deixaram marcas eternas. Foi notório quando, por exemplo, com frequência, não nos davam autorização para filmar. A desconfiança é óbvia. As marcas da guerra são visíveis na destruição das infraestruturas e analfabetização da população (que depois se traduz na vulgarização da violência e violação dos direitos humanos). A pobreza , a fome e o desespero são nestes países levados a um extremo difícil de acreditar e aceitar.</citacao>
+
+<elo href="http://caras.sapo.pt/famosos/2011/11/19/catarina-furtado-regressa-do-sudao-do-sul">Regresso do Sudão do Sul - Revista Caras</elo>
+		
+<!-- APONTAMENTOS
+-*-
+é surpreendida pelos filhos e enteados e recebida com flores
+-*-
+regressou sabado dia 19 de novembro
+http://caras.sapo.pt/famosos/2011/11/19/catarina-furtado-regressa-do-sudao-do-sul
+-*-
+Gostava muito de ir à Índia, mas o próximo destino será o Brasil.
+jornal_jn_20111127.html
+-*-
+http://www.unfpa.org/public/home/news/pid/7665
+http://inthenews.unfpa.org/?s=south+sudan
+http://staceytravis.wordpress.com/
+-->
+
+</bloco>
+
+<bloco titulo="Portugal">
+
+</bloco>
+	
+<bloco titulo="India">
+
+<citacao href="https://picasaweb.google.com/lh/photo/zS4OI20-7Ax5ziMcHLvO9F3rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="Lux">
+	<p>Tenho sangue goês. Embora não vá poder ir a Goa, sinto uma emoção especial. Sei que vou sentir o sangue. O meu bisavô era de Goa e lindo de morrer.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/w4Tl0N_7XFrxmB2eSKyo913rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="Caras">
+	<p>Desta viagem trago a verdadeira dimensão do que é aquele país. Só com esta visita é que percebi que tudo tem de ser avaliado à sua própria escala. A pobreza é desconcertante, porque em 1,2 mil milhões de pessoas, existem 400 milhões a viver abaixo do limiar da pobreza. Ao mesmo tempo, por ser um país com uma das economias emergentes, vê-se arranha-céus e luxo, o que torna o contraste ainda mais chocante. Em Mumbai existem 20 milhões de pessoas, o equivalente ao dobro da população do nosso país numa só cidade!</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/N1WaCz2cd2Efc2of9rfOfV3rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="Caras">
+	<p>Chegam a ocorrer cerca de 7000 feticídios femininos por dia. Apesar de o governo indiano e das ONG estarem a tentar travar esta realidade, o nascimento de uma menina é ainda um fardo para grande parte das famílias indianas.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/kL_RFJ3yA__x_6RjwMz6SV3rYiS-9tvfO2fv7mBFXMs?feat=directlink" fonte="TV7Dias" ano="2012">
+	<p>Sinto que, por estar na terra da qual era oriundo o meu bisavô materno, o sangue vai ferver-me nas veias. Só eu e a minha irmã, Marta, é que temos estes traços. O meu bisavô tinha olhos verdes e era lindo de morrer!</p>
+</citacao>
+
+<elo href="http://caras.sapo.pt/famosos/2012/04/14/regressada-de-uma-viagem-a-ndia-catarina-furtado-rende-se-aos-mimos-do-marido">Regresso da Índia - Caras</elo>
+<elo href="http://caras.sapo.pt/famosos/2012/05/13/catarina-furtado-emocao-e-consternacao-durante-viagem-a-ndia">Artigo da revista Caras sobre a viagem à Índia</elo>
+<elo href="http://www.youtube.com/watch?v=nTpeTE_FSUM">Catarina Furtado ao telefone da Índia para o Diogo Beja Show</elo>
+<elo href="http://www.youtube.com/watch?v=NWb68J5GHOU">Catarina Furtado ao telefone da Índia para o Portugal no Coração</elo>	
+
+<!-- APONTAMENTOS
+partiu sabado antes de 21/3/2012
+-->
+</bloco>
+
+
+<tabela titulo="Tabela de videos por episódio">
+	<thead>
+		<tr>
+			<th>Episódio</th>
+			<th>Ano</th>
+			<th>País</th>
+			<th>Descrição</th>
+			<th>Video</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>S01/E00</td>
+			<td>2005</td>
+			<td>Indonésia</td>
+			<td>Trabalho da OIKOS após o tsunami</td>
+			<td><a href="http://www.youtube.com/watch?v=9WbgDWXbsp4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E01</td>
+			<td>2006</td>
+			<td>Moçambique</td>
+			<td>Médicos do Mundo face ao HIV/SIDA</td>
+			<td><a href="http://www.youtube.com/watch?v=84CbU56rxQU">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E01</td>
+			<td>2006</td>
+			<td>Timor-Leste</td>
+			<td>Obra do missionário Padre João de Deus</td>
+			<td><a href="http://www.youtube.com/watch?v=fhxYs20XENA">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E02</td>
+			<td>2006</td>
+			<td>Moçambique</td>
+			<td>Vasco Galante e o Parque Nacional da Gorongosa</td>
+			<td><a href="http://www.youtube.com/watch?v=EuvzL2Sfa7Y">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E02</td>
+			<td>2006</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Unidade Móvel no apoio à saúde sexual e reprodutiva</td>
+			<td><a href="http://www.youtube.com/watch?v=xOZKPpS1r2A">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E03</td>
+			<td>2006</td>
+			<td>Indonésia</td>
+			<td>Marta Aguiar voluntária das Brigadas de Paz Internacionais</td>
+			<td><a href="http://www.youtube.com/watch?v=Dc3xmaLTIjI">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E03</td>
+			<td>2006</td>
+			<td>Portugal</td>
+			<td>A AMI e os sem abrigo de Lisboa</td>
+			<td><a href="http://www.youtube.com/watch?v=1OWgSTFV8oM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E03</td>
+			<td>2006</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Balbina Trindade da ARCAR (Associação para a Reinserção das Crianças Abandonadas e em Situação de Risco)</td>
+			<td><a href="http://www.youtube.com/watch?v=wQN1GAcluP0">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E04</td>
+			<td>2006</td>
+			<td>Portugal</td>
+			<td>As prostitutas e prostitutos da cidade do Porto podem encontrar apoio na Associação Espaço Pessoa</td>
+			<td><a href="http://www.youtube.com/watch?v=yug-97hqabk">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E04</td>
+			<td>2006</td>
+			<td>Moçambique</td>
+			<td>Padre Zé Maria, responsável pela Casa do Gaiato de Boane</td>
+			<td><a href="http://www.youtube.com/watch?v=nnt44ppmCOM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E05</td>
+			<td>2006</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Médicos do Mundo e a prevenção do HIV/SIDA</td>
+			<td><a href="http://www.youtube.com/watch?v=UMDQMgGWqTk">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E06</td>
+			<td>2006</td>
+			<td>Indonésia</td>
+			<td>Henrique Gomes, engenheiro ambiental, ao serviço da ONG inglesa OXFAM</td>
+			<td><a href="http://www.youtube.com/watch?v=B9O6Va2A2DM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E06</td>
+			<td>2006</td>
+			<td>Portugal</td>
+			<td>Associação Cultural Moinho da Juventude do Bairro Cova da Moura</td>
+			<td><a href="http://www.youtube.com/watch?v=Y671BwCJPYs">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E06</td>
+			<td>2006</td>
+			<td>Timor-Leste</td>
+			<td>Mana Lu, Fundadora do ISMAIK (Instituto Secular Irmãos e Irmãs em Cristo)</td>
+			<td><a href="http://www.youtube.com/watch?v=xswh7D8WYH8">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E07</td>
+			<td>2006</td>
+			<td>Moçambique</td>
+			<td>Patrícia Fernandes da UNICEF e o Centro de Reabilitação Infantil de Chókwè (CRIC)</td>
+			<td><a href="http://www.youtube.com/watch?v=8sVwFMeaNdw">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E07</td>
+			<td>2006</td>
+			<td>Portugal</td>
+			<td>Cristina Taveira, voluntária da AMARA (Associação pela Dignidade na Vida e na Morte)</td>
+			<td><a href="http://www.youtube.com/watch?v=tcRRR887llM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E07</td>
+			<td>2006</td>
+			<td>Timor-Leste</td>
+			<td>Ensino do Português com a professora Rosa</td>
+			<td><a href="http://www.youtube.com/watch?v=_Kc2Q36zdc4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E08</td>
+			<td>2007</td>
+			<td>Portugal</td>
+			<td>Associação "Dar a Mão" no Presidio Feminino de Tires</td>
+			<td><a href="http://www.youtube.com/watch?v=y75otbu_lfU">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E08</td>
+			<td>2007</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Patrick de Carvalho criou um projecto de economia social "Ossobô"</td>
+			<td><a href="http://www.youtube.com/watch?v=vUvxbsyo2DQ">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E08</td>
+			<td>2007</td>
+			<td>Timor-Leste</td>
+			<td>Dra. Gilda Gomes, médica estomatologista ao serviço das crianças timorenses</td>
+			<td><a href="http://www.youtube.com/watch?v=jbhZKbsE648">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E09</td>
+			<td>2007</td>
+			<td>Moçambique</td>
+			<td>Carlota Góis da ONG VIDA (Voluntariado Internacional para o Desenvolvimento Africano)</td>
+			<td><a href="http://www.youtube.com/watch?v=8bMh4_6csiU">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E09</td>
+			<td>2007</td>
+			<td>Timor-Leste</td>
+			<td>Projecto "Casa das Mães" dos Médicos do Mundo, coordenado pela enfermeira Ana Carreira, tenta combater a mortalidade materno-infantil</td>
+			<td><a href="http://www.youtube.com/watch?v=Aa7lNy-EWOo">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E10</td>
+			<td>2007</td>
+			<td>Timor-Leste</td>
+			<td>Voluntária Rosa Menezes</td>
+			<td><a href="http://www.youtube.com/watch?v=VfICG775CL8">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E10</td>
+			<td>2007</td>
+			<td>Moçambique</td>
+			<td>Irmã Suzana Marques e a APOIAR</td>
+			<td><a href="http://www.youtube.com/watch?v=5EKeveV-DUk">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E11</td>
+			<td>2007</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Os Leigos para o Desenvolvimento</td>
+			<td><a href="http://www.youtube.com/watch?v=2UwbM9bBu90">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E11</td>
+			<td>2007</td>
+			<td>Portugal</td>
+			<td>Campanha Pobreza Zero da OIKOS</td>
+			<td><a href="http://www.youtube.com/watch?v=AVur2pvKIuA">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E12</td>
+			<td>2007</td>
+			<td>Portugal</td>
+			<td>Dona Leonor, voluntaria no Bairro de Chelas</td>
+			<td><a href="http://www.youtube.com/watch?v=-6DVsPfG7mA">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E12</td>
+			<td>2007</td>
+			<td>Portugal</td>
+			<td>Serviço Jesuita aos Refugiados</td>
+			<td><a href="http://www.youtube.com/watch?v=Y2F3-7r2ws4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S01/E12</td>
+			<td>2007</td>
+			<td>Portugal</td>
+			<td>Associação Acreditar no Instituto Português de Oncologia</td>
+			<td><a href="http://www.youtube.com/watch?v=bZDiSlgN_eU">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E01</td>
+			<td>2012</td>
+			<td>Sudão do Sul</td>
+			<td>ONG Confident Children Out of Conflict (CCC)</td>
+			<td><a href="http://www.youtube.com/watch?v=zZTXJ-6Zgo8">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E02</td>
+			<td>2012</td>
+			<td>Haiti</td>
+			<td>Mariana Palavra da Unicef</td>
+			<td><a href="http://www.youtube.com/watch?v=kRGYrBpZoXc">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E02</td>
+			<td>2012</td>
+			<td>Moçambique</td>
+			<td>Dona Rosária, criadora do centro de apoio às vítimas de sida</td>
+			<td><a href="http://www.youtube.com/watch?v=qiq_9V3Imu0">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E03</td>
+			<td>2012</td>
+			<td>Sudão do Sul</td>
+			<td>Hospital Pediátrico de Juba e o sistema de saúde</td>
+			<td><a href="http://www.youtube.com/watch?v=QuKhsb-J74c">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E03</td>
+			<td>2012</td>
+			<td>Portugal</td>
+			<td>Conselho Português para os Refugiados</td>
+			<td><a href="http://www.youtube.com/watch?v=Lo4kP3zUu0Q">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E04</td>
+			<td>2012</td>
+			<td>Moçambique</td>
+			<td>Irmã Angelina, acolhe meninas órfãs no Centro Menino Jesus da Manhiça</td>
+			<td><a href="http://www.youtube.com/watch?v=02QPgPDtzSM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E04</td>
+			<td>2012</td>
+			<td>Haiti</td>
+			<td>A Oikos nos campos de deslocados depois do terramoto</td>
+			<td><a href="http://www.youtube.com/watch?v=nhc-UhPRAW4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E05</td>
+			<td>2012</td>
+			<td>Haiti</td>
+			<td>Intervenção do UNFPA na saúde materna e infantil</td>
+			<td><a href="http://www.youtube.com/watch?v=TwOlrfcfX_k">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E05</td>
+			<td>2012</td>
+			<td>Índia</td>
+			<td>Márcia Nogueira, educadora de infância e voluntária na ONG Humana People to People</td>
+			<td><a href="http://www.youtube.com/watch?v=fRokTJ4o6YQ">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E06</td>
+			<td>2012</td>
+			<td>Portugal</td>
+			<td>Médicos do Mundo com a população idosa do Porto</td>
+			<td><a href="http://www.youtube.com/watch?v=4tuxGSzPS68">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E06</td>
+			<td>2012</td>
+			<td>Moçambique</td>
+			<td>Greg Carr e o Parque Nacional da Gorongosa</td>
+			<td><a href="http://www.youtube.com/watch?v=kxMr7rucfIA">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E07</td>
+			<td>2012</td>
+			<td>Haiti</td>
+			<td>Maria Leitão dirige a ONG CESAL de apoio às crianças</td>
+			<td><a href="http://www.youtube.com/watch?v=8fAlXV2R2Qo">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E07</td>
+			<td>2012</td>
+			<td>Sudão do Sul</td>
+			<td>O missionário Padre José Vieira</td>
+			<td><a href="http://www.youtube.com/watch?v=7PNzlcJFQjY">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E08</td>
+			<td>2012</td>
+			<td>Índia</td>
+			<td>O comboio-hospital Lifeline Express</td>
+			<td><a href="http://www.youtube.com/watch?v=_J7xXTdqmX0">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E08</td>
+			<td>2012</td>
+			<td>Portugal</td>
+			<td>Bombeiros Voluntários do Seixal</td>
+			<td><a href="http://www.youtube.com/watch?v=U4snm7HGmpQ">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E09</td>
+			<td>2012</td>
+			<td>Índia</td>
+			<td>O trabalho do UNFPA</td>
+			<td><a href="http://www.youtube.com/watch?v=03AIGAF7_jk">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E09</td>
+			<td>2012</td>
+			<td>Moçambique</td>
+			<td>Dona Nilsa acolhe meninas desprovidas e a ONG Big Hand</td>
+			<td><a href="http://www.youtube.com/watch?v=nBuwMMdzZSI">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E10</td>
+			<td>2012</td>
+			<td>Portugal</td>
+			<td>A Casa da Criança, centro de acolhimento dos filhos das reclusas do Estabelecimento Prisional de Tires</td>
+			<td><a href="http://www.youtube.com/watch?v=9Acc1I7h0jQ">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E10</td>
+			<td>2012</td>
+			<td>Haiti</td>
+			<td>Campo de deslocados Corail Cesselesse</td>
+			<td><a href="http://www.youtube.com/watch?v=tHLmLfZZlCU">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E11</td>
+			<td>2012</td>
+			<td>Moçambique</td>
+			<td>Anselmo é um dos jovens músicos apoiados pelo Music Fund</td>
+			<td><a href="http://www.youtube.com/watch?v=16l30inw1Mc">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E11</td>
+			<td>2012</td>
+			<td>Índia</td>
+			<td>O UNFPA e a promoção da igualdade de género</td>
+			<td><a href="http://www.youtube.com/watch?v=bQvjKu11QqA">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E12</td>
+			<td>2012</td>
+			<td>Índia</td>
+			<td>A casa das Irmãs Franciscanas Hospitaleiras é também um colégio para as raparigas Adivasis</td>
+			<td><a href="http://www.youtube.com/watch?v=S4N0qtI-2-o">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E12</td>
+			<td>2012</td>
+			<td>Sudão do Sul</td>
+			<td>Visita à maternidade de Juba</td>
+			<td><a href="http://www.youtube.com/watch?v=kx3DMpAVRIo">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E13</td>
+			<td>2012</td>
+			<td>Índia</td>
+			<td>O UNFPA e o sistema de saúde do país</td>
+			<td><a href="http://www.youtube.com/watch?v=xql7zxFmDxU">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S03/E13</td>
+			<td>2012</td>
+			<td>Portugal</td>
+			<td>O planeamento familiar promovido pela APF e MAC</td>
+			<td><a href="">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E01</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>Enfermeira Laura</td>
+			<td><a href="http://www.youtube.com/watch?v=s2Sry3_f0Io">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E01</td>
+			<td>2010</td>
+			<td>Guiné Bissau</td>
+			<td>Fundação Evangelização e Culturas</td>
+			<td><a href="http://www.youtube.com/watch?v=tgurE9GE1x4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E02</td>
+			<td>2010</td>
+			<td>Timor Leste</td>
+			<td>Irmãs Franciscanas</td>
+			<td><a href="http://www.youtube.com/watch?v=fcDH0_otEwM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E02</td>
+			<td>2010</td>
+			<td>Cabo Verde</td>
+			<td>Associação Black Panthers</td>
+			<td><a href="http://www.youtube.com/watch?v=GWKh_lG__7s">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E03</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>Associação Reencontro</td>
+			<td><a href="http://www.youtube.com/watch?v=Da1NGOif8pM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E03</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>AMI</td>
+			<td><a href="http://www.youtube.com/watch?v=Y2uE-2NiHic">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E04</td>
+			<td>2010</td>
+			<td>Cabo Verde</td>
+			<td>Irmãs Franciscanas</td>
+			<td><a href="http://www.youtube.com/watch?v=kiLMUz8dq5Y">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E04</td>
+			<td>2010</td>
+			<td>Timor Leste</td>
+			<td>APF / UNFPA</td>
+			<td><a href="http://www.youtube.com/watch?v=AMKdVwe6NGM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E05</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Associação São Tomense Para a Promoção Familiar</td>
+			<td><a href="http://www.youtube.com/watch?v=A2XH0Vi3nAc">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E05</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>Comunidade do Cenáculo / Tese</td>
+			<td><a href="http://www.youtube.com/watch?v=MMzgXCNL4q0">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E06</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>ALISEI</td>
+			<td><a href="http://www.youtube.com/watch?v=zW_4wG-JFNM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E06</td>
+			<td>2010</td>
+			<td>Guiné Bissau</td>
+			<td>AMI</td>
+			<td><a href="http://www.youtube.com/watch?v=eF2b7dCYK4g">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E07</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Instituto Marquês Vale Flor</td>
+			<td><a href="http://www.youtube.com/watch?v=Sc1ocfGZtKg">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E07</td>
+			<td>2010</td>
+			<td>Cabo Verde</td>
+			<td>Atelier Mar</td>
+			<td><a href="http://www.youtube.com/watch?v=0_SwWc9t-gs">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E08</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Médicos do Mundo</td>
+			<td><a href="http://www.youtube.com/watch?v=-lD488injHM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E08</td>
+			<td>2010</td>
+			<td>Timor Leste</td>
+			<td>Leigos para o Desenvolvimento</td>
+			<td><a href="http://www.youtube.com/watch?v=Vnzw3wJ8wB4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E09</td>
+			<td>2010</td>
+			<td>Cabo Verde</td>
+			<td>Associação Morabi</td>
+			<td><a href="http://www.youtube.com/watch?v=1yLGPzbPxy4">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E09</td>
+			<td>2010</td>
+			<td>Guiné Bissau</td>
+			<td>Tese / Luz Bin</td>
+			<td><a href="http://www.youtube.com/watch?v=0dVqs90r9Ds">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E09</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>Associação Coalizão</td>
+			<td><a href="http://www.youtube.com/watch?v=kUzUu3x_Cfk">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E10</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>Bairro de Mumemo / Apoiar</td>
+			<td><a href="http://www.youtube.com/watch?v=abtOtR4NIRc">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E10</td>
+			<td>2010</td>
+			<td>Cabo Verde</td>
+			<td>UNFPA</td>
+			<td><a href="http://www.youtube.com/watch?v=p16FI9T4B-A">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E11</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Leigos para o desenvolvimento</td>
+			<td><a href="http://www.youtube.com/watch?v=KTP8_ucm_pY">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E11</td>
+			<td>2010</td>
+			<td>Timor Leste</td>
+			<td>PRADET</td>
+			<td><a href="http://www.youtube.com/watch?v=QGv95kmlp1w">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E12</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>Médicos do Mundo</td>
+			<td><a href="http://www.youtube.com/watch?v=q5gfGlaYNHQ">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E12</td>
+			<td>2010</td>
+			<td>Timor Leste</td>
+			<td>Fundação Alola</td>
+			<td><a href="http://www.youtube.com/watch?v=ZsWABZL-2fM">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E13</td>
+			<td>2010</td>
+			<td>São Tomé e Príncipe</td>
+			<td>Irmãs Franciscanas Hospitaleiras da Imaculada Conceição</td>
+			<td><a href="http://www.youtube.com/watch?v=qhNxv-oDl8s">VIDEO</a></td>
+		</tr>
+		<tr>
+			<td>S02/E13</td>
+			<td>2010</td>
+			<td>Moçambique</td>
+			<td>UNFPA / Geração Biz</td>
+			<td><a href="http://www.youtube.com/watch?v=78Wcr4PAIfw">VIDEO</a></td>
+		</tr>
+	</tbody>
+</tabela>		
+
+</corpo>
+
+</pagina>
