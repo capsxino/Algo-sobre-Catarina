@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Non ou a Vã Glória de Mandar</titulo>
+	<descricao>Participa como figurante na longa-metragem realizada por Manoel de Oliveira, que também foi autor do argumento e diálogos.</descricao>
+	<data><ano>1990</ano><mes>10</mes><dia>12</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-Q10c6CRqsXo/UQpJy_RWHgI/AAAAAAAAOGc/XoC70fPcBDA/s0/CatarinaFurtado_Non_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Longa-metragem realizada por Manoel de Oliveira que também foi o autor do argumento e diálogos. O filme teve a sua estreia em Portugal no dia 12 de Outubro de 1990 e nesse mesmo ano recebeu o Prémio Especial do Júri do Festival de Cannes.</p>
+<p>Partindo da Guerra Colonial o filme evoca diversos momentos de viragem da história de Portugal. Alguns episódios miticos ou literários como o da chegada de Vasco da Gama à Ilha dos Amores. É aí que encontramos a Catarina neste filme, uma ninfa, vestida com uma túnica violeta e cabelo longo enfeitado com flores, que acompanha o navegante no banquete oferecido por Vénus.</p>
+<p>O rosto é de menina mas o sorriso é dela e o de sempre.</p>
+<p>Na altura da rodagem a Catarina, talvez com 17 anos, era finalista da Escola de Dança do Conservatório Nacional de Lisboa e foi por lá (quando tinha 16 anos) que lhe fizeram o convite para fazer um <i>casting</i> para o filme. Escolhida, aceitou com entusiasmo e curiosidade pelo mundo do cinema.</p>
+
+<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+	<p><small>Estreou-se nestas andanças ainda adolescente, num filme de Manoel de Oliveira, "Non ou a Vã Glória de Mandar" (1990).</small></p>
+	<p>Sim, aparecia a dar uvas ao Vasco da Gama Paulo Matos. Eu estava no último ano do Conservatório de Dança, no Bairro Alto, e um dos produtores do filme cruzou-se comigo e achou que eu tinha ar de ninfa <i>(risos)</i>. Nas filmagens, as ninfas foram divididas em dois grupos. De um lado ficaram aquelas que aceitavam ser ninfas ao léu e do outro ficaram as outras. Eu estava do lado das outras.</p>	
+</citacao>
+
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p><small>Deu para perceber o que é ser dirigida por Manoel de Oliveira?</small></p>
+	<p>Não. Éramos apenas figurantes e fazíamos de ninfas. Mas, como sou muito rata e observadora, percebia forma de ele trabalhar. Está sempre em cima de tudo e tem um enorme sentido de humor. E era super malandro com as ninfas todas ali à volta [risos]. Ao vê-lo trabalhar percebe-se que há ali um lado genial.</p>
+</citacao>
+
+<grande><elo href="https://www.youtube.com/watch?v=bePs5Cvr_yk">Depoimento incluído nos extras do DVD do filme</elo>			</grande>
+<elo href="http://www.youtube.com/watch?v=oDBOnZXzc0c">Momento no "5 Para a Meia-Noite" do dia 23/3/2010</elo>			
+<elo href="http://www.youtube.com/watch?feature=player_embedded&amp;v=aeJ_WAB5iAM#t=1039s">Momento no "Herman 2012"</elo>
+<elo href="jornal_dn_20090324.xml">Numa entrevista dada ao Diário de Notícias diz que tem uma fala no filme mas, de facto, a cena é apenas musicada.</elo>
+
+
+</corpo>
+
+</pagina>

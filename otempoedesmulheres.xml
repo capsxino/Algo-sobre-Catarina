@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="" estado="rascunho">
+
+<cabecalho>
+	<titulo></titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://www.rtp.pt/noticias/cultura/o-tempo-e-10-mulheres-um-filme-em-dez-segmentos_v912444">Reportagem "Horas Extraordinárias"</elo>
+
+</corpo>
+
+</pagina>

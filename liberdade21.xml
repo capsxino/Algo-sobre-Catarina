@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="series.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Liberdade 21</titulo>
+	<descricao>Interpreta o papel da advogada Serena Antunes, nos últimos episódios da série da RTP.</descricao>
+	<data><ano>2008</ano><mes></mes><dia></dia></data>
+	<fundo legenda="Fotografia por André Carvalho">https://lh4.googleusercontent.com/-d3AhmSQL0ZU/UAlTyx_vpNI/AAAAAAAAMnk/gY6ruwWtLnM/s0/2922618680_c022f70d46.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Série produzida pela <a href="http://www.sptelevisao.pt/liberdade21/">SP Televisão</a> para a RTP: <cite>Liberdade 21</cite> retrata o dia a dia de uma grande sociedade de advogados da capital.</p>
+<p>A Catarina foi convidada em 2008 para interpretar o papel da advogada <cite>Serena Antunes</cite>, nos últimos episódios da segunda e última temporada da série.</p>
+
+<elo href="http://www.jn.pt/paginainicial/interior.aspx?content_id=1025641">Artigo do Jornal de Notícias</elo>
+
+<p>Apesar da série ter estreado no dia 18 de Outubro de 2008, os episódios com a Catarina só foram transmitidos, pela RTP, durante o primeiro semestre de 2012.</p>
+
+<elo href="http://youtu.be/iQOf50_4UZg">Serena, rival da sociedade de advogados, aparece pela primeira vez no final do <b>episódio 42</b>.</elo>
+
+<elo href="http://youtu.be/p-UL0UOTncs">Volta a surgir no <b>episódio 45</b>, numa cena em que confronta a sua antiga mentora, Helena Brito.</elo>
+
+<p>"Não te armes em mãe que é uma coisa que tu não és", diz-lhe Serena; "Para ti fui", responde-lhe Helena (um papel desempenhado pela Ana Nave).</p><p>Lembrando: a Catarina estreou-se no teatro ao lado da Ana Nave, na peça <a href="quase.xml"><cite>Quase</cite></a>, em 1999. Pouco mais de um ano depois, a Ana Nave assumiria a função de direção de actores na série <a href="cidadedespida.xml"><cite>Cidade Despida</cite></a> protagonizada pela Catarina.</p>
+
+<elo href="http://youtu.be/Zsx7RGjyb64">No <b>episódio 49</b>, Helena quer afastar-se do escritório e propõe vender a sua parte a a Serena.</elo>
+
+<elo href="http://youtu.be/Rs4UJFJDQrQ">No mesmo <b>episódio 49</b> a Serena defende um presumível assaltante duma ourivesaria.</elo>
+
+<elo href="http://youtu.be/Vz7bPG19yOU">A personagem volta a aparecer brevemente no <b>último episódio</b>.</elo>
+
+<creditos>
+	<nome titulo="Personagem da Catarina">Serena Antunes</nome>
+	<nome titulo="Produção"><a href="http://www.sptelevisao.pt/">SP Televisão</a></nome>
+	<nome titulo="Argumento"><a href="www.producoesficticias.pt/">Produções Fictícias</a></nome>
+	<nome titulo="Realização">Sérgio Graciano e Patricia Sequeira</nome>
+	<nome titulo="Entrou nos episódios">42,45,49,50 e 52</nome>
+	<nome titulo="Data da emissão do Ep. 42">26/4/2012</nome>
+	<nome titulo="Data da emissão do Ep. 52">19/7/2012</nome>
+</creditos>
+
+<elo href="https://picasaweb.google.com/lh/photo/ocTVn1j-zhTlzxCRBpjcz64M6FWsvxRH22mlVUHZ2SU?feat=directlink">Artigo do jornal 24 Horas</elo>
+<elo href="http://www.imdb.com/title/tt1230417/">Página no IMDB</elo>
+<elo href="http://www.sptelevisao.pt/liberdade21/">Site da série no sitio da SP Televisão</elo>
+<elo href="http://www.rtp.pt/programa/tv/p24401">Sinopse da série no sitio da RTP</elo>
+<elo href="https://picasaweb.google.com/116136255703077903546/Liberdade21?authuser=0&amp;authkey=Gv1sRgCN_O7vj90ouwIA&amp;feat=directlink">Fotografias da série</elo>
+
+</corpo>
+
+</pagina>

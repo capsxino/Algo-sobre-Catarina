@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pontuais.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>O Grande Teatro do Mundo</titulo>
+	<descricao>Apresentação, ao lado do Diogo Infante, do programa da RTP comemorativo do Dia Mundial do Teatro.</descricao>
+	<data><ano>2012</ano><mes>3</mes><dia>27</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-hPUPbEnVozg/T51rf3J2TwI/AAAAAAAALk8/BxSnifS1Drc/s0/CatarinaFurtado_GrandeTeatroMundo_040000x.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://www.rtp.pt/programa/tv/p28736" fonte="Sinopse" autor="RTP">
+	<p>No âmbito das comemorações do Dia Mundial do Teatro, a RTP assinala a efeméride com um programa gravado no Teatro D. Maria II.</p>
+	<br/>
+	<p>No dia 27 de Março assinala-se o Dia Mundial do Teatro.</p>
+	<p>Todos os anos, desde 1962, o teatro é homenageado neste dia, instituído em Viena de Áustria, pelo Instituto Internacional de Teatro, uma organização não-governamental fundada pela UNESCO.</p>
+	<p>A RTP apresenta um Especial apresentado por Catarina Furtado e Diogo Infante, realizado por Ricardo Freitas e André Banza e produzido pela produtora <a href="http://www.ateaofimdomundo.com/">"Até ao Fim do Mundo"</a>.</p>
+	<p>Os cantos e recantos do Teatro D. Maria II menos conhecidos pelo público servem de anfitriões para esta homenagem a todos os fazedores de teatro ( os que dão a cara e os que trabalham nos bastidores) . Um aplauso generalizado que se sentirá através das palavras de alguns dos nossos maiores atores e encenadores, de diferentes gerações, com textos portugueses e estrangeiros.</p>
+	<p>João Mota, Gonçalo Amorim, Carla Chambel, Isabel Abreu, Maria João Luís, João Reis, Tiago Rodrigues , Sandra Faleiro, Adelaide João, Antonio Durães , Sílvia Filipe, Luisa Cruz, Albano Jerónimo, Jorge Silva Melo, Sylvie Rocha, Eunice Munhoz, José Raposo, Henrique Feist, Nuno Carinhas, Lia Gama, Maria Ana Filipe, Luís Miguel Cintra.</p>
+	<p>Queremos com este programa, lembrar que existe uma enorme oferta teatral nos nossos palcos de Norte a Sul do país.</p>
+	<p>A RTP não quis deixar de assinalar na sua grelha este dia recorrendo também ao magnífico arquivo onde estão registadas inúmeras peças produzidas pela estação pública desde 1957.</p>
+	<br/>
+	<p>O Dia Mundial do Teatro celebra-se na RTP!</p>
+</citacao>
+
+<imagem href="https://picasaweb.google.com/lh/photo/y6Qbz295Wv-YUxg69CbFTudteCQ06jW6068dfdsLGFQ?feat=embedwebsite">https://lh3.googleusercontent.com/-dHVW_Cybf2E/T51rf6894SI/AAAAAAAALk4/WXXsjsGRfFo/s400-Ic42/CatarinaFurtado_GrandeTeatroMundo_020000.jpeg</imagem>
+
+<creditos>
+	<nome titulo="Apresentação">Catarina Furtado e Diogo Infante</nome>
+	<nome titulo="Autoria">Catarina Furtado e Ricardo Freitas</nome>
+	<nome titulo="Local de Filmagem">Teatro Nacional D. Maria II</nome>
+	<nome titulo="Data de emissão">27 de Março de 2012, na RTP1</nome>
+	<nome titulo="Produção"><a href="http://www.ateaofimdomundo.com/">Até ao Fim do Mundo</a></nome>
+</creditos>
+
+<elo href="https://www.youtube.com/watch?v=247PT9hJidw">O Diogo e a Catarina fizeram a ligação entre os momentos do programa</elo>
+<elo href="https://picasaweb.google.com/116136255703077903546/OGrandeTeatroDoMundo?authuser=0&amp;authkey=Gv1sRgCIPyjfKn8LbcuAE&amp;feat=directlink">Fotogramas do programa</elo>
+<elo href="http://www.youtube.com/watch?v=XgFfOqdt7gc">O programa completo</elo>
+<elo href="http://www.rtp.pt/programa/tv/p28736">Sinopse no site da RTP</elo>
+<elo href="http://www.imdb.pt/title/tt2327449/">Ficha técnica no IMDB</elo>
+
+</corpo>
+
+</pagina>
+<!--
+Se repararem nos créditos do programa, a autoria é da Catarina e do Ricardo Freitas, a mesma dupla que criou o "Príncipes do Nada". Eu gostei muito deste programa. Foi a melhor divulgação do Teatro Português feita em 2012. Ouvir e ver alguns textos ditos por bons actores fez-me arrepender de não os ter ido ver ao teatro.
+-->

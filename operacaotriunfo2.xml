@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="operacaotriunfo.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Operação Triunfo 2</titulo>
+	<descricao>Segunda edição deste concurso de talentos e escola de cantores apresentado pela Catarina.</descricao>
+	<data><ano>2003</ano><mes>9</mes><dia>28</dia></data>
+	<data><ano>2004</ano><mes>1</mes><dia>25</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-GmKvg2DYHNM/UsyFP-QQW0I/AAAAAAAAT8I/JzHxiG-TyYw/s0/CatarinaFurtado_OpTriunfo_20030928_160021_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://youtu.be/MZmGNep6hVo">A Catarina experimenta os vestidos da dupla Nuno Baltazar/ Paulo Cravo (video)</elo>				
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/100-actriz-e-apresentadora">Entrevista do Correio da Manhã</elo>				
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/os-novos-alunos">Artigo do Correio da Manhã sobre a gala de estreia</elo>
+<elo href="https://picasaweb.google.com/116136255703077903546/OperacaoTriunfo2003?authuser=0&amp;authkey=Gv1sRgCJfF-fPxw8NH&amp;feat=directlink">Fotogramas do programa</elo>
+
+</corpo>
+
+</pagina>

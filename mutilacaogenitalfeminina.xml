@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="embaixadora.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Pelo Fim da Mutilação Genital Feminina</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco>
+
+<incorporar>pornascermulher.xml</incorporar>
+<incorporar>vozeserostos.xml</incorporar>
+<incorporar>nos.xml</incorporar>
+
+</bloco>
+
+<bloco titulo="Elos">
+	<elo href="http://www.unmultimedia.org/radio/portuguese/2011/10/catarina-albuquerque-enaltece-consciencia-de-jovens-contra-mutilacao-genital-feminina/">Entrevista à Rádio Onu - Catarina Furtado enaltece consciência de jovens contra mutilação genital feminina (19/10/2011)</elo>
+	<elo href="http://www.unmultimedia.org/radio/portuguese/2013/02/entrevista-catarina-furtado-3/">Entrevista dada à Rádio Onu sobre o Dia Internacional de Tolerância Zero contra a MGF (6/2/2013).</elo>
+	<elo href="http://noticias.uol.com.br/ultimas-noticias/radioonu/2015/02/06/radio-onu-por-catarina-furtado.htm">Entrevista dada à Rádio Onu sobre o Dia Internacional de Tolerância Zero contra a MGF (6/2/2015).</elo>
+	<elo href="https://www.facebook.com/notes/c%C3%A9lia-rosa/toler%C3%A2ncia-zero-%C3%A0-mutila%C3%A7%C3%A3o-genital-feminina-entrevista-de-alice-frade-da-apf-%C3%A0-/10150618798940379">Tolerância zero à mutilação genital feminina: Entrevista de Alice Frade, da APF, à Notícias Magazine de 5 de Fevereiro de 2012.</elo>
+	<elo href="https://picasaweb.google.com/capsxino/MGF?authuser=0&amp;authkey=Gv1sRgCITtgPCgmuXTbw&amp;feat=embedwebsite">Galeria de imagens</elo>
+</bloco>
+
+</corpo>
+
+</pagina>

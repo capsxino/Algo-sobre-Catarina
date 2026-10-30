@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>João e Beatriz</titulo>
+	<descricao>Letra duma canção sobre os seus filhos, incluído no livro/Cd para crianças, 'Vem Daí', lançado dia 26 de Novembro de 2012.</descricao>
+	<data><ano>2012</ano><mes>11</mes><dia>26</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-rSZyq-lW3tY/ULyGTzasVwI/AAAAAAAANrY/WhpedRMNtOQ/s0/JoaoBeatriz_Facebook_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">João e Beatriz</nome>
+	<nome titulo="Interpretação">Ricardo Reis Pinto</nome>
+	<nome titulo="Compositor da Música">Ricardo Reis Pinto</nome>
+	<nome titulo="Álbum">Vem Daí</nome>
+	<nome titulo="Ano">2012</nome>
+</creditos>
+
+<p>Ricardo Reis Pinto é o autor de muitas das canções que ensinava aos seus alunos, as canções que eles levaram para casa, cantaram e ficaram na cabeça dos pais, tal como aconteceu com os filhos da Catarina: a Beatriz e o João. Em 2011, o Ricardo foi uma presença semanal no programa de televisão “Quem Tramou Peter Pan?” onde cantou muitas dessas canções.</p>
+
+<citacao href="http://youtu.be/9Nv-DxmVMdo" fonte="5 Sentidos" ano="2012">
+	<p>Os meus filhos que trouxeram para casa as canções do Ricardo. E Eu quis perceber quem era este Ricardo que escrevia as canções que os meus filhos cantavam de manhã à noite. E que eu passei a cantar e que o meu marido passou a cantar e que os meus pais passaram a cantar.</p>
+</citacao>
+
+<p>Em 2012, no dia 26 de Outubro, foi lançado o primeiro disco do Ricardo, que também é um livro. Sempre com o apoio e incentivo da Catarina que sugeriu a ilustradora Margarida Mendes, escreveu o prefácio do livro e... claro, escreveu a letra duma das canções: <i>João e Beatriz</i>.</p>
+<p>O João que anda de foguetão e a Beatriz com sapatos de verniz são os filhos da Catarina, dos quais a letra da música revela alguns traços da personalidade. Alguns quanto baste e não sem antes lhes pedir autorização.</p>
+
+<elo href="http://caras.sapo.pt/famosos/2012/12/10/catarina-furtado-apoia-projeto-musical-e-escreve-uma-letra-sobre-os-seus-filhos">Artigo da revista Caras</elo>
+<elo href="http://youtu.be/Z08ul582YL4">Top+ no lançamento do disco/livro</elo>			
+
+<citacao fonte="Introdução escrita pela Catarina ao Livro/CD">
+	<p><q>Mãe, canta as músicas do Ricardo!</q></p>
+	<del>
+	<p>Esta frase comecei a ouvi-la tinha a minha filha Maria Beatriz dois anos e meio. Ao longo dos tempos foi-se repetindo, também na voz do meu filho João Maria.</p>
+	<p>Eu não sei cantar mas sei perceber o que uma canção pode representar nas nossas vidas. Canções que nos ajudam a crescer, a descodificar persistentes pontos de interrogação, a afastar medos e a conquistar passos seguros que nos garantem as maiúsculas dos nossos nomes e apelidos.</p>
+	<p>Canções que aproximam os mundos, tão frequentemente afastados, dos grandes e dos pequenos. As canções do Ricardo Pinto (que foi professor dos meus filhos e por isso, felizmente, tropecei nele e na sua facilidade em perceber o que é urgente para as crianças) são escritas para serem verdadeiras amigas dos meninos. Elas agarram-se tão depressa a nós, como as lapas às rochas e depois é impossível não querermos saber o repertório inteiro.</p>
+	<p>O Ricardo quer continuar a cantar o que escreve e compõe, sempre com uma roda de crianças à sua frente a interpretar o que as músicas sugerem. Desde pulos a danças e caretas, tudo vale para mostrar que se está verdadeiramente feliz. E como podem ser curtos estes tempos em que a felicidade é de facto eterna! …</p>
+	<p>Lembro-me tão bem de ter tido a sorte de ser uma das crianças que, à roda de José Barata Moura e da sua guitarra, ouviam e cantavam o "Fungágá da Bicharada". Inesquecível, porque as canções das raras pessoas, que têm como preocupação prioritária embalar o crescimento, educando, não têm prazo de validade. São modas que nunca passam de moda.</p>
+	<p>O Ricardo tinha que chegar aos ouvidos de mais meninos e pais porque as suas histórias simples não devem ficar no baú dos afectos de apenas algumas das nossas crianças. Depois de ter passado pelo meu programa da RTP "Quem Tramou o Peter Pan?" e de ter despertado os sentidos dos "meus" outros meninos, o Ricardo tinha de gravar este disco. Um disco de amigos que acreditam que é necessário contrariar alguns dos efeitos de tecnologias que devoram o tempo e um bocadinho a alma.</p>
+	<p>Também as mãos da Margarida interpretam as canções do Ricardo e deixam escapar os amigos que apenas viviam agarrados às pautas. Agora ficam ainda mais perto da nossa família e ao mesmo tempo voam mais longe.</p>
+	<p>Este é um disco para andar connosco. No carro, em casa, nas férias, nas festas de anos, nos finais de tarde quando se chega da escola e do trabalho. É um disco que tem brincadeiras embrulhadas em açúcar.</p>
+	<p>Os meus filhos queriam que eu "mostrasse" as canções do Ricardo a todos os meninos que vou conhecendo pelo Mundo... Com empenho da RTP, da Paula Homem, do Fernando Martins e da Margarida Mendes, esta edição é o início de um longo concerto.</p>
+	<p>Comece já a decorar as letras porque os nossos filhos são bem mais rápidos!</p>
+	<p style="text-align:right"><b>Catarina Furtado</b></p>
+	</del>
+</citacao>
+
+<letra titulo="João e Beatriz">
+	O João quer partir no seu foguetão,<br />
+	Ele é forte, sonhador e bem destemido<br />
+	Gosta de contar estórias a si próprio.<br />
+	Tira as palavras do lugar e nunca fica perdido<br />
+	Mas elas não se importam porque gostam do João,<br />
+	Mesmo baralhadas, nunca fazem confusão!<br />
+	<br />
+	A Beatriz tem um nariz empinado<br />
+	Que lhe indica sempre para onde ir,<br />
+	Vai em frente no caminho sem duvidar<br />
+	Mas treme se o pai ou a mãe não a estão a seguir<br />
+	Ela rodopia e desenha por todo o lado<br />
+	Sorri e cresce em cada abraço apertado<br />
+	<br />
+	Vem daí, no foguetão do João<br />
+	Vem daí, dá à Beatriz a mão!<br />
+	Vem voar num salto, e gritar bem alto:<br />
+	Que o amor é a bóia de salvação!<br />
+	<br />
+	Se disseres ao João que um cão está sozinho,<br />
+	Ele corre e dá-lhe festas que os outros não dão.<br />
+	O João quer saber tudo sobre os medos,<br />
+	Devora respostas sobre o céu e os segredos.<br />
+	<br />
+	Se disseres à Beatriz que está linda de verniz<br />
+	Ela ri-se envergonhada porque fica feliz<br />
+	A Beatriz quer saber coisas sobre os castelos,<br />
+	Os grandes, os pequenos, os rosa e os amarelos.<br />
+	<br />
+	Vem daí, no foguetão do João<br />
+	Vem daí, dá à Beatriz a mão!<br />
+	Vem voar num salto, e gritar bem alto:<br />
+	Que o amor é a bóia de salvação!<br />
+</letra>
+
+</corpo>
+
+</pagina>

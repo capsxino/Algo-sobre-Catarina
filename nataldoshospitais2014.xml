@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="nataldoshospitais.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Natal dos Hospitais</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://www.youtube.com/watch?v=FJwY5-GeW-4">"Solta-se o Beijo" pelo Coro Traquinas</elo>			
+
+</corpo>
+
+</pagina>

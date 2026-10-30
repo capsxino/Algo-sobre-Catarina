@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="maratonadasaude.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Maratona da Saúde</titulo>
+	<descricao>Para sensibilizar a sociedade e angariar fundos para a investigação biomédica em Portugal.</descricao>
+	<data><ano>2014</ano><mes>3</mes><dia>23</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-ZZeaY-gaWD0/VD-FYEvagAI/AAAAAAAApjQ/oq83gyjX9ts/s0/CatarinaFurtado_MaratonaSaude_20140323_220000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A <a href="http://www.maratonadasaude.pt/">Maratona da Saúde</a> é um projecto de sensibilização e de angariação de fundos para a investigação na área da biomedecina que se faz em Portugal; investigação de excelência que permite avanços no tratamento, cura e prevenção de diversas doenças.</p>
+<p>Existem iniciativas semelhantes em vários países (como Espanha) mas só no ano de 2014 aconteceu em Portugal a primeira "maratona" em parceria com a RTP. No primeiro ano o tema foi o cancro - <q>Atualmente estima-se que 1 em cada 3 pessoas irá desenvolver algum tipo de cancro durante a vida; mas nos últimos 40 anos a taxa de sobrevivência a esta doença duplicou devido aos avanços científicos.</q></p>
+<p>Ao longo do dia 23 de Março de 2014, na Aula Magna da Universidade de Lisboa, passaram muitos investigadores que falaram do seu trabalho, muitos sobreviventes do cancro que deram o seu testemunho, muitos cantores e caras da RTP que foram solidários e conduziram a emissão em directo. À noite, a apresentação da "maratona" coube à Catarina Furtado e ao José Carlos Malato, que terminou com a angariação de 154 mil euros.</p>
+<p>Mas a iniciativa não ficou apenas por esse dia. Nos dias anteriores foram muitos os tempos de antena que a RTP dedicou ao tema. Num deles passou a reportagem da visita que a Catarina fez ao <a href="http://wwwpt.igc.gulbenkian.pt/">Instituto Gulbenkian de Ciência</a>, onde foi <q>à descoberta da investigação de topo q se faz em Portugal.</q></p>
+
+<imagem legenda="Visita ao Instituto Gulbenkian de Ciência" href="https://picasaweb.google.com/lh/photo/2W75h0FPhJuykARkFDrUHzBOKXhIQhNzwipHZtVo4AQ?feat=embedwebsite">https://lh5.googleusercontent.com/-5zYS7jN3VWQ/VEDYGGlsiqI/AAAAAAAApko/pVGFCOYLrgk/s400/CatarinaFurtado_PracaAlegria_20140306_080000.jpeg</imagem>
+
+<citacao href="https://www.youtube.com/watch?v=iLw_Vmtq3ms" fonte="Praça da Alegria" ano="2014">
+	<p>Fui visitar o Instituto Gulbenkian de Ciência; onde aprendi imenso e fiquei com uma admiração profunda; todos os dias são passados num intenso trabalho que, muitas vezes, não é aplaudido.</p>		
+</citacao>
+
+<elo href="http://www.youtube.com/watch?v=8cDmkirozqU">Na "Praça da Alegria" no dia 6/3/2014</elo>					
+<elo href="https://www.youtube.com/watch?v=iLw_Vmtq3ms">Reportagem do "Só Visto!"</elo>					
+<elo href="https://www.flickr.com/photos/rtppt/sets/72157642795031823/">Galeria de fotografias do evento</elo>					
+<elo href="http://www.rtp.pt/play/p1506/e148164/maratona-da-saude">Reveja a emissão</elo>					
+
+</corpo>
+
+</pagina>

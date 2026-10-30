@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="dobragens.xml" estado="completa">
+
+<cabecalho>
+	<titulo>O Bolinha</titulo>
+	<descricao>Dobragem de desenhos animados.</descricao>
+	<data><ano>2006</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>O Bolinha</cite> é a tradução para português das estórias <cite>Spot the Dog</cite>, uma série de livros infantis de Eric Hill, depois adapatadas pela BBC para uma série de animação.</p>
+<p>«A Prisvideo editou 4 dvds com as histórias do Bolinha. Os dvds incluem os 2 especiais, a ultima série de 2001 e ainda alguns episódios da série de 95. A narração foi feita pela Catarina Furtado nos estúdios Somnorte.»</p>
+
+<elo href="http://desenhosanimadospt.blogspot.pt/2009/03/bolinha.html">Referência à série no blog citado</elo>
+<elo href="https://www.youtube.com/watch?v=cZvfjIRLEGM">Excertos da animação</elo>
+
+
+</corpo>
+
+</pagina>

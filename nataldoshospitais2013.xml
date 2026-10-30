@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="nataldoshospitais.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Natal dos Hospitais</titulo>
+	<descricao>Voltou a conduzir a clássica emissão da RTP, a partir do Centro de Reabilitação de Alcoitão.</descricao>
+	<data><ano>2013</ano><mes>12</mes><dia>12</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-hvkB7cqJW0U/UqyCs26TleI/AAAAAAAAnQs/EWCtoOIfI6k/s0-Ic42/CatarinaFurtado_NatalHospitais_20131212_190000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 12 de Dezembro de 2013, a Catarina voltou a conduzir o Natal dos Hospitais, pela segunda vez, em directo do Centro de Reabilitação de Alcoitão. Numa maratona de 10 horas, teve o seu lado o animado João Baião; emissão que foi repartida com o Porto, onde a Sónia Araújo e o Jorge Gabriel conduziram a emissão a partir do Hospital de São João.</p>
+<p>Muitas caras da RTP passaram por lá para desejar boas festas e dar uma palavra de apoio aos doentes em recuperação; também elas participarem na homenagem feita a Beatriz Quintela: Drª Palhaça; fundadora da Operação Nariz Vermelho; falecida neste ano. Em 2012, a Drª Da Graça esteve presente no mesmo sitio onde foi lembrada.</p>
+<p>A Catarina, depois de pôr e tirar o nariz de palhaço, entre voltas de dança com os vestidos de Nuno Baltazar, brincou com as bochechas do Fernando Mendes e pôs o presidente da estação a cantar; fez de Mãe Natal e distribuiu prendas, enquanto o Coro de Santo Amaro de Oeiras fechava mais uma edição do Natal dos Hospitais.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/Ue3atvR5t2o1IfN89tj42q11CAcnUyVw4LasBnjCLQQ?feat=embedwebsite">https://lh3.googleusercontent.com/-fe5aqH36MQI/UqyCt6LL0rI/AAAAAAAAnZQ/l8n5C8F1rM4/s400-Ic42/CatarinaFurtado_NatalHospitais_20131212_650000.jpeg</imagem>
+
+<citacao fonte="Diário de Notícias" ano="2013">
+	<p>Esta emissão aquece porque é dedicada mesmo àqueles que estão a recuperar. Faz mesmo muita companhia. Lembra- me o meu avô, que esteve precisamente internado aqui em Alcoitão. Só apresento o Natal dos Hospitais há dois anos, mas, de facto, levam- se daqui vidas e experiências que ajudam a relativizar a nossa própria vida.</p>	
+</citacao>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/NatalDosHospitais?authuser=0&amp;authkey=Gv1sRgCNjyxLDqvYOozQE&amp;feat=directlink">Fotogramas do Programa</elo>
+<elo href="http://www.youtube.com/watch?v=tletd9Z8-yc">Homenagem a Beatriz Quintela</elo>			
+<grande><elo href="http://www.youtube.com/watch?v=LRVHgWxq9Zc">Uma selecção de bons momentos</elo>			</grande>
+<elo href="https://www.facebook.com/photo.php?fbid=732856496725885&amp;set=a.732856510059217.1073741826.113446535333554&amp;type=1">O vestido azul da manhã</elo>			
+<elo href="https://www.facebook.com/photo.php?fbid=247411855418479&amp;set=a.111610348998631.19794.107792466047086&amp;type=1">O vestido rosa da tarde</elo>			
+
+</corpo>
+
+</pagina>

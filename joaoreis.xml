@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>João Reis</titulo>
+	<descricao>O marido da Catarina</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-W0Jh8t3eCoI/VMzqCck8NZI/AAAAAAAAq8s/-UWUPds2uI0/s0/CatarinaFurtado_JoaoReis_1956856_414014258758237_824466257192799365_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+<citacao autor="João Reis" href="http://caras.sapo.pt/famosos/2009/02/18/catarina-furtado-agradece-a-familia-sou-uma-privilegiada" fonte="Caras">
+	<p>Ela é muito mais bem-disposta do que eu, muito exigente, perfeccionista, e com uma capacidade de relação com os outros extraordinária. Como mãe e mulher é extraordinária, fora de série.</p>
+</citacao>
+
+<elo href="http://videos.sapo.pt/7nVbgGgLzgDkfN1OUnOk">O João Reis fala da Catarina no "Alta Definição"</elo>
+
+</corpo>
+
+</pagina>
+
+<!--
+casou no dia 7/7/2005
+Quinteto Tati- “Valsa antidepressiva”- Porque foi a música do primeiro beijo e tivemos o privilégio de a ouvir ao vivo no dia do nosso casamento, 07/07/2005.
+madrasta.xml
+-->

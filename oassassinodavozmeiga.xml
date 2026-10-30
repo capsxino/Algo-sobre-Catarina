@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="curtasmetragens.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>O Assassino da Voz Meiga</titulo>
+	<descricao>Um curta-metragem de Artur Ribeiro.</descricao>
+	<data><ano>1993</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p><quote>Numa altura em que um assassino misógino actua em estradas de pouco movimento, sacrificando jovens mulheres, Jorge, um típico <i>yuppie</i>, fica sem gasolina numa dessas vias desertas. De vítima a suspeito, Jorge vai passar uns maus bocados.</quote></p>
+
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p>O Artur tinha tirado cinema no Conservatório, sabia que eu um dia gostaria de representar e convidou-me.</p>
+</citacao>
+
+<creditos titulo="Elenco">
+	<nome titulo="Ladra">Catarina Furtado</nome>
+	<nome titulo="Jorge">Vítor Norte</nome>
+	<nome titulo="Ladra">Sofia Leite</nome>
+	<nome titulo="Policia">Margarida Marinho</nome>
+	<nome titulo="Policia">Margarida Pinto Correia</nome>
+	<nome titulo="Homem do fato branco">José Fonseca e Costa</nome>
+	<nome titulo="Voz da rádio">Humberto Bernardo</nome>
+</creditos>
+
+<creditos>
+	<nome titulo="Realizador">Artur Ribeiro</nome>
+	<nome titulo="Argumento">Artur Ribeiro e Fernando Fragata</nome>
+	<nome titulo="Produção">Costa do Castelo, José Fonseca e Costa e Antónia Seabra</nome>
+	<nome titulo="Duração">10 minutos</nome>
+</creditos>
+
+<elo href="http://www.imdb.com/title/tt0109160/">Página no IMDB</elo>		
+
+</corpo>
+
+</pagina>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Nuno Baltazar</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-XxbPHeIDNuU/UtK9IseHFqI/AAAAAAAAUJk/OiXCW7QoyVw/s2048/CatarinaFurtado_NunoBaltazar_1546262_257100887782909_1123790176_n.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao autor="Nuno Baltazar" fonte="Elle Portugal" ano="2013">
+	<p>Depois ela [a Bárbara Guimarães em 1997] mudou-se para a SIC, conheci a <i>stylist</i> do canal, a Helena Carmona, e ela, passado pouco tempo, perguntou-me se eu queria vestir a Catarina Furtado. É claro que disse que sim! E quando a conheci houve ali uma empatia que até hoje não consigo explicar. Mas sou muito assim.</p>					
+</citacao>
+<citacao fonte="facebook" ano="2014">
+	<p>O tempo passa muito depressa quando o que se vive é bom! Foi há 13 anos que a minha grande amiga Helena Carmona me apresentou o Nuno Baltazar (na altura a trabalhar em dupla com o Paulo Cravo) para me vestirem para um programa da SIC Notícias. Bendita a hora querida Lena! Têm sido 13 anos de amizade profunda, crescimento, trabalho duro, dedicação, paixão, inspiração, orgulho português, bom gosto, cumplicidade, confiança, desafio e.... podia continuar, mas acho que todos os adjectivos estão no meu sorriso quando visto Nuno Baltazar!</p>
+</citacao>
+<elo href="http://youtu.be/E4jQK79DYVc">O Nuno Baltazar e a Catarina falam sobre a sua cumplicidade e do visual para o "The Voice Portugal"</elo>
+</corpo>
+
+</pagina>

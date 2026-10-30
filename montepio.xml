@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Associação Mutualista Montepio</titulo>
+	<descricao>Campanha que destacou o apoio dado pelo grupo às bolsas de estudo da Associação Corações com Coroa.</descricao>
+	<data><ano>2015</ano><mes>11</mes><dia>18</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-XHv4IVj9fKg/Vlhc6fFVnBI/AAAAAAAAuDE/JUdC6TQYrzc/s0-Ic42/CatarinaFurtado_Montepio_bg-bloco-CF.jpg</fundo>
+</cabecalho>
+
+<corpo>
+<p>No final de 2015, a Associação Mutualista Montepio, que agrega empresas do sector bancário, imobiliário e seguros, lançou uma campanha que destacou apoios dados aos negócios mas também à cultura, desporto e solidariedade. Porque o Montepio é um dos financiadores das bolsas de estudo atribuídas pela Corações com Coroa, a Catarina participou na qualidade de fundadora e presidente da associação, deixado o depoimento:  <q>Tal como eu, também o Montepio se preocupa com o futuro de jovens que vivem em situações de vulnerabilidade, discriminação e risco de integração. A Associação Corações com Coroa e o Montepio Partilham o mesmo espírito solidário e trabalham para que se construa um futuro melhor para todas e para todos. E isso faz toda a diferença para a solidariedade em Portugal.</q> O <i>spot</i> para a televisão começou a passar no dia 18 de Novembro.</p>
+<elo href="https://www.youtube.com/watch?v=x15jq_d4GY0">A Catarina fala do apoio dado pelo Montepio à CCC</elo>
+<elo href="https://www.youtube.com/watch?v=821zBDLxVms">Spot para televisão</elo>
+<elo href="https://www.montepio.pt/SitePublico/pt_PT/particulares/fazer-diferenca.page">Página da Associação Mutualista Montepio</elo>
+</corpo>
+
+</pagina>

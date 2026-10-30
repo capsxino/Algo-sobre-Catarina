@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Natal dos Hospitais</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<arvore poda="nataldoshospitais.xml"/>
+
+<bloco titulo="Natal dos Hospitais, entre 1989 e 2011">
+
+<imagem legenda="Natal dos Hospitais 1998" href="http://youtu.be/J56SeMA5IY8">https://lh4.googleusercontent.com/-66XcgZDzerg/VKAJDPtH66I/AAAAAAAAqTk/mxZ0zwzFgj4/s400/CatarinaFurtado_NatalDosHospitais1998_160040.jpeg</imagem>
+
+<p>Aluna finalista da Escola de Dança do Conservatório Nacional, com 17 anos, a Catarina Furtado participou no Natal dos Hospitais em 1989. Ao seu lado dançaram Alexandra Pinto, Carla Pereira, Liliana Mendonça, Sandra Rosado e Jorge Mira; numa coreografia de Jorge Trincheiras para <cite>Adeste Fideles</cite>.</p>
+<p>Desde que <i>voltou</i> à RTP, em 2003, a Catarina têm sido uma presença habitual</p>
+
+<grande><elo href="http://youtu.be/J56SeMA5IY8">Bailado no Natal dos Hospitais de 1989</elo></grande>
+<elo href="http://www.youtube.com/watch?v=LDwD5_P_1R4">A mensagem de Natal em 2003</elo>
+
+<p>Em 2010 a sua presença foi particularmente emocionada. A mensagem centrada no seu trabalho como Embaixadora de Boa Vontade e no programa <cite>Príncipes do Nada</cite> (que confidenciou ser 90% da sua vida) terminou com num comovido agradecimento aos enfermeiros e médicos do Centro de Reabilitação de Alcoitão - «Que eu por razões pessoais conheci.»</p>
+
+<elo href="http://www.youtube.com/watch?v=zcxgv4dGqlE">A mensagem de Natal em 2010</elo>
+
+</bloco>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/NatalDosHospitais?authuser=0&amp;authkey=Gv1sRgCNjyxLDqvYOozQE&amp;feat=directlink">Fotogramas do Programa</elo></grande>
+
+</corpo>
+
+</pagina>

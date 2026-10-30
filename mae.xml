@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="biografia.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Helena Furtado</titulo>
+	<descricao>A Mãe da Catarina</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo legenda="Catarina e a mãe, numa entrevista para o jornal Público, em 7/6/2015.">https://lh3.googleusercontent.com/-lRGCViDCZ00/VXQVVZRZUhI/AAAAAAAArgo/EoPwTLxNFes/s720/CatarinaFurtado_Publico_20150607_925393.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_seleccoes_2001.xml" fonte="Selecções Reader's Digest" ano="2001">
+	<p>A minha mãe é professora de arte, e foi durante muito tempo professora numa escola para deficientes. Bom, não sei se têm, se não. O meu pai e a minha mãe nunca se meteram nas minhas decisões, até porque elas eram muito de paixões e pouco de concreto, ainda não sabia muito bem o que queria, tinha 18 anos. Mas nunca se meteram. Eu sempre fui extremamente determinada e teimosa, e eles sempre souberam tudo sobre a minha vida e sempre me apoiaram. Sempre foram muito exigentes comigo.</p>	
+</citacao>
+<citacao href="jornal_cm_20051111.xml" fonte="Correio da Manhã">
+	<p>A minha mãe esteve na Crinabel, durante quase 20 anos, e eu ajudava nas praias e nas colónias de férias. Tomava conta das crianças todas, algumas bem mais velhas do que eu.</p>
+</citacao>
+<citacao href="revista_activa_maio2013.xml" fonte="Activa" ano="2013">
+	<p>Ela era a minha confidente, tenho essa memória 'aconchegante' dela (...) Ela sabia de todas as minhas condutas 'menos boas'. Lembro-me de ela não ter contado ao meu pai que eu tinha sido suspensa da escola durante uma semana. Foi quando achei que podíamos fazer uma cena à 'Fame' na mesa gigante de madeira que havia lá no Conservatório.</p>
+</citacao>
+<citacao autor="Helena Furtado" href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/estou-numa-boa-fase" fonte="Correio da Manhã">
+	<p>Em criança nunca me deu trabalho, mas não era sossegada. Era traquinas e cheia de vida.</p>
+</citacao>
+
+<elo href="publico_20150607.xml">Uma entrevista com a mãe para o jornal Público em 2015</elo>
+
+</corpo>
+
+</pagina>
+
+<!-- MÃE
+foi professora de educação visual e trabalhos manuais na Crinabel
+-*-
+Aos dez anos. Ajudava também a organizar as festas de Natal das crianças da Crinabel. Fi-lo como resultado da educação que tive que me sensibilizou para a questão dos outros.
+-*-
+Sabugal, souto
+Nasceu a 12 de Maio
+-*-
+Catarina Cardoso Garcia da Fonseca Furtado, nasceu na freguesia da Lapa em Lisboa, no dia 25.08.1972. É filha do jornalista e produtor de TV, Joaquim da Silva Furtado, de Penamacor e da soitense Maria Helena Cardoso Garcia da Fonseca Furtado, professora, filha do Dr. João da Fonte Mestre, licenciado em Belas-Artes. A avó da Catarina, Amélia Cardoso, de Resende, era irmã do famoso engenheiro especialista em pontes, Edgar Cardoso.
+http://soitoimagens.blogspot.pt/2013/02/catarina-furtado-e-sandra-faleiro.html
+-*-
+**
+https://www.facebook.com/photo.php?fbid=171311423028523&set=a.111610348998631.19794.107792466047086&type=1
+https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/469092053250457/?type=1&theater
+70 anos no dia 12 de Maio de 2015
+-->	

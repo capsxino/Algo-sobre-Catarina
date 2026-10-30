@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Lisboa Acolhe Acolhe</titulo>
+	<descricao>Apresenta o "Lisboa Acolhe Acolhe" transmitido pela RTP.</descricao>
+	<data><dia>28</dia><mes>9</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="http://media.rtp.pt/blogs/agoranos/artigos/refugiados-apoie-esta-causa_4897">Está no 'Agora Nós' dedicado ao tema dos refugiados (22/9/2015)</elo>
+
+<elo href="http://canelaehortela.com/lisboa-acolhe-a-solidariedade-em-forma-de-musica8675/"></elo>
+<elo href="https://instagram.com/p/8MCli7TBMQ/"></elo>
+<elo href="http://ptmm.pt/pt/article-lisboa-acolhe-um-concerto-pelos-refugiados-65"></elo>
+<elo href="http://www.ardinas.pt/index.php/2015/09/29/lisboa-acolhe-uma-noite-dedicada-aos-refugiados/"></elo>
+<elo href="https://www.facebook.com/egeac/posts/1063628703681936"></elo>	
+	
+</corpo>
+
+</pagina>

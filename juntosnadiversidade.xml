@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="galas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Juntos na Diversidade</titulo>
+	<descricao>Gala Intercultural</descricao>
+	<data><ano>2008</ano><mes>12</mes><dia>18</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-Yk4EgIl9hKo/U--7J6vjbVI/AAAAAAAAof0/IS94ghMVYpI/s0/CatarinaFurtado_GalaIntercultural_20081218_050040.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao autor="RTP" fonte="Sinopse">
+	<p>JUNTOS na DIVERSIDADE é o título do programa/gala que a RTP e o Alto Comissariado para a Imigração e Diálogo Intercultural (ACIDI) levou a efeito no dia 18 de Dezembro de 2008 no teatro Camões.
+O ano de 2008 foi declarado pelo Parlamento Europeu e pelo Conselho da União Europeia o Ano Europeu do Diálogo Intercultural na perspectiva de reforçar a construção de uma identidade europeia comum.</p>
+	<p>Neste sentido e para fecho das comemorações o ACIDI com a RTP produzem um espectáculo com a participação de artistas conceituados e de novos valores das várias comunidades imigrantes em Portugal.</p>
+	<p>Participaram: Paulo de Carvalho, Teresa Salgueiro, Quarteto Dvin, Clã, Maria João e Mário Laginha,Tito Paris e Bernardo Sasseti, Adriana Miki, Impéri Suburbano, Rão Kyao, Ciganos D’ouro e Carlos do Carmo.</p>
+	<p>Um grande espectáculo apresentado por Catarina Furtado.</p>				
+</citacao>
+
+</corpo>
+
+</pagina>

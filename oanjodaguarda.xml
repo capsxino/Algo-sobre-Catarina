@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>O Anjo da Guarda</titulo>
+	<descricao>Uma pequena participação como dançarina no filme da Margarida Gil.</descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://cinecartaz.publico.pt/filme.asp?id=18651" fonte="Cinecartaz do Público">
+	<p>Lúcia (Natália Luíza) é uma mulher independente que vive sozinha em Lisboa. O pai suicida-se e deixa a Lúcia uma mensagem no seu atendedor de chamadas, revelando que lhe escreveu uma carta. Contudo, Lúcia não consegue encontrar a carta na casa do pai. Nessa visita acaba por se cruzar com a mãe, uma conhecida militante política com quem tem relações tensas e distantes. Na esperança de encontrar a carta, Lúcia parte para a quinta onde cresceu, que fica num local isolado. Aí reencontra um velho companheiro de infância, que sofre de uma doença terminal.<p></p>"O Anjo da Guarda" é uma realização de Margarida Gil, que também assina o argumento em conjunto com a escritora Maria Velho da Costa. Foi nomeado na categoria de melhor filme na edição de 1999 do Fantasporto e Dalila Carmo recebeu uma menção honrosa pela sua interpretação.</p>			
+</citacao>
+
+<p>É pequeno o papel da Catarina no filme. Personagem sem nome, descrita como dançarina. Só tem uma fala: "Meninas, vamos trabalhar que eu amanhã tenho que me levantar cedo."</p>
+<p>As meninas são ela, a jornalista Anabela Mota Ribeiro e talvez uma bailarina profissional que lhes ensinou a dança do ventre que fazem no bar da pensão.</p>
+<p>Só tomei atenção a esta cena do filme. Não sei se é relevante para o enredo. Acho que não. Mas imagino que o João César Monteiro tenha aprovado a ideia.</p>
+<p>A música ficou a cargo do João Gil, o irmão mais novo da realizadora Margarida. O filme foi rodado em 1997. É provável que nessa altura já a Catarina e o João namorassem.</p>
+
+<elo href="http://www.imdb.com/title/tt0118622/">Página no IMDB</elo>					
+<elo href="http://www.trasosmontes.com/eitofora/numero17/entrevista.html">A Anabela Mota Ribeiro fala da sua cena com a Catarina</elo>					
+
+</corpo>
+
+</pagina>
+<!--
+./gifs/CatarinaFurtado_AnjoGuarda_03r.gif
+-->

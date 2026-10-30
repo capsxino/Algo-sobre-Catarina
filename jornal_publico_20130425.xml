@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="imprensa.xml" estado="completa">
+
+<cabecalho>
+	<titulo>O que melhoraria na Democracia Portuguesa?</titulo>
+	<descricao>Opinião</descricao>
+	<data><ano>2013</ano><mes>4</mes><dia>25</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p style="font-weight:lighter;">No dia 25 de Abril de 2013 o Jornal Público perguntou a 55 personalidades Portuguesas:
+<span style="font-size:1.2em;">O que melhoraria na Democracia Portuguesa?</span></p>
+
+<p>Muitas das coisas a melhorar podem não depender exclusivamente de nós. A Europa, tal como vem sendo construída, defendida e fundamentada nos seus princípios, vai acentuar cada vez mais a desigualdade e as demagogias sobre o carácter dos povos. Sou optimista e lutadora, no entanto, temo pelo futuro das gerações. Não acredito que, se não mudarmos o paradigma económico, alguma coisa se altere do ponto de vista social e político. Somos um povo amável, solidário e aventureiro e poderíamos contribuir para a nossa democracia se fizéssemos um esforço acentuado na Educação com base na promoção dos Direitos Humanos, uma educação de raiz, escolar, assente na igualdade de oportunidades e de género e na não-discriminação. Contrariar a dimensão mais caritativa de apoio imediato, que tem sido política e socialmente valorizada, e apostar na prevenção e na acção construtiva para uma mudança de mentalidades com uma abordagem de intervenção cívica e empoderadora.</p>				
+
+</corpo>
+
+</pagina>

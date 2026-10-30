@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="escritora.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>O Que Vejo e Não Esqueço</titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>6</mes><dia>5</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-5d7Fe90Nj20/VXqMJR3jkYI/AAAAAAAArik/JU5rTj8ynZw/s0/CatarinaFurtado_OQueVejoENaoEsqueco_Capa.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao fonte="Sinopse do Livro">
+	<p>Já me perguntaram muitas vezes, ao longo destes quase 25 anos de carreira como comunicadora, de onde vem esta minha preocupação com os outros, esta inquietação. Costumo responder que terá nascido comigo e que cresceu por força das pessoas e dos momentos que mais me marcaram, alguns dos quais decidi agora partilhar convosco. Seja como for, a verdade é que estou absolutamente convencida de que a minha passagem por esta vida tem um propósito muito claro: apoiar quem mais precisa. Tornei- me voluntária, desenvolvendo acções de solidariedade em Portugal e pelo mundo inteiro, quando aceitei a missão de ser Embaixadora de Boa Vontade do Fundo das Nações Unidas para a População (UNFPA), porque acredito, com muita força, no poder de cada um de nós para modificar o que está mal. Tem sido a partir dessa certeza que me movo e sustento todas as minhas iniciativas assumindo um compromisso muito sério com as causas que defendo. Um compromisso de cidadania. Este livro não é excepção. Através destas páginas, sensibilizando, inspirando e informando, regresso ao passado e partilho o meu percurso enquanto cidadã, voluntária e documentarista, convicta de que, desta maneira irei tocar mais pessoas que podem efectivamente contribuir para fazer deste mundo um lugar melhor, mais sustentável e onde cada pessoa conte. São vários os casos de injustiça, de violação dos direitos humanos, mas também de esperança, que testemunhei ao longo dos anos e que aqui revelo. Muitos dizem respeito a mulheres, raparigas, crianças, porque são elas as maiores vítimas das desigualdades sociais, da discriminação com base no género, da violência e da falta de escolhas. Relatei-os sem quaisquer pretensões literárias, mas com uma enorme vontade de chegar ao lugar exacto onde a transformação acontece: o nosso coração.</p>
+</citacao>
+
+<citacao href="revista_caras_20150606.xml" autor="Catarina" fonte="Caras" ano="2015">
+	<p>Há detalhes que acabaram por desaparecer da minha memória, pois a mim ficam-me sobretudo as pessoas.</p>
+</citacao>
+
+<citacao href="revista_flash_20150717.xml" autor="Catarina" fonte="Flash!" ano="2015">
+	<p>Foram dois meses de loucura porque estava a gravar por todo o país o programa ‘Cookoff’ da RTP que passa aos domingos e, então, tive que escrever sobretudo durante as noites. Foi muito cansativo mas gratificante. A primeira parte exigiu um valente exercício de memória e recorrer à ajuda da memória do pai,da mãe,da irmã Marta e de alguns amigos.A segunda parte exigiu muita pesquisa,rever as reportagens todas dos‘Príncipes do Nada’e fazer uma seleção com um critério que fizesse sentido e, por isso, dei mais destaque às questões das mulheres.</p>
+</citacao>
+
+<citacao href="revista_tvguia_20150713.xml" autor="Catarina" fonte="TV Guia" ano="2015">
+	<p>Há 15 anos que sou embaixadora e, logo desde o início, desafiaram-me a escrever sobre essa experiência. Mas recusei, até porque me faltava experiência. Ia escrever sobre o quê? Faltava-me Mundo, muito Mundo. Tinha que ter vivido muito mais. Por isso, fui sempre dizendo que não aos comités. Depois, porque como o projecto Príncipes do Nada estava no activo, também achei que não fazia sentido escrever nessa altura.</p>
+</citacao>
+
+<citacao href="revista_tvguia_20150713.xml" autor="Catarina" fonte="TV Guia" ano="2015">
+	<p>Ao descrever a minha infância no livro foi para mostrar que a minha postura não é de agora, mas de sempre. Não há volta a dar. Não concebo a vida só virada para o meu mundo.</p>
+</citacao>
+
+<imagem href="https://picasaweb.google.com/lh/photo/wNUtVJKaIhli_KeRChIz4_nwNhD0QaBRNguoGTqJ9UY?feat=embedwebsite">https://lh3.googleusercontent.com/-gDZgoNrKnJg/Vi4CchaimFI/AAAAAAAAth4/R-jrIbB52jg/w400-Ic42/CatarinaFurtado_11412024_500919830067679_7365146054660674933_o.jpg</imagem>
+
+<elo href="http://www.sabado.pt/vida/mulher/detalhe/as_confissoes_de_catarina_furtado.html">"As confissões de Catarina Furtado" - video da entrevista para a revista Sábado</elo>
+<elo href="publico_20150607.xml">Uma entrevista com a mãe para o jornal Público</elo>
+<elo>Reportagem do <cite>Só Visto!</cite> da sessão de fotografias para a capa</elo>
+<elo href="https://www.youtube.com/watch?v=Wwp-Vt5xxHU">Alanna Armitage tribute to UNFPA GWA Catarina Furtado</elo>
+<elo href="http://pt-starsonline.com/index.php/eventos/junho-2015/catarina-furtado-lanca-o-livro-o-que-vejo-e-nao-esqueco">Fotografias do lançamento do livro</elo>
+<elo href="http://videos.sapo.pt/5TgOC67I4MejrKbY8nLs">Caras mostra a sessão de fotografias para a capa</elo>
+<elo href="https://acavedomarkl.pt/as-coisas-dos-outros/outros-livros/sobre-ser-a-namoradinha-de-portugal-e-ter-testiculos-maiores-que-os-meus-em-sentido-figurado-claro/">Sobre ser a namoradinha de Portugal e ter testículos maiores que os do Nuno Markl</elo>
+<elo herf="http://media.rtp.pt/blogs/agoranos/artigos/o-que-vejo-e-nao-esqueco-de-catarina-furtado_4199">Catarina no <cite>Agora Nós</cite></elo>
+<elo>Catarina no <cite>Fama Show</cite></elo>
+<elo href="http://videos.sapo.pt/3FjmoKduEUZzF42FqhEE">Catarina no <cite>Alta Definição</cite></elo>
+<elo href="http://media.rtp.pt/extra/tv/catarina-furtado-apresenta-o-que-vejo-e-nao-esqueco/">Reportagem do lançamento do livro pelo <cite>Só Visto!</cite></elo>
+<elo href="http://videos.sapo.pt/M3K9ZKsbwGuFSJpMJW3j">No <cite>Queridas Manhãs</cite> da SIC</elo>
+<elo href="http://caras.sapo.pt/famosos/2015-06-27-Elogios-deixam-Catarina-Furtado-com-as-emocoes-a-flor-da-pele"></elo>
+<elo href="http://www.movenoticias.com/2015/06/catarina-furtado-pretende-inspirar-as-pessoas/"></elo>
+<elo href="http://www.vip.pt/55612a8/mod_artigos_obj_moda.aspx?sid=0a8ca127-3ac8-4ac4-ab6d-76263bc98cdd&amp;cntx=gcHPYlMcqjiNeUIaTVJYz3WOzwl19vgH6GevZyQNnlHZBycmqp2oNOitluf4eFV8"></elo>
+<elo href="http://rr.sapo.pt/informacao_detalhe.aspx?fid=1&amp;did=192533&amp;utm_source=dlvr.it&amp;utm_medium=twitter"></elo>
+<elo href="http://ionline.pt/artigo/399746/catarina-furtado-o-meu-medo-e-nao-ter-tempo-de-fazer-tudo-aquilo-que-quero-?seccao=bi"></elo>
+<elo href="revista_caras_20150606.xml"></elo>
+<elo href="https://www.instagram.com/p/-bQmQLzBLw/">A 3ª edição do livro chegou em Novembro de 2015</elo>
+<elo href="revista_activa_julho2015.xml">Entrevista para a revista Activa de Julho de 2015</elo>
+<elo href="https://picasaweb.google.com/lh/photo/PbWrp1lW7upBwjCyU9lzZ1nXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da revista Flash!</elo>
+<elo href="https://picasaweb.google.com/lh/photo/5FUFUNQmUskRK30VVlZ6rVnXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da revista Caras</elo>
+<elo href="revista_flash_20150717.xml">Entrevista para a revista Flash!</elo>
+<elo href="revista_lux_20150615.xml">Entrevista para a revista Lux</elo>
+
+<imagem href="https://www.youtube.com/watch?v=MY9kgQAROHE" legenda="Sessão de fotografias para a capa do livro, por Carlos Ramos, numa reportagem do Só Visto!">https://lh3.googleusercontent.com/-e-nhb94qS0A/VXqMPGb0F4I/AAAAAAAArik/CuMUmuAIJh8/s600/CatarinaFurtado_SoVisto_20150607_07x.gif</imagem>
+
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+
+SÓ VISTO! - 7/9/6/2015
+- há tantas histórias que ficam por contar. Chegava a casa e contava [aos amigos e família] algumas coisas que não apareciam nos programas... e começou a fazer sentido: se estes extras todos(...)era interessante partilhar.
+- fui vencida pela persistência da oficina dos livros e do editor Francisco Camacho.
+- tem um objectivo muito concreto: que esta partilha sirva para informar, e fazer com que as pessoas ajam.
+- foi precioso para a elaboração do livro: são os meus bloquinhos, eu tenho imensos.
+
+***
+Os lobos maus invisíveis
+***
+[Escrito meio a quente.]
+
+A Catarina não se lembra! (Eu sou desconfiado) Pedi-lhe este livro em 2012. Que escrevesse o que ficou por dizer nos documentários "Príncipes do Nada". Um vislumbre das notas que aponta nos caderninhos que leva consigo nas viagens. Mostrar o seu envolvimento com as histórias, o seu coração a bater, a suas ideias, o que a move.
+
+O "O que vejo e não esqueço" é o livro que eu quis de si. Mais, até. Li-o rápido. Fiquei a fungar do nariz... (como quem anda na bisga de mota; que eu tenho um coração de pedra!) Li, sublinhei, e marquei páginas. Gostei muito. Gostei tanto: como conta o atentado na Nicarágua que atingiu o seu pai; o capitulo inteiro "Dar Vida Sem Morrer"; o abandonado professor de história seropositivo; a Maria Beatriz, na sua barriga, nas últimas páginas, na Indonésia: "O mais bonito dos meus segredos."
+
+Diz-se sem pretensões literárias, mas escreve maravilhosamente bem. Diz que não é jornalista, mas o texto é dum rigor que deixará o seu pai orgulhoso. A histórias que ainda persistem na minha memória, dos "Príncipes do Nada", ganharam com este livro outra dimensão. Eu queria ter as palavras justas para lhe dizer como este livro é bom. Não sou suficiente para isso. A Catarina é enorme! Às vezes é mal aproveitada, e eu zango-me com isso.
+
+Eu, sublinhei muito. Há muita coisa a aprender com o livro. Vai valer a pena reler. Vai inspirar muita gente - Eu, fico aquém.
+
+Quer uma critica negativa? Eu sou bom nisso! Falta-lhe um indice remissivo para eu consultar, às vezes, o livro. Também me fez sentir tão insignificante... e depois, ninguém me tira a ideia da cabeça: a Catarina não gosta de mim. Sinto-o por dentro de mim, e por fora de si. (Não se deixe chantagear pelo que digo!) No fim vai me sempre faltar um abraço seu (como vejo na TV!)
+
+Obrigado pela sua paciente simpatia.
+
+Jorge.
+***
+Perguntou-se: quando foi a primeira vez que...
+-->

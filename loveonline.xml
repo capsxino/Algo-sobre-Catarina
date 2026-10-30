@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Love Online</titulo>
+	<descricao>No telfilme, da série da RTP <cite>Amores e Desamores</cite>, ela é Laura que convence a amiga a experimentar um relacionamento amoroso cibernético.</descricao>
+	<data><ano>2005</ano><mes>6</mes><dia>24</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-rswe_q-q1Oc/Ugd67r4dmuI/AAAAAAAAQjo/-R-ndoKWlIw/s0-Ic42/CatarinaFurtado_LoveOnline_050000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Num ambiente futurista, no ano 2013, Maria (<b>Ana Padrão</b>) deixa-se convencer pela amiga Laura (<b>Catarina Furtado</b>) a circular pelo espaço cibernético, de forma a tentar encontrar a sua alma gémea - é este o traço geral da história de <cite>Love Online</cite> que aborda as desilusões com as relacionamentos afectivos reais e a ilusão dos relacionamentos virtuais através das nova tecnologias. Tudo assombrado por um misterioso e mortal vírus.</p>
+<p>Com argumento de <b>João Quadros</b>, adaptado do conto escrito por Clara Ferreira Alves, o pequeno telefilme de 50 minutos foi o quinto de uma série de seis produzidos para a Radio Televisão Portuguesa; sobre o tema e o nome: <cite>Amores e Desamores</cite>; todos os filmes da série partiram de histórias literárias escritas por autores portugueses.</p>
+<p>Produzidos com os meios internos da RTP, com os argumentos desenvolvidos pelas Produções Fictícias, cada história foi entregue a um realizador diferente. No caso de <cite>Love Online</cite> a realização coube a <b>Mário Barroso</b>. Uma oportunidade para a Catarina ser dirigida por alguém cujo trabalho conhecia e apreciava.</p>
+<p>Este telefilme foi emitido pela primeira vez na RTP1 no dia 24 de Junho de 2005.</p>
+
+<citacao href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/viagem-em-busca-do-amor-e-do-sexo" fonte="Correio da Manhã" ano="2005">
+	<p>O mais interessante em ser actriz é poder viajar no tempo, na alma, nos conceitos e nas crenças.</p>				
+</citacao>
+
+
+<grande><elo href="https://www.youtube.com/watch?v=1Fw5cbN2Wuw">Selecção de cenas do filme</elo></grande>
+<elo href="https://picasaweb.google.com/116136255703077903546/LoveOnline?authuser=0&amp;authkey=Gv1sRgCMGz6t-Uldu9NA&amp;feat=directlink">Galeria de fotogramas</elo>
+<elo href="http://www.imdb.com/title/tt0490169/">Página no IMDB.</elo>
+<elo href="http://www.dn.pt/inicio/interior.aspx?content_id=599549">Artigo do Diário de Notícias.</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/viagem-em-busca-do-amor-e-do-sexo">Artigo do Correio da Manhã.</elo>			
+				
+</corpo>
+
+</pagina>

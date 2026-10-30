@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="eventos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Primeiro Congresso de Madrastas, Padrastos e Enteados</titulo>
+	<descricao></descricao>
+	<data><ano>2014</ano><mes>11</mes><dia>29</dia></data>
+	<fundo legenda="Um abraço à enteada Maria no dia dos seus 18 anos.">https://lh4.googleusercontent.com/-BCInWPqzHiE/VLf44JB8qQI/AAAAAAAAqp4/hXMQb-hupjw/s0/CatarinaFurtado_Maria_20141123_10171760_392615280898135_3100111302690351579_n.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>O Torreão Poente do Terreiro do Paço, em Lisboa, reuniu, ao longo do sábado, vários especialistas e convidados para falarem sobre esta coisa, cada vez mais comum: as famílias recompostas. Organizado, moderado, e idealizado pelo apresentador e radialista Fernando Alvim: o primeiro Congresso de Madrastas, Padrastos e Enteados, realizou-se no dia 29 de Novembro de 2014. A Catarina - ela própria com uma relação com dois enteados - foi convidada para testemunhar a sua experiência, durante o segundo painel subordinado ao tema "A Vida é Madrasta".</p>
+
+<citacao fonte="Diário de Notícias" ano="2014">
+	<p>Um lugar que Catarina Furtado não procurou, mas que “aconteceu” na sua vida e que ela desempenha “com muito gosto”. A apresentadora começou a ser madrasta aos 22 anos, “sem muita maturidade”, admite, de um rapaz que “hoje já é um homem”. Entretanto casou com o ator João Reis que tem dois filhos de duas relações anteriores. A mais velha fez recentemente 18 anos. “Fui eu e a mãe que organizámos a festa de aniversário”, contou orgulhosa. O mais novo tem 13 e ao falar sobre a relação entre eles diz: “Acho que o mais difícil é teres de te chatear comigo porque não és minha mãe e para mim é ter de te obedecer porque não és minha mãe. Mas o amor vai além dos laços de sangue.” A apresentadora confessa que nem sempre teve uma relação fácil com os seus enteados, mas foi conseguindo adaptar- se. Não esquece a primeira vez que o enteado abordou o tema. “Estava a ler- lhe uma história antes de dormir – ele tinha 5 anos – e disse- me que era bom se a mãe e o namorado dela pudessem dormir de vez em quando no sótão lá de casa. E também gostava que a mãe de vez em quando ficasse com o pai. E eu podia ficar com o namorado da mãe. Porque para ele era importante ver o pai e a mãe juntos de vez em quando, mas como também gostava de mim e do namorado da mãe também queria que estivéssemos lá em casa.”</p>			
+</citacao>
+
+<elo href="https://www.facebook.com/catarinafurtado.oficial/posts/394235987402731">Mensagem da Catarina no Facebook</elo>						
+<elo href="http://www.publico.pt/sociedade/noticia/porque-e-que-a-disney-tramou-as-madrastas-1677759">Artigo do jornal Publico</elo>						
+<elo href="http://videos.sapo.pt/VtIDitl6EokDf8ptrd1D">No "Grande Tarde" de Sic</elo>						
+<elo href="http://youtu.be/ccsMbXGML1U">Exerto do "Grande Tarde" com declarações da Catarina</elo>						
+
+</corpo>
+
+</pagina>

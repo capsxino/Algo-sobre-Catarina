@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="letrasdecancoes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Laura</titulo>
+	<descricao>Música para a banda sonora do telefilme <cite>Laura</cite></descricao>
+	<data><ano>2000</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-oaezC6jiR2A/UWgvhUseRKI/AAAAAAAAOws/d0jx0OpinlY/s0-Ic42/CatarinaFurtado_Noiva_090023.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<creditos>
+	<nome titulo="Canção">Laura</nome>
+	<nome titulo="Interpretação">Jorge Palma,Diogo Infante e Lena d'Agua</nome>
+	<nome titulo="Compositor da Música">João Gil</nome>
+	<nome titulo="Álbum">Perdidamente - As melhores do João Gil</nome>
+	<nome titulo="Ano">2000</nome>
+</creditos>
+
+<p>Uma mulher, vestida de noiva, entre jazigos e campas, reencontra um amor que julgava perdido para sempre. É Laura, a personagem da Catarina no telefilme "A Noiva". É a cena final do filme, muito bela, sonorizada pela música que partilha o nome com a protagonista.</p>
+<p>"Laura" é um poema da Catarina para uma música do João Gil. É interpretada pelo Jorge Palma que juntamente com o Diogo Infante e a Lena d'Agua dá voz ao triângulo amoroso retratado no telefilme da Sic de 2000. O tema foi incluído no álbum "Perdidamente - As melhores do João Gil".</p>
+
+<citacao href="revistas_luxwoman_junho2002.xml" fonte="Lux Woman" ano="2002">
+	<p>Estava a fazer a Laura, nesse filme do Luís Galvão Teles, e houve um dia em que as gravações foram muito intensas, porque havia uma cena muito dura e eu cheguei a casa e senti-me vazia. Estava na cama a decorar as cenas do dia seguinte e, de repente, comecei a escrever. O Luís andava à procura de uma música, mostrei-lhe a que tinha escrito e ele disse: "Isto faz todo o sentido."</p>
+</citacao>
+
+<letra titulo="Laura">
+	Ainda me ouves,
+	<br/>
+	ainda me sentes,
+	<br/>
+	todas as noites,
+	<br/>
+	é por ti que adormeço
+	<br/>
+	<br/>
+	Laura...
+	<br/>
+	escrevo-te neste pedaço de papel
+	<br/>
+	vazio cheio da tua falta
+	<br/>
+	Laura...
+	<br/>
+	ainda me ouves.
+	<br/>
+	<br/>
+	Sou um soldadinho de chumbo,
+	<br/>
+	de coração magoado,
+	<br/>
+	nesta guerra onde bons e maus
+	<br/>
+	não sabem nada
+	<br/>
+	Laura
+	<br/>
+	<br/>
+	Jorge,
+	<br/>
+	espero por ti.
+	<br/>
+	Jorge,
+	<br/>
+	partiste sem mim
+	<br/>
+	mas eu fui contigo
+	<br/>
+	e tu ficaste comigo
+	<br/>
+	<br/>
+	Jorge,
+	<br/>
+	aqui te trago.
+	<br/>
+	<br/>
+	Jorge,
+	<br/>
+	o cheiro que guardo,
+	<br/>
+	na roupa que arrumo,
+	<br/>
+	no beijo que gravei
+	<br/>
+	Jorge...
+	<br/>
+	<br/>
+	Laura...
+	<br/>
+	algum dia me queres?
+	<br/>
+	Se tu soubesses
+	<br/>
+	há quanto tempo eu olho pra ti assim,
+	<br/>
+	sem que os outros percebam.
+	<br/>
+	<br/>
+	Espero sem esperar,
+	<br/>
+	aceito sem aceitar,
+	<br/>
+	vivo sem viver por ti.
+	<br/>
+	Laura,
+	<br/>
+	algum dia me queres
+	<br/>
+	Laura...
+	<br/>
+	Jorge...
+	<br/>
+	Laura...
+</letra>
+
+<elo href="https://www.youtube.com/watch?v=Lu2SNWloeG8">«Laura»</elo>
+
+</corpo>
+
+</pagina>

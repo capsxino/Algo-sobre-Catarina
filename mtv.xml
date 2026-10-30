@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>MTV Portugal</titulo>
+	<descricao>Apresenta o magazine diário sobre música e cinema, que estreia no primeiro dia de emissões da SIC.</descricao>
+	<data><ano>1992</ano><mes>10</mes><dia>6</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-NTo1M2un0Dg/UbX1EMVh5LI/AAAAAAAAPbk/xUxl_XiUxA8/s0/CatarinaFurtado_MTV_1993_050000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+<p>No dia 6 de Outubro de 1992, às 16 horas e 30 minutos, a primeira estação privada de televisão começava a sua emissão. Quatro minutos depois a Catarina aparecia no ecrã a apresentar o <cite>MTV Portugal</cite>. Com 20 anos, jovem mas não muito mais que as pessoas à sua volta na Sociedade Independente de Comunicação (SIC).</p>
+<p>A equipa foi-se definindo durante o verão. Com Francisco Pinto Balsemão como o Presidente da SIC; Emídio Rangel como o Director de Informação; e Maria Elisa como a Directora de Programas. Foi da Maria Elisa que partiu o convite à Catarina para entrar na SIC, mas Julho esta abandona a direcção de programas em conflito com o Director Geral da estação e o Rangel assume então o cargo juntamente com a informação. A Catarina deixava a secretária de jornalista no Correio da Manhã Rádio em Agosto, já tendo terminado a sua ligação à RTP onde apresentou o <a href="topmais.xml"><cite>Top +</cite></a>.</p>
+<p>A Catarina parecia estar outra vez encaminhada para uma carreira de jornalismo na SIC, até o Rangel a ter escolhido para apresentar este magazine diário de 30 minutos em que <cite href="https://picasaweb.google.com/lh/photo/j7Yhx2i46uE3pxcWHXTVl-mEfnfUGNb0AsFKwQS2siw?feat=directlink">vai estar nos ecrãs sete dias por semana. Cada dia, o programa terá uma temática diferenciada: às segundas e sextas-feiras os vídeos clássicos, às quintas o cinema, às quartas e aos sábados os <i>tops</i> mundiais.</cite></p>
+<p>O programa esteve no ar pelo menos até ao mês de Julho de 1993. Poucos meses depois, no dia 1 de Outubro, estreava o <a href="chuvadeestrelas.xml"><cite>Chuva de Estrelas</cite></a>, que tornaria a Catarina num rosto querido e familiar dos Portugueses.</p>
+
+<citacao href="https://picasaweb.google.com/lh/photo/rc5b8XxF3cQTe8k-ycNEk-mEfnfUGNb0AsFKwQS2siw?feat=directlink" fonte="O Jornal" ano="1992">
+	<p>Catarina Furtado será a segunda da cara a aparecer, diariamente, nas emissões da SIC, logo após os 'pivots' da informação. Conhecida já dos espectadores de televisão, é a apresentadora do programa de música «Top +», no canal 1. Na SIC, onde começa a trabalhar em Setembro, continuará ligada à música: caber-lhe-á apresentar, de segunda a sexta-feira, o programa MTV, uma seleção do melhor material do canal musical norte-americano. Terá também a responsabilidade de escolher as imagens que vão para o ar (telediscos e, talvez. informação) e de escrever os seus próprios textos. Um estagio de uma semana em Londres, durante o mês de Setembro, permitir-lhe-á ver como a emissão é feita na Europa.</p>
+	<p>Jornalista do Correio da Manhã Rádio, onde deixou de trabalhar este mês. Catarina. de 19 anos, terá em casa um espectador especial: Joaquim Furtado, seu pai, jornalista do canal 2 da RTP.</p>
+</citacao>
+<citacao href="revista_expresso_maio2010_01.xml" fonte="Expresso" ano="2010">
+	<p><i>Acha que daria uma boa jornalista?</i> - (Franze a cara) - Agora acho que não. Mas quando comecei acho que sim. Aliás, no arranque da SIC, fui integrada na turma de jornalistas que fizeram formação para pivô de telejornal. Era a mais nova do naipe. Estava ao lado de figuras como José Alberto Carvalho Rodrigo Guedes de Carvalho, Alberta Marques Fernandes, Cláudia Borges, Conceição Lino, Júlia Pinheiro. Lembro-me perfeitamente que o formador Guibert, na época um dos grandes crânios do jornalismo francês, disse ao Rangel que devia apostar em mim enquanto jornalista. Felizmente, o Rangel não o ouviu, porque talvez eu não fosse tão feliz. E não nos esqueçamos que seria sempre a segunda da família, sendo filha de quem sou o jornalista Joaquim Furtado.</p>
+</citacao>
+<citacao fonte="Sábado" ano="2012">
+	<p>"A partir de hoje não têm desculpa, só se quiserem é que vão perder as últimas novidades discográficas. A <i>Hora MTV</i> invade o espaço." Com estas palavras, Catarina Furtado foi a segunda a aparecer na emissão de estreia. A apresentadora ficou eufórica ao ver as primeiras imagens. O seu programa tinha sido gravado na véspera. Contudo, passou com uma gafe: o Festival de Reading, um evento de música, em Inglaterra, apareceu traduzido à letra como se fosse um "Festival de Leitura".</p>
+</citacao>
+
+<grande><elo href="https://www.youtube.com/watch?v=j9GFvOspQO8">Excertos do programa entre Junho e Julho de 1993</elo></grande>
+<elo href="http://citizengrave.blogspot.pt/2012/07/o-dia-d-da-sic-estava-chegar.html">Um blog com algumas páginas de jornais da época</elo>					
+<elo href="https://vimeo.com/10368981#t=1415">Fala do programa no "5 Para a Meia-noite" em 2010</elo>					
+<elo href="https://www.youtube.com/watch?v=zhNamzbdx_0">Catarina recorda Emídio Rangel em 2014</elo>
+<elo href="http://videos.sapo.pt/eymSE4ZSBbgIfkuk6mpj">Uma mensagem da Catarina para a Maria Elisa (2015/6/15)</elo>
+<elo href="https://www.youtube.com/watch?v=1qTN3IDbKZk">Catarina Furtado - FBAUL - 1997</elo>
+
+</corpo>
+
+</pagina>

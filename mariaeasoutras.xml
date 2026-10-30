@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Maria e as Outras</titulo>
+	<descricao></descricao>
+	<data><ano>2004</ano><mes>4</mes><dia>29</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_maxima_2004.xml" fonte="Máxima" ano="2004">
+	<p>O que eu achei mais interessante na Maria é o contrário daquilo que é interessante na Isilda [uma amiga extrovertida, interpretada por Ana Brito e Cunha], que é a contenção. Enquanto actriz tentei trabalhar o mistério e o lado reservado, o não dizer tudo, o não demonstrar claramente os seus afectos.</p>
+</citacao>
+
+<elo href="http://www.mariaeasoutras.sapo.pt/">Site do filme</elo>
+<elo href="http://www.imdb.com/title/tt0395365/">Página no IMDB</elo>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+Elenco da ganância?
+****************
+A menina dos olhos bonitos da SIC vai estar ocupada nos próximos tempos – até 15 de Janeiro - a gravar o filme “Maria e as Outras”, uma produção do Animatógrafo, em que entram também Isabel Abreu, Marco Delgado e Filipe Ferrer, entre outros. As rodagens começam em finais de Novembro, mas os ensaios já estão a decorrer.
+Em Dezembro era anunciada a sua contractaçao pela RTP e começaria a apresentar a operação triunfo em Fevereiro 
+14 novembro 2012
+http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv-
+-media/joia-de-timor-vem-a-caminho
+****
+Encontrei este fotograma do filme ‘Maria e as outras’, do realizador José Sá Caetano, onde contracenei com as actrizes Isabel Abreu, Ana Brito e Cunha, Sandra Cóias (entre outros…). Tantas recordações! Lembrei-me do processo criativo até ter chegado à essência da personagem que interpretei, a Maria, lembrei-me do bom ambiente das gravações. Mas acima de tudo, tenho saudades de representar, de estudar o texto e o personagem até conseguir aquele click. Se, ao menos, os dias tivessem mais de 24h00! 
+https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/536750149817980/?type=3
+-->

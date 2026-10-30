@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="pontuais.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Locutora de Continuidade na RTP Memória</titulo>
+	<descricao></descricao>
+	<data><ano>2016</ano><mes>1</mes><dia>4</dia></data>
+	<data><ano>2016</ano><mes>1</mes><dia>10</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-2hqgLjYhCQE/VpOM3Kyz3vI/AAAAAAAAvEI/JHTGpmXQtk0/s720-Ic42/CatarinaFurtado_RTPMemoria_020000%252520%2525282%252529.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No final de 2015, a RTP Memória reestruturou a grelha, mudou o visual e incluiu novos programas. Uma das novidades foi o convite endereçado a algumas personalidades para recuperar a extinta figura de <cite>Locutora de Continuidade</cite> da Rádio e Televisão Portuguesa. Na primeira semana de 2016, essa função coube à Catarina Furtado.</p>
+
+<grande><elo href="http://videos.sapo.pt/WCHjuOVpDSAEsbrOqYuo">Selecção de momentos</elo></grande>
+
+</corpo>
+
+</pagina>

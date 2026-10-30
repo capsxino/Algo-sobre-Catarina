@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="nataldoshospitais.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Natal dos Hospitais</titulo>
+	<descricao></descricao>
+	<data><ano>2015</ano><mes>12</mes><dia>17</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-N7Y7emRyVGw/VoOjM8txDWI/AAAAAAAAueU/jz7Ix_YT4Rg/s0-Ic42/CatarinaFurtado_SociedadeRecreativa_20151227_020000.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<elo href="https://www.facebook.com/rtp1.pt/videos/1039927746028215/"></elo>
+<elo href="">Reportagem do 'Socicedade Recreativa'</elo>	
+<elo href="https://www.instagram.com/p/_YxQHATBPX/">Foto no instagram</elo>	
+<elo href="https://www.instagram.com/p/_ZBlG4TBEO/">Foto no instagram</elo>	
+<elo href="https://www.instagram.com/p/_ZVq-CzBHY/">Foto no instagram</elo>	
+<elo href="https://www.instagram.com/p/_Za4o6zBCn/">Foto no instagram</elo>	
+<elo href="https://www.instagram.com/p/_c14BtTBIE/">Foto no instagram</elo>	
+<elo href="https://www.instagram.com/p/_Zold9TBOB/">Video no instagram</elo>	
+<elo href="https://www.facebook.com/joaopereiraphotograph/photos/a.1698064327072311.1073741904.1474123042799775/1698160673729343/?type=3&amp;permPage=1">Fotografia no facebook</elo>	
+
+</corpo>
+
+</pagina>

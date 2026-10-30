@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="completa">
+
+<cabecalho>
+	<titulo>LG</titulo>
+	<descricao>Lançamento do telemóvel LG Chocolate.</descricao>
+	<data><ano>2007</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh5.googleusercontent.com/-SCKaMZnBj2k/UpjtBjZawAI/AAAAAAAARRE/ON-YWPidWqc/s0/CatarinaFurtado_Deluxe_02.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Em 2007 a Catarina entrou, de mascarilha, no Hotel Ritz Four Seasons para "roubar" o novo telemóvel da marca LG. Ela e um grupo de bailarinos fizeram parte do evento que apresentou ao público o telemóvel LG Chocolate.</p>
+
+</corpo>
+
+</pagina>

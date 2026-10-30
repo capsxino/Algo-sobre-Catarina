@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>O Lampião da Estrela</titulo>
+	<descricao>Tele-filme de Sic, uma comédia protagonizada por Herman José com a Catarina no papel da sua filha Cristina.</descricao>
+	<data><ano>2000</ano><mes>5</mes><dia>30</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-5HsFjMMo-7U/UWpqADrcpSI/AAAAAAAAOyA/SFG6QDFDGmo/s0/CatarinaFurtado_LampiaoEstrela_090000.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Dos 21 telefilmes da série SIC Filmes, entre 2000 e 2002, a Catarina entrou em três. Este foi o primeiro. Uma revisitação do <cite>Leão da Estrela</cite> desta vez com um benfiquista. Herman José desempenha o papel dum pequeno empresário do futebol e adepto ferrenho do Benfica, o Carlos Santos, que tenta passar um mau negócio para as mãos de Borges Pinto, empresário do Futebol Clube do Porto. A filha Cristina Santos, personagem feita pela Catarina, tenta conquistar o rico herdeiro da família Borges Pinto mas este só tem olhos para a outra filha de Carlos.</p>
+
+<p>Eu acho que a Catarina tem jeito para a comédia, apesar de serem poucos os papeis cómicos que fez e de parecer procurar personagens dramáticas. A Cristina fez-me muitas cocegas. Principalmente naqueles momentos mais espontâneos, como quando diz para a irmã: "Sopinha de massa!" ou quando revira os olhos numa careta. Também o carácter sedutor da Catarina serviu <i>impecabelmente</i> a personagem.</p>
+
+<p>Realizado por Diamantino Costa que, tendo feito a sua carreira em filmes publicitários, estreou-se aqui na realização duma longa-metragem. Facto curioso: a Catarina estreou-se em televisão num programa realizado por ele, o <cite>Top+</cite>, em 1991.</p>
+
+<imagem href="https://picasaweb.google.com/lh/photo/gB4CeRZht2WQLHkWWyiN_umEfnfUGNb0AsFKwQS2siw?feat=embedwebsite">https://lh4.googleusercontent.com/-QEqfpGV5kiI/UclyXjIYUEI/AAAAAAAAP8k/CsgM65k6P8I/s400/CatarinaFurtado_TVMais_Maio2000_01_resize.jpg</imagem>
+
+<citacao href="revista_cosmopolitan_outubro2000.xml" fonte="Cosmopolitan" ano="2000">
+	<p>Adorei fazer, diverti-me muito com todos, mas, o facto de ser um <i>remake</i> já tinha, acho eu, um não muito a favor; um guião em que o futebol é o rei também não é assim uma das coisas que me desperta a atenção, mas, em termos técnicos, ou melhor, artísticos, foi um avanço, porque a realização, sem ter muito da publicidade, inovou. Também tenho uma relação privilegiada com o Diamantino Ferreira [o realizador], porque foi ele que me descobriu há 11 anos. Estava eu no Correio da Manhã Rádio, era preciso uma locutora para o Top+. Fui empurrada para o <i>casting</i> pela Margarida (Pinto Correia), a quem eu chamo a minha madrinha televisiva. Na altura, eu achava que era jornalismo que queria, também sentia que era muito difícil despedir-me da dança, mas fui. Foi quando conheci o Diamantino, e fizemos duas promessas que se concretizaram este ano: o primeiro filme que ele fizesse, eu entraria; e, se alguma vez eu fizesse publicidade, seria ele o realizador. [Se só este ano aceitou fazer publicidade foi porque,] achava, e ainda hoje não mudei de opinião, que um jornalista não deve fazer publicidade. Esperava que houvesse uma altura em que ia deixar a apresentação para o jornalismo e por isso não o podia manchar.</p>
+</citacao>
+
+<citacao href="http://sic.sapo.pt/beta-arquivo-sic/2000/05/30/lampiao-da-estrela-o-2000---sinopse" fonte="Sinopse" autor="SIC">
+	<p>Carlos Santos, empresário de futebol e fervoroso benfiquista, vive na esperança de efectuar, numa acção lançada em conjunto com o seu clube do coração, uma transferência que seja proveitosa “para ambas as partes”, como ele diz. Através de Louzada, o seu melhor amigo e proprietário de uma empresa de segurança, Santos assegura o passe de dois jovens moçambicanos e tenta vendê-los ao Benfica. Mas o negócio fracassa desde logo.</p>
+	<p>Desesperado e pressionado pelos credores, o "multivalente" Santos tenta colocar no mercado "euromundial" as suas vedetas. Por seu turno, Louzada, comprometido com a recusa do Benfica em contratar as duas "pacaças" de Moçambique, aponta como solução Borges Pinto, conhecido empresário nortenho e um dos clientes da Segorila.</p>
+	<p>Segundo ele, ninguém no Porto rejeitaria jogadores que o Benfica acabara, precisamente, de recusar. Obrigado a fazer-se passar por portista, Santos acaba por combinar discutir o negócio com Borges Pinto na Invicta, onde aproveitará também para ver o "derby" Porto-Benfica na companhia do seu anfitrião.</p>
+	<p>Já em terras do norte, Santos, acompanhado de Sílvia, a sua mulher, e de Cristina e Vera, as duas filhas do casal, tenta ao mesmo tempo vender os dois jogadores, agradar à família Borges Pinto e dar uma imagem de rico e conceituado empresário desportivo. Bem sucedido ou não, a verdade é que Santos não deixa ninguém indiferente.</p>
+	<p>Divertido com a situação, Borges Pinto parece condescender com as diatribes do lisboeta. Entretanto, André, herdeiro da fortuna dos Borges Pinto, parece igualmente rendido, ainda que por outras razões, aos encantos da família oriunda da capital.</p>
+	<p>Apenas Irene Pidwell, rica aristocrata de origem inglesa casada com Borges Pinto, parece não aceitar Santos e tudo o que este e a sua família representam: Lisboa.</p>
+</citacao>
+
+<creditos>
+	<nome titulo="Data da estreia">30 de Maio de 2000</nome>		
+	<nome titulo="Realizador">Diamantino Costa</nome>		
+	<nome titulo="Argumento">Henrique Cardoso Dias e Eduardo Madeira</nome>		
+	<nome titulo="Produção">Animatógrafo II/SIC Filmes</nome>		
+	<nome titulo="Personagem da Catarina">Cristina</nome>	
+</creditos>
+
+<grande><elo href="https://picasaweb.google.com/116136255703077903546/OLampiaoDaEstrela?authuser=0&amp;authkey=Gv1sRgCJ--qJCa7fmTOw&amp;feat=directlink">Fotogramas do filme</elo></grande>
+<elo href="http://www.imdb.com/title/tt0243376/">Página no IMDB</elo>		
+<elo href="http://www.youtube.com/watch?v=LxFQF9leLRk">Filme completo no Youtube</elo>	
+<elo href="http://www.record.xl.pt/Arquivo/interior.aspx?content_id=29265">Artigo do Record sobre a estreia do telefilme</elo>		
+
+</corpo>
+
+</pagina>

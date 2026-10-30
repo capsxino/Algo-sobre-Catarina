@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="autora.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Letras de Canções</titulo>
+	<descricao></descricao>
+	<data><ano></ano><mes></mes><dia></dia></data>
+	<fundo legenda="Fotografia que acompanha o livro/cd 'Vem daí'">https://lh3.googleusercontent.com/-8Dkmr8mtl6E/UOQVAdPgG7I/AAAAAAAAN1k/zhCF_gufE9E/s0-Ic42/CatarinaFurtado_VemDai_FotoTexto.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Catarina Letrista">
+	<p>Do namoro com o músico e compositor João Gil nasceram as primeiras letras de canções escritas pela Catarina. Essa colaboração ficou registada em vários álbuns e projectos do músico, como a «Ala dos Namorados» e a «Filarmónica Gil».</p>
+	<p>«Solta-se o Beijo», a primeira e mais popular das canções escritas por ela, começou por ser um poema num postal que o João Gil transformou numa canção para a «Ala dos Namorados». Por sugestão da Catarina, a Sara Tavares juntou-se ao vocalista do grupo, Nuno Guerreiro, para interpretarem ao vivo a canção que ficou registada no álbum homónimo de platina.</p>
+	<p>Em 2000, a série de ficção da TVI «Crianças SOS» teve na sua banda sonora 3 músicas compostas pela  dupla João e Catarina :  «Avô Amigo» interpretada pelo Carlos do Carmo; «Carta de Amor Ridículo» interpretada pela Lúcia Moniz; «Lutador» interpretada pelo Tim, vocalista dos «Xutos&amp;Pontapés». </p>
+	<p>Esta última, «Lutador», foi a música que acompanhou o genérico da série «Crianças SOS» e que tem perdurado na memória das pessoas. Foi editada no álbum «Perdidamente - As Melhores do João Gil».</p>
+	<p>Também em 2000, a Catarina protagoniza o tele-filme da SIC «A Noiva».  Interpreta a personagem que dá nome à canção «Laura» que sonoriza a comovente e bela cena final do filme. O poema, escrito por ela, acompanha a música do João Gil, transcreve as mensagens perdidas entre Laura e Jorge, o noivo desaparecido na Guerra Colonial, e Eduardo, o amor condescendido por Laura. O Jorge Palma, a Lena d'Água e o Diogo Infante dão, na música, voz ao triângulo amoroso retratado no filme.</p>
+	<p>Em 2002, aceita o desafio para escrever uma letra infantil para o Avô Cantigas ( Carlos Alberto Vidal ). A canção “Chichi Cama”, com música do João Gil, reporta a sua infância ou a de todas as crianças que não querem ir dormir. É da Catarina a voz da mãe que na canção diz : “São horas meu filho. Lavar os dentes!”.</p>
+	<p>O fim do namoro com o João Gil também terminou a colaboração na escrita de canções mas continuou a escrever letras a pedido “para pessoas que me conhecem bem”.</p>
+	<p>O álbum «Aether» da Anabela, lançado em 2005, inclui a canção «Ela é Dança» com música de Pancho Alvarez. A letra da canção, escrita pela Catarina, pode ser um retrato dela em criança, bailarina do Bairro Alto.</p>
+	<p>No inicio de 2011, uma música não lhe saía da cabeça. A música da Lúcia Moniz que irá acompanhar o poema «Príncipe do Nada» escrito pela Catarina. Em 7 de Março desse ano, a canção é interpretada ao vivo no especial “Príncipes do Nada – Um por Todos”, suportada por um coro assume as dimensões dum hino que reflecte a vivência dela enquanto Embaixadora de Boa Vontade do UNFPA e autora do programa de televisão. A canção pertence ao álbum «Fio de Luz» da Lúcia Moniz. Ambas abdicaram dos 'royalties' devidos pela autoria da composição em favor de causas que apoiam.</p>
+	<p>Ricardo Reis Pinto é o autor de muitas das canções que ensinava aos seus alunos, as canções que eles levaram para casa, cantaram e ficaram na cabeça dos pais, tal como aconteceu com os filhos da Catarina: a Beatriz e o João. Em 2011, o Ricardo foi uma presença semanal no programa de televisão “Quem Tramou Peter Pan?” onde cantou muitas dessas canções. Com o apoio da Catarina, em 2012, foi lançado o livro/Cd “Vem Daí”, o seu primeiro álbum, com todas as composições da sua autoria excepto uma com letra da Catarina: “João e Beatriz”.</p>
+	<p><del>Em Maio de 2012 referiu ter escrito uma letra para o Rui Drumond que ainda não foi editada.</del></p>
+</bloco>
+
+<citacao href="revista_quemsaoasvozesdecatarina.xml" fonte="Notícias Tv" ano="2012">
+	<p>Todas as letras que escrevi foram para pessoas que me conhecem bem e foram-me sempre pedidas.</p>
+</citacao>
+
+<bloco titulo="As Canções">
+	<incorporar>espelho.xml</incorporar>
+	<incorporar>joaoebeatriz.xml</incorporar>
+	<incorporar>principedonada.xml</incorporar>
+	<incorporar>elaedanca.xml</incorporar>
+	<incorporar>seeusoubesse.xml</incorporar>
+	<incorporar>noconcertodopalma.xml</incorporar>
+	<incorporar>avoamigo.xml</incorporar>
+	<incorporar>cartadeamorridiculo.xml</incorporar>
+	<incorporar>lutador.xml</incorporar>
+	<incorporar>chichicama.xml</incorporar>
+	<incorporar>laura.xml</incorporar>
+	<incorporar>historiadepedra.xml</incorporar>
+	<incorporar>soltaseobeijo.xml</incorporar>
+</bloco>
+
+<elo href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=M8VwgDFMdJE#t=3230s">Em Maio de 2012 a Catarina foi ao <cite>5 Para a Meia-noite</cite> e falou das letras das canções que já escreveu.</elo>
+<elo href="http://www.youtube.com/embed/M_oc6A_r6d0?start=1553&amp;autoplay=1">Em Novembro de 2012 voltou a falar das letras no <cite>5 Para a Meia-noite</cite>.</elo>
+<elo href="http://www.youtube.com/watch?v=Sayz8Up1HcE">Em Novembro de 2010, a Catarina no programa <cite>A de Autor</cite>.</elo>
+
+</corpo>
+
+</pagina>

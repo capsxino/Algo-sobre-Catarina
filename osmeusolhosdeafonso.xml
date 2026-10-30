@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="escritora.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Os Meus Olhos de Afonso</titulo>
+	<descricao>Colecção de 6 estórias escritas pela Catarina para crianças."</descricao>
+	<data><ano>2005</ano><mes>10</mes><dia></dia></data>
+	<fundo legenda="Apresentação do livro no Jardim-escola João de Deus em 2014.">https://lh3.googleusercontent.com/-1sN1KCSpB2g/VMzuPpTs7PI/AAAAAAAAq-Q/RZvZ3F4sp9k/s0/CatarinaFurtado_MeusOlhosAfonso_01.png</fundo>
+</cabecalho>
+
+<corpo>
+				
+<p>O livro <cite>Os Meus Olhos de Afonso</cite> tem 6 estórias para criança, escritas pela Catarina, ilustradas pela jornalista Teresa Conceição: <cite>O Búzio da Sorte</cite>; <cite>Casa da Árvore</cite>; <cite>O Herói dos Pés de Barro</cite>; <cite>Cara de Plástico</cite>; <cite>Olhos de Chinês</cite>; <cite>Memórias de Papel</cite>.</p>
+<p>Em cada estória acontece um dialogo entre um adulto e o jovem Afonso. Para mim são conversas sobre a imaginação. Entre um adulto, com as ideias cristalizadas por anos de vida, mas que dentro duma conversa com uma criança está aberta a questionar a sua perspectiva da realidade. O Afonso é a criança e tem aquele olhar original sobre as coisas. Tem perguntas. Tem as respostas dos adultos mas tem as suas próprias respostas dadas pela sua imaginação desamarrada.</p>
+<p>Em 2006 nasceria a Beatriz, primeira filha da Catarina, e 17 meses depois nasceria o João. O livro 'Os Meus Olhos de Afonso' foi escrito por alguém que tem um carinho e uma relação especial com as crianças: olhos nos olhos. Mas foi escrito fora da experiência maternal. Gostei muito de o ler mas agora espero o próximo. Como será um livro feito após a rotina de mãe, de ver crescer os filhos, de os fazer crescer, todos os dias, depois de tantas estórias contadas à porta dos sonhos?</p>
+<p>O livro teve a sua primeira edição em Outubro de 2005 com a chancela da Oficina dos Livros, mas já estava escrito e ilustrado em 2000.  No dia 14 de Março de 2013 esteve no <a href="http://www.cquiaios.pt/Conte%C3%BAdodeNot%C3%ADcia/tabid/104/aid/360/Default.aspx">Colégio de Quiaios</a> <q>na Figueira da Foz a apresentar <cite>Os Meus Olhos de Afonso</cite>, livro que escrevi em 2005 e que foi reeditado em parceria com a minha amiga Teresa Conceição. No livro, uma criança ajuda os adultos a olhar o mundo com simplicidade… e junto de quem poderia apresentar tal história?</q></p>
+
+<citacao href="https://www.youtube.com/watch?v=X8GEmweevE4">
+	<p>Tinha acabado de ser madrinha dum menino chamado Afonso, ainda não tinha sido mãe, e através dele eu falo com os pais. Não é um livro totalmente infantil; acho que é para ser lido por adultos e traduzido por eles para as crianças.</p>			
+</citacao>
+
+<elo href="revista_cosmopolitan_outubro2000.xml">Referência ao livro na Cosmopolitan de 2000</elo>
+<elo href="https://www.facebook.com/photo.php?fbid=155734984586167&amp;set=a.111610348998631.19794.107792466047086&amp;type=1">Apresentação do livro no Colégio de Quiaios em 2013</elo>
+<elo href="http://www.cilingue.com/os-meus-olhos-de-afonso.html">Quatro páginas do livro</elo>
+<elo href="https://www.youtube.com/watch?v=X8GEmweevE4">Catarina Furtado apresenta livro no Jardim-escola João de Deus em 2014</elo>		
+				
+<imagem href="https://picasaweb.google.com/lh/photo/JadmIMigf8ifxjhC8_MgKVEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh5.googleusercontent.com/-vPYI31bZZy0/Ubi8W5pBgPI/AAAAAAAAPco/0sAcC_NR2sI/s400/Olhos_De_Afonso.jpg</imagem>
+
+<bloco titulo="Excertos">
+
+<citacao fonte="O Búzio da Sorte">
+	<p>Logo debaixo do céu grande, cheio de azul, salpicado de estrelas e mistérios, habita outro céu, pequeno, com estrelas e meias-luas que afastam para bem longe os papões sem cara dos pesadelos do Afonso.</p>
+</citacao>
+<citacao fonte="Casa da Árvore">
+	<p>- Se calhar é por isso que a minha mãe canta e fala com as plantas, porque elas a fazem alegre. Ela às vezes até me chama girassol. Achas que sou parecido com um girassol?</p>
+	<p>- É a maneira de ela dizer que gosta de ti. Os girassois sorriem com o sol e com o quentinho, tal como tu.</p>
+</citacao>
+<citacao fonte="Olhos de Chinês">
+	<p>- Talvez seja isso. Só não sei se são as formas ou as palavras que eu gostaria de voltas a inventar. Porque é que as letras todas deram as mãos para construir as palavras e assim ficaram para sempre? Porque é que escola é escola e se escreve e s c o l a ?</p>
+	<p>- Porque era preciso baptizar as coisas, para que viver uns com os outros não fosse uma conversa de surdos. No fundo, foi para não ficarmos tão sós na vida.</p>
+</citacao>
+<citacao fonte="Memórias de Papel">
+	<p>- Mais ou menos. Mas o que eu acho é que a mãe lhe ralhou e então ela foi fazer queixinhas ao mar, porque o mar está habituado a algumas tristezas. Por isso é que parece uma banheira de lágrimas.</p>
+	<p>- Já reparaste que nós podemos imaginar o que quisermos olhando apenas para uma fotografia?</p>
+</citacao>
+
+</bloco>			
+
+</corpo>
+
+</pagina>
+<!--
+Para mim são conversas sobre a imaginação; entre um adulto, com ideias cristalizadas, e um jovem. Um crescido que questiona a sua perspectiva da realidade através do dialogo com o Afonso . O Afonso é uma criança e tem aquele olhar original sobre as coisas: tem perguntas; tem as respostas dos adultos; e tem as suas próprias respostas dadas pela sua imaginação desamarrada.
+
+O "Os Meus Olhos de Afonso" foi escrito por alguém que tem um carinho e uma relação especial com as crianças (olhos nos olhos). Gostei de o ler e espero o próximo. Como será um livro feito após a rotina de ser mãe, de ver crescer os filhos, de os fazer crescer, todos os dias, depois de tantas estórias contadas à porta dos sonhos?
+-->

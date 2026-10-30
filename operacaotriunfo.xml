@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Operação Triunfo</titulo>
+	<descricao></descricao>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="revista_caras_setembro2003_01.xml" fonte="Vip" ano="2003">
+	<p>Não tenho dúvidas de que, em televisão, foi o melhor que me aconteceu nos últimos tempos. Foi uma coisa que mexeu muito comigo em termos emocionais, e as rédeas da emoção são sempre as mais difíceis de agarrar. Chorei assumidamente com as vitórias daqueles jovens, e percebi que o fazia porque era algo que tinha muito a ver com o meu próprio passado, com aquilo que senti durante os anos em que estudei dança no Conservatório.</p>
+</citacao>
+<citacao href="revista_vip_novembro2003_01.xml" fonte="Vip" ano="2003">
+	<p><small>Incomoda-a quando as pessoas brincam com a forma efusiva com que diz "pró palco!"?</small></p>
+	<p>(Risos.) Não, não me incomoda nada. Acho que faz parte daquilo que todos nós, em conjunto, e eu, como apresentadora, achá-mos que funcionaria num programa como este. Fiz a minha primeira gala em Espanha e tive também a oportunidade de assistir ao vivo à O.T. espanhola e percebi, imediatamente, porque é um fenómeno. A adrenalina é grande e o público vive, com uma intensidade enorme, aquelas angústias, vitórias e fracassos dos candidatos. É uma forma de estar espanhola; tentei captar esse espírito e decidi transformar o nosso Portugal, que é um bocadinho cinzento e tem vergonha em manifestar-se.</p>
+</citacao>
+<citacao href="revista_tabu_20080927.xml" fonte="Tabu" ano="2008">
+	<p>Para mim os <i>reality shows</i> são os formatos em que se explora a vida privada dos concorrentes. Na 'OT' não se mostravam as casas de banho, não se explorava os namoros, as câmaras não entravam nos quartos... Mostrava-se uma escola e numa escola há trabalho, alegrias e frustrações.</p>
+</citacao>
+<citacao href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/novas-vozes-na-escola-da-fama" fonte="Correio da Manhã" ano="2003">
+	<p>Sou a primeira a dizer-lhes que se devem empenhar e acreditar no que estão a fazer, mas também que não devem criar grandes expectativas em relação ao futuro. Programas deste género são um ponto de partida. O resto depende do trabalho, do talento e da sorte de cada um. Se dois ou três deles conseguirem iniciar uma carreira, o saldo é bastante positivo.</p>
+</citacao>
+
+<incorporar>operacaotriunfo1.xml</incorporar>
+<incorporar>operacaotriunfo2.xml</incorporar>
+			
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+Apresentou as 2 primeiras séries
+-*-
+HÁ DEZ ANOS ESCREVIA
+«As coisas não começaram da melhor maneira para Catarina Furtado e para a sua “Operação Triunfo”. Para já, porque não começaram na data marcada e isso, em televisão, é das piores coisas que pode existir. O programa devia ter começado dia 9 – era o que estava programado. Com ele, no mesmíssimo dia, estrearia a nova telenovela portuguesa, “Lusitana Paixão”. Pois nem uma coisa, nem a outra. Catarina Furtado e a “Operação Triunfo” arrancaram no dia 7, num programa que as promoções diziam em directo de Barcelona – mas a palavra “directo” não constava no ecrã, como é normal, por debaixo do logotipo da RTP. E depois, o mesmíssimo programa, foi repetido na tarde de dia 9, domingo. Podem dizer-me que isto não tem importância nenhuma: mas a RTP sabe que tem. Porque conforme Catarina Furtado repetiu várias vezes ao longo do programa e respectiva repetição, o programa “Operação Triunfo” só arrancará oficialmente esta semana, no domingo, dia 16, o que fará com que perca o sentido de oportunidade e antecipação e acabe por estrear no mesmo dia que a “Academia de Estrelas” da TVI.»
+(Este bloco respeita a grafia em uso no ano em que foi escrito.)
+-*-
+colocar video cat experimentar vestidos + tro na OT 2003 ?
+-*-
+OT1 : 16 de Fevereiro de 2003 até 1 de Junho de 2003
+-*-
+A primeira gala da OT2 foi para o ar no dia 28 sabado  de setembro de 2003
+-*-
+OT1 e OT2 foram gravados na Venda do Pinheiro
+-*-
+OT2 : A escola de música mantém-se na Venda do Pinheiro e continua a ser liderada por Maria João. O corpo docente mantém-se à excepção de Rui de Matos, que foi substituído pela cantora lírica Maria Vieira, e da entrada de um novo elemento, a terapeuta da fala Ana Isabel Ferreira.
+-*-
+O vencedor da segunda edição da "Operação Triunfo" - que arranca já no domingo - vai representar Portugal no Festival Eurovisão da Canção 2004, tal como estava previsto para a primeira edição do concurso da RTP1.
+-*-
+produtora Getsmusic,
+-*-
+Na 2ª edição aparece loira devido à peça Loucos por Amor
+-*-
+O vencedor da OT2 vai ao festival da cançao http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv-
+-media/surpresas-na-final
+-*-
+na OT2 a C. calçava shoette
+-->

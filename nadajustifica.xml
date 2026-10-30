@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Nada Justifica</titulo>
+	<descricao>Campanha contra os castigos físicos em crianças; realizada pela Rita Fernandes.</descricao>
+	<data><ano>2013</ano><mes>3</mes><dia></dia></data>
+	<fundo>https://lh5.googleusercontent.com/-U9mRlV5l6BM/UYDfOD6kc8I/AAAAAAAAPEY/V1kXRTP0Mtw/s0/CatarinaFurtado_NadaJustifica_150407_365833993531084_534472773_n.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>Nada justifica</cite>... a violência sobre as crianças. A campanha partiu da iniciativa da Rita Fernandes que realizou os <i>spots</i>. Foram convidados actores para exprimirem com o rosto uma reacção quando confrontados com uma imagem de violência sobre crianças. Muitos dos actores já tinham trabalhado com a Rita em produções da SP Televisão. À Catarina, amiga de longa data da Rita, coube exprimir a emoção de revolta. Os <i>spots</i> da campanha começaram a passar na televisão no mês de Abril.</p>
+
+<citacao	autor="Rita Fernandes" href="http://www.luxwoman.pt/portfolio/grito-silencioso/" fonte="Lux Woman">
+	<p>Por todo o mundo há crianças que sofrem em silêncio, maus tratos e negligências inimagináveis por parte dos seus pais e pessoas próximas. É um dever social terminar com esta injustiça. E cabe a todos nós fazê-lo!</p>
+</citacao>
+<citacao	autor="Catarina" fonte="Facebook">
+	<p>A realizadora Rita Fernandes, uma amiga com quem partilhei casa em Londres quando estávamos lá a estudar, teve a iniciativa de fazer esta campanha dada a realidade existente em Portugal. Nada justifica a violência e o abuso infantil...</p>
+</citacao>
+
+
+<elo href="https://www.facebook.com/pages/NADA-Justifica/365774563537027?fref=ts">Página da campanha no facebook</elo>
+<elo href="https://www.youtube.com/watch?v=FGGfRSd8ork">Um dos três 'spots' curtos da campanha</elo>
+<elo href="http://www.youtube.com/watch?v=CEXdhG0gYFY">Versão longa do spot da campanha</elo>					
+
+</corpo>
+
+</pagina>

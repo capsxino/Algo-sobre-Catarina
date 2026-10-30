@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="teatro.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Loucos Por Amor</titulo>
+	<descricao></descricao>
+	<data><ano>2003</ano><mes>8</mes><dia>13</dia></data>
+	<data><ano>2003</ano><mes>11</mes><dia>8</dia></data>
+	<fundo>https://lh3.googleusercontent.com/-FgvewQZ3gs0/UV_TUxGL7JI/AAAAAAAAOoI/puFxR7yRm1s/s0/CatarinaFurtado_LoucosAmor_155044_506298999412536_2104667794_n.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<imagem href="https://picasaweb.google.com/lh/photo/XKK9khTzRyepvu2WbdrYCNkeAnMT9DCE5SZaAegvXt8?feat=embedwebsite">https://lh5.googleusercontent.com/-BSbEqCNZOPo/UV84i2sC6bI/AAAAAAAAOno/vTOdAJUQvgc/s400/48842dbab-d6cb-409c-a4f9-07d7816c6c81.jpg</imagem>
+
+<p>Apaixonada pela representação da "Fool for Love" de Sam Shepard, depois de a ter visto em Nova York, a Catarina decidiu lançar-se na produção da peça. Confiou a encenação à atriz Ana Nave. E, juntado uns amigos à co-produção, a peça estreou no Centro de Artes de Lisboa no dia 13 de Setembro de 2003. Mais tarde, no dia 15 de Outubro, o elenco mudou-se para a Sala Garrett do Teatro Nacional D. Maria II, durante um mês, para as representações finais da peça.</p>
+<p>Catarina desempenhou o papel de "May", meia-irmã do personagem "Eddie" desempenhado por Marco Delgado. Como é comum essa personagem ser uma mulher loira, a Catarina mudou de visual clareando o cabelo. Foi loira que surgiu, poucos dias depois da estreia da peça, a apresentar a 2ª série da "Operação Triunfo" na RTP.</p>
+<p>Este foi a quinto papel em teatro da Catarina (ou a sétima, dependendo do que se conte) desde a sua estreia em 1999 com a peça <a href="quase.xml">"Quase"</a> (onde contracenou com Ana Nave). Marcou o fim dum período dedicado ao teatro em que todos os anos pisou o palco. Contratada pela RTP no inicio de 2003, foi convidada por Moita Flores, depois deste a ter no papel de "May", para desempenhar o papel de "Ana Plácido" na série de ficção da RTP <a href="aferreirinha.xml">"A Ferreirinha"</a>, onde conheceu o futuro marido João Reis. Em 2006 nascia a Beatriz e em 2007 o João. O tempo dedicado à maternidade, mas também a sua entrega às funções de Embaixadora de Boa Vontade do UNFPA, com trabalhos como o "Príncipes do Nada", causaram o seu afastamento do palco. Em 2009, voltaria ao teatro com a peça <a href="transaccoes.xml">"Transacções"</a>.</p>
+
+<citacao autor="Texto sobre a peça" fonte="Site do TNDM II" href="http://www.teatro-dmaria.pt/pt/calendario/loucos-por-amor/">
+	<p>A peça decorre num pequeno e claustrofóbico quarto de um motel na margem do deserto Mojave. À medida que a acção se vai desenrolando assistimos a um brotar de loucas e divididas emoções de amor/ódio entre as duas personagens principais, catapultando-nos para um final surpreendente e ambíguo.</p>
+</citacao>
+		
+<citacao ano="2003" fonte="Correio da Manhã" href="jornal_cm_20030928.xml">
+	<p>Vi a peça em Nova Iorque há pouco tempo. Quando o espectáculo acabou, disse a um amigo meu: “Quero fazer isto”. Foi uma decisão muito intuitiva. Era um grande desafio. Precisava de fazer algo que me abanasse e fizesse refletir. Por outro lado, precisava de ter alguém a encenar da minha total confiança. [...] Cheguei a uma altura da minha vida em que precisava de ter alguém com quem eu fosse capaz de fazer tudo: falhar, testar ou chorar, sem ter qualquer receio de ser ridícula. Precisava de alguém como a Ana Nave, uma grande profissional e que, por me conhecer muito bem, me faz sentir à vontade. </p>		
+</citacao>
+		
+<citacao ano="2003" fonte="Correio da Manhã" href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/cultura/eles-amam-se-e-odeiam-se">
+	<p>Quero é fazer personagens que derrubem qualquer imagem preconcebida do que é a Catarina Furtado. Percebi o quanto estou comprometida com o teatro, a sério. </p>
+</citacao>
+		
+<citacao ano="2003" fonte="Correio da Manhã" href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/tv--media/catarina-furtado-loira-por-amor-a-arte">
+	<p>Eu gosto de mudanças, acho divertido. E de qualquer maneira sempre mudei muito de visual. Em televisão, estou constantemente a adaptar-me a novos programas... Sobretudo, dá-me gozo perceber que as pessoas não me reconhecem na rua. Loira e de rabo de cavalo...</p>
+	<del><p><q>Eu e a Ana queríamos uma imagem descuidada para a minha personagem, a May</q>, conta-nos Catarina. <q>Como o meu cabelo é escuro e muito brilhante, procurámos algo diferente. O facto de se notarem as raízes é propositado. Revela que esta mulher pinta o cabelo mas há muito tempo que não vai ao cabeleireiro.</q></p></del>
+</citacao>
+		
+<citacao autor="Marco Delgado" fonte="Máxima" href="http://sub.maxima.xl.pt/0806/celeb/100.shtml">
+	<p>Foi muito importante para mim a peça Loucos por Amor, de Sam Shepard, encenada pela Ana Nave, em que fui produtor. Com a Catarina Furtado e o Rui Calapez, foi uma entrega total, era o nosso dinheiro que estava em causa.</p>
+</citacao>
+		
+<citacao ano="2007" fonte="Pública" href="revista_publica_20070909.xml">
+	<p>Recorri a patrocinadores, porque acho que não tenho o direito de recorrer a subsídios. Entrei como actriz, não fizemos cedências comerciais, no sentido em que escolhemos o texto que queríamos, e escolhi as pessoas com quem queria trabalhar. E um dos meus projectos é precisamente continuar a produzir peças de teatro.</p>
+</citacao>
+		
+<citacao ano="2003" fonte="Vip" href="revista_caras_setembro2003_01.xml">
+	<p>É isso que torna esta personagem ainda mais interessante, pois, na vida real, tenho uma vida sentimental muito estável. Em palco, amo e odeio perdidamente, e penso que isso me ajuda a conhecer-me melhor. Nesta peça, tudo é vivido à flor da pele, numa espécie de corda bamba</p>
+	<p>Por vezes, é tudo tão absorvente que parece verdade. Nos ensaios, sinto a dificuldade do que é um amor impossível, a dificuldade que é amar desesperadamente uma pessoa e não poder viver com ela. Enquanto Catarina, nunca vivi uma situação semelhante e, se de facto é assim, não quero viver nunca.</p>
+</citacao>
+
+<citacao ano="2003" fonte="Flash" href="https://picasaweb.google.com/lh/photo/wzUbl1QwunXUDZlnfJgSbHUCfH5w6uZpuo6V5qeEVT8?feat=directlink">
+	<p>O ano passado, quando fui a Nova Iorque propositadamente para consumir teatro, vi a peça <cite>Fool for Love</cite> e pus na cabeça que a teria que fazer em Portugal até ao final deste ano. Entretanto, com a televisão fui adiando o projecto, mas agora vai arrancar finalmente. Pedi então os direitos ao Sam Sheppard e decidi co-produzir a peça.</p>
+</citacao>
+		
+<citacao ano="2003" fonte="Flash" href="https://picasaweb.google.com/lh/photo/wzUbl1QwunXUDZlnfJgSbHUCfH5w6uZpuo6V5qeEVT8?feat=directlink">
+	<p><small>É verdade que a preparação da personagem que vai interpretar está a influenciar o seu estado de espírito?</small></p>
+	<p>Posso mesmo dizer que está a dar a volta ao meu estado de espírito e a pôr-me muito mal-disposta com a vida. Tenho que fazer necessariamente um processo de procura da personagem, que é muito doloroso, como todos são, mas como esta personagem está muito desequilibrada durante toda a peça, sinto realmente que se está a transformar algo dentro de mim. Ela está a tentar renascer das cinzas de uma relação impossível e a segurar-se na corda, mas encontra-se naquela fronteira em que a qualquer momento as coisas podem explodir. No entanto, sei que tenho aquele compromisso técnico de arranjar uma forma de conseguir desempenhar com eficiência o meu papel sem ter que sofrer todos os dias as mesmas emoções.</p>
+</citacao>
+		
+		
+<citacao ano="2003" fonte="Vip" href="revista_vip_novembro2003_01.xml">
+	<p>É uma peça actual, apesar de ter sido escrita nos anos setenta. É uma coisa que pode acontecer a qualquer pessoa e a violência da peça está aí: É tão cruamente verdadeira e intensa que acaba por não chocar. Os espectadores apercebem-se que já sentiram coisas que as personagens estão a transmitir, como o ódio, o amor, a dor e a angústia.</p>
+</citacao>
+
+<creditos titulo="Ficha Artística">
+	<nome titulo="Autor">Sam Shepard</nome>
+	<nome titulo="Tradução e adaptação">João Lourenço, Vera San Payo Lemos</nome>
+	<nome titulo="Encenação">Ana Nave</nome>
+	<nome titulo="Concepção plástica">Marta Carreiras</nome>
+	<nome titulo="Desenho de luz">João Paulo Xavier</nome>
+	<nome titulo="Música/sonoplastia">Sérgio Delgado</nome>
+	<nome titulo="Interpretação">Catarina Furtado, Marco Delgado, Pedro Laginha e Rui Morisson</nome>
+	<nome titulo="Co-produção">TNDM II e CAL</nome>
+	<nome titulo="Em cena no CAL">de 13 de Setembro a 10 de Outubro de 2003</nome>
+	<nome titulo="Em cena na Sala Garrett do TNDM II">de 15 de Outubro a 8 de Novembro de 2003</nome>
+</creditos>
+
+<elo href="https://picasaweb.google.com/116136255703077903546/Teatro?authuser=0&amp;authkey=Gv1sRgCMmZ5rGbn5z2-QE&amp;feat=directlink">Fotografias da Catarina no teatro</elo>
+
+</corpo>
+
+</pagina>

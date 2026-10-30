@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="series.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Os Filhos do Rock</titulo>
+	<descricao>Lado B</descricao>
+	<data><ano>2014</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-fx1vJV0nYvg/U1zZPPOjOsI/AAAAAAAAlGM/rcXP3HIT9Xw/s2048/CatarinaFurtado_FilhosRock_Ep19_030000.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+		
+<imagem href="https://picasaweb.google.com/lh/photo/WbIb_3nThuo-8ee29RF7rGGnlFbz3YzSHweJtGGPLds?feat=embedwebsite" legenda="O elenco d'Os Filhos do Rock à mesa, numa noite de gravações no Incrível Almadense, no dia 9/12/2013. Uma fotografia tirada por Quibb.">https://lh4.googleusercontent.com/-8_d9FEXiNTA/UsLAEtIb-xI/AAAAAAAAR1s/2rAt_Ncbb3k/s400/CatarinaFurtado_OsFilhosDoRock_25627160610b11e3b231121be1a27614_8.jpg</imagem>
+
+<citacao href="revista_cm_20131213.xml" fonte="Correio da Manhã" ano="2013">
+	<p>Estou ainda a gravar a série. Mas trata-se de uma participação muita curta, ao contrário do que era o meu desejo, e também da RTP. Mas o papel é interessante e a série é extraordinária.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/DdyYUkgj8X3cbN4mcwicthOXbgRy0ABb-_jzPRB_IaE?feat=directlink" fonte="TV Guia" ano="2013">
+	<p>Tenho imensa pena em não poder ter estado desde o início e em não entrar em mais cenas, mas era completamente impossível, dadas as incompatibilidades de agenda e de horário com as gravações do Chefs' Academy.</p>			
+</citacao>
+<citacao fonte="TV7Dias" ano="2013" href="https://picasaweb.google.com/lh/photo/V-riXVyZP4q_3YgJeksvihOXbgRy0ABb-_jzPRB_IaE?feat=directlink">
+	<p>A qualidade tem sempre o seu espaço. Mas pode não ser muitas vezes o espaço que a maioria dos que fazem produtos de qualidade gostaria, porque acaba por ser menor do que o lixo, que vende sempre mais.</p>
+</citacao>
+<citacao href="extra_maio2014.xml" fonte="Extra" ano="2014">
+	<p>Acho que é mais importante retirar da personagem da Isabel é o seu combate à violência com base no género. É nesse aspecto da sua vida que nos devemos fixar mas claro que compreendo que o facto da Isabel se envolver com a Simone (personagem principal) causa um "ruído" irresistível mas só estamos a retratar a realidade dos nossos dias. E foi um privilégio representar este papel com a fantástica atriz e minha amiga, Isabel Abreu.</p>
+</citacao>
+
+<imagem href="http://videos.sapo.pt/9ZcsVt4hFwKj6cit9ml4" legenda="Os Filhos do Rock - Making Of">https://lh3.googleusercontent.com/-kz_Mo1J1NNU/VXFUSFSfzoI/AAAAAAAArgQ/Q-ohOaLtZcw/s400/CatarinaFurtado_FilhosDoRock_MakingOf_060000.jpeg</imagem>
+
+<elo href="http://www.jn.pt/revistas/ntv/interior.aspx?content_id=3416919">Artigo do Diário de Notícias</elo>					
+<elo href="https://picasaweb.google.com/116136255703077903546/OsFilhosDoRockImagens?authuser=0&amp;authkey=Gv1sRgCJqqkqamxJq97wE&amp;feat=directlink">Algumas imagens colecionadas</elo>
+<elo href="https://www.flickr.com/photos/rtppt/sets/72157644396051570/">Algumas fotografias de cena</elo>
+<elo href="https://picasaweb.google.com/116136255703077903546/OsFIlhosDoRockCaps?authuser=0&amp;authkey=Gv1sRgCMW5ypKK9ez_XA&amp;feat=directlink">Fotogramas da série</elo>
+<elo href="http://videos.sapo.pt/9ZcsVt4hFwKj6cit9ml4">Catarina Furtado no Making Of "Os  Filhos do Rock"</elo>
+<elo href="http://www.rtp.pt/play/p1886/e197381/os-filhos-do-rock"></elo>
+<elo href="https://picasaweb.google.com/lh/photo/th3eqEU8iqzEoLlRItovk1nXVeju3V3lLwC9qbT5IR0?feat=directlink">Aprendeu a beijar com amiga no WC da escola</elo>
+
+</corpo>
+
+</pagina>
+
+<!-- APONTAMENTOS
+
+*********************
+				<h1>Cronologia</h1>
+					<li>16 de Agosto de 2013, o Director de Programas da RTP Hugo Andrade confirma em entrevista para o Diário de Notícias a presença da Catarina na série "Os Filhos do Rock".</li>
+					<li>12 de Agosto de 2013, o primeiro dia do casting para encontrar uma jovem atriz para o papel de "Beatriz".<a class="minibotao link" href="http://www.rtp.pt/extra/?article=64&tm=2&visual=4"></a></li>
+					<li>29 de Agosto de 2013, é anunciado que a Filipa Areosa desempenhará o papel de "Beatriz".<a class="minibotao link" href="http://www.rtp.pt/extra/?article=86&tm=36&visual=4"></a></li>
+					<li>2 de Setembro de 2013, começam a surgir nas redes sociais noticias do inicio da gravação da série.</li>
+					<li>12 de Setembro, a série é apresentada à imprensa.</li>
+
+Albano Jerónimo e Ivo Canelas também entram
+Atores juntam- se a Catarina Furtado, Isabel Abreu e Cláudia Semedo na série que vai ser gravada entre Lisboa e Trafaria
+
+“O Ivo Canelas, o Albano Jerónimo e a Isabel Abreu são atores principais na série e vão formar um triângulo muito interessante”, antecipa Nuno Vaz, responsável pela área de ficção para a direção de Programas ao DN. Este trio de atores vai juntar- se a Catarina Furtado e a Cláudia Semedo num elenco que deverá ser composto por cerca de duas dezenas de atores, a que se juntam participações especiais de músicos, bem como a nova atriz que surgirá do casting que teve lugar ontem nas instalações da RTP, durante o dia.
+
+A história low cost estimada em 1,6 milhões de euros ( E Depois do Adeus custou cerca de 1,3 milhões com 200 mil euros de apoios do Fundo de Investimento para o Cinema e Audiovisual) começará a ser gravada no início de setembro e contará com 26 episódios.
+
+A trama passa- se entre Lisboa e a margem sul do Tejo, durante a época da efervescência do rock e que na série se vai circunscrever ao período de 1978 a 1986. “Retrata a história de uma miúda que nasceu em berço de ouro, perde os pais e fica aos cuidados do irmão e de uma cuidadora. Vai apaixonar- se por um rapaz que não tem nada que ver com ela, vive na Trafaria e trabalha na Lisnave”, descreve o responsável de conteúdos da RTP.
+
+Os festivais de rock, o quotidiano das bandas, os primeiros álbuns editados são episódios que vão integrar a nova ficção histórica da estação pública, que deverá estrear- se em setembro. “Vai ser um produto em que vamos investir muito no último trimestre do ano. Vão ser seis meses de uma série que queremos ter em prime time e com muito destaque”, vinca Nuno Vaz.
+
+DN 2013 08 13
+****
+Rui Veloso e Jorge Palma colaboram nos guiões
+http://www.dn.pt/inicio/tv/interior.aspx?content_id=3369626
+****
+****************************
+ Catarina Furtado já começa a aquecer a voz para integrar a nova produção histórica da RTP1, "Os Filhos do Rock". Série de ficção estreia-se nas noites de domingo da RTP1, em outubro.
+
+A apresentadora vai voltar à ficção da estação pública para fazer uma participação na série histórica da RTP1, Os Filhos do Rock, mas não deverá entrar na produção logo nos primeiros episódios. Para o rosto da estação pública, participar neste projeto, que se estreia em outubro e reservado para os domingos à noite, é uma viagem ao passado onde também ela desempenhou vários papéis: em 1987 participou no videoclip dos Xutos & Pontapés Vai prà Rua, foi radialista e foi apresentadora de programas de música como o Top+ (começou em 1991), que era exibido na estação pública.
+
+"Vai ser muito interessante reproduzir o que se passou", começa por explicar a apresentadora, a quem a RTP realizou o desejo de voltar à ficção. Sobre a sua participação na série, Catarina Furtado faz mistério, mas elogia a ideia de a ficção "ter a componente real, misturada com ficção". Para o rosto da RTP, "vai ser muito engraçado ver esta série contar com protagonistas reais como Xutos & Pontapés ou Rui Veloso" e voltar a cruzar-se com eles: "Entrevistei-os a todos muitas vezes, creio que a última foi num formato que tive na RTP [em 2008], chamado A Minha Geração."
+
+Catarina Furtado sente-se como peixe na água. "A música tem passado por toda a minha carreira", afirma, recordando um dos primeiros momentos. "Quando estava no conservatório participei num videoclip dos Xutos & Pontapés. São dois segundos e apareço toda esmurrada, portanto tenho uma enorme familiaridade com o mundo da música", brinca. E com a geração do rock em particular.
+
+Para já, Catarina desconhece se estes momentos vão ter presença garantida na série. Sobre o seu papel em concreto em Os Filhos do Rock, a apresentadora não revela detalhes, mas deixa cair por terra a indicação de que poderia ser protagonista: "Não vou relevar detalhes, é uma participação muito interessante e mesmo os pequenos papéis, quando levados a sério, exigem muito de nós."
+
+A série vai apresentar a época dourada do rock em Portugal, entre 1978 e 1986, através do percurso de uma banda, mas também de uma história de um triângulo amoroso que vai ganhar vida na pele dos atores Albano Jerónimo, que será dono de uma editora de música, Ivo Canelas, que será radialista, e Isabel Abreu, que dará vida a uma produtora de rádio que posteriormente passará a trabalhar na RTP.
+
+http://www.dn.pt/revistas/ntv/interior.aspx?content_id=3416919
+****************************
+Leonel Vieira: se me deixarem escolher eu produzo esta.
+-*-
+No próximo sábado vai para o ar o episódio 13 d´Os Filhos do Rock. O episódio chama-se “Tudo Tem Um Fim” e marca o final do Lado A da série que nos mostrou os Barões no caminho nem sempre fácil de se afirmarem enquanto banda e lançarem o primeiro single.
+
+O Lado B começa a ser exibido no sábado seguinte e mostra-nos os anos que se seguem. Será que os Barões têm o que é preciso para se manterem à tona ou serão mais uma banda esmagada pela depressão pós boom do rock em Portugal? A narrativa adensa-se, estamos em 83 e os anos oitenta estão agora bem marcados nos penteados, nas roupas, e na música nacional e internacional que continua a tomar o país de assalto. Esta viagem segue até finais de 86 e pelos Filhos do Rock ainda veremos desfilar dezenas de novas personagens e bandas que tão bem conhecemos.
+https://www.facebook.com/photo.php?fbid=623343067719923&set=a.130375653683336.31011.100001327060520&type=1
+****
+Eu estou a começar a escrever e estou a criar uma personagem a pensar em ti - pedro varela para isabel abreu
+*****
+http://joaonunes.com/2014/guionismo/pedro-varela-e-assim-que-eu-escrevo/
+*****
+EP22 - 1984 - A comissão parlamentar dos direitos das mulheres vai reunir esta semana. Eu e a Isabel vamos lá falar com os deputados.
+
+Episódio 22/26 de "Os Filhos do Rock" - "Variações Musicais"
+(Sem 'spoilers')
+Em 1984 chegava a má noticia da morte do António Variações, vitimado pela SIDA que era coisa de maricas (um preconceito da altura a que o Garrafa dá voz.) Na primeira cena com a Catarina: a personagem da Drª Isabel conversa, em casa, com a Simone. A Isabel bebe um copo de vinho tinto e a Simone, a caminho de ficar embriagada, emborca copos de gin (ou de qualquer bebida branca.) Ficou-me a impressão que as duas actrizes gravaram a cena em separado. Não só por não partilharem o mesmo plano, mas porque notei que fez falta à Catarina a contracena da Isabel Abreu (é só ali uma coisinha subtil que se nota.) Mas esteve bem na cena, e está muito bem na série (mesmo não se mostrando muito, palpita-me que tem continuado a trabalhar as suas capacidades de actriz.) Depois a Drª Isabel desafia a Simone para sair, dançar e desanuviar. Vão ao 'Frágil' no Bairro Alto. Dançam as duas com o Zé da Guiné (figura da noite do bairro no anos 80.) A Simone desaponta-se o namorado através da rádio pirata. "Prelude to a Kiss". Olhos nos lábios. Isto de chorar não faz uma boa actriz, mas reparei que durante o beijo cai uma lágrima pelo rosto da Simone. E os 'moves' da Catarina ao som da banda sonora dos 80's ... https://drive.google.com/.../0BxMNTGS0gSAicVBabVN.../edit... ... em 1984, já a Catarina, com 12 anos, era menina do Bairro Alto e dançava no Conservatório ( "Ali vai ela, esguia e bela / Pelas ruas deste bairro profundo / Um Bairro Alto só dela / Pequena e já bailarina do mundo" )
+***
+http://www.rtp.pt/extra/index.php?article=440&visual=4 
+***
+Afinal ainda não foi o fim da personagem da Drª Isabel em "Os Filhos do Rock". No 25º episódio, ela acaba de chegar de Nova Iorque onde esteve na assinatura da aprovação da "Declaração dos Direitos Fundamentais das Vitimas dos Crimes e Abusos de Poder". Alguns aspectos paralelos à Catarina que se calhar foram traçados à medida. E não digam que não está uma actriz de "cabeça cheia" com mão para a "cena". A roupa com que chega, nestes idos de 1986, dá para rir. Mas gostei do penteado, fica muito gira!
+***
+Coisa estranha esta capacidade dos actores tem de projectar uma personagem e nos fazer acreditar nela. Sabemos quem o faz é uma Isabel mas quem ganha o espaço na nossa imaginação é a Simone. E partilhamos alegrias e tristezas com as personagens. Fiquei a gostar desta malta do rock.
+***
+No dia 4/6/2015 a RTP transmite o making of do Lado B
+O Lado B foi escrito enquanto o Lado A já estava em rodagem)
+81 dias de rodagem
+***
+Ontem, de madrugada, depressa o sono me deixou e fiquei a ver o Making of de "Os Filhos do Rock". Revi com saudade aquele bando de actores e as personagens... o "Garrafa" que morreu verdadeiramente! Gente apaixonada e orgulhosa daquela obra, que eu considero o melhor que cá já se fez. Onde adorei ver a Catarina. Quero mais! Onde fui surpreendido pela maturidade que a Catarina emprestou à personagem da Isabel. Muito desocupada anda a carreira de actriz... mas acho-a agora mais capaz. Como seria tremendo se tivesse feito parte do núcleo embrionário de actores. Se lhe dessem o tempo. Se a pele da Drª Isabel crescesse. Se fosse noutra pele. Se a personagem fizesse girar ou rasgar o enredo. Estou certo que quem a visse se esqueceria do nome "Catarina Furtado". Mesmo o breve contacto com este elenco, em particular com a Isabel Abreu, soltou o melhor da Catarina. (Ah, mas eu vi a Drª Isabel e perdi de vista a Catarina!) Gostei muito. Vou rever a série. São estas coisas que ficam na memória. Espero que o Pedro Varela, num dia próximo, se sente frente à "máquina de escrever" e pense: esta personagem só pode ser para a Catarina Furtado!
+***
+extra_maio2014.xml
+-->

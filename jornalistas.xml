@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="series.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Jornalistas</titulo>
+	<descricao>A Catarina entrou num episódio da série da SIC, fazendo o papel duma apresentadora de meteorologia da estação, vitima de assédio.</descricao>
+	<data><ano>2000</ano><mes>5</mes><dia>13</dia></data>
+	<fundo>https://lh6.googleusercontent.com/-166_TrcKAQA/UcngZRwX3NI/AAAAAAAAP90/cxsev3p-bSs/s0/CatarinaFurtado_Jornalistas_030047.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://www.imdb.com/title/tt1088435/" fonte="TV Mais" ano="2000">
+	<p>Em meados de Abril próximo, o Episódio número 52 da série "Jornalistas" traz Catarina Furtado de novo ao pequeno ecrã. A actriz, 27 anos, estrela de filmes como "Guiné", "Pesadelo Cor de Rosa" ou "Fátima", encarna agora a personagem Diana, uma apresentadora de meteorologia da SIC, vítima de assédio. Tudo começa com o cicerone, Jorge Gabriel, a indicar o nome de Diana às repórteres de "A Gazeta" (Ana e Clara), interessadas em investigar histórias reais de assédio a figuras públicas.</p>
+</citacao>
+
+<imagem href="https://picasaweb.google.com/lh/photo/XDnIQN0LS-YOpH3VKhvBi1EwyXwhf4eep_iFZCJt17U?feat=embedwebsite" legenda="Catarina com Fernanda Serrano, Jorge Gabriel e Sofia Alves">https://lh4.googleusercontent.com/-uwrBzY44DFw/UcngZR8ZnsI/AAAAAAAAP94/vuxg_6LMa-w/s400/CatarinaFurtado_Jornalistas_010224.jpg</imagem>
+
+<creditos>
+	<nome titulo="Personagem da Catarina">Diana Silvestre</nome>
+	<nome titulo="Titulo do episódio">Um Árbitro de Terceira</nome>
+	<nome titulo="Numero do episódio">53</nome>
+	<nome titulo="Data da emissão">13 de Maio de 2000</nome>
+	<nome titulo="Estação de televisão">SIC</nome>
+</creditos>
+
+<elo href="http://www.imdb.com/title/tt1088435/">Página no IMDB</elo>
+
+</corpo>
+
+</pagina>
+<!--
+Jornalistas (TV Series)
+Diana Silvestre
+- Um Árbitro de Terceira (2000) ... Diana Silvestre
+-->

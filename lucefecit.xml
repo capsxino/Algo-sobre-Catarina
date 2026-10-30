@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="teatro.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Lucefécit</titulo>
+	<descricao>Num café do interior Alentejano - em cena no Teatro Aberto - entra uma jovem forasteira.</descricao>
+	<data><ano>2000</ano><mes>3</mes><dia>14</dia></data>
+	<data><ano>2000</ano><mes>5</mes><dia></dia></data>
+	<fundo>https://lh3.googleusercontent.com/-6HJonqNow7U/UWWXnMDP0NI/AAAAAAAAOvs/ZG8sUN7QLNs/s0/Lucefecit_20130403095515_354Z7DS3UK04595HRK6O.jpg</fundo>
+</cabecalho>
+
+<corpo>
+<citacao href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=52" fonte="Sinopse" autor="Teatro Aberto">
+	<p>Num café de uma pequena vila de província, uns homens solitários, que se costumam reunir ali à noite para conversar, beber e assim espantar os fantasmas da solidão, começam a contar histórias fantásticas, ocorridas na região, para impressionar uma jovem desconhecida vinda da cidade. Com o avançar da noite, a narração de acontecimentos misteriosos mistura-se com a confissão de vivências muito pessoais, criando um ambiente de curiosa intimidade que envolve não apenas as personagens em cena, mas também os espectadores que vieram ao teatro para as escutar.</p>
+	<p>Em <cite>Lucefécit</cite>, o teatro regressa à sua magia original ao relembrar o velho dom de contar histórias simples e profundas sobre o amor e a perda e a procura de sentido num mundo desde sempre feito de luz e de sombra.</p>
+</citacao>
+<citacao href="https://picasaweb.google.com/lh/photo/WElPNgkSTKOZTJYL4jww3aJWn-jLBQ29wGzPXExP_EM?feat=directlink" fonte="Expresso" ano="2010">
+	<p>A branca que me lembro aconteceu no antigo Teatro Aberto, durante a peça "Lucefecit", encenada pelo João Lourenço, onde a minha personagem tinha um pequeno monólogo sobre a morte da filha por afogamento. O monólogo era dito directamente para o público e as luzes e a proximidade com que eu estava dos espectadores permitiam-me ver as caras. A certa altura do texto, reparo que uma senhora, numa das filas da frente, mesmo no meio, estava a chorar e, nesse preciso instante, tudo desaparece da minha memória, a branca instala-se, esqueço-me do que vem a seguir. Só me Lembro que andei durante uns segundos (que pareciam horas) a inventar mais pormenores à história até pegar num fio condutor que me levou a retomar o verdadeiro texto. Foi assustador, mas ao mesmo tempo senti-me acompanhada.</p>
+</citacao>
+<creditos>
+	<nome titulo="Data de Estreia">14 de Março de 2000</nome>
+	<nome titulo="Local">(Antigo) <a href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=52">Teatro Aberto</a></nome>
+	<nome titulo="Título Original">The Weir</nome>
+	<nome titulo="Autor">Conor McPherson</nome>
+	<nome titulo="Versão">João Lourenço, Vera San Payo de Lemos</nome>
+	<nome titulo="Dramaturgia">Vera San Payo de Lemos</nome>
+	<nome titulo="Cenário">João Lourenço</nome>
+	<nome titulo="Figurinos">João Lourenço, Vera San Payo de Lemos</nome>
+	<nome titulo="Banda Sonora">João Lourenço, Vera San Payo de Lemos</nome>
+	<nome titulo="Luz">João Lourenço, Melim Teixeira</nome>
+	<nome titulo="Encenação">João Lourenço</nome>
+	<nome titulo="Interpretação">António Cordeiro, Carlos Pisco, Catarina Furtado, Francisco Pestana, José Boavida, Luís Alberto, Miguel Magalhães</nome>
+</creditos>
+<elo href="https://picasaweb.google.com/116136255703077903546/Lucefecit?authuser=0&amp;authkey=Gv1sRgCMCKjIe0_Ynl3wE&amp;feat=directlink">Galeria de fotografias de cena</elo>
+<elo href="http://www.teatroaberto.com/detalhe_peca.php?cd_cena=52">Página do Teatro Aberto</elo>	
+<elo href="https://www.youtube.com/watch?v=aE3fKSU01zE">Catarina Furtado com João Boavida, no "Há Tarde" (2015)</elo>
+<elo href="publico_20000225.xml">Artigo do jornal Público</elo>
+<elo href="http://www.publico.pt/culturaipsilon/jornal/catarina-foi-ao-alentejo-141334">Artigo do jornal Público</elo>
+<imagem link="https://picasaweb.google.com/lh/photo/Btrl_UIVwG8534QU6mtGmWtuyJPVxWVhyrQws9_cBZo?feat=embedwebsite">https://lh6.googleusercontent.com/-9yizme2RXzQ/UWWXLXY_ASI/AAAAAAAAOuk/vVd3zZ74w5c/s400/Lucefecit_20130207165728_25CLX1G5NF9A57A24WA2.jpg</imagem>
+</corpo>
+
+</pagina>

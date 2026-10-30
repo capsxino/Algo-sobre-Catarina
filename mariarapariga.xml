@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Maria Rapariga</titulo>
+	<descricao>Campanha de apoio às raparigas que querem jogar futebol.</descricao>
+	<data><ano>2012</ano><mes>7</mes><dia>10</dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p><cite>Em Portugal,  entre 57.000 crianças e jovens até aos 12 anos, que praticam futebol/futsal apenas 800 são raparigas.</cite></p>
+<p>A Catarina juntou-se à campanha Maria Rapariga <cite>cujo principal objectivo é sensibilizar as famílias e agentes desportivos para o aumento da prática das raparigas no denominado <i>desporto rei</i>.</cite></p>
+<p>O primeiro video desta campanha começou a passar no dia 10 de Julho de 2012 no espaço de publicidade institucional da RTP. Para além da Catarina contou também com Pedro Pauleta.</p>
+
+<grande><elo href="https://www.youtube.com/watch?v=28ADQAWfTaQ">"Maria Rapariga/Deixa Jogar" - publicidade institucional</elo></grande>
+
+<citacao fonte="facebook" ano="2014">
+	<p>São muitos os jovens e crianças que praticam futebol ou futsal em Portugal. Contudo, apenas uma pequena parte são meninas. Vestir a camisola do Jogo das Raparigas, um projecto nacional desenvolvido pela Associação Portuguesa Mulheres e Desporto, é sinónimo de combater a invisibilidade e as desigualdades da participação de raparigas e mulheres no meio desportivo, nomeadamente, naquelas duas modalidades. Como sabem, a luta pela igualdade de direitos é uma das minhas maiores motivações e, foi por isso que, juntamente com o Pauleta me associei a esta campanha. Deixo-vos um dos vídeos e uma mensagem: não existem “desportos de menino”, apoiem as vossas filhas/amigas/namoradas… Vamos começar 2014 sem preconceitos!</p>
+</citacao>
+
+<elo href="http://www.mulheresdesporto.org.pt/web/index.php?option=com_content&amp;view=article&amp;id=1035:campanha-maria-rapariga&amp;catid=73:sobre-o-jogo&amp;Itemid=288">Sitio Mulheres no Desporto</elo>
+
+</corpo>
+
+</pagina>

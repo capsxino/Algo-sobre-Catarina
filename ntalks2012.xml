@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="videos.xml" estado="completa">
+
+<cabecalho>
+	<titulo>NTalks</titulo>
+	<descricao>Conversa à volta da "empatia" na conferência NTalks.</descricao>
+	<data><dia>10</dia><mes>10</mes><ano>2012</ano></data>
+	<fundo>https://lh3.googleusercontent.com/-1BKy1tM5u0o/UJAuF7iTF7I/AAAAAAAANj8/7MeMnJTt52k/s0/empathize.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 10 de Outubro de 2012, decorreu na Fundação Champalimaud para o Desconhecido mais uma conferência NTalks organizada pela empresa <a href="http://www.novabase.pt">Novabase</a>.</p>
+<p>A Catarina foi a primeira convidada para uma conversa conduzida pelo João Adelino Faria à volta da <b>empatia</b> de do trabalho como Embaixadora de Boa Vontade do UNFPA.</p>
+<p><q>Criatividade, inovação e emoção foram o ponto de partida. Um evento que voltou a ter como tema central o Design Thinking, metodologia que coloca as pessoas no centro das soluções, focada na empatia e colaboração.</q></p>
+
+<grande><elo href="https://www.youtube.com/watch?v=T63se0UMz_U">Video da conversa</elo></grande>
+<elo href="http://www.flickr.com/photos/28788194@N08/sets/72157631773998934/with/8089561025/">Fotografias da conferência</elo>
+
+</corpo>
+</pagina>

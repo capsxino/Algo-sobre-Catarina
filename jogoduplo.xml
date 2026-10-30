@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="convidada.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Jogo Duplo</titulo>
+	<descricao>Apresentadora convidada</descricao>
+	<data><ano>2009</ano><mes>3</mes><dia>28</dia></data>
+	<fundo legenda="'Só Visto!' nas gravações do 'Jogo Duplo'">https://lh3.googleusercontent.com/-TBay65YvjO8/U-_IgIcnaxI/AAAAAAAAoiI/wR4Nxicn7Ls/s0/CatarinaFurtado_SoVisto_030028.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 28 de Março de 2009, Sábado, José Carlos Malato apresenta a final de Jogo Duplo na companhia de Catarina Furtado. Juntos conduzem uma emissão especial dedicada às <a href="7maravilhasdeorigemportuguesanomundo.xml">Maravilhas de Origem Portuguesa no Mundo</a> na qual algumas questões são relativas às 27 maravilhas nomeadas.</p>
+
+<elo href="https://www.youtube.com/watch?v=Ef4T_dW2A78">Promoção</elo>					
+
+</corpo>
+
+</pagina>

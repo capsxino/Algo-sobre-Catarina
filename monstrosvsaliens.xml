@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="dobragens.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Monstros vs Aliens</titulo>
+	<descricao>A Catarina empresta a voz à Ginórmica/Susan Murphy, a heroína involuntária num <i>monstruoso</i> filme de animação.</descricao>
+	<data><ano>2009</ano><mes>4</mes><dia>2</dia></data>
+	<fundo>https://lh4.googleusercontent.com/-8azZvT8QU-8/T7gEp2sUh5I/AAAAAAAAMKU/PAHB5x5GTGA/s0/BINARY.jpeg</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="http://fama.sapo.pt/fotogaleria/catarina-furtado-em-filme-de-animacao" fonte="Sapo Fama">
+	<p>Monstros vs Aliens é o nome do filme de animação que junta Catarina Furtado e José Wallenstein. A comédia animada da Dreamworks conta a história de uma equipa de monstros que é destacada pelo exército para combater uma invasão extraterrestre. Catarina dá a voz a Gimónica, uma rapariga que adquire poderes extraordinários ao ser atingida por um meteorito no dia do casamento. Depois é capturada pelo exército para enfrentar os invasores: "Esta personagem foi um desafio porque é muito diversificada. Num momento é romântica e no momento a seguir já está a gritar", contou Catarina a SapoFama. A equipa juntou-se para assistir à antestreia da película e SapoFama esteve lá!</p>
+	<p>A actriz e apresentadora cumpriu mais uma etapa na carreira profissional: "Era uma coisa que queria imenso fazer. Mas como é a equipa da Dreamworks que escolhe os actores, passei a mensagem de que gostaria de fazer um casting. Fiquei muito contente quando soube que tinha sido escolhida, apesar de ter calhado numa altura difícil, porque estava com os ensaios de uma peça".</p>
+	<p>Catarina Furtado garante que se divertiu muito e pretende continuar a fazer castings para dobragens: "Este trabalho ajuda-me a descobrir coisas novas enquanto artista e ajuda-me a exercitar o instrumento-voz. Enquanto apresentadora, uso sempre o mesmo registo e aqui posso descobrir a minha voz".</p>
+	<p>"Esta personagem foi um desafio porque é muito diversificada. Num momento é romântica e no momento a seguir já está a gritar", contou Catarina a SapoFama.</p>
+</citacao>
+
+<citacao href="revista_flash_abril2009_02.xml" fonte="Flash!" ano="2009">
+	<p>Este trabalho exigiu muita ginástica e saía daqui exausta. Foram muitas emoções, porque tinha que rir, saltar e gritar.</p>
+</citacao>
+
+<citacao href="http://activa.sapo.pt/vida/lazer/2009/03/31/catarina-furtado-e-ginormica2" fonte="TV Mais" ano="2009">
+	<p>Nos dias em que vinha para o estúdio fazer a dobragem, saía ao fim de quatro horas tão cansada como se tivesse gravado durante todo o dia</p>.
+</citacao>
+
+<citacao href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/cultura/catarina-lutou-para-ser-monstro" fonte="Correio da Manhã" ano="2009">
+	<p>Apesar do timing não ter sido o melhor, já que coincidiu com os ensaios da peça "Transacções", Catarina Furtado não hesitou: <q>Tenho sempre de arranjar um bocadinho de tempo para oportunidades como esta.</q> Com "Monstros vs. Aliens" é a terceira vez que Catarina Furtado dá voz a personagens de animação, mas nem por isso a actriz se considera experiente nestas lides.</p>
+</citacao>
+
+<citacao href="http://www.jn.pt/paginainicial/interior.aspx?content_id=1191920&amp;page=-1" fonte="Jornal de Notícias" ano="2009">
+	<p>Já tinha feito de dinossaura, com o Diogo Infante. E também fiz a voz dos DVD do "Cão Bolinha". Mas, como protagonista e com um trabalho tão extenso, foi a primeira vez.</p>
+</citacao>
+
+<creditos>
+	<nome titulo="Titulo original">Monsters vs Aliens</nome>
+	<nome titulo="Estúdio de animação">DreamWorks</nome>
+	<nome titulo="Data de estreia">2 de Abril de 2009</nome>
+	<nome titulo="Personagem dobrada pela Catarina">Susan Murphy / Ginórmica</nome>
+	<nome titulo="Restante elenco Português">José Wallenstein, Mário Bomba, José Neves, Paulo Oom, José Jorge Duarte, José Nobre, Claudia Cadima, Rui Luís Brás, Ermelinda Duarte, Quimbé, Eládio Clímaco</nome>
+</creditos>
+
+<grande><elo href="revista_flash_abril2009_02.xml">Artigo da revista Flash!</elo></grande>
+<elo href="http://www.monstersvsaliensinternational.com/intl/pt//">Site oficial do filme</elo>
+<elo href="http://fama.sapo.pt/fotogaleria/catarina-furtado-em-filme-de-animacao">Reportagem SapoFama na estreia do filme</elo>
+<elo href="http://www.onair.pt/noticias/tes/1">Catarina a fazer a dobragem do filme</elo>
+<elo href="http://videos.sapo.pt/F6SFRiLeF3aNV8UiJ47N">Reportagem do Fama Show/Sic durante as dobragens</elo>
+<elo href="http://videos.sapo.pt/BQhMh2BoIY7S4rntEMuK">Reportagem do "Cartaz" da Sic Noticias</elo>
+<elo href="http://activa.sapo.pt/vida/lazer/2009/03/31/catarina-furtado-e-ginormica2">Reportagem TVMais</elo>
+<elo href="http://www.cmjornal.xl.pt/detalhe/noticias/lazer/cultura/catarina-lutou-para-ser-monstro">Catarina lutou para ser monstro (Correio da Manhã)</elo>
+<elo href="http://www.jn.pt/paginainicial/interior.aspx?content_id=1191920&amp;page=-1">"A minha vida não tem corrido mal", entrevista do Jornal de Notícias</elo>
+
+</corpo>
+
+</pagina>
+<!-- Escolher um excerto do DVD -->

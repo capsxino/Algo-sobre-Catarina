@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="escritora.xml" estado="completa">
+
+<cabecalho>
+	<titulo>O Meu Reino Por Um Amigo</titulo>
+	<descricao>Autora dum dos contos infantis incluído no livro <cite>Outras Histórias</cite>.</descricao>
+	<data><ano>2010</ano><mes>11</mes><dia>12</dia></data>
+	<fundo legenda="A pintura de Roberto Chichorro que inspirou a Catarina a escrever o conto infantil">https://lh4.googleusercontent.com/-X6aY78u1JVw/T_9D4HLo48I/AAAAAAAAMao/UazdiVoXq20/s0/OMeuReinoPorUmAmigo_2.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>O livro <cite>Outras Histórias</cite> reúne contos infantis escritos por diversas personalidades desafiadas a escrever uma história inspirada por uma pintura do mestre Roberto Chichorro.</p>
+<p>As receitas da venda do livro reverteram na íntegra para dois projectos da <a href="http://www.bvs.org.pt/view/viewPrincipal.php">Bolsa de Valores Sociais</a> associada com a CGD: a Operação Nariz Vermelho e a Associação Jerónimo Usera.</p>
+<p>A tela com um castelo e um Rei Leão inspirou a Catarina a escrever a história <cite>O Meu Reino Por Um Amigo</cite> sobre o valor da amizade.</p>
+
+<citacao href="www.briefing.pt" fonte="Briefing">
+	<del>
+	<p>A CGD lança amanhã [12 Novembro 2010] o livro de contos infantis "Outras Histórias" cujas receitas das vendas serão entregues a dois projectos da Bolsa de Valores Sociais.</p>
+	<p>A Caixa Geral de Depósito (CGD), em parceria com o Pingo Doce, vai comercializar o livro “Outras Histórias”, a partir de 15 de Novembro. As receitas da venda da obra revertem na íntegra para dois projectos da Bolsa de Valores Sociais: a Operação Nariz Vermelho e a Associação Jerónimo Usera.</p>
+	<p>Para além da edição papel, existirá uma versão áudio do livro “Outras Histórias”, realizado por voluntários. Um conto será disponibilizado no site da CGD todas as semanas com possibilidade de download, até ao final da campanha. Foram produzidos cerca de 5000 CD's que serão oferecidos a instituições de solidariedade social.</p>
+	</del>
+	<p>O livro também sai do papel para a televisão com a produção de mini programas de dois minutos com o nome de “ Outras Histórias de Dormir”. Através de uma pareceria com a RTP2, cada mini programa será uma história a passar no canal, no final da programação infantil, em prime time, a partir de 15 de Dezembro, até ao dia de Natal.</p>
+	<del>
+	<p>O livro de contos infantis “Outras Histórias” foi escrito por nove figuras pública (Simone de Oliveira, Catarina Furtado, André Sardet, Fernanda Freitas, José Avilez, Jorge Silva Melo, Isabel Jonet, Henrique Gayate, Guta Moura Guedes e Carla Pinto), que se inspiraram nas ilustrações cedidas pelo artista plástico Roberto Chichorro, para criar o enredo. Para além da sessão de autógrafos no dia do lançamento da obra, os escritores vão proporcionar mais duas na CGD e duas em instalações do Pingo Doce.</p>
+	<p>Quem adquire o livro beneficia de um voucher que permite o registo no site da Bolsa de Valores Sociais (BVS) como investidor social e pode assim acompanhar a evolução do seu investimento.</p>
+	</del>
+</citacao>
+
+<citacao href="http://www.lux.iol.pt/moda-e-social/livro-amigos-historias-escritora-catarina-furtado-conto/1214092-4061.html" fonte="Revista Lux">
+	<p>Assim que olhei para a ilustração, surgiu-me uma ideia e deixei correr. «O Meu Reino por um Amigo» é uma espécie de homenagem à importância dos amigos e ao desinteresse total que esta vida pode ter se não formos solidários e se não vivermos acompanhados. Os amigos podem não ser muitos, mas são os nossos amigos.</p>
+</citacao>
+
+<citacao href="http://www.youtube.com/watch?v=Np8mNW1_ykY" fonte="Só Visto!">
+	<p>Este desafio eu teria que aceitar, ainda que com algum medo, confesso, porque escrever não é a minha praia [...] ainda o faço com alguma timidez e muito respeitinho pelos escritores.</p>
+</citacao>
+
+<elo href="https://picasaweb.google.com/capsxino/OMeuReinoPorUmAmigo?authuser=0&amp;authkey=Gv1sRgCMa0v_7EkavA8gE&amp;feat=embedwebsite">As páginas do livro</elo>
+<elo href="http://www.youtube.com/watch?v=6RMTUgt4KVA">Encenação do Conto</elo>
+<elo href="http://www.youtube.com/watch?v=Np8mNW1_ykY">Reportagem do "Só Visto!" no lançamento do livro</elo>
+<elo href="http://www.youtube.com/watch?v=R8guSx8qKb0">Reportagem do "Afro Fama" no lançamento do livro</elo>
+<elo href="http://cgdpt.caixatec.com/Site/Natal-2010/Outras-Historias/Pages/Outras-Historias.aspx">O conto <i>online</i></elo>
+
+</corpo>
+
+</pagina>

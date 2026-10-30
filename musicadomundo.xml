@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="temporadas.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Música do Mundo</titulo>
+	<descricao>Magazine da Sic Noticias sobre novidades musicais.</descricao>
+	<data><ano>2001</ano><mes>1</mes><dia>8</dia></data>
+	<fundo legenda="Imagem da emissão do dia 1 de Setembro de 2002">https://lh5.googleusercontent.com/-D-1-kMzsCHY/Ucplm-37upI/AAAAAAAAP_E/Z5vv2hkIC_8/s0/CatarinaFurtado_MusicaDoMundo_20020901_040145.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>No dia 8 de Janeiro de 2001 começavam as emissões da Sic Noticias. O Nuno Santos era o director. Um dos programas que integrou a grelha desde o inicio foi o <cite>Música do Mundo</cite> apresentado pela Catarina. Magazine sobre novidades musicais. A Catarina manteve-se como o rosto do programa em 2002 até à sua ida para a RTP.</p>
+
+<elo href="http://sic.sapo.pt/beta-arquivo-sic/2011/07/18/musica-do-mundo-2001-2009">Ficha técnica do programa ao longo dos anos.</elo>				
+
+</corpo>
+
+</pagina>

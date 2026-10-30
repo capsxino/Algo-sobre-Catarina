@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="maratonadasaude.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Maratona da Saúde</titulo>
+	<descricao>Para sensibilizar a sociedade e angariar fundos para a investigação sobre Diabetes em Portugal.</descricao>
+	<data><dia>27</dia><mes>3</mes><ano>2015</ano></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<bloco titulo="Quem Quer Ser Milionário - Especial">
+
+	<p>No dia 27 de Janeiro de 1015, grava um especial Quem Quer Ser Milionário. O concurso, cujo prémio de 3700 euros reverte para a Maratona da Saúde de 2015, foi transmitido, pela RTP1, no dia 26 de Março.</p>
+	<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.214209018738763.1073741826.107792466047086/421853317974331/?type=1">Mensagem no facebook</elo>
+	<elo href="http://www.bastidores.pt/2015/01/bastidores-da-t-v-quem-quer-ser-milionario/">No blog da Joana Teles</elo>
+	<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/448686295291033/?type=1&amp;permPage=1">Mensagem no facebook</elo>
+
+</bloco>
+
+<elo href="http://www.maratonadasaude.pt/chefe-cordeiro-elabora-uma-ementa-saudavel-maratona-da-saude/">O Chefe Cordeiro elabora uma ementa saudável</elo>
+<elo href="https://www.youtube.com/watch?v=RTgyARNNTv4">Bastidores da gravação do video de sensibilização</elo>
+<elo href="http://media.rtp.pt/sociedaderecreativa/videos/lanche-para-diabeticos/">Reportagem Sociedade Recreativa (22/11/2015)</elo>
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/428652397294423/?type=1&amp;permPage=1">Grava video de sensibilização para a Maratona da Saúde</elo>
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/445797448913251/?type=1"></elo>
+<elo href="http://pt-starsonline.com/index.php/eventos/march-2015/catarina-furtado-ajuda-jovens-diabeticos#"></elo>
+<elo href="http://www.vip.pt/55612a8/mod_artigos_obj_moda.aspx?sid=0a8ca127-3ac8-4ac4-ab6d-76263bc98cdd&amp;cntx=xDTEPF2XJlux4FgoptrRHCDy%2BLAxBFUFqP7rOWG1brmZMk6s4zksERzQaJBO%2Bm0k"></elo>
+<elo href="https://www.youtube.com/watch?v=gG2WqwUrP80"></elo>
+<elo href="https://www.facebook.com/maratonadasaudeassociacao/photos/a.707145622681881.1073741831.626055567457554/932651546797953/?type=1&amp;permPage=1"></elo>
+<elo href="https://www.facebook.com/jorgegabriel.oficial/photos/a.582514828472377.1073741825.429329657124229/883670221690168/?type=1&amp;ermPage=1"></elo>
+<elo href="http://www.rtp.pt/extra/index.php?article=912&amp;visual=4"></elo>
+<elo href="http://www.lux.iol.pt/nacional/solidariedade/fotos-espetaculo-solidario-da-maratona-da-saude-e-da-rtp-angaria-mais-de-91-mil-euros"></elo>
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/450676208425375/?type=1"></elo>
+<elo href="https://picasaweb.google.com/lh/photo/gwx3NX32fppDliZ_otUfwFnXVeju3V3lLwC9qbT5IR0?feat=directlink">Artigo da revista TV Mais</elo>
+
+</corpo>
+
+</pagina>
+<!-- APONTAMENTOS
+-->

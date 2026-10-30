@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="publicidade.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Nespresso</titulo>
+	<descricao>Associa a sua imagem à marca de cafés.</descricao>
+	<data><ano>2009</ano><mes></mes><dia></dia></data>
+	<data><ano>2014</ano><mes></mes><dia></dia></data>
+	<fundo legenda="Abertura da boutique da Nespresso em Faro (2014)">https://lh4.googleusercontent.com/-O1kggfsrfM0/VMzsT48gFbI/AAAAAAAAq9Y/3Oj7Jh9n1uM/s0/CatarinaFurtado_Nespresso_10562505_346324512193879_1734538786395545136_o.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>A Catarina (que elege o sabor Roma para os seus três cafés diários) foi uma das convidadas presentes na inauguração da Boutique Nespresso, no Porto, na Avenida da Boavista, em Outubro de 2009. O vestido violeta que usou, criado pelo estilista Nuno Baltazar, foi, alguns meses depois, leiloado em favor do Espaço T.</p>
+<p>A 17 de Maio de 2014, a Catarina está presente no lançamento do projecto "The Arte Inside": uma série de espectáculos de arte robótica que percorre as boutiques Nespresso durante final do mês de Maio e inicio de Junho.</p>
+<p>9 de Agosto de 2014, está presente na inauguração da primeira boutique da Nespresso na zona sul do país, instalada no Fórum Algarve, em Faro.</p>
+
+<elo href="http://caras.sapo.pt/famosos/2009-11-03-catarina-furtado-o-violeta-e-a-minha-cor-preferida-da-me-energia">Inauguração da Boutique Nespresso no Porto em 2009 (Caras)</elo>
+<elo href="http://caras.sapo.pt/famosos/2014-06-14-o-mundo-das-artes-de-catarina-furtado">Artigo Caras (2014)</elo>
+<elo href="http://caras.sapo.pt/famosos/2014-08-20-Catarina-Furtado-Aroma-do-cafe-desperta-memorias-de-infancia">Inauguração da Boutique Nespresso em Faro em 2014 (Caras)</elo>														
+<elo href="http://videos.sapo.pt/juZ5NhUaQL1uZnzcPreL">Inauguração da loja Nespresso em Faro ("Fama Show"/2014)</elo>
+<elo href="http://caras.sapo.pt/famosos/2016-03-03-Catarina-Furtado-Todos-podemos-fazer-a-diferenca-basta-querermos">Conferência de apresentação do projeto de sustentabilidade da Nespresso</elo>
+<elo href="https://www.facebook.com/catarinafurtado.oficial/photos/a.111610348998631.19794.107792466047086/607302619429399/?type=3&permPage=1r">Folhas Informativas da Nespresso</elo>
+																					
+</corpo>
+
+</pagina>

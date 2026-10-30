@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="campanhas.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Movimento Hiper Saudável</titulo>
+	<descricao></descricao>
+	<data><ano>2011</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="https://picasaweb.google.com/lh/photo/9Xpz3Wjc-9iu_InTVmGvC_lJK2GXsaV1QbUbqHcERsw?feat=directlink" fonte="Mariana" ano="2011">
+	<p>Como a minha formação foi a dança e a clássica é muito exigente, eduquei-me a comer pouco de cada vez e muitas vezes ao dia.</p>
+</citacao>
+
+</corpo>
+
+</pagina>

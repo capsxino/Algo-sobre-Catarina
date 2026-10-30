@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="curtasmetragens.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Killing Time</titulo>
+	<descricao>Curta-metragem de Alexandre Finbow, rodada em Inglaterra.</descricao>
+	<data><ano>1997</ano><mes></mes><dia></dia></data>
+	<fundo></fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Curta-metragem, com cerca de 15 minutos, rodada em Inglaterra quando a Catarina era estudante na <i>London International School of Acting</i>.</p>
+<p>O filme foi apresentado no Festival de Cannes, em 1997, e também no <a href="http://www.old.fff.se/katalog/katalogfilm.asp?ID=478">Fantastisk Filmfestival</a>, na Suécia, no mesmo ano. No <i>site</i> deste último encontra-se uma breve descrição do enredo: Dois rapazes, Mark e Saul, andam à procura de emoções fortes num bairro pacato e disparam contra pessoas...</p>
+
+<imagem href="http://capsxino.tumblr.com/post/128394942848/catarina-furtado-killing-time">http://33.media.tumblr.com/34bd0f544c6c2f4c5f5823b4f998d8ed/tumblr_nu783zV8Dc1uelda1o2_500.gif</imagem>
+
+<creditos>
+	<nome titulo="Elenco">Catarina Furtado, James Laurence Olivier, David Sonnental e Julie Bevan </nome>
+	<nome titulo="Realização"><a href="http://www.renegadeartsentertainment.com/about-us/alexander-finbow">Alexander Finbow</a></nome>		
+	<nome titulo="Argumento"><a href="http://www.renegadeartsentertainment.com/about-us/alexander-finbow">Alexander Finbow</a></nome>		
+	<nome titulo="Produtor"><a href="http://vimeo.com/fergal">Fergal McGrath</a></nome>		
+	<nome titulo="Direitos">One World Films</nome>		
+	<nome titulo="Local de filmagem">Inglaterra</nome>
+	<nome titulo="Data">1997</nome>
+</creditos>
+
+<grande><elo href="https://www.youtube.com/watch?v=93oCR6mmxFo">Trailer de <i>Killing Time</i></elo></grande>
+<grande><elo href="http://capsxino.tumblr.com/post/128394942848/catarina-furtado-killing-time">Uns GIFs animados</elo></grande>
+<elo href="http://www.imdb.com/title/tt0396088/">Página no IMDB.</elo>		
+
+</corpo>
+
+</pagina>
+<!--
+./gifs/CatarinaFurtado_KillingTime_01.gif
+-->

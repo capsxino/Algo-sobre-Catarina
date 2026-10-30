@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="operacaotriunfo.xml" estado="rascunho">
+
+<cabecalho>
+	<titulo>Operação Triunfo</titulo>
+	<descricao>Primeira edição deste concurso de talentos e escola de cantores. Foi o primeiro programa apresentado pela Catarina no seu regresso à RTP</descricao>
+	<data><ano>2003</ano><mes>2</mes><dia>16</dia></data>
+	<data><ano>2003</ano><mes>6</mes><dia>1</dia></data>
+	<fundo legenda="Com a cantora Maria João, directora da escola na primeira edição da OT">https://lh6.googleusercontent.com/-LGxq-BQK074/UsyFaFEJwbI/AAAAAAAAT_s/pgkeWiKyTtY/s0/CatarinaFurtado_OpTriunfo_Fev2003_10005_filtered.JPG</fundo>
+</cabecalho>
+
+<corpo>
+
+<citacao href="jornal_cm_20030928.xml" fonte="Correio da Manhã" ano="2003">
+	<p>Aprendi mais durante esta primeira edição da ‘OT’ do que nos últimos quatro anos que estive na SIC. Primeiro, porque se trata de um programa em directo, sem teleponto, nem ninguém a dizer-me o que é que tenho que fazer no minuto seguinte. Por outro lado, emocionalmente também estou sempre no fio da navalha, o que me obriga a um controlo que nem sempre é fácil de gerir. Tudo o que digo, vive de improvisos. Em termos de programa de entretenimento, o ‘Chuva de Estrelas’, embora fosse muito bem produzido, na essência era um programa de imitações: durante muitos anos a Sara Tavares, quisesse ou não, foi a ‘nossa Whitney Huston’. A ‘OT’ tem um lado pedagógico de que gosto muito.</p>
+</citacao>
+
+
+<imagem legenda="A Catarina e a Tânia Ribas de Oliveira (repórter das primeiras edições da OT)" href="https://picasaweb.google.com/lh/photo/tEvYnNk2Rgdrc5oOqb69AFEwyXwhf4eep_iFZCJt17U?feat=embedwebsite">https://lh4.googleusercontent.com/-RxPzAf1j68U/UsyHGnTRj9I/AAAAAAAAUAw/B9iMjKV_-gI/s400/CatarinaFurtado_TaniaRibasOliveira_192645_1739037448001_1600599941_1674782_1939828_o.jpg</imagem>
+			
+</corpo>
+
+</pagina>

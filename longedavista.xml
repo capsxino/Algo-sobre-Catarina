@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="filmes.xml" estado="completa">
+
+<cabecalho>
+	<titulo>Longe da Vista</titulo>
+	<descricao>Filme de João Mário Grilo rodado em ambiente prisional. A Catarina tem uma breve aparição no filme como visita a um dos presidiários.</descricao>
+	<data><ano>1999</ano><mes>4</mes><dia>2</dia></data>
+	<fundo>https://lh5.googleusercontent.com/-Gl8HiPYh0uk/USYJUTG1tFI/AAAAAAAAOLI/-mCeZ_lWUUg/s0/CatarinaFurtado_LongeVista_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+<p>Filmado em ambiente prisional, este filme de João Mário Grilo conta a história de Eugénio, 64 anos, presidiário, que, fingindo-se mulher, se corresponde por carta com outro homem. A Catarina tem uma breve aparição no filme como visita a um dos presidiários.</p>
+
+<creditos>
+	<nome titulo="Personagem da Catarina">Visita</nome>		
+	<nome titulo="Protagonistas">Canto e Castro, Rita Blanco e Francisco Nascimento</nome>		
+	<nome titulo="Realização e Argumento">João Mário Grilo</nome>	
+	<nome titulo="Local de filmagem">Estabelecimento Prisional de Monsanto em Lisboa</nome>
+	<nome titulo="Data de rodagem">Abril de 1998</nome>		
+	<nome titulo="Data de estreia">2 de Abril de 1999</nome>
+</creditos>
+		
+<elo href="http://www.imdb.com/title/tt0243376/">Página no IMDB</elo>		
+<elo href="http://www.amordeperdicao.pt/basedados_filmes.asp?filmeid=98">Página no site Amor de Perdição</elo>		
+<elo href="http://youtu.be/w2FJ2d-D_Tk">Excertos do início e final do filme no Youtube</elo>		
+
+</corpo>
+
+</pagina>

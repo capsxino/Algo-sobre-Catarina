@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pagina.xsl"?>
+
+<pagina mae="convidada.xml" estado="incompleta">
+
+<cabecalho>
+	<titulo>Mistérios</titulo>
+	<descricao>O ilusionista Luis de Matos explora o mistério do "fogo" na companhia dos convidados.</descricao>
+	<data><ano>2008</ano><mes></mes><dia></dia></data>
+	<fundo>https://lh6.googleusercontent.com/-Qs6cC-alB3s/U-_FlqLwWNI/AAAAAAAAohk/pAf1TS8Dx80/s0/CatarinaFurtado_Misterios_01.jpg</fundo>
+</cabecalho>
+
+<corpo>
+
+
+<figure>
+	<a href="https://picasaweb.google.com/lh/photo/sh2tR1OZapJp1x1XQjXPhfLwqBqNn7kcCcuwhfVU82M?feat=embedwebsite"><img src="" /></a>			
+</figure>
+
+<p>No primeiro episódio, <cite>Luis de Matos explora o mistério do “fogo” na companhia dos convidados Catarina Furtado, Raul Solnado, Yolanda Soares, José António Tenente e Joana Vasconcelos. No final, descalço, caminha sobre fogo a mais de seiscentos graus centígrados!</cite></p>
+<p>Apesar de gravado em 2008, o primeiro episódio só foi transmitido no dia 8 de Março de 2009.</p>
+
+<citacao href="http://www.rtp.pt/programa/tv/p24972" fonte="Sinopse" autor="RTP">
+	<p>Luis de Matos volta com novas e surpreendentes ilusões. Os mais inexplicáveis mistérios preenchem o seu serão.
+“Luis de Matos - MISTÉRIOS”, é escrita, dirigida e protagonizada por Luis de Matos, produzida pela LMP.</p>
+	<p>Ao longo de duas séries de programas, num total de 13 episódios, Luis de Matos explora um mistério diferente em cada semana: Fogo, Caos, Energia, Percepção, Imaginação, Déjà Vu, Coincidência, Tempo, Futuro, Transparência, Sorte, Sonho e Criação.</p>
+	<p>Cerca de uma centena de figuras públicas nacionais, incluindo políticos, empresários, intelectuais, artistas e desportistas, são participantes e testemunhas, semana a semana, das ilusões criadas pelo conhecido mágico português.</p>
+	<p>O programa distingue-se por uma linguagem audiovisual de grande contemporaneidade, decorrendo a ação não só num espaço de mistério -- o arquivo privado de Luis de Matos -- , mas também nos mais sedutores e simbólicos cenários naturais, numa constante relação da arte ilusionística com a riqueza paisagística e arquitectónica de Portugal.</p>
+	<p>Com produção executiva de Luis de Matos, direção musical de Pedro Vanenfurgo (Espanha) e realização de Daniel Strombeck (Suécia), o novo programa firma-se numa equipa de luxo ao nível do grafismo, cenografia, guião, pós-produção, merecendo especial menção os nomes de David Britland, Paul Kieve, Paulino Gil e Antón Lopez na área da consultoria mágica.</p>				
+</citacao>
+
+<imagem href="https://picasaweb.google.com/lh/photo/mnOnijST8gXE03k3eQ2dmvLwqBqNn7kcCcuwhfVU82M?feat=embedwebsite">https://lh3.googleusercontent.com/-PKB2bD6cn_A/U-_Fl17o4ZI/AAAAAAAAoho/-Q2PPa0CJ30/s800/CatarinaFurtado_Misterios_01.gif</imagem>			
+
+</corpo>
+
+</pagina>
