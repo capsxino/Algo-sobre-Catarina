@@ -4,7 +4,7 @@
 <xsl:template name="fazMenu">
 	<xsl:param name="origem"/>
 	<div id="menu">
-		<a href="../index.html" title="Inicio" class="menuLink">
+		<a href="./index.html" title="Inicio" class="menuLink">
 			<span class="icon">
 				<xsl:value-of select="$icon_casa" />		
 			</span>	
